@@ -1,0 +1,91 @@
+Subject	Predicate	Object	Resistance
+alaS	confers resistance to antibiotic	Amoxicillin	No
+crp	confers resistance to antibiotic	Amoxicillin	No
+pdeN	confers resistance to antibiotic	Amoxicillin	No
+ydcC	confers resistance to antibiotic	Amoxicillin	No
+dacA	confers resistance to antibiotic	Ampicillin	Yes
+hha	confers resistance to antibiotic	Ampicillin	No
+mltG	confers resistance to antibiotic	Ampicillin	Yes
+qorB	confers resistance to antibiotic	Ampicillin	Yes
+insI4	confers resistance to antibiotic	Apramycin	No strain
+srkA	confers resistance to antibiotic	Apramycin	No
+arfA	confers resistance to antibiotic	Cephradine	No
+asmA	confers resistance to antibiotic	Cephradine	No
+bamB	confers resistance to antibiotic	Cephradine	Yes
+ftsP	confers resistance to antibiotic	Cephradine	Yes
+lexA	confers resistance to antibiotic	Cephradine	Yes
+lpcA	confers resistance to antibiotic	Cephradine	No
+lpxC	confers resistance to antibiotic	Cephradine	No strain
+mlaF	confers resistance to antibiotic	Cephradine	No
+queA	confers resistance to antibiotic	Cephradine	No
+rbsK	confers resistance to antibiotic	Cephradine	Yes
+rlmM	confers resistance to antibiotic	Cephradine	No
+rppH	confers resistance to antibiotic	Cephradine	Yes
+sspA	confers resistance to antibiotic	Cephradine	Yes
+ubiF	confers resistance to antibiotic	Cephradine	Yes
+waaF	confers resistance to antibiotic	Cephradine	No
+hrpA	confers resistance to antibiotic	Chloramphenicol	Yes
+lapA	confers resistance to antibiotic	Chloramphenicol	No
+proV	confers resistance to antibiotic	Chloramphenicol	Yes
+surA	confers resistance to antibiotic	Chloramphenicol	Yes
+waaG	confers resistance to antibiotic	Chloramphenicol	Yes
+waaQ	confers resistance to antibiotic	Chloramphenicol	Yes
+fnr	confers resistance to antibiotic	Geneticin	Yes
+hupA	confers resistance to antibiotic	Geneticin	No
+mfd	confers resistance to antibiotic	Geneticin	Yes
+mlc	confers resistance to antibiotic	Geneticin	No
+purN	confers resistance to antibiotic	Geneticin	No
+ydiP	confers resistance to antibiotic	Geneticin	No
+atpA	confers resistance to antibiotic	Hygromycin B	Yes
+cspA	confers resistance to antibiotic	Hygromycin B	Yes
+hdfR	confers resistance to antibiotic	Hygromycin B	Yes
+hns	confers resistance to antibiotic	Hygromycin B	No
+leuO	confers resistance to antibiotic	Hygromycin B	No
+sapD	confers resistance to antibiotic	Hygromycin B	No
+ybgE	confers resistance to antibiotic	Hygromycin B	No
+ytfK	confers resistance to antibiotic	Hygromycin B	No
+degP	confers resistance to antibiotic	Kanamycin	Yes
+lpxB	confers resistance to antibiotic	Kanamycin	No strain
+ymgH	confers resistance to antibiotic	Kanamycin	No
+gyrB	confers resistance to antibiotic	Levofloxacin	No strain
+rhsB	confers resistance to antibiotic	Levofloxacin	No
+yoeH	confers resistance to antibiotic	Levofloxacin	No strain
+greA	confers resistance to antibiotic	Norfloxacin	Yes
+kdsA	confers resistance to antibiotic	Norfloxacin	No strain
+mrdB	confers resistance to antibiotic	Norfloxacin	No strain
+murB	confers resistance to antibiotic	Norfloxacin	No strain
+cysS	confers resistance to antibiotic	Novobiocin	No strain
+gyrA	confers resistance to antibiotic	Novobiocin	No strain
+tsaD	confers resistance to antibiotic	Novobiocin	No strain
+yohF	confers resistance to antibiotic	Oxycarboxin	No
+ypjK	confers resistance to antibiotic	Oxycarboxin	No strain
+crp	confers resistance to antibiotic	Paromomycin	No
+mfd	confers resistance to antibiotic	Paromomycin	Yes
+nuoG	confers resistance to antibiotic	Paromomycin	No
+soxS	confers resistance to antibiotic	Paromomycin	Yes
+waaC	confers resistance to antibiotic	Paromomycin	No
+decR	confers resistance to antibiotic	Rifampin	No
+yjjY	confers resistance to antibiotic	Rifampin	No
+fhiA	confers resistance to antibiotic	Sisomicin	No
+fumD	confers resistance to antibiotic	Sisomicin	No
+alsK	confers resistance to antibiotic	Spectinomycin	No strain
+ddlB	confers resistance to antibiotic	Spectinomycin	No
+insB-5	confers resistance to antibiotic	Spectinomycin	No strain
+lpd	confers resistance to antibiotic	Spectinomycin	No
+waaG	confers resistance to antibiotic	Spectinomycin	Yes
+ybeY	confers resistance to antibiotic	Spectinomycin	Yes
+sdsR	confers resistance to antibiotic	Streptomycin	No strain
+thiF	confers resistance to antibiotic	Streptomycin	No
+ydhB	confers resistance to antibiotic	Sulfanilamide	No
+ygeR	confers resistance to antibiotic	Sulfanilamide	No
+groS	confers resistance to antibiotic	Triclosan	No strain
+rsmH	confers resistance to antibiotic	Triclosan	No
+tolQ	confers resistance to antibiotic	Triclosan	Yes
+yibJ	confers resistance to antibiotic	Triclosan	No strain
+betT	confers resistance to antibiotic	Troleandomycin	No
+fnr	confers resistance to antibiotic	Troleandomycin	No
+ypdC	confers resistance to antibiotic	Troleandomycin	No
+insH-11	confers resistance to antibiotic	Vancomycin	No strain
+rfaE	confers resistance to antibiotic	Vancomycin	Yes
+rpsP	confers resistance to antibiotic	Vancomycin	No strain
+tolQ	confers resistance to antibiotic	Vancomycin	Yes

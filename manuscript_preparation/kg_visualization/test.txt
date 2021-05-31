@@ -1,0 +1,4 @@
+Subject	Predicate	Object	PredicateColor	ID
+geneA	CRA	antibioticA	1	1
+geneB	CRA	antibioticA	1	2
+geneA	activates	geneB	2	3

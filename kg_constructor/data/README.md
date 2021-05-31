@@ -1,0 +1,10 @@
+## Files & Directories
+* <code>[./dataset](./dataset)</code>: Contains folders that contains data in a form of triplets. <code>[./data_path_file.txt](./data_path_file.txt)</code> should be updated to match your local path.
+* <code>[./inconsistency_validation](./inconsistency_validation)</code>: Contains wet-lab validation results of the inconsistencies resolved by the inconsistency resolver.
+* <code>[./data_path_file.txt](./data_path_file.txt)</code>: File that lists locations of all the datasets to integrate. The first column represents the file path, and the second column represents the name of the dataset. **Note that headers *Path* and *Source* must exist.**
+* <code>[./data_rules.xml](./data_rules.xml)</code>: Data rule in *.xml* format that lists logical statements to infer new facts from existing facts in the integrated dataset. **Please refer to the section "Rules to add knowledge" in the Manuscript.docx.**
+* <code>[./domain_range.txt](./domain_range.txt)</code>: File that specifies the domain and range information (entity type) of all the relations in the dataset. **Note that headers *Relation*, *Domain*, and *Range* must exist.**
+* <code>[./inconsistency_rules.xml](./inconsistency_rules.xml)</code>: Inconsistency rule in *.xml* format that lists logical statemetns to find conflictings facts in the integrated dataset. **Please refer to the section "Rules to identify inconsistency" in the Manuscript.docx.**
+* <code>[./label_rules.xml](./label_rules.xml)</code>: File in *.xml* format to be used in the postprocessing step to assign label to the triplets.
+* <code>[./name_map.txt](./name_map.txt)</code>: Name mapping table that lists all the synonyms. **Note that headers *Source* and *Target* must exist.**
+* <code>[./replace_rules.txt](./replace_rules.txt)</code>: File in *.xml* format to be used in the postprocessing step to find and replace certain sections of the triplet.

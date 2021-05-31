@@ -1,0 +1,9 @@
+Subject	Predicate	Object
+surA	has	response to antibiotic
+elfD	has	response to antibiotic
+elfD	confers resistance to antibiotic	Vancomycin
+surA	is involved in	protein folding
+elfD	is involved in	protein folding
+asmA	has	response to antibiotic
+surA	confers resistance to antibiotic	Vancomycin
+asmA	confers resistance to antibiotic	Vancomycin

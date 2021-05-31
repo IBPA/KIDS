@@ -1,0 +1,104 @@
+5-Nitro-2-furaldehyde semicarbazone
+Amikacin
+Amoxicillin
+Ampicillin
+Apramycin
+Azithromycin
+Aztreonam
+Bacitracin
+Bicyclomycin
+Blasticidin S
+Bleomycin
+CHIR090
+Capreomycin
+Carbenicillin
+Cefamandole
+Cefazolin
+Cefmetazole
+Cefoperazone
+Cefoxitin
+Cefsulodin
+Ceftazidime
+Cefuroxime
+Cephalothin
+Cephradine
+Cerulenin
+Chloramphenicol
+Chlortetracycline
+Ciprofloxacin
+Clarythromycin
+Cloxacillin
+Colistin
+Dactinomycin
+Dihydrostreptomycin
+Doxorubicin
+Doxycycline
+Doxycycline hyclate
+Enoxacin
+Erythromycin
+Fosfomycin
+Furaltadone
+Fusidic acid
+Geneticin
+Gentamicins
+Hygromycin
+Hygromycin B
+Josamycin
+Kanamycin
+Levofloxacin
+Lincomycin
+Lomefloxacin
+Mecillinam
+Metronidazole
+Minocycline
+Mitomycin C
+Moxalactam
+Nafcillin
+Nalidixic acid
+Neomycin
+Nigericin
+Nitrofurantoin
+Norfloxacin
+Novobiocin
+Ofloxacin
+Oleandomycin
+Ornidazole
+Oxacillin
+Oxycarboxin
+Oxytetracycline
+Paromomycin
+Penicillin G
+Penimepicycline
+Phenethicillin
+Phleomycin
+Piperacillin
+Polymyxin B
+Puromycin
+Radicicol
+Rifampin
+Rifamycin SV
+Rolitetracycline
+Sisomicin
+Spectinomycin
+Spiramycin
+Streptomycin
+Streptonigrin
+Sulfachloropyridazine
+Sulfadiazine
+Sulfamethazine
+Sulfamethizole
+Sulfamethoxazole
+Sulfamonomethoxine
+Sulfanilamide
+Sulfathiazole
+Sulfisoxazole
+Tetracycline
+Thiolactomycin
+Tinidazole
+Tobramycin
+Triclosan
+Trimethoprim
+Troleandomycin
+Tunicamycin
+Tylosin
+Vancomycin

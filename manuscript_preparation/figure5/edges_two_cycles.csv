@@ -1,0 +1,94 @@
+Source,Label,Target,Weight,Cycle,Discovery Type,Category,Type
+11,confers resistance to antibiotic,91,0.9699382,2,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+75,confers resistance to antibiotic,88,0.96160487,2,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+46,confers resistance to antibiotic,89,0.94460674,2,Already reported in E. coli,resistance to antibiotic,Directed
+8,confers resistance to antibiotic,89,0.88630821,2,Already reported in E. coli,resistance to antibiotic,Directed
+1,confers resistance to antibiotic,89,0.79699212,2,Already reported in E. coli,resistance to antibiotic,Directed
+36,confers resistance to antibiotic,96,0.78163938,2,Already reported in E. coli,resistance to antibiotic,Directed
+41,confers resistance to antibiotic,83,0.76689275,2,Novel,resistance to antibiotic,Directed
+42,confers resistance to antibiotic,89,0.75699975,2,Already reported in E. coli,resistance to antibiotic,Directed
+82,confers resistance to antibiotic,87,0.72154954,2,Already reported in E. coli,resistance to antibiotic,Directed
+42,confers resistance to antibiotic,85,0.6806338000000001,2,Already reported in E. coli,resistance to antibiotic,Directed
+24,confers resistance to antibiotic,85,0.67836037,2,Already reported in E. coli,resistance to antibiotic,Directed
+10,confers resistance to antibiotic,87,0.67185489,2,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+71,confers resistance to antibiotic,93,0.603129,2,Already reported in E. coli,resistance to antibiotic,Directed
+19,confers resistance to antibiotic,95,0.58916997,2,Novel,resistance to antibiotic,Directed
+18,confers resistance to antibiotic,95,0.57008197,2,Already reported in E. coli,resistance to antibiotic,Directed
+69,confers resistance to antibiotic,93,0.50980579,2,Already reported in E. coli,resistance to antibiotic,Directed
+69,confers resistance to antibiotic,94,0.45079068,2,Already reported in E. coli,resistance to antibiotic,Directed
+10,confers resistance to antibiotic,96,0.44627244,2,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+35,confers resistance to antibiotic,92,0.42926898,2,Already reported in E. coli,resistance to antibiotic,Directed
+25,confers resistance to antibiotic,95,0.38885257,2,Novel,resistance to antibiotic,Directed
+20,confers resistance to antibiotic,95,0.38046912,2,Already reported in E. coli,resistance to antibiotic,Directed
+2,confers resistance to antibiotic,88,0.35358511,2,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+9,confers resistance to antibiotic,95,0.33640137,2,Already reported in E. coli,resistance to antibiotic,Directed
+28,confers resistance to antibiotic,83,0.32486474,2,Already reported in E. coli,resistance to antibiotic,Directed
+0,confers resistance to antibiotic,95,0.30860277,2,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+65,confers resistance to antibiotic,95,0.28985373,2,Already reported in E. coli,resistance to antibiotic,Directed
+44,confers resistance to antibiotic,88,0.26545906,2,Novel,resistance to antibiotic,Directed
+43,confers resistance to antibiotic,83,5.41858575e-05,2,Novel,resistance to antibiotic,Directed
+73,confers resistance to antibiotic,89,1e-05,2,Novel,resistance to antibiotic,Directed
+12,confers resistance to antibiotic,92,1e-05,1,Already reported in E. coli,resistance to antibiotic,Directed
+21,confers resistance to antibiotic,88,0.75837039,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+76,confers resistance to antibiotic,97,0.22332711,1,Already reported in E. coli,resistance to antibiotic,Directed
+33,confers resistance to antibiotic,92,0.70130431,1,Already reported in E. coli,resistance to antibiotic,Directed
+77,confers resistance to antibiotic,93,0.00031564,1,Already reported in E. coli,resistance to antibiotic,Directed
+67,confers resistance to antibiotic,83,0.81645022,1,Already reported in E. coli,resistance to antibiotic,Directed
+58,confers resistance to antibiotic,93,0.30078125,1,Already reported in E. coli,resistance to antibiotic,Directed
+47,confers resistance to antibiotic,87,0.65854149,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+64,confers resistance to antibiotic,92,0.91211771,1,Already reported in E. coli,resistance to antibiotic,Directed
+15,confers resistance to antibiotic,88,0.97812347,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+40,confers resistance to antibiotic,92,0.98113248,1,Already reported in E. coli,resistance to antibiotic,Directed
+59,confers resistance to antibiotic,85,0.25360399,1,Already reported in E. coli,resistance to antibiotic,Directed
+70,confers resistance to antibiotic,90,0.02211356,1,Already reported in E. coli,resistance to antibiotic,Directed
+63,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+78,confers resistance to antibiotic,97,0.51795797,1,Already reported in E. coli,resistance to antibiotic,Directed
+60,confers resistance to antibiotic,97,1e-05,1,Already reported in E. coli,resistance to antibiotic,Directed
+61,confers resistance to antibiotic,87,0.68283365,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+29,confers resistance to antibiotic,91,0.50423511,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+37,confers resistance to antibiotic,97,0.93907585,1,Already reported in E. coli,resistance to antibiotic,Directed
+68,confers resistance to antibiotic,92,1e-05,1,Already reported in E. coli,resistance to antibiotic,Directed
+61,confers resistance to antibiotic,86,0.74769029,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+39,confers resistance to antibiotic,94,0.75875551,1,Already reported in E. coli,resistance to antibiotic,Directed
+48,confers resistance to antibiotic,94,0.68641708,1,Already reported in E. coli,resistance to antibiotic,Directed
+27,confers resistance to antibiotic,85,0.64992712,1,Already reported in E. coli,resistance to antibiotic,Directed
+46,confers resistance to antibiotic,85,0.75719925,1,Already reported in E. coli,resistance to antibiotic,Directed
+30,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+55,confers resistance to antibiotic,83,0.76176708,1,Already reported in E. coli,resistance to antibiotic,Directed
+13,confers resistance to antibiotic,97,0.55228451,1,Already reported in E. coli,resistance to antibiotic,Directed
+5,confers resistance to antibiotic,91,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+23,confers resistance to antibiotic,85,0.1630057,1,Already reported in E. coli,resistance to antibiotic,Directed
+62,confers resistance to antibiotic,88,0.97324542,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+49,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+45,confers resistance to antibiotic,97,0.93038538,1,Already reported in E. coli,resistance to antibiotic,Directed
+66,confers resistance to antibiotic,83,0.80281385,1,Already reported in E. coli,resistance to antibiotic,Directed
+38,confers resistance to antibiotic,83,0.77123136,1,Already reported in E. coli,resistance to antibiotic,Directed
+54,confers resistance to antibiotic,83,0.78562343,1,Already reported in E. coli,resistance to antibiotic,Directed
+17,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+16,confers resistance to antibiotic,96,0.7975,1,Novel,resistance to antibiotic,Directed
+9,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+1,confers resistance to antibiotic,85,0.11692641,1,Already reported in E. coli,resistance to antibiotic,Directed
+50,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+51,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+6,confers resistance to antibiotic,83,0.19915681,1,Already reported in E. coli,resistance to antibiotic,Directed
+26,confers resistance to antibiotic,92,0.18851852,1,Already reported in E. coli,resistance to antibiotic,Directed
+22,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+4,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+80,confers resistance to antibiotic,92,0.9952380999999989,1,Already reported in E. coli,resistance to antibiotic,Directed
+34,confers resistance to antibiotic,85,0.82174242,1,Already reported in E. coli,resistance to antibiotic,Directed
+74,confers resistance to antibiotic,93,0.21462963,1,Already reported in E. coli,resistance to antibiotic,Directed
+58,confers resistance to antibiotic,84,0.63148496,1,Already reported in E. coli,resistance to antibiotic,Directed
+56,confers resistance to antibiotic,93,2.28128208e-05,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+1,confers resistance to antibiotic,93,0.91017904,1,Already reported in E. coli,resistance to antibiotic,Directed
+7,confers resistance to antibiotic,96,0.47220684,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+79,confers resistance to antibiotic,88,0.42838442,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+81,confers resistance to antibiotic,90,0.70429881,1,Already reported in other bacteria or other antibiotics in E. coli,resistance to antibiotic,Directed
+59,confers resistance to antibiotic,83,0.00031564,1,Already reported in E. coli,resistance to antibiotic,Directed
+72,confers resistance to antibiotic,85,0.75131839,1,Already reported in E. coli,resistance to antibiotic,Directed
+32,confers resistance to antibiotic,94,0.57316502,1,Already reported in E. coli,resistance to antibiotic,Directed
+52,confers resistance to antibiotic,83,0.75512901,1,Already reported in E. coli,resistance to antibiotic,Directed
+57,confers resistance to antibiotic,93,2.28128208e-05,1,Already reported in E. coli,resistance to antibiotic,Directed
+31,confers resistance to antibiotic,97,0.97402424,1,Already reported in E. coli,resistance to antibiotic,Directed
+3,confers resistance to antibiotic,92,0.98113248,1,Already reported in E. coli,resistance to antibiotic,Directed
+14,confers resistance to antibiotic,92,0.99476885,1,Already reported in E. coli,resistance to antibiotic,Directed
+53,confers resistance to antibiotic,97,0.98644348,1,Already reported in E. coli,resistance to antibiotic,Directed

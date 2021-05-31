@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<rules>
+	<rule name="response_to_antibiotic">
+		<inconsistency name="Object">
+			<feature value="response to antibiotic"></feature>
+			<feature value="no response to antibiotic"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="confers_resistance_to_antibiotic">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic"></feature>
+			<feature value="confers no resistance to antibiotic"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="confers_resistance_to_antibiotic_after_30_mins">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic after 30 mins"></feature>
+			<feature value="confers no resistance to antibiotic after 30 mins"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="confers_resistance_to_antibiotic_after_15_hours">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic after 15 hours"></feature>
+			<feature value="confers no resistance to antibiotic after 15 hours"></feature>
+		</inconsistency>
+	</rule>
+		<rule name="confers_resistance_to_antibiotic_after_18_hours">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic after 18 hours"></feature>
+			<feature value="confers no resistance to antibiotic after 18 hours"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="confers_resistance_to_antibiotic_after_36_hours">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic after 36 hours"></feature>
+			<feature value="confers no resistance to antibiotic after 36 hours"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="confers_resistance_to_antibiotic_after_3_days">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic after 3 days"></feature>
+			<feature value="confers no resistance to antibiotic after 3 days"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="confers_resistance_to_antibiotic_after_7_days">
+		<inconsistency name="Predicate">
+			<feature value="confers resistance to antibiotic after 7 days"></feature>
+			<feature value="confers no resistance to antibiotic after 7 days"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="activates">
+		<inconsistency name="Predicate">
+			<feature value="activates"></feature>
+			<feature value="no activates"></feature>
+		</inconsistency>
+	</rule>
+	<rule name="represses">
+		<inconsistency name="Predicate">
+			<feature value="represses"></feature>
+			<feature value="no represses"></feature>
+		</inconsistency>
+	</rule>
+</rules>

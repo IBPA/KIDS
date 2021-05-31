@@ -1,0 +1,27 @@
+Subject	Predicate	Object	Resistance
+apt	confers resistance to antibiotic	Rifampin	Yes
+atpD	confers resistance to antibiotic	Hygromycin B	Yes
+deoA	confers resistance to antibiotic	Norfloxacin	Yes
+deoC	confers resistance to antibiotic	Norfloxacin	Yes
+dnaJ	confers resistance to antibiotic	Spectinomycin	Yes
+fecA	confers resistance to antibiotic	Ampicillin	Yes
+fepA	confers resistance to antibiotic	Ampicillin	Yes
+fhiA	confers resistance to antibiotic	Ampicillin	Yes
+gpmM	confers resistance to antibiotic	Rifampin	Yes
+guaA	confers resistance to antibiotic	Rifampin	Yes
+guaB	confers resistance to antibiotic	Rifampin	Yes
+hns	confers resistance to antibiotic	Triclosan	Yes
+hscB	confers resistance to antibiotic	Vancomycin	Yes
+lpd	confers resistance to antibiotic	Amoxicillin	Yes
+lrp	confers resistance to antibiotic	Geneticin	Yes
+marC	confers resistance to antibiotic	Norfloxacin	Yes
+mcrB	confers resistance to antibiotic	Norfloxacin	Yes
+mdtE	confers resistance to antibiotic	Norfloxacin	Yes
+ompN	confers resistance to antibiotic	Norfloxacin	Yes
+polB	confers resistance to antibiotic	Norfloxacin	Yes
+rpoD	confers resistance to antibiotic	Rifampin	Yes
+sspA	confers resistance to antibiotic	Norfloxacin	Yes
+sspB	confers resistance to antibiotic	Norfloxacin	Yes
+uvrA	confers resistance to antibiotic	Norfloxacin	Yes
+xapR	confers resistance to antibiotic	Vancomycin	Yes
+yagP	confers resistance to antibiotic	Norfloxacin	Yes

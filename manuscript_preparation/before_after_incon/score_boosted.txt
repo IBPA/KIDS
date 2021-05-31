@@ -1,0 +1,6 @@
+index	model	Subject	Object	pra_score_with_resolved	pra_score_without_resolved	hypothesis_without_resolved	hypothesis_with_resolved
+83028	0, 1	surA	Vancomycin	0.1975	0.1607	0.30537373	0.91017904
+6706	0	rfaD	Vancomycin	0.003465	0.002496	0.51175515	0.30078125
+76736	0	asmA	Vancomycin	0.008214	0.005467	0.40652661	0.21462963
+5568	0	xapR	Vancomycin	0.00384	0.002563	0.	0.00031564
+103594	0	hscB	Vancomycin	0.003798	0.002677	0.	2.28466987e-05

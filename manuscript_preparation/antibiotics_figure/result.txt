@@ -1,0 +1,104 @@
+5-Nitro-2-furaldehyde semicarbazone	Organic compounds:Organoheterocyclic compounds:Furans:Nitrofurans
+Amikacin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides:2-deoxystreptamine aminoglycosides:4,6-disubstituted 2-deoxystreptamines
+Amoxicillin	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Penams:Penicillins
+Ampicillin	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Penams:Penicillins
+Apramycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides
+Azithromycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Aztreonam	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams
+Bacitracin	Organic compounds:Organic Polymers:Polypeptides
+Bicyclomycin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Amino acids and derivatives:Alpha amino acids and derivatives
+Blasticidin S	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Amino acids and derivatives:Beta amino acids and derivatives
+Bleomycin	Organic compounds:Organic acids and derivatives:Peptidomimetics:Hybrid peptides
+Capreomycin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Oligopeptides
+Carbenicillin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Dipeptides
+Cefamandole	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Cephems:Cephalosporins
+Cefazolin	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Cephems:Cephalosporins
+Cefmetazole	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Amino acids and derivatives:Alpha amino acids and derivatives:N-acyl-alpha amino acids and derivatives
+Cefoperazone	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues
+Cefoxitin	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Cephems:Cephalosporins:Cephalosporin 3'-carbamates
+Cefsulodin	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Cephems:Cephalosporins
+Ceftazidime	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Cephems:Cephalosporins
+Cefuroxime	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Cephems:Cephalosporins:Cephalosporin 3'-carbamates
+Cephalothin	Organic compounds:Organoheterocyclic compounds:Lactams:Beta lactams:Cephems:Cephalosporins:Cephalosporin 3'-esters
+Cephradine	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Amino acids and derivatives:Alpha amino acids and derivatives:N-acyl-alpha amino acids and derivatives
+Cerulenin	Organic compounds:Organoheterocyclic compounds:Epoxides:Oxirane carboxylic acids and derivatives
+Chloramphenicol	Organic compounds:Benzenoids:Benzene and substituted derivatives:Nitrobenzenes
+Chlortetracycline	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Ciprofloxacin	Organic compounds:Organoheterocyclic compounds:Quinolines and derivatives:Quinoline carboxylic acids
+Clarythromycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Cloxacillin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Dipeptides
+Colistin	Organic compounds:Organic Polymers:Polypeptides
+Dactinomycin	Organic compounds:Organic acids and derivatives:Peptidomimetics:Depsipeptides
+Dihydrostreptomycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides
+Doxorubicin	Organic compounds:Phenylpropanoids and polyketides:Anthracyclines
+Doxycycline	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Doxycycline hyclate	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Enoxacin	Organic compounds:Organoheterocyclic compounds:Diazanaphthalenes:Naphthyridines
+Erythromycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Fosfomycin	Organic compounds:Organic acids and derivatives:Organic phosphonic acids and derivatives:Organic phosphonic acids
+Furaltadone	Organic compounds:Organoheterocyclic compounds:Furans:Nitrofurans
+Fusidic acid	Organic compounds:Lipids and lipid-like molecules:Steroids and steroid derivatives:Steroid esters
+Geneticin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides
+Gentamicins	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides
+Hygromycin B	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Josamycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Kanamycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides:2-deoxystreptamine aminoglycosides:4,6-disubstituted 2-deoxystreptamines
+Levofloxacin	Organic compounds:Organoheterocyclic compounds:Quinolines and derivatives:Quinoline carboxylic acids
+Lincomycin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Amino acids and derivatives:Alpha amino acids and derivatives:Proline and derivatives
+Lomefloxacin	Organic compounds:Organoheterocyclic compounds:Quinolines and derivatives:Quinoline carboxylic acids
+Mecillinam	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Amino acids and derivatives:Alpha amino acids and derivatives
+Metronidazole	Organic compounds:Organoheterocyclic compounds:Azoles:Imidazoles:Substituted imidazoles:Nitroimidazoles
+Minocycline	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Mitomycin C	Organic compounds:Organoheterocyclic compounds:Indoles and derivatives:Indolequinones:Mitomycins, mitosane and mitosene derivatives:Mitomycins
+Moxalactam	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Amino acids and derivatives:Alpha amino acids and derivatives:N-acyl-alpha amino acids and derivatives
+Nafcillin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Dipeptides
+Nalidixic acid	Organic compounds:Organoheterocyclic compounds:Diazanaphthalenes:Naphthyridines
+Neomycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides:2-deoxystreptamine aminoglycosides:4,5-disubstituted 2-deoxystreptamines
+Nigericin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Ethers:Acetals:Ketals
+Nitrofurantoin	Organic compounds:Organoheterocyclic compounds:Azolidines:Imidazolidines:Imidazolidinones:Imidazolidinediones:Hydantoins
+Norfloxacin	Organic compounds:Organoheterocyclic compounds:Quinolines and derivatives:Quinoline carboxylic acids
+Novobiocin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Glycosyl compounds:Phenolic glycosides
+Ofloxacin	Organic compounds:Organoheterocyclic compounds:Quinolines and derivatives:Quinoline carboxylic acids
+Oleandomycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Ornidazole	Organic compounds:Organoheterocyclic compounds:Azoles:Imidazoles:Substituted imidazoles:Nitroimidazoles
+Oxacillin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Dipeptides
+Oxycarboxin	Organic compounds:Benzenoids:Benzene and substituted derivatives:Anilides
+Oxytetracycline	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Paromomycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides:2-deoxystreptamine aminoglycosides:4,5-disubstituted 2-deoxystreptamines
+Penicillin G	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Dipeptides
+Penimepicycline	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Phenethicillin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Dipeptides
+Piperacillin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues
+Puromycin	Organic compounds:Nucleosides, nucleotides, and analogues:Purine nucleosides:Purine 3'-deoxyribonucleosides
+Radicicol	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzoic acids and derivatives
+Rifampin	Organic compounds:Phenylpropanoids and polyketides:Macrolactams
+Rifamycin SV	Organic compounds:Phenylpropanoids and polyketides:Macrolactams
+Rolitetracycline	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Sisomicin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides
+Spectinomycin	Organic compounds:Organoheterocyclic compounds:Dioxanes:1,4-dioxanes
+Spiramycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Streptomycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides
+Streptonigrin	Organic compounds:Organoheterocyclic compounds:Pyridines and derivatives:Bipyridines and oligopyridines
+Sulfachloropyridazine	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfadiazine	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfamethazine	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfamethizole	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfamethoxazole	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfamonomethoxine	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfanilamide	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfathiazole	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Sulfisoxazole	Organic compounds:Benzenoids:Benzene and substituted derivatives:Benzenesulfonamides
+Tetracycline	Organic compounds:Phenylpropanoids and polyketides:Tetracyclines
+Thiolactomycin	Organic compounds:Organoheterocyclic compounds:Dihydrothiophenes
+Tinidazole	Organic compounds:Organoheterocyclic compounds:Azoles:Imidazoles:Substituted imidazoles:Nitroimidazoles
+Tobramycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides:Aminocyclitol glycosides:2-deoxystreptamine aminoglycosides:4,6-disubstituted 2-deoxystreptamines
+Triclosan	Organic compounds:Benzenoids:Benzene and substituted derivatives:Diphenylethers
+Trimethoprim	Organic compounds:Benzenoids:Phenol ethers:Anisoles
+Troleandomycin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Tylosin	Organic compounds:Organic oxygen compounds:Organooxygen compounds:Carbohydrates and carbohydrate conjugates:Aminosaccharides:Aminoglycosides
+Vancomycin	Organic compounds:Organic acids and derivatives:Carboxylic acids and derivatives:Amino acids, peptides, and analogues:Peptides:Cyclic peptides
+CHIR090	Organic compounds
+Phleomycin	Organic compounds
+Polymyxin B	Organic compounds
+Tunicamycin	Organic compounds
+Hygromycin 	Organic compounds

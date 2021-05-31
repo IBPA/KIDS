@@ -1,0 +1,91 @@
+Subject	Predicate	Object	Probability	Resistance
+degP	confers resistance to antibiotic	Kanamycin	0.9699382	Yes
+atpA	confers resistance to antibiotic	Hygromycin B	0.96160487	Yes
+waaQ	confers resistance to antibiotic	Chloramphenicol	0.94460674	Yes
+hrpA	confers resistance to antibiotic	Chloramphenicol	0.88630821	Yes
+surA	confers resistance to antibiotic	Chloramphenicol	0.79699212	Yes
+fnr	confers resistance to antibiotic	Geneticin	0.78163938	Yes
+mltG	confers resistance to antibiotic	Ampicillin	0.76689275	Yes
+waaG	confers resistance to antibiotic	Chloramphenicol	0.75699975	Yes
+soxS	confers resistance to antibiotic	Paromomycin	0.72154954	Yes
+waaG	confers resistance to antibiotic	Spectinomycin	0.6806338	Yes
+ybeY	confers resistance to antibiotic	Spectinomycin	0.67836037	Yes
+sapD	confers resistance to antibiotic	Hygromycin B	0.67522231	No
+mfd	confers resistance to antibiotic	Paromomycin	0.67185489	Yes
+rfaE	confers resistance to antibiotic	Vancomycin	0.603129	Yes
+ftsP	confers resistance to antibiotic	Cephradine	0.58916997	Yes
+ubiF	confers resistance to antibiotic	Cephradine	0.57008197	Yes
+crp	confers resistance to antibiotic	Amoxicillin	0.55939789	No
+tolQ	confers resistance to antibiotic	Vancomycin	0.50980579	Yes
+waaF	confers resistance to antibiotic	Cephradine	0.48118788	No
+hupA	confers resistance to antibiotic	Geneticin	0.47409993	No
+ddlB	confers resistance to antibiotic	Spectinomycin	0.46953633	No
+leuO	confers resistance to antibiotic	Hygromycin B	0.46341267	No
+tolQ	confers resistance to antibiotic	Triclosan	0.45079068	Yes
+mfd	confers resistance to antibiotic	Geneticin	0.44627244	Yes
+greA	confers resistance to antibiotic	Norfloxacin	0.42926898	Yes
+gyrB	confers resistance to antibiotic	Levofloxacin	0.39435828	No strain
+rbsK	confers resistance to antibiotic	Cephradine	0.38885257	Yes
+hns	confers resistance to antibiotic	Hygromycin B	0.38444365	No
+lexA	confers resistance to antibiotic	Cephradine	0.38046912	Yes
+cspA	confers resistance to antibiotic	Hygromycin B	0.35358511	Yes
+asmA	confers resistance to antibiotic	Cephradine	0.34530093	No
+sspA	confers resistance to antibiotic	Cephradine	0.33640137	Yes
+rsmH	confers resistance to antibiotic	Triclosan	0.33419805	No
+dacA	confers resistance to antibiotic	Ampicillin	0.32486474	Yes
+mlaF	confers resistance to antibiotic	Cephradine	0.32276964	No
+mlc	confers resistance to antibiotic	Geneticin	0.31373097	No
+bamB	confers resistance to antibiotic	Cephradine	0.30860277	Yes
+rppH	confers resistance to antibiotic	Cephradine	0.28985373	Yes
+fnr	confers resistance to antibiotic	Troleandomycin	0.26733049	No
+hdfR	confers resistance to antibiotic	Hygromycin B	0.26545906	Yes
+lpd	confers resistance to antibiotic	Spectinomycin	0.24815487	No
+gyrA	confers resistance to antibiotic	Novobiocin	0.24504376	No strain
+crp	confers resistance to antibiotic	Paromomycin	0.24302666	No
+arfA	confers resistance to antibiotic	Cephradine	0.24302666	No
+alaS	confers resistance to antibiotic	Amoxicillin	0.23974314	No
+mrdB	confers resistance to antibiotic	Norfloxacin	0.23531391	No strain
+queA	confers resistance to antibiotic	Cephradine	0.23388556	No
+lpcA	confers resistance to antibiotic	Cephradine	0.21676754	No
+ymgH	confers resistance to antibiotic	Kanamycin	5.42E-05	No
+insI4	confers resistance to antibiotic	Apramycin	5.42E-05	No strain
+ydhB	confers resistance to antibiotic	Sulfanilamide	5.42E-05	No
+yibJ	confers resistance to antibiotic	Triclosan	5.42E-05	No strain
+kdsA	confers resistance to antibiotic	Norfloxacin	5.42E-05	No strain
+insB-5	confers resistance to antibiotic	Spectinomycin	5.42E-05	No strain
+pdeN	confers resistance to antibiotic	Amoxicillin	5.42E-05	No
+nuoG	confers resistance to antibiotic	Paromomycin	5.42E-05	No
+rhsB	confers resistance to antibiotic	Levofloxacin	5.42E-05	No
+ybgE	confers resistance to antibiotic	Hygromycin B	5.42E-05	No
+lapA	confers resistance to antibiotic	Chloramphenicol	5.42E-05	No
+srkA	confers resistance to antibiotic	Apramycin	5.42E-05	No
+ygeR	confers resistance to antibiotic	Sulfanilamide	5.42E-05	No
+yohF	confers resistance to antibiotic	Oxycarboxin	5.42E-05	No
+fumD	confers resistance to antibiotic	Sisomicin	5.42E-05	No
+yoeH	confers resistance to antibiotic	Levofloxacin	5.42E-05	No strain
+sdsR	confers resistance to antibiotic	Streptomycin	5.42E-05	No strain
+betT	confers resistance to antibiotic	Troleandomycin	5.42E-05	No
+ypjK	confers resistance to antibiotic	Oxycarboxin	5.42E-05	No strain
+murB	confers resistance to antibiotic	Norfloxacin	5.42E-05	No strain
+qorB	confers resistance to antibiotic	Ampicillin	5.42E-05	Yes
+thiF	confers resistance to antibiotic	Streptomycin	5.42E-05	No
+ydcC	confers resistance to antibiotic	Amoxicillin	5.42E-05	No
+decR	confers resistance to antibiotic	Rifampin	5.42E-05	No
+rlmM	confers resistance to antibiotic	Cephradine	0	No
+proV	confers resistance to antibiotic	Chloramphenicol	0	Yes
+lpxC	confers resistance to antibiotic	Cephradine	0	No strain
+ydiP	confers resistance to antibiotic	Geneticin	0	No
+waaC	confers resistance to antibiotic	Paromomycin	0	No
+purN	confers resistance to antibiotic	Geneticin	0	No
+yjjY	confers resistance to antibiotic	Rifampin	0	No
+ytfK	confers resistance to antibiotic	Hygromycin B	0	No
+groS	confers resistance to antibiotic	Triclosan	0	No strain
+tsaD	confers resistance to antibiotic	Novobiocin	0	No strain
+rpsP	confers resistance to antibiotic	Vancomycin	0	No strain
+ypdC	confers resistance to antibiotic	Troleandomycin	0	No
+fhiA	confers resistance to antibiotic	Sisomicin	0	No
+insH-11	confers resistance to antibiotic	Vancomycin	0	No strain
+lpxB	confers resistance to antibiotic	Kanamycin	0	No strain
+cysS	confers resistance to antibiotic	Novobiocin	0	No strain
+alsK	confers resistance to antibiotic	Spectinomycin	0	No strain
+hha	confers resistance to antibiotic	Ampicillin	0	No

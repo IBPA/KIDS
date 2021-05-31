@@ -1,0 +1,227 @@
+Subject	Predicate	Object	Probability_original	Probability_without_resolved	CRA	Validated	Percent_change
+marC	confers resistance to antibiotic	Norfloxacin	0.0	0.0	1.0	True	
+yfgC	confers resistance to antibiotic	Spectinomycin	0.10056168	0.07515105	0.0	True	33.81274113934536
+cpoB	confers resistance to antibiotic	Sisomicin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+atpB	confers resistance to antibiotic	Hygromycin B	0.75837039	0.72383483	1.0	True	4.771193450306876
+srkA	confers resistance to antibiotic	Novobiocin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+tcyN	confers resistance to antibiotic	Vancomycin	0.0	0.0	0.0	True	
+rpoD	confers resistance to antibiotic	Rifampin	0.22332711	0.20849345	1.0	True	7.114688734825961
+rplA	confers resistance to antibiotic	Triclosan	0.22296296	0.16974701	0.0	True	31.350154562369013
+ompN	confers resistance to antibiotic	Norfloxacin	0.70130431	0.96998915	1.0	True	-27.69977787895874
+yjiQ	confers resistance to antibiotic	Kanamycin	0.0	0.0	0.0	True	
+hns	confers resistance to antibiotic	Paromomycin	0.42553763	0.43961914	0.0	True	-3.2031157697092123
+dgcJ	confers resistance to antibiotic	Spectinomycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+rclC	confers resistance to antibiotic	Vancomycin	0.0	0.0	0.0	True	
+xapR	confers resistance to antibiotic	Vancomycin	0.00031564	2.28154232e-05	1.0	True	1283.450121582667
+uhpT	confers resistance to antibiotic	Ampicillin	0.81645022	0.9746087	1.0	True	-16.22789535944015
+insX	confers resistance to antibiotic	Sisomicin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+mcbA	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+rfaD	confers resistance to antibiotic	Vancomycin	0.30078125	0.41170868	1.0	True	-26.943184680973932
+dgcZ	confers resistance to antibiotic	Norfloxacin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+ydcY	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+dpiA	confers resistance to antibiotic	Troleandomycin	0.61247769	0.70087807	0.0	True	-12.612804392638516
+hdfR	confers resistance to antibiotic	Paromomycin	0.27072411	0.19521368	0.0	True	38.6809110918866
+yifK	confers resistance to antibiotic	Ampicillin	0.72279762	0.85063246	0.0	True	-15.02821089145834
+pdeN	confers resistance to antibiotic	Spectinomycin	0.0	0.0	0.0	True	
+dgcI	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+lpcA	confers resistance to antibiotic	Triclosan	0.27199643	0.26504983	0.0	True	2.620865668919699
+crfC	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+tatB	confers resistance to antibiotic	Triclosan	0.10675325	0.11389749	0.0	True	-6.2725175067510355
+asmA	confers resistance to antibiotic	Triclosan	0.26840045	0.39038644	0.0	True	-31.247496711207486
+ghxQ	confers resistance to antibiotic	Kanamycin	0.0	0.0	0.0	True	
+yebF	confers resistance to antibiotic	Norfloxacin	0.76618539	0.92811854	0.0	True	-17.447464199993256
+dpiA	confers resistance to antibiotic	Paromomycin	0.65854149	0.65824286	1.0	True	0.04536775378011186
+pdxI	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+cysB	confers resistance to antibiotic	Hygromycin B	0.42631304	0.39778752	0.0	True	7.171044481234597
+ndk	confers resistance to antibiotic	Rifampin	0.92778046	0.99241453	0.0	True	-6.512809722767761
+yghB	confers resistance to antibiotic	Norfloxacin	0.91211771	0.99509629	1.0	True	-8.338748805907017
+atpF	confers resistance to antibiotic	Hygromycin B	0.97812347	0.97770865	1.0	True	0.042427772322566434
+polB	confers resistance to antibiotic	Norfloxacin	0.98113248	0.99542581	1.0	True	-1.4359010843811648
+dam	confers resistance to antibiotic	Chloramphenicol	0.28911681	0.49583415	0.0	True	-41.690823433601736
+mgsA	confers resistance to antibiotic	Kanamycin	0.0	0.0	0.0	True	
+acrA	confers resistance to antibiotic	Spectinomycin	0.25360399	0.24877277	1.0	True	1.9420212268408625
+pdeL	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+abpA	confers resistance to antibiotic	Apramycin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+rhmD	confers resistance to antibiotic	Spectinomycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+dgcC	confers resistance to antibiotic	Norfloxacin	0.0	0.0	0.0	True	
+lpd	confers resistance to antibiotic	Amoxicillin	0.02211356	0.04629451	1.0	True	-52.232867352953946
+cysB	confers resistance to antibiotic	Novobiocin	0.38990594	0.29559829	0.0	True	31.90399037829347
+ibpB	confers resistance to antibiotic	Streptomycin	0.12247506	0.21875501	0.0	True	-44.01268341237076
+ydiY	confers resistance to antibiotic	Norfloxacin	0.93495016	0.99481797	0.0	True	-6.017966281811343
+uvrB	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+rpnB	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+crfC	confers resistance to antibiotic	Sisomicin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+hns	confers resistance to antibiotic	Geneticin	0.67540331	0.56928648	0.0	True	18.640321477509872
+nohB	confers resistance to antibiotic	Amoxicillin	0.0	0.0	0.0	True	
+tpx	confers resistance to antibiotic	Kanamycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+fetA	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+gadE	confers resistance to antibiotic	Geneticin	0.11291432	0.11243274	0.0	True	0.42832719366262473
+trpL	confers resistance to antibiotic	Amoxicillin	0.0	0.0	0.0	True	
+queG	confers resistance to antibiotic	Norfloxacin	0.98113248	0.99548958	0.0	True	-1.44221499535937
+purD	confers resistance to antibiotic	Rifampin	0.51795797	0.54878421	1.0	True	-5.617187856042725
+abpB	confers resistance to antibiotic	Sisomicin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+gpmM	confers resistance to antibiotic	Rifampin	0.0	0.0	1.0	True	
+rsmH	confers resistance to antibiotic	Streptomycin	0.20200141	0.14034838	0.0	True	43.928565474001196
+ybeD	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+fis	confers resistance to antibiotic	Paromomycin	0.68283365	0.71268932	1.0	True	-4.189156363392677
+atpH	confers resistance to antibiotic	Amoxicillin	0.00088382	2.28154232e-05	0.0	True	3773.7830644316073
+ypjM_3	confers resistance to antibiotic	Novobiocin	0.0	0.0	0.0	True	
+nfuA	confers resistance to antibiotic	Kanamycin	0.50423511	0.43258481	1.0	True	16.563295414834375
+polA	confers resistance to antibiotic	Amoxicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+fkpB	confers resistance to antibiotic	Ampicillin	0.00031564	0.00022815	0.0	True	38.347578347578356
+rnhA	confers resistance to antibiotic	Norfloxacin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+fur	confers resistance to antibiotic	Triclosan	0.35117235	0.36738299	0.0	True	-4.412463407736977
+gpmM	confers resistance to antibiotic	Streptomycin	0.45606835	0.43115313	0.0	True	5.778740374678485
+guaA	confers resistance to antibiotic	Rifampin	0.93907585	0.99241453	1.0	True	-5.374637148853511
+abpB	confers resistance to antibiotic	Apramycin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+flgM	confers resistance to antibiotic	Novobiocin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+mdtE	confers resistance to antibiotic	Norfloxacin	0.0	0.0	1.0	True	
+cpoB	confers resistance to antibiotic	Apramycin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+fis	confers resistance to antibiotic	Troleandomycin	0.74769029	0.7560031	1.0	True	-1.0995735334947778
+lrp	confers resistance to antibiotic	Troleandomycin	0.10440783	0.14034838	0.0	True	-25.608097507074895
+ycjU	confers resistance to antibiotic	Triclosan	0.75875551	0.75792005	1.0	True	0.1102306239292667
+ppiB	confers resistance to antibiotic	Triclosan	0.14391534	0.11974701	0.0	True	20.182825441737542
+waaC	confers resistance to antibiotic	Chloramphenicol	0.56852807	0.33158730000000003	0.0	True	71.45652743636442
+yejG	confers resistance to antibiotic	Sulfanilamide	0.13103448	0.02178318	0.0	True	501.539720095964
+waaF	confers resistance to antibiotic	Triclosan	0.68641708	0.69765173	1.0	True	-1.6103522025237453
+rfaH	confers resistance to antibiotic	Levofloxacin	0.50696239	0.5022578	0.0	True	0.9366882903560698
+ilvL	confers resistance to antibiotic	Novobiocin	0.0	0.0	0.0	True	
+waaP	confers resistance to antibiotic	Spectinomycin	0.64992712	0.54665577	1.0	True	18.891477172188264
+fsaB	confers resistance to antibiotic	Amoxicillin	0.0	0.0	0.0	True	
+waaQ	confers resistance to antibiotic	Spectinomycin	0.75719925	0.75839755	1.0	True	-0.15800420241336297
+ydhW	confers resistance to antibiotic	Spectinomycin	0.0	0.0	0.0	True	
+slt	confers resistance to antibiotic	Spectinomycin	0.04824956	0.02135207	0.0	True	125.97134610367985
+sspB	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+pdeD	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+fhiA	confers resistance to antibiotic	Ampicillin	0.76176708	0.93084627	1.0	True	-18.164029383713373
+srmB	confers resistance to antibiotic	Rifampin	0.55228451	0.75658503	1.0	True	-27.002982070633884
+bioP	confers resistance to antibiotic	Novobiocin	0.0	0.0	0.0	True	
+lrp	confers resistance to antibiotic	Paromomycin	0.44997759	0.59400101	0.0	True	-24.246325776449446
+tnaC	confers resistance to antibiotic	Amoxicillin	0.0	0.0	0.0	True	
+galR	confers resistance to antibiotic	Paromomycin	0.40042268	0.34914999	0.0	True	14.685004000716125
+ypdJ	confers resistance to antibiotic	Amoxicillin	0.0	0.0	0.0	True	
+rpoS	confers resistance to antibiotic	Kanamycin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+guaC	confers resistance to antibiotic	Rifampin	0.92714444	0.98188821	0.0	True	-5.575356689535978
+acrB	confers resistance to antibiotic	Spectinomycin	0.1630057	0.1591579	1.0	True	2.4175991264021532
+atpD	confers resistance to antibiotic	Hygromycin B	0.97324542	0.9336171	1.0	True	4.244600918299381
+abpA	confers resistance to antibiotic	Sisomicin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+deoC	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+dam	confers resistance to antibiotic	Triclosan	0.26739768	0.21675575	0.0	True	23.363592430650645
+gadE	confers resistance to antibiotic	Paromomycin	0.15078348	0.23701466	0.0	True	-36.38221365716365
+speA	confers resistance to antibiotic	Rifampin	0.73845238	0.83237131	0.0	True	-11.283297354398238
+guaB	confers resistance to antibiotic	Rifampin	0.93038538	0.99241453	1.0	True	-6.25032666541067
+rbsK	confers resistance to antibiotic	Chloramphenicol	0.25348054	0.27806551	0.0	True	-8.84143092755374
+fis	confers resistance to antibiotic	Hygromycin B	0.63401361	0.63879842	0.0	True	-0.7490328482653374
+fepA	confers resistance to antibiotic	Ampicillin	0.80281385	0.9885811999999999	1.0	True	-18.791309201510195
+lplA	confers resistance to antibiotic	Spectinomycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+acrF	confers resistance to antibiotic	Ampicillin	0.77123136	0.96768838	1.0	True	-20.301682241963057
+rcsF	confers resistance to antibiotic	Ampicillin	0.78562343	0.81848242	1.0	True	-4.014623796073717
+deoB	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+decR	confers resistance to antibiotic	Vancomycin	0.0	0.0	0.0	True	
+yebE	confers resistance to antibiotic	Norfloxacin	0.82369048	0.83480829	0.0	True	-1.331780018619605
+tpx	confers resistance to antibiotic	Norfloxacin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+hfq	confers resistance to antibiotic	Triclosan	0.20965444	0.3413826	0.0	True	-38.58666493254196
+ydhQ	confers resistance to antibiotic	Amoxicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+psuK	confers resistance to antibiotic	Sulfanilamide	0.30817734	0.06395767	0.0	True	381.8457895667557
+tusB	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+lrp	confers resistance to antibiotic	Geneticin	0.7975	0.82654373	1.0	True	-3.513876997167475
+hdfR	confers resistance to antibiotic	Geneticin	0.13525253	0.14128448	0.0	True	-4.269364901226222
+tufA	confers resistance to antibiotic	Amoxicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+fliZ	confers resistance to antibiotic	Norfloxacin	0.53672378	0.95521083	0.0	True	-43.81096160729249
+rpoB	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+cecR	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+pncA	confers resistance to antibiotic	Oxycarboxin	0.30817734	0.06395767	0.0	True	381.8457895667557
+sspA	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+surA	confers resistance to antibiotic	Spectinomycin	0.11692641	0.35578348	1.0	True	-67.13551455508839
+deoA	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+rlmN	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	0.0	True	-0.05977205040928462
+crfC	confers resistance to antibiotic	Apramycin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+yeeN	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+lpoB	confers resistance to antibiotic	Ampicillin	0.19915681	0.27566512	1.0	True	-27.754077120819638
+xisR	confers resistance to antibiotic	Novobiocin	0.0	0.0	0.0	True	
+ykgN	confers resistance to antibiotic	Novobiocin	0.0	0.0	0.0	True	
+ubiG	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+acrR	confers resistance to antibiotic	Paromomycin	0.29298344	0.16920327	0.0	True	73.15471503594463
+pncA	confers resistance to antibiotic	Sulfanilamide	0.30817734	0.06395767	0.0	True	381.8457895667557
+ompR	confers resistance to antibiotic	Norfloxacin	2.28128208e-05	0.00022815	0.0	True	-90.00095516107824
+bglF	confers resistance to antibiotic	Ampicillin	0.72279762	0.85063246	0.0	True	-15.02821089145834
+recC	confers resistance to antibiotic	Norfloxacin	0.18851852	0.13263368	1.0	True	42.134727770502934
+speD	confers resistance to antibiotic	Rifampin	0.46077185	0.73801803	0.0	True	-37.56631528365235
+uvrA	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+narL	confers resistance to antibiotic	Troleandomycin	0.11131181	0.09757060000000001	0.0	True	14.083350927430997
+dnaK	confers resistance to antibiotic	Triclosan	0.31710537	0.18003091	0.0	True	76.13940295030449
+ddlB	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+rpmG	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+yncD	confers resistance to antibiotic	Sulfanilamide	0.13103448	0.02178318	0.0	True	501.539720095964
+sulA	confers resistance to antibiotic	Norfloxacin	0.9952380999999999	0.99583333	1.0	True	-0.05977205040928462
+ydhW	confers resistance to antibiotic	Vancomycin	0.0	0.0	0.0	True	
+yhjG	confers resistance to antibiotic	Norfloxacin	0.98113248	0.99552359	0.0	True	-1.4455820178003054
+cysB	confers resistance to antibiotic	Paromomycin	0.20399161	0.09851287	0.0	True	107.07102533912573
+rfaD	confers resistance to antibiotic	Chloramphenicol	0.60590538	0.62014762	0.0	True	-2.296588673516148
+dgcE	confers resistance to antibiotic	Spectinomycin	0.0	0.0	0.0	True	
+dpiA	confers resistance to antibiotic	Geneticin	0.48114754	0.49732804	0.0	True	-3.2534863708871193
+dnaJ	confers resistance to antibiotic	Spectinomycin	0.82174242	0.87738663	1.0	True	-6.342039882691166
+asmA	confers resistance to antibiotic	Vancomycin	0.21462963	0.38247623	1.0	True	-43.884191182286024
+ralR	confers resistance to antibiotic	Amoxicillin	0.0	0.0	0.0	True	
+sdhE	confers resistance to antibiotic	Sisomicin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+mltB	confers resistance to antibiotic	Ampicillin	0.79725649	0.80674357	0.0	True	-1.175972186552411
+rob	confers resistance to antibiotic	Hygromycin B	0.19245683	0.2174359	0.0	True	-11.48801554849038
+lon	confers resistance to antibiotic	Ampicillin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+rfaD	confers resistance to antibiotic	Streptomycin	0.63148496	0.6064245	1.0	True	4.132494646901626
+yeeW	confers resistance to antibiotic	Novobiocin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+bepA	confers resistance to antibiotic	Vancomycin	2.28128208e-05	2.28154232e-05	1.0	True	-0.011406319213052574
+dksA	confers resistance to antibiotic	Chloramphenicol	0.30910873	0.52661261	0.0	True	-41.30244431480667
+surA	confers resistance to antibiotic	Vancomycin	0.91017904	0.86533835	1.0	True	5.181867878616499
+fur	confers resistance to antibiotic	Geneticin	0.47220684	0.36338074	1.0	True	29.94823005754241
+lldP	confers resistance to antibiotic	Ampicillin	0.33840494	0.69860916	0.0	True	-51.56019139514289
+dgcJ	confers resistance to antibiotic	Sisomicin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+atpE	confers resistance to antibiotic	Hygromycin B	0.42838442	0.47942668	1.0	True	-10.646520548251509
+envY	confers resistance to antibiotic	Paromomycin	0.17792355	0.13196923	0.0	True	34.821996006190254
+nuoM	confers resistance to antibiotic	Amoxicillin	0.70429881	0.58589283	1.0	True	20.209494627199998
+dgcJ	confers resistance to antibiotic	Apramycin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+acrA	confers resistance to antibiotic	Ampicillin	0.00031564	0.00022815	1.0	True	38.347578347578356
+waaC	confers resistance to antibiotic	Spectinomycin	0.75131839	0.75839755	1.0	True	-0.9334365597568154
+atpC	confers resistance to antibiotic	Hygromycin B	0.17135642	0.15142550000000002	0.0	True	13.162195270941808
+slyA	confers resistance to antibiotic	Troleandomycin	0.05241649	0.04046043	0.0	True	29.55000725400102
+mltG	confers resistance to antibiotic	Vancomycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+gadX	confers resistance to antibiotic	Troleandomycin	0.16246753	0.30714352	0.0	True	-47.1037090412977
+mlc	confers resistance to antibiotic	Troleandomycin	0.33784216	0.57742767	0.0	True	-41.49186511966078
+abpB	confers resistance to antibiotic	Spectinomycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+rfaE	confers resistance to antibiotic	Chloramphenicol	0.26224845	0.05882416	0.0	True	345.8175858354798
+cysB	confers resistance to antibiotic	Geneticin	0.19620055	0.08959187	0.0	True	118.99369887022112
+ykiB	confers resistance to antibiotic	Norfloxacin	0.0	0.0	0.0	True	
+dgcP	confers resistance to antibiotic	Vancomycin	0.0	0.0	0.0	True	
+hxpB	confers resistance to antibiotic	Norfloxacin	0.0	0.0	0.0	True	
+iscS	confers resistance to antibiotic	Chloramphenicol	0.19673586	0.27922605	0.0	True	-29.54244061397566
+tpr	confers resistance to antibiotic	Spectinomycin	0.0	0.0	0.0	True	
+hxpA	confers resistance to antibiotic	Kanamycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+ybgC	confers resistance to antibiotic	Vancomycin	0.05057969	0.04053868	0.0	True	24.768961396868367
+betT	confers resistance to antibiotic	Novobiocin	0.0	0.0	0.0	True	
+gadX	confers resistance to antibiotic	Paromomycin	0.52109694	0.4509944	0.0	True	15.54399345091645
+sdhE	confers resistance to antibiotic	Apramycin	0.09700564	0.12457364	0.0	True	-22.129882373189062
+lysO	confers resistance to antibiotic	Kanamycin	0.0	0.0	0.0	True	
+hns	confers resistance to antibiotic	Triclosan	0.57316502	0.56092811	1.0	True	2.18154693655842
+yncD	confers resistance to antibiotic	Oxycarboxin	0.13103448	0.02178318	0.0	True	501.539720095964
+recN	confers resistance to antibiotic	Paromomycin	0.43348804	0.39004202	0.0	True	11.138804993369696
+fur	confers resistance to antibiotic	Paromomycin	0.33948458	0.16452859	0.0	True	106.3377434888368
+ldtE	confers resistance to antibiotic	Novobiocin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+cadC	confers resistance to antibiotic	Geneticin	0.23770156	0.16986772	0.0	True	39.933331653594934
+ylaC	confers resistance to antibiotic	Norfloxacin	0.9951136	0.99583333	0.0	True	-0.07227414250132785
+fecA	confers resistance to antibiotic	Ampicillin	0.75512901	0.92208238	1.0	True	-18.106123012566403
+hscB	confers resistance to antibiotic	Vancomycin	2.28128208e-05	2.28154232e-05	1.0	True	-0.011406319213052574
+purN	confers resistance to antibiotic	Rifampin	0.97402424	0.99241453	1.0	True	-1.8530855246547056
+mcrB	confers resistance to antibiotic	Norfloxacin	0.98113248	0.99548958	1.0	True	-1.44221499535937
+mnmA	confers resistance to antibiotic	Cephradine	0.15851157	0.06522815	0.0	True	143.0109852877937
+insX	confers resistance to antibiotic	Apramycin	0.15894594	0.18774877	0.0	True	-15.34115509784698
+ypjB	confers resistance to antibiotic	Spectinomycin	0.0	0.0	0.0	True	
+psuK	confers resistance to antibiotic	Oxycarboxin	0.30817734	0.06395767	0.0	True	381.8457895667557
+kdpE	confers resistance to antibiotic	Kanamycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+srlA	confers resistance to antibiotic	Norfloxacin	0.0	0.0	0.0	True	
+marC	confers resistance to antibiotic	Vancomycin	0.0	0.0	0.0	True	
+ade	confers resistance to antibiotic	Kanamycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+yagP	confers resistance to antibiotic	Norfloxacin	0.99476885	0.99542581	1.0	True	-0.06599788687415375
+fetA	confers resistance to antibiotic	Kanamycin	2.28128208e-05	2.28154232e-05	0.0	True	-0.011406319213052574
+rpmE	confers resistance to antibiotic	Rifampin	0.0	0.0	0.0	True	
+apt	confers resistance to antibiotic	Rifampin	0.98644348	0.99241453	1.0	True	-0.6016689417072498
+atpG	confers resistance to antibiotic	Hygromycin B	0.14983805	0.08763368	0.0	True	70.98226389671184
+yqaC	confers resistance to antibiotic	Kanamycin	0.0	0.0	0.0	True	

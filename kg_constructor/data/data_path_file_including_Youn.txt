@@ -1,0 +1,12 @@
+Path	Source
+/path/to/dataset/directory/hiTRN/hiTRN.txt	hiTRN
+/path/to/dataset/directory/GO/GO.txt	GO
+/path/to/dataset/directory/Shaw_et_al/Shaw_et_al.txt	Shaw
+/path/to/dataset/directory/Zhou_et_al/Zhou_et_al.txt	Zhou
+/path/to/dataset/directory/Nichols_et_al/Nichols_et_al.txt	Nichols
+/path/to/dataset/directory/Tamae_et_al/Tamae_et_al_KO_Antibiotics.txt	Tamae
+/path/to/dataset/directory/Liu_et_al/Liu_et_al_KO_Antibiotics.txt	Liu
+/path/to/dataset/directory/Girgis_et_al/Girgis_et_al.txt	Girgis
+/path/to/dataset/directory/Soo_et_al/Soo_et_al.txt	Soo
+/path/to/dataset/directory/CARD/CARD_Antibiotics_Resistance_Ecoli_Genes.txt	CARD
+/path/to/dataset/directory/Youn_et_al/Youn_et_al.txt	Youn

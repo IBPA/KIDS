@@ -1,0 +1,23 @@
+Overall metrics: 
+
+map: 0.1274012411431569
+roc_auc: 0.7373157596371882
+f1: 0.0
+accuracy: 0.98
+cm: [[588   0]
+ [ 12   0]]
+precision: 0.0
+recall: 0.0
+----------------------------------
+Predicates
+
+metrics for confers#SPACE#resistance#SPACE#to#SPACE#antibiotic: 
+map: 0.1274012411431569
+roc_auc: 0.6933106575963719
+f1: 0.0
+accuracy: 0.98
+cm: [[588   0]
+ [ 12   0]]
+precision: 0.0
+recall: 0.0
+----------------------------------

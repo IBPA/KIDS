@@ -1,0 +1,148 @@
+Subject	Predicate	Object
+mdtM	confers resistance to antibiotic	Chloramphenicol
+gyrA	confers resistance to antibiotic	Ciprofloxacin
+parC	confers resistance to antibiotic	Ciprofloxacin
+parE	confers resistance to antibiotic	Ciprofloxacin
+mfd	confers resistance to antibiotic	Ciprofloxacin
+msbA	confers resistance to antibiotic	Ciprofloxacin
+acrE	confers resistance to antibiotic	Ciprofloxacin
+acrF	confers resistance to antibiotic	Ciprofloxacin
+tolC	confers resistance to antibiotic	Ciprofloxacin
+mdtL	confers resistance to antibiotic	Ciprofloxacin
+lamB	confers resistance to antibiotic	Ciprofloxacin
+parC	targeted by	Ciprofloxacin
+gyrA	targeted by	Ciprofloxacin
+gyrB	targeted by	Ciprofloxacin
+gyrA	confers resistance to antibiotic	Enoxacin
+parC	confers resistance to antibiotic	Enoxacin
+parE	confers resistance to antibiotic	Enoxacin
+mdtH	confers resistance to antibiotic	Enoxacin
+gyrA	targeted by	Enoxacin
+msbA	confers resistance to antibiotic	Metronidazole
+dnaA	confers resistance to antibiotic	Rifampicin
+acrA	confers resistance to antibiotic	Rifampicin
+acrB	confers resistance to antibiotic	Rifampicin
+tolC	confers resistance to antibiotic	Rifampicin
+rpoB	targeted by	Rifampicin
+acrA	confers resistance to antibiotic	Tobramycin
+acrD	confers resistance to antibiotic	Tobramycin
+tolC	confers resistance to antibiotic	Tobramycin
+mipA	confers resistance to antibiotic	Streptomycin
+rpsL	targeted by	Streptomycin
+emrK	confers resistance to antibiotic	Tetracycline
+emrY	confers resistance to antibiotic	Tetracycline
+tolC	confers resistance to antibiotic	Tetracycline
+tap	confers resistance to antibiotic	Tetracycline
+mepA	confers resistance to antibiotic	Tetracycline
+acrA	confers resistance to antibiotic	Ampicillin
+acrB	confers resistance to antibiotic	Ampicillin
+tolC	confers resistance to antibiotic	Ampicillin
+dacA	targeted by	Ampicillin
+dacC	targeted by	Ampicillin
+dacD	targeted by	Ampicillin
+dacB	targeted by	Ampicillin
+pbpG	targeted by	Ampicillin
+ftsI	targeted by	Ampicillin
+mrdA	targeted by	Ampicillin
+ampH	targeted by	Ampicillin
+mrcA	targeted by	Ampicillin
+mrcB	targeted by	Ampicillin
+prc	targeted by	Ampicillin
+dacA	targeted by	Cefoxitin
+dacC	targeted by	Cefoxitin
+dacD	targeted by	Cefoxitin
+dacB	targeted by	Cefoxitin
+pbpG	targeted by	Cefoxitin
+ftsI	targeted by	Cefoxitin
+mrdA	targeted by	Cefoxitin
+ampH	targeted by	Cefoxitin
+mrcA	targeted by	Cefoxitin
+mrcB	targeted by	Cefoxitin
+prc	targeted by	Cefoxitin
+lpxD	confers resistance to antibiotic	Colistin
+lpxC	confers resistance to antibiotic	Colistin
+lpxA	confers resistance to antibiotic	Colistin
+acrA	confers resistance to antibiotic	Chloramphenicol
+acrB	confers resistance to antibiotic	Chloramphenicol
+tolC	confers resistance to antibiotic	Chloramphenicol
+msrA	confers resistance to antibiotic	Erythromycin
+macA	confers resistance to antibiotic	Erythromycin
+macB	confers resistance to antibiotic	Erythromycin
+tolC	confers resistance to antibiotic	Erythromycin
+mdtE	confers resistance to antibiotic	Erythromycin
+mdtF	confers resistance to antibiotic	Erythromycin
+mgtA	confers resistance to antibiotic	Erythromycin
+emrE	confers resistance to antibiotic	Erythromycin
+fusA	confers resistance to antibiotic	Fusidic acid
+fusA	targeted by	Fusidic acid
+fabI	confers resistance to antibiotic	Triclosan
+fabG	confers resistance to antibiotic	Triclosan
+acrA	confers resistance to antibiotic	Triclosan
+acrB	confers resistance to antibiotic	Triclosan
+tolC	confers resistance to antibiotic	Triclosan
+fabI	targeted by	Triclosan
+mgtA	confers resistance to antibiotic	Azithromycin
+rho	targeted by	Bicyclomycin
+ompC	confers resistance to antibiotic	Cefazolin
+acrA	confers resistance to antibiotic	Cephalothin
+acrB	confers resistance to antibiotic	Cephalothin
+tolC	confers resistance to antibiotic	Cephalothin
+lamB	confers resistance to antibiotic	Chlortetracycline
+mdtE	confers resistance to antibiotic	Cloxacillin
+mdtF	confers resistance to antibiotic	Cloxacillin
+tolC	confers resistance to antibiotic	Cloxacillin
+glpT	confers resistance to antibiotic	Fosfomycin
+uhpT	confers resistance to antibiotic	Fosfomycin
+uhpA	confers resistance to antibiotic	Fosfomycin
+ptsI	confers resistance to antibiotic	Fosfomycin
+murA	confers resistance to antibiotic	Fosfomycin
+nadD	confers resistance to antibiotic	Fusidic acid
+kdpD	confers resistance to antibiotic	Kanamycin
+kdpE	confers resistance to antibiotic	Kanamycin
+parC	confers resistance to antibiotic	Levofloxacin
+gyrA	confers resistance to antibiotic	Levofloxacin
+gyrA	confers resistance to antibiotic	Lomefloxacin
+parC	confers resistance to antibiotic	Lomefloxacin
+parE	confers resistance to antibiotic	Lomefloxacin
+gyrA	confers resistance to antibiotic	Nalidixic acid
+emrA	confers resistance to antibiotic	Nalidixic acid
+emrB	confers resistance to antibiotic	Nalidixic acid
+tolC	confers resistance to antibiotic	Nalidixic acid
+parC	confers resistance to antibiotic	Nalidixic acid
+parE	confers resistance to antibiotic	Nalidixic acid
+mipA	confers resistance to antibiotic	Nalidixic acid
+lamB	confers resistance to antibiotic	Nalidixic acid
+parC	confers resistance to antibiotic	Norfloxacin
+gyrA	confers resistance to antibiotic	Norfloxacin
+marA	confers resistance to antibiotic	Norfloxacin
+basR	confers resistance to antibiotic	Norfloxacin
+patA	confers resistance to antibiotic	Norfloxacin
+mdtE	confers resistance to antibiotic	Norfloxacin
+mdtF	confers resistance to antibiotic	Norfloxacin
+tolC	confers resistance to antibiotic	Norfloxacin
+gyrB	confers resistance to antibiotic	Novobiocin
+mdtA	confers resistance to antibiotic	Novobiocin
+mdtB	confers resistance to antibiotic	Novobiocin
+mdtC	confers resistance to antibiotic	Novobiocin
+tolC	confers resistance to antibiotic	Novobiocin
+cysB	confers resistance to antibiotic	Novobiocin
+alaS	confers resistance to antibiotic	Novobiocin
+parC	confers resistance to antibiotic	Ofloxacin
+gyrA	confers resistance to antibiotic	Ofloxacin
+parE	confers resistance to antibiotic	Ofloxacin
+mdtE	confers resistance to antibiotic	Oxacillin
+mdtF	confers resistance to antibiotic	Oxacillin
+tolC	confers resistance to antibiotic	Oxacillin
+ampC	confers resistance to antibiotic	Penicillin G
+mdtM	confers resistance to antibiotic	Puromycin
+mdtN	confers resistance to antibiotic	Puromycin
+mdtO	confers resistance to antibiotic	Puromycin
+mdtP	confers resistance to antibiotic	Puromycin
+dnaA	confers resistance to antibiotic	Rifampin
+acrA	confers resistance to antibiotic	Rifampin
+acrB	confers resistance to antibiotic	Rifampin
+tolC	confers resistance to antibiotic	Rifampin
+rpoB	targeted by	Rifampin
+rpoB	confers resistance to antibiotic	Rifamycin SV
+dnaA	confers resistance to antibiotic	Rifamycin SV
+gyrA	confers resistance to antibiotic	Triclosan

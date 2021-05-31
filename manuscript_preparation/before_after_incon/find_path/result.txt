@@ -1,0 +1,38 @@
+27	surA	Colistin	ylcG	Vancomycin
+27	surA	Colistin	cydX	Vancomycin
+27	surA	Azithromycin	ylcG	Vancomycin
+27	surA	Dactinomycin	ylcG	Vancomycin
+27	surA	Cephradine	cydX	Vancomycin
+27	surA	response to antibiotic	ylcG	Vancomycin
+27	surA	response to antibiotic	cydX	Vancomycin
+27	surA	response to antibiotic	elfD	Vancomycin
+27	surA	protein folding	elfD	Vancomycin
+48	rfaD	Azithromycin	ylcG	Vancomycin
+48	rfaD	Dactinomycin	ylcG	Vancomycin
+48	rfaD	Streptonigrin	ylcG	Vancomycin
+48	rfaD	membrane	cydX	Vancomycin
+48	rfaD	response to antibiotic	ylcG	Vancomycin
+48	rfaD	response to antibiotic	cydX	Vancomycin
+48	rfaD	response to antibiotic	elfD	Vancomycin
+48	rfaD	Colistin	ylcG	Vancomycin
+48	rfaD	Colistin	cydX	Vancomycin
+57	asmA	response to antibiotic	ylcG	Vancomycin
+57	asmA	response to antibiotic	cydX	Vancomycin
+57	asmA	response to antibiotic	elfD	Vancomycin
+57	asmA	Streptonigrin	ylcG	Vancomycin
+57	asmA	plasma membrane	cydX	Vancomycin
+57	asmA	Azithromycin	ylcG	Vancomycin
+57	asmA	integral component of plasma membrane	cydX	Vancomycin
+57	asmA	Dactinomycin	ylcG	Vancomycin
+61	recC	Sulfamethoxazole	rpsU	Norfloxacin
+61	recC	Sulfamethoxazole	rpsU	Norfloxacin
+66	xapR	response to antibiotic	ylcG	Vancomycin
+66	xapR	response to antibiotic	cydX	Vancomycin
+66	xapR	response to antibiotic	elfD	Vancomycin
+66	xapR	Colistin	ylcG	Vancomycin
+66	xapR	Colistin	cydX	Vancomycin
+66	xapR	Sulfamethoxazole	ylcG	Vancomycin
+70	bepA	membrane	cydX	Vancomycin
+77	hscB	response to antibiotic	ylcG	Vancomycin
+77	hscB	response to antibiotic	cydX	Vancomycin
+77	hscB	response to antibiotic	elfD	Vancomycin

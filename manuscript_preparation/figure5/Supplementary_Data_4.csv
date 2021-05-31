@@ -1,0 +1,94 @@
+Gene,Antibiotic,Cycle,Discovery Type,AMR Related Function,Reference,Comment
+acrA,Ampicillin,1,Already reported in E. coli,,"[1],[2],[3],[4]",Inconsistency
+acrA,Spectinomycin,1,Already reported in E. coli,,[2],Inconsistency
+acrB,Spectinomycin,1,Already reported in E. coli,,[1],Inconsistency
+acrF,Ampicillin,1,Already reported in E. coli,,[5],Inconsistency
+apt,Rifampin,1,Already reported in E. coli,,[5],Inconsistency
+asmA,Vancomycin,1,Already reported in E. coli,,[1],Inconsistency
+atpB,Hygromycin B,1,Already reported in other bacteria or other antibiotics in E. coli,,[8],Reported in S. aureus with Polymixins
+atpD,Hygromycin B,1,Already reported in other bacteria or other antibiotics in E. coli,,[1],
+atpE,Hygromycin B,1,Already reported in other bacteria or other antibiotics in E. coli,,[9],
+atpF,Hygromycin B,1,Already reported in other bacteria or other antibiotics in E. coli,,[10],
+bepA,Vancomycin,1,Already reported in other bacteria or other antibiotics in E. coli,,[3],
+deoA,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+deoB,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+deoC,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+dnaJ,Spectinomycin,1,Already reported in E. coli,,[1],Inconsistency
+dpiA,Paromomycin,1,Already reported in other bacteria or other antibiotics in E. coli,,[14],
+fecA,Ampicillin,1,Already reported in E. coli,,[5],Inconsistency
+fepA,Ampicillin,1,Already reported in E. coli,,[5],Inconsistency
+fhiA,Ampicillin,1,Already reported in E. coli,,[5],Inconsistency
+fis,Paromomycin,1,Already reported in other bacteria or other antibiotics in E. coli,,"[15],[16]",
+fis,Troleandomycin,1,Already reported in other bacteria or other antibiotics in E. coli,,"[15],[16]",
+fur,Geneticin,1,Already reported in other bacteria or other antibiotics in E. coli,,[18],
+gpmM,Rifampin,1,Already reported in E. coli,,[3],Inconsistency
+guaA,Rifampin,1,Already reported in E. coli,,[5],Inconsistency
+guaB,Rifampin,1,Already reported in E. coli,,[5],Inconsistency
+hns,Triclosan,1,Already reported in E. coli,,[2],Inconsistency
+hscB,Vancomycin,1,Already reported in E. coli,,"[2],[3]",Inconsistency
+lpd,Amoxicillin,1,Already reported in E. coli,,[2],
+lpoB,Ampicillin,1,Already reported in E. coli,,[1],Inconsistency
+lrp,Geneticin,1,Novel,,,
+marC,Norfloxacin,1,Already reported in E. coli,,[20],Norfloxacin
+mcrB,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+mdtE,Norfloxacin,1,Already reported in E. coli,,[4],Inconsistency
+nfuA,Kanamycin,1,Already reported in other bacteria or other antibiotics in E. coli,,[22],
+nuoM,Amoxicillin,1,Already reported in other bacteria or other antibiotics in E. coli,,[23],
+ompN,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+polB,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+purD,Rifampin,1,Already reported in E. coli,,[5],Inconsistency
+purN,Rifampin,1,Already reported in E. coli,,[5],Inconsistency
+rcsF,Ampicillin,1,Already reported in E. coli,,[6],Inconsistency
+recC,Norfloxacin,1,Already reported in E. coli,,[1],Inconsistency
+rfaD,Streptomycin,1,Already reported in E. coli,,[2],Inconsistency
+rfaD,Vancomycin,1,Already reported in E. coli,,[1],Inconsistency
+rpmG,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+rpoD,Rifampin,1,Already reported in E. coli,,[5],Inconsistency
+rpoS,Kanamycin,1,Already reported in E. coli,,[5],Inconsistency
+srmB,Rifampin,1,Already reported in E. coli,,[5],Inconsistency
+sspA,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+sspB,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+sulA,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+surA,Spectinomycin,1,Already reported in E. coli,,[2],Inconsistency
+surA,Vancomycin,1,Already reported in E. coli,,"[2],[3]",Inconsistency
+uhpT,Ampicillin,1,Already reported in E. coli,,[5],Inconsistency
+uvrA,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+uvrB,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+waaC,Spectinomycin,1,Already reported in E. coli,,[2],Inconsistency
+waaF,Triclosan,1,Already reported in E. coli,,[1],Inconsistency
+waaP,Spectinomycin,1,Already reported in E. coli,,[1],Inconsistency
+waaQ,Spectinomycin,1,Already reported in E. coli,,[1],Inconsistency
+xapR,Vancomycin,1,Already reported in E. coli,,"[2],[3]",Inconsistency
+yagP,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+ycjU,Triclosan,1,Already reported in E. coli,,[2],Inconsistency
+yeeN,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+yghB,Norfloxacin,1,Already reported in E. coli,,[5],Inconsistency
+atpA,Hygromycin B,2,Already reported in other bacteria or other antibiotics in E. coli,,[7],
+bamB,Cephradine,2,Already reported in other bacteria or other antibiotics in E. coli,,[11],Reported in Salmonella enteritidis with multiple antibiotics
+cspA,Hygromycin B,2,Already reported in other bacteria or other antibiotics in E. coli,,[12],"Reported in S. aureus with antimicrobial peptides, Antifungal"
+dacA,Ampicillin,2,Already reported in E. coli,,"[1],[2], [3]",Inconsistency
+degP,Kanamycin,2,Already reported in other bacteria or other antibiotics in E. coli,,[13],Reported in Lactococcus lactis with Puromycin
+fnr,Geneticin,2,Already reported in E. coli,,[17],
+ftsP,Cephradine,2,Novel,,,
+greA,Norfloxacin,2,Already reported in E. coli,,[5],Inconsistency
+hdfR,Hygromycin B,2,Novel,,,
+hrpA,Chloramphenicol,2,Already reported in E. coli,,[1],Inconsistency
+lexA,Cephradine,2,Already reported in E. coli,,[19],Ceprofloxacin and Mitomycin C
+mfd,Geneticin,2,Already reported in other bacteria or other antibiotics in E. coli,,[21],"Reported in Helicobacter pylori with Ciprofloxacin, Clarithromycin, Amoxicillin, Tetracycline, Metronidazole"
+mfd,Paromomycin,2,Already reported in other bacteria or other antibiotics in E. coli,,[21],"Reported in Helicobacter pylori with Ciprofloxacin, Clarithromycin, Amoxicillin, Tetracycline, Metronidazole"
+mltG,Ampicillin,2,Novel,,,Need to do literature check
+proV,Chloramphenicol,2,Novel,,,
+qorB,Ampicillin,2,Novel,,,
+rbsK,Cephradine,2,Novel,,,
+rfaE,Vancomycin,2,Already reported in E. coli,,[1],Inconsistency
+rppH,Cephradine,2,Already reported in E. coli,,[24],"Reported in E. coli with Rifampicin, Nitrofurantoin, Sulfanilamide, Cinoxacin, Colistin "
+soxS,Paromomycin,2,Already reported in E. coli,,[25],
+sspA,Cephradine,2,Already reported in E. coli,,[1],
+surA,Chloramphenicol,2,Already reported in E. coli,,[2],Inconsistency
+tolQ,Triclosan,2,Already reported in E. coli,,[1],Inconsistency
+tolQ,Vancomycin,2,Already reported in E. coli,,[1],Inconsistency
+ubiF,Cephradine,2,Already reported in E. coli,,[26],"Reported in E. coli with Ampicillin, Gentamicin, Trimethoprim, Norfloxacin, Tetracycline"
+waaG,Chloramphenicol,2,Already reported in E. coli,,[2],Inconsistency
+waaG,Spectinomycin,2,Already reported in E. coli,,[1],Inconsistency
+waaQ,Chloramphenicol,2,Already reported in E. coli,,[1],Inconsistency
+ybeY,Spectinomycin,2,Already reported in E. coli,,[2],Inconsistency
