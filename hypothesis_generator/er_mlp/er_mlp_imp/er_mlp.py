@@ -18,6 +18,8 @@ import random
 import numpy as np
 from sklearn.metrics import accuracy_score, f1_score, confusion_matrix
 import tensorflow as tf
+import tensorflow.compat.v1 as tf1
+tf1.disable_v2_behavior()
 
 # local imports
 from metrics import roc_auc_stats, pr_stats
@@ -57,14 +59,14 @@ class ERMLP:
         """
         log.info('Loading previously saved tensor terms...')
 
-        saver = tf.train.import_meta_graph(meta_graph)
+        saver = tf1.train.import_meta_graph(meta_graph)
         saver.restore(sess, model_restore)
 
         # load tensors
-        graph = tf.get_default_graph()
+        graph = tf1.get_default_graph()
         self.y = graph.get_tensor_by_name('y:0')
         self.test_triplets = graph.get_tensor_by_name('test_triplets:0')
-        self.test_predictions = tf.get_collection('test_predictions')[0]
+        self.test_predictions = tf1.get_collection('test_predictions')[0]
 
     def _create_tensor_terms(self):
         """
@@ -76,16 +78,16 @@ class ERMLP:
         # placeholders #
         ################
         # testing triplets: subject, predicate, object
-        self.test_triplets = tf.placeholder(tf.int32, shape=(None, 3), name='test_triplets')
+        self.test_triplets = tf1.placeholder(tf.int32, shape=(None, 3), name='test_triplets')
 
         # training triplets: subject, predicate, object, corrupted_entity
-        self.train_triplets = tf.placeholder(tf.int32, shape=(None, 4), name='train_triplets')
+        self.train_triplets = tf1.placeholder(tf.int32, shape=(None, 4), name='train_triplets')
 
         # truth value for the triplet used for evaluation
-        self.y = tf.placeholder(tf.float32, shape=(None, 1), name='y')
+        self.y = tf1.placeholder(tf.float32, shape=(None, 1), name='y')
 
         # boolean to determine if we want to corrupt the head or tail
-        self.flip_placeholder = tf.placeholder(tf.bool, name='flip_placeholder')
+        self.flip_placeholder = tf1.placeholder(tf.bool, name='flip_placeholder')
 
         ###########
         # weights #
@@ -102,15 +104,15 @@ class ERMLP:
             p_vocab_size = self.params['num_preds']
 
         # xavier initializer
-        initializer = tf.contrib.layers.xavier_initializer()
+        initializer = tf.initializers.GlorotUniform()
 
         self.weights = {
             # initialize word embeddings
             'E': tf.Variable(
-                tf.random_uniform([e_vocab_size, self.params['embedding_size']], -0.001, 0.001),
+                tf.random.uniform([e_vocab_size, self.params['embedding_size']], -0.001, 0.001),
                 name='E'),
             'P': tf.Variable(
-                tf.random_uniform([p_vocab_size, self.params['embedding_size']], -0.001, 0.001),
+                tf.random.uniform([p_vocab_size, self.params['embedding_size']], -0.001, 0.001),
                 name='P'),
             # weights and biases of the network
             'C': tf.Variable(
@@ -203,7 +205,7 @@ class ERMLP:
         padded_indices[mask] = np.hstack((indices[:]))
 
         weights = np.multiply(np.ones(mask.shape, dtype=np.float32) / lens[:, None], mask)
-        weights = np.expand_dims(weights, self.params['embedding_size'] - 1)
+        weights = np.expand_dims(weights, weights.ndim)
 
         return weights, padded_indices
 
@@ -473,8 +475,8 @@ class ERMLP:
         after_thresh = tf.maximum(error_plus_margin, 0)
         batch_size = tf.constant(self.params['batch_size'], dtype=tf.float32)
 
-        loss = tf.div(tf.reduce_sum(after_thresh), batch_size)
-        l2 = tf.reduce_sum([tf.nn.l2_loss(var) for var in tf.trainable_variables()])
+        loss = tf1.div(tf.reduce_sum(after_thresh), batch_size)
+        l2 = tf.reduce_sum([tf.nn.l2_loss(var) for var in tf1.trainable_variables()])
 
         return tf.add(loss, tf.multiply(self.params['lambda'], l2))
 
@@ -490,7 +492,7 @@ class ERMLP:
         """
         log.info('Training using Adam as optimizer')
 
-        return tf.train.AdamOptimizer(learning_rate=self.params['learning_rate']).minimize(loss)
+        return tf1.train.AdamOptimizer(learning_rate=self.params['learning_rate']).minimize(loss)
 
     def train_adagrad(self, loss):
         """

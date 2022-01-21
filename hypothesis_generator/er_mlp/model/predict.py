@@ -26,6 +26,8 @@ sys.path.insert(0, os.path.join(DIRECTORY, '../../utils'))
 # third party imports
 import numpy as np
 import tensorflow as tf
+import tensorflow.compat.v1 as tf1
+tf1.disable_v2_behavior()
 
 # local imports
 from config_parser import ConfigParser
@@ -84,7 +86,7 @@ def main():
     # setup configuration parser
     configparser = ConfigParser(config_file)
 
-    with tf.Session() as sess:
+    with tf1.Session() as sess:
         # load the saved parameters
         with open(os.path.join(model_save_dir, 'params.pkl'), 'rb') as file:
             params = pickle.load(file)

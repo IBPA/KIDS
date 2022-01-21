@@ -19,6 +19,8 @@ import random
 # third party imports
 import numpy as np
 import tensorflow as tf
+import tensorflow.compat.v1 as tf1
+tf1.disable_v2_behavior()
 
 # local imports
 from data_processor import DataProcessor
@@ -121,16 +123,16 @@ def run_model(params, final_model=False):
 
     # network used for training
     train_predictions = er_mlp.build_traininig_model()
-    tf.add_to_collection('train_predictions', train_predictions)
+    tf1.add_to_collection('train_predictions', train_predictions)
 
     # network used for testing
     test_predictions = er_mlp.build_testing_model()
-    tf.add_to_collection('test_predictions', test_predictions)
+    tf1.add_to_collection('test_predictions', test_predictions)
 
     # loss
     cost = er_mlp.loss()
-    tf.add_to_collection('cost', cost)
-    tf.summary.scalar('cost', cost)
+    tf1.add_to_collection('cost', cost)
+    tf1.summary.scalar('cost', cost)
 
     # optimizer
     if params['optimizer'] == 0:
@@ -138,13 +140,13 @@ def run_model(params, final_model=False):
     else:
         optimizer = er_mlp.train_adam(cost)  # adam
 
-    tf.add_to_collection('optimizer', optimizer)
+    tf1.add_to_collection('optimizer', optimizer)
 
     # merge summary
-    merged = tf.summary.merge_all()
+    merged = tf1.summary.merge_all()
 
     # saver to save the model
-    saver = tf.train.Saver()
+    saver = tf1.train.Saver()
 
     # choose the positive training data
     data_train = indexed_train_data[indexed_train_data[:, 3] == 1]
@@ -159,7 +161,7 @@ def run_model(params, final_model=False):
 
     # init variables
     log.info('Initializing tensor variables...')
-    init_all = tf.global_variables_initializer()
+    init_all = tf1.global_variables_initializer()
 
     #########################
     # train the network #
@@ -167,9 +169,9 @@ def run_model(params, final_model=False):
     log.info('Begin training...')
 
     # begin session
-    with tf.Session() as sess:
+    with tf1.Session() as sess:
         # writer
-        train_writer = tf.summary.FileWriter(
+        train_writer = tf1.summary.FileWriter(
             os.path.join(params['model_save_directory'], 'log'),
             sess.graph)
 
@@ -261,16 +263,16 @@ def run_model(params, final_model=False):
                 _type='final')
 
         # plot the cost graph
-        plot_cost(
-            iter_list,
-            cost_list,
-            params['model_save_directory'])
+        # plot_cost(
+        #     iter_list,
+        #     cost_list,
+        #     params['model_save_directory'])
 
-        plot_map(
-            iter_list,
-            train_local_map_list,
-            params['model_save_directory'],
-            filename='train_local_map.png')
+        # plot_map(
+        #     iter_list,
+        #     train_local_map_list,
+        #     params['model_save_directory'],
+        #     filename='train_local_map.png')
 
         if not final_model:
             plot_map(

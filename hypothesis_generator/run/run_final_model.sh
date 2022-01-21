@@ -5,12 +5,12 @@ set -e
 # global variables
 current_dir=$(pwd)
 if [ -z "$1" ]; then
-	config_dir='final_2'
+	config_dir='final'
 else
 	config_dir="$1"
 fi
 
-output_dir=$current_dir/output_2
+output_dir=$current_dir/output_1a
 
 echo "Config directory: $config_dir"
 echo "Output directory: $output_dir"

@@ -107,7 +107,7 @@ def pr_curve_cv():
     folds = ['fold_0', 'fold_1', 'fold_2', 'fold_3', 'fold_4']
 
     # PRA
-    parent_dir = '/home/jyoun/Jason/Research/KIDS/hypothesis_generator/pra/model/model_instance/{}/instance/test/classifications/confers#SPACE#resistance#SPACE#to#SPACE#antibiotic'
+    parent_dir = '/home/jasonyoun/Jason/Research/KIDS/hypothesis_generator/pra/model/model_instance/{}/instance/test/classifications/confers#SPACE#resistance#SPACE#to#SPACE#antibiotic'
 
     data_dict = {}
     precision = {}
@@ -135,7 +135,7 @@ def pr_curve_cv():
     plt.step(avg_recall, avg_precision, label="{} (mAP:{:.3f})".format('PRA', mAP/len(folds)), where='post')
 
     # MLP
-    parent_dir = '/home/jyoun/Jason/Research/KIDS/hypothesis_generator/er_mlp/model/model_instance/{}/test/predictions.txt'
+    parent_dir = '/home/jasonyoun/Jason/Research/KIDS/hypothesis_generator/er_mlp/model/model_instance/{}/test/predictions.txt'
 
     data_dict = {}
     precision = {}
@@ -166,7 +166,7 @@ def pr_curve_cv():
 
 
     # stacked
-    parent_dir = '/home/jyoun/Jason/Research/KIDS/hypothesis_generator/stacked/model_instance/{}/test/predictions_stacked.txt'
+    parent_dir = '/home/jasonyoun/Jason/Research/KIDS/hypothesis_generator/stacked/model_instance/{}/test/predictions_stacked.txt'
 
     data_dict = {}
     precision = {}
@@ -193,12 +193,57 @@ def pr_curve_cv():
 
     plt.step(avg_recall, avg_precision, label="{} (mAP:{:.3f})".format('Stacked', mAP/len(folds)), where='post')
 
+
+    # TransE
+    data_dict = {}
+    ap = {}
+    for fold in range(5):
+        pd_data = pd.read_csv(
+            f'/home/jasonyoun/Jason/Opensource/OpenKE/results/transe_fold{fold}.csv',
+            sep='\t')
+        pd_data['score'] = pd_data['score'].astype(float)
+        pd_data['label'] = pd_data['label'].astype(int)
+        data_dict[fold] = pd_data[['score', 'label']]
+        ap[fold] = average_precision_score(pd_data['label'], pd_data['score'])
+
+    pd_combined = pd.concat(data_dict.values())
+    avg_precision, avg_recall, _ = precision_recall_curve(pd_combined['label'], pd_combined['score'])
+    mAP = 0
+
+    for fold in range(5):
+        mAP += ap[fold]
+    print(ap)
+
+    plt.step(avg_recall, avg_precision, label="{} (mAP:{:.3f})".format('TransE', mAP/len(folds)), color='k', where='post')
+
+    # TransD
+    data_dict = {}
+    ap = {}
+    for fold in range(5):
+        pd_data = pd.read_csv(
+            f'/home/jasonyoun/Jason/Opensource/OpenKE/results/transd_fold{fold}.csv',
+            sep='\t')
+        pd_data['score'] = pd_data['score'].astype(float)
+        pd_data['label'] = pd_data['label'].astype(int)
+        data_dict[fold] = pd_data[['score', 'label']]
+        ap[fold] = average_precision_score(pd_data['label'], pd_data['score'])
+
+    pd_combined = pd.concat(data_dict.values())
+    avg_precision, avg_recall, _ = precision_recall_curve(pd_combined['label'], pd_combined['score'])
+    mAP = 0
+
+    for fold in range(5):
+        mAP += ap[fold]
+    print(ap)
+
+    plt.step(avg_recall, avg_precision, label="{} (mAP:{:.3f})".format('TransD', mAP/len(folds)), color='k', where='post')
+
     # figure details
     plt.xlabel("Recall")
     plt.ylabel("Precision")
     plt.title("Precision Recall Curve")
     plt.legend(loc="upper right", prop={'size': 8})
-    plt.savefig('/home/jyoun/Jason/UbuntuShare/combined_pr.svg')
+    plt.savefig('./combined_pr.svg')
 
 
 def main():
@@ -207,8 +252,8 @@ def main():
     """
     args = parse_argument()
 
-    edges_statistics(os.path.join(args.outdir, DEFAULT_TEST_STATS_FILE_STR))
-    # pr_curve_cv()
+    # edges_statistics(os.path.join(args.outdir, DEFAULT_TEST_STATS_FILE_STR))
+    pr_curve_cv()
 
     # plt.show()
 
