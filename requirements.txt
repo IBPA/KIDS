@@ -6,7 +6,7 @@ cachetools==4.2.2
 certifi==2020.12.5
 chardet==4.0.0
 cycler==0.10.0
-dataclasses==0.8
+dataclasses
 flatbuffers==1.12
 gast==0.4.0
 google-auth==1.30.1
