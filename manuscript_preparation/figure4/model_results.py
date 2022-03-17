@@ -1,7 +1,7 @@
 import sys
 import pickle
-import matplotlib.pyplot as plt
-import seaborn as sns
+# import matplotlib.pyplot as plt
+# import seaborn as sns
 from scipy.stats import ttest_rel, ttest_ind
 import pandas as pd
 import numpy as np
@@ -142,12 +142,12 @@ print('  tucker, stacked: ', pval)
 print()
 sys.exit()
 
-# figure
-fig = plt.figure()
+# # figure
+# fig = plt.figure()
 
-sns.set(style="whitegrid")
-ax = sns.boxplot(x='Evaluation Metric', y='Score', hue='Model', data=pd_result, palette="Set3")
-ax = sns.swarmplot(x='Evaluation Metric', y='Score', hue='Model', data=pd_result, color=".25", dodge=True)
+# sns.set(style="whitegrid")
+# ax = sns.boxplot(x='Evaluation Metric', y='Score', hue='Model', data=pd_result, palette="Set3")
+# ax = sns.swarmplot(x='Evaluation Metric', y='Score', hue='Model', data=pd_result, color=".25", dodge=True)
 
-plt.axis([None, None, 0.08, 0.57])
-save_figure(fig, './models_metric.svg')
+# plt.axis([None, None, 0.08, 0.57])
+# save_figure(fig, './models_metric.svg')

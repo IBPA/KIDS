@@ -22,7 +22,7 @@ import time
 
 # third party imports
 import numpy as np
-import matplotlib.pyplot as plt
+# import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc, precision_recall_curve, average_precision_score
 from scipy import interp
 
