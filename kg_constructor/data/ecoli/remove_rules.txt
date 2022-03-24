@@ -1,0 +1,5 @@
+if_where	if_rule	if_value
+Predicate	startswith	confers resistance to antibiotic after
+Predicate	startswith	confers no resistance to antibiotic after
+Predicate	startswith	upregulated by antibiotic after
+Predicate	startswith	not upregulated by antibiotic after

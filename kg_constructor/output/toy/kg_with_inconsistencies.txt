@@ -1,0 +1,15 @@
+Subject	Predicate	Object	Source
+Jennifer Gates	childOf	Melinda French	source1
+Jennifer Gates	childOf	Bill Gates	source1
+Phoebe Gates	childOf	Bill Gates	source1
+Melinda French	childOf	Bill Gates	source1
+Phoebe Gates	childOf	Melinda French	source1
+Melinda French	childOf	Melinda French	source1
+Bill Gates	marriedTo	Melinda French	source1
+Rory Gates	bornIn	Washington	source1
+Phoebe Gates	bornIn	Washington	source1
+Melinda French	bornIn	Texas	source1
+Bill Gates	founderOf	Microsoft	source2
+Jennifer Gates	bornIn	Washington	source2
+Microsoft	locatedIn	Washington	source2
+Bill Gates	divorcedWith	Melinda French	source2

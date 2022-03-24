@@ -1,0 +1,9 @@
+positive	negative
+confers resistance to antibiotic	confers no resistance to antibiotic
+upregulated by antibiotic	not upregulated by antibiotic
+represses	no represses
+activates	no activates
+has	
+is involved in	
+is part of	
+targeted by	

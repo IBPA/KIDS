@@ -1,0 +1,11 @@
+where	value_1	value_2
+Object	response to antibiotic	no response to antibiotic
+Predicate	confers resistance to antibiotic	confers no resistance to antibiotic
+Predicate	confers resistance to antibiotic after 30 mins	confers no resistance to antibiotic after 30 mins
+Predicate	confers resistance to antibiotic after 15 hours	confers no resistance to antibiotic after 15 hours
+Predicate	confers resistnace to antibiotic after 18 hours	confers no resistance to antibiotic after 18 hours
+Predicate	confers resistnace to antibiotic after 36 hours	confers no resistance to antibiotic after 36 hours
+Predicate	confers resistnace to antibiotic after 3 days	confers no resistance to antibiotic after 3 days
+Predicate	confers resistnace to antibiotic after 7 days	confers no resistance to antibiotic after 7 days
+Predicate	activates	no activates
+Predicate	represses	no represses

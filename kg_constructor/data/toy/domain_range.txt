@@ -1,0 +1,7 @@
+Relation	Domain	Range
+childOf	person	person
+divorcedWith	person	person
+founderOf	person	company
+locatedIn	company	location
+bornIn	person	location
+marriedTo	person	person
