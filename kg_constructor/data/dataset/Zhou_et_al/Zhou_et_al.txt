@@ -1,0 +1,1458 @@
+Subject	Predicate	Object
+arcB	confers resistance to antibiotic after 36 hours	Chloramphenicol
+arcB	confers resistance to antibiotic after 36 hours	Puromycin
+arcB	confers resistance to antibiotic after 36 hours	Tylosin
+arcB	confers no resistance to antibiotic after 36 hours	Geneticin
+arcB	confers no resistance to antibiotic after 36 hours	Paromomycin
+arcB	confers resistance to antibiotic after 36 hours	Troleandomycin
+arcB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+arcB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+arcB	confers no resistance to antibiotic after 36 hours	Amikacin
+arcB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+arcB	confers no resistance to antibiotic after 36 hours	Kanamycin
+arcB	confers no resistance to antibiotic after 36 hours	Tobramycin
+arcB	confers no resistance to antibiotic after 36 hours	Novobiocin
+arcB	confers no resistance to antibiotic after 36 hours	Gentamicin
+arcB	confers no resistance to antibiotic after 36 hours	Neomycin
+arcB	confers no resistance to antibiotic after 36 hours	Capreomycin
+arcB	confers no resistance to antibiotic after 36 hours	Cefamandole
+arcB	confers no resistance to antibiotic after 36 hours	Cephalothin
+arcB	confers no resistance to antibiotic after 36 hours	Aztreonam
+arcB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+arcB	confers no resistance to antibiotic after 36 hours	Oxacillin
+arcB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+arcB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+arcB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+arcB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+arcB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+arcB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+arcB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+arcB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+arcB	confers no resistance to antibiotic after 36 hours	Spiramycin
+arcB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+arcA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+arcA	confers no resistance to antibiotic after 36 hours	Puromycin
+arcA	confers no resistance to antibiotic after 36 hours	Tylosin
+arcA	confers resistance to antibiotic after 36 hours	Geneticin
+arcA	confers resistance to antibiotic after 36 hours	Paromomycin
+arcA	confers no resistance to antibiotic after 36 hours	Troleandomycin
+arcA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+arcA	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+arcA	confers no resistance to antibiotic after 36 hours	Amikacin
+arcA	confers no resistance to antibiotic after 36 hours	Hygromycin B
+arcA	confers no resistance to antibiotic after 36 hours	Kanamycin
+arcA	confers no resistance to antibiotic after 36 hours	Tobramycin
+arcA	confers no resistance to antibiotic after 36 hours	Novobiocin
+arcA	confers no resistance to antibiotic after 36 hours	Gentamicin
+arcA	confers no resistance to antibiotic after 36 hours	Neomycin
+arcA	confers no resistance to antibiotic after 36 hours	Capreomycin
+arcA	confers no resistance to antibiotic after 36 hours	Cefamandole
+arcA	confers no resistance to antibiotic after 36 hours	Cephalothin
+arcA	confers no resistance to antibiotic after 36 hours	Aztreonam
+arcA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+arcA	confers no resistance to antibiotic after 36 hours	Oxacillin
+arcA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+arcA	confers no resistance to antibiotic after 36 hours	Ofloxacin
+arcA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+arcA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+arcA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+arcA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+arcA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+arcA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+arcA	confers no resistance to antibiotic after 36 hours	Spiramycin
+arcA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+atoS	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+atoS	confers no resistance to antibiotic after 36 hours	Puromycin
+atoS	confers no resistance to antibiotic after 36 hours	Tylosin
+atoS	confers no resistance to antibiotic after 36 hours	Geneticin
+atoS	confers no resistance to antibiotic after 36 hours	Paromomycin
+atoS	confers no resistance to antibiotic after 36 hours	Troleandomycin
+atoS	confers resistance to antibiotic after 36 hours	Polymyxin B
+atoS	confers resistance to antibiotic after 36 hours	Dihydrostreptomycin
+atoS	confers no resistance to antibiotic after 36 hours	Amikacin
+atoS	confers no resistance to antibiotic after 36 hours	Hygromycin B
+atoS	confers no resistance to antibiotic after 36 hours	Kanamycin
+atoS	confers no resistance to antibiotic after 36 hours	Tobramycin
+atoS	confers no resistance to antibiotic after 36 hours	Novobiocin
+atoS	confers no resistance to antibiotic after 36 hours	Gentamicin
+atoS	confers no resistance to antibiotic after 36 hours	Neomycin
+atoS	confers no resistance to antibiotic after 36 hours	Capreomycin
+atoS	confers no resistance to antibiotic after 36 hours	Cefamandole
+atoS	confers no resistance to antibiotic after 36 hours	Cephalothin
+atoS	confers no resistance to antibiotic after 36 hours	Aztreonam
+atoS	confers no resistance to antibiotic after 36 hours	Norfloxacin
+atoS	confers no resistance to antibiotic after 36 hours	Oxacillin
+atoS	confers no resistance to antibiotic after 36 hours	Trimethoprim
+atoS	confers no resistance to antibiotic after 36 hours	Ofloxacin
+atoS	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+atoS	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+atoS	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+atoS	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+atoS	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+atoS	confers no resistance to antibiotic after 36 hours	Cefoxitin
+atoS	confers no resistance to antibiotic after 36 hours	Spiramycin
+atoS	confers no resistance to antibiotic after 36 hours	Hygromycin 
+atoC	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+atoC	confers no resistance to antibiotic after 36 hours	Puromycin
+atoC	confers no resistance to antibiotic after 36 hours	Tylosin
+atoC	confers no resistance to antibiotic after 36 hours	Geneticin
+atoC	confers no resistance to antibiotic after 36 hours	Paromomycin
+atoC	confers no resistance to antibiotic after 36 hours	Troleandomycin
+atoC	confers resistance to antibiotic after 36 hours	Polymyxin B
+atoC	confers resistance to antibiotic after 36 hours	Dihydrostreptomycin
+atoC	confers no resistance to antibiotic after 36 hours	Amikacin
+atoC	confers no resistance to antibiotic after 36 hours	Hygromycin B
+atoC	confers no resistance to antibiotic after 36 hours	Kanamycin
+atoC	confers no resistance to antibiotic after 36 hours	Tobramycin
+atoC	confers no resistance to antibiotic after 36 hours	Novobiocin
+atoC	confers no resistance to antibiotic after 36 hours	Gentamicin
+atoC	confers no resistance to antibiotic after 36 hours	Neomycin
+atoC	confers no resistance to antibiotic after 36 hours	Capreomycin
+atoC	confers no resistance to antibiotic after 36 hours	Cefamandole
+atoC	confers no resistance to antibiotic after 36 hours	Cephalothin
+atoC	confers no resistance to antibiotic after 36 hours	Aztreonam
+atoC	confers no resistance to antibiotic after 36 hours	Norfloxacin
+atoC	confers no resistance to antibiotic after 36 hours	Oxacillin
+atoC	confers no resistance to antibiotic after 36 hours	Trimethoprim
+atoC	confers no resistance to antibiotic after 36 hours	Ofloxacin
+atoC	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+atoC	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+atoC	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+atoC	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+atoC	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+atoC	confers no resistance to antibiotic after 36 hours	Cefoxitin
+atoC	confers no resistance to antibiotic after 36 hours	Spiramycin
+atoC	confers no resistance to antibiotic after 36 hours	Hygromycin 
+baeS	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+baeS	confers no resistance to antibiotic after 36 hours	Puromycin
+baeS	confers no resistance to antibiotic after 36 hours	Tylosin
+baeS	confers no resistance to antibiotic after 36 hours	Geneticin
+baeS	confers no resistance to antibiotic after 36 hours	Paromomycin
+baeS	confers no resistance to antibiotic after 36 hours	Troleandomycin
+baeS	confers no resistance to antibiotic after 36 hours	Polymyxin B
+baeS	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+baeS	confers no resistance to antibiotic after 36 hours	Amikacin
+baeS	confers no resistance to antibiotic after 36 hours	Hygromycin B
+baeS	confers no resistance to antibiotic after 36 hours	Kanamycin
+baeS	confers no resistance to antibiotic after 36 hours	Tobramycin
+baeS	confers no resistance to antibiotic after 36 hours	Novobiocin
+baeS	confers no resistance to antibiotic after 36 hours	Gentamicin
+baeS	confers no resistance to antibiotic after 36 hours	Neomycin
+baeS	confers no resistance to antibiotic after 36 hours	Capreomycin
+baeS	confers no resistance to antibiotic after 36 hours	Cefamandole
+baeS	confers no resistance to antibiotic after 36 hours	Cephalothin
+baeS	confers no resistance to antibiotic after 36 hours	Aztreonam
+baeS	confers no resistance to antibiotic after 36 hours	Norfloxacin
+baeS	confers no resistance to antibiotic after 36 hours	Oxacillin
+baeS	confers no resistance to antibiotic after 36 hours	Trimethoprim
+baeS	confers no resistance to antibiotic after 36 hours	Ofloxacin
+baeS	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+baeS	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+baeS	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+baeS	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+baeS	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+baeS	confers no resistance to antibiotic after 36 hours	Cefoxitin
+baeS	confers no resistance to antibiotic after 36 hours	Spiramycin
+baeS	confers no resistance to antibiotic after 36 hours	Hygromycin 
+baeR	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+baeR	confers no resistance to antibiotic after 36 hours	Puromycin
+baeR	confers no resistance to antibiotic after 36 hours	Tylosin
+baeR	confers no resistance to antibiotic after 36 hours	Geneticin
+baeR	confers no resistance to antibiotic after 36 hours	Paromomycin
+baeR	confers no resistance to antibiotic after 36 hours	Troleandomycin
+baeR	confers no resistance to antibiotic after 36 hours	Polymyxin B
+baeR	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+baeR	confers no resistance to antibiotic after 36 hours	Amikacin
+baeR	confers no resistance to antibiotic after 36 hours	Hygromycin B
+baeR	confers no resistance to antibiotic after 36 hours	Kanamycin
+baeR	confers no resistance to antibiotic after 36 hours	Tobramycin
+baeR	confers no resistance to antibiotic after 36 hours	Novobiocin
+baeR	confers no resistance to antibiotic after 36 hours	Gentamicin
+baeR	confers no resistance to antibiotic after 36 hours	Neomycin
+baeR	confers no resistance to antibiotic after 36 hours	Capreomycin
+baeR	confers no resistance to antibiotic after 36 hours	Cefamandole
+baeR	confers no resistance to antibiotic after 36 hours	Cephalothin
+baeR	confers no resistance to antibiotic after 36 hours	Aztreonam
+baeR	confers no resistance to antibiotic after 36 hours	Norfloxacin
+baeR	confers no resistance to antibiotic after 36 hours	Oxacillin
+baeR	confers no resistance to antibiotic after 36 hours	Trimethoprim
+baeR	confers no resistance to antibiotic after 36 hours	Ofloxacin
+baeR	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+baeR	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+baeR	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+baeR	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+baeR	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+baeR	confers no resistance to antibiotic after 36 hours	Cefoxitin
+baeR	confers no resistance to antibiotic after 36 hours	Spiramycin
+baeR	confers no resistance to antibiotic after 36 hours	Hygromycin 
+barA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+barA	confers no resistance to antibiotic after 36 hours	Puromycin
+barA	confers no resistance to antibiotic after 36 hours	Tylosin
+barA	confers no resistance to antibiotic after 36 hours	Geneticin
+barA	confers no resistance to antibiotic after 36 hours	Paromomycin
+barA	confers no resistance to antibiotic after 36 hours	Troleandomycin
+barA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+barA	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+barA	confers no resistance to antibiotic after 36 hours	Amikacin
+barA	confers no resistance to antibiotic after 36 hours	Hygromycin B
+barA	confers no resistance to antibiotic after 36 hours	Kanamycin
+barA	confers no resistance to antibiotic after 36 hours	Tobramycin
+barA	confers no resistance to antibiotic after 36 hours	Novobiocin
+barA	confers no resistance to antibiotic after 36 hours	Gentamicin
+barA	confers no resistance to antibiotic after 36 hours	Neomycin
+barA	confers no resistance to antibiotic after 36 hours	Capreomycin
+barA	confers no resistance to antibiotic after 36 hours	Cefamandole
+barA	confers no resistance to antibiotic after 36 hours	Cephalothin
+barA	confers no resistance to antibiotic after 36 hours	Aztreonam
+barA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+barA	confers no resistance to antibiotic after 36 hours	Oxacillin
+barA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+barA	confers no resistance to antibiotic after 36 hours	Ofloxacin
+barA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+barA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+barA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+barA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+barA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+barA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+barA	confers no resistance to antibiotic after 36 hours	Spiramycin
+barA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+cpxR	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+cpxR	confers no resistance to antibiotic after 36 hours	Puromycin
+cpxR	confers no resistance to antibiotic after 36 hours	Tylosin
+cpxR	confers resistance to antibiotic after 36 hours	Geneticin
+cpxR	confers no resistance to antibiotic after 36 hours	Paromomycin
+cpxR	confers no resistance to antibiotic after 36 hours	Troleandomycin
+cpxR	confers no resistance to antibiotic after 36 hours	Polymyxin B
+cpxR	confers resistance to antibiotic after 36 hours	Dihydrostreptomycin
+cpxR	confers resistance to antibiotic after 36 hours	Amikacin
+cpxR	confers resistance to antibiotic after 36 hours	Hygromycin B
+cpxR	confers resistance to antibiotic after 36 hours	Kanamycin
+cpxR	confers resistance to antibiotic after 36 hours	Tobramycin
+cpxR	confers no resistance to antibiotic after 36 hours	Novobiocin
+cpxR	confers no resistance to antibiotic after 36 hours	Gentamicin
+cpxR	confers no resistance to antibiotic after 36 hours	Neomycin
+cpxR	confers no resistance to antibiotic after 36 hours	Capreomycin
+cpxR	confers no resistance to antibiotic after 36 hours	Cefamandole
+cpxR	confers no resistance to antibiotic after 36 hours	Cephalothin
+cpxR	confers no resistance to antibiotic after 36 hours	Aztreonam
+cpxR	confers no resistance to antibiotic after 36 hours	Norfloxacin
+cpxR	confers no resistance to antibiotic after 36 hours	Oxacillin
+cpxR	confers no resistance to antibiotic after 36 hours	Trimethoprim
+cpxR	confers no resistance to antibiotic after 36 hours	Ofloxacin
+cpxR	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+cpxR	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+cpxR	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+cpxR	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+cpxR	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+cpxR	confers no resistance to antibiotic after 36 hours	Cefoxitin
+cpxR	confers no resistance to antibiotic after 36 hours	Spiramycin
+cpxR	confers no resistance to antibiotic after 36 hours	Hygromycin 
+cpxA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+cpxA	confers no resistance to antibiotic after 36 hours	Puromycin
+cpxA	confers no resistance to antibiotic after 36 hours	Tylosin
+cpxA	confers resistance to antibiotic after 36 hours	Geneticin
+cpxA	confers no resistance to antibiotic after 36 hours	Paromomycin
+cpxA	confers no resistance to antibiotic after 36 hours	Troleandomycin
+cpxA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+cpxA	confers resistance to antibiotic after 36 hours	Dihydrostreptomycin
+cpxA	confers resistance to antibiotic after 36 hours	Amikacin
+cpxA	confers resistance to antibiotic after 36 hours	Hygromycin B
+cpxA	confers resistance to antibiotic after 36 hours	Kanamycin
+cpxA	confers no resistance to antibiotic after 36 hours	Tobramycin
+cpxA	confers no resistance to antibiotic after 36 hours	Novobiocin
+cpxA	confers no resistance to antibiotic after 36 hours	Gentamicin
+cpxA	confers no resistance to antibiotic after 36 hours	Neomycin
+cpxA	confers no resistance to antibiotic after 36 hours	Capreomycin
+cpxA	confers no resistance to antibiotic after 36 hours	Cefamandole
+cpxA	confers no resistance to antibiotic after 36 hours	Cephalothin
+cpxA	confers no resistance to antibiotic after 36 hours	Aztreonam
+cpxA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+cpxA	confers no resistance to antibiotic after 36 hours	Oxacillin
+cpxA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+cpxA	confers no resistance to antibiotic after 36 hours	Ofloxacin
+cpxA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+cpxA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+cpxA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+cpxA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+cpxA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+cpxA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+cpxA	confers no resistance to antibiotic after 36 hours	Spiramycin
+cpxA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+cusR	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+cusR	confers no resistance to antibiotic after 36 hours	Puromycin
+cusR	confers no resistance to antibiotic after 36 hours	Tylosin
+cusR	confers no resistance to antibiotic after 36 hours	Geneticin
+cusR	confers no resistance to antibiotic after 36 hours	Paromomycin
+cusR	confers no resistance to antibiotic after 36 hours	Troleandomycin
+cusR	confers no resistance to antibiotic after 36 hours	Polymyxin B
+cusR	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+cusR	confers no resistance to antibiotic after 36 hours	Amikacin
+cusR	confers no resistance to antibiotic after 36 hours	Hygromycin B
+cusR	confers no resistance to antibiotic after 36 hours	Kanamycin
+cusR	confers resistance to antibiotic after 36 hours	Tobramycin
+cusR	confers no resistance to antibiotic after 36 hours	Novobiocin
+cusR	confers no resistance to antibiotic after 36 hours	Gentamicin
+cusR	confers no resistance to antibiotic after 36 hours	Neomycin
+cusR	confers no resistance to antibiotic after 36 hours	Capreomycin
+cusR	confers no resistance to antibiotic after 36 hours	Cefamandole
+cusR	confers no resistance to antibiotic after 36 hours	Cephalothin
+cusR	confers no resistance to antibiotic after 36 hours	Aztreonam
+cusR	confers no resistance to antibiotic after 36 hours	Norfloxacin
+cusR	confers no resistance to antibiotic after 36 hours	Oxacillin
+cusR	confers no resistance to antibiotic after 36 hours	Trimethoprim
+cusR	confers no resistance to antibiotic after 36 hours	Ofloxacin
+cusR	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+cusR	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+cusR	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+cusR	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+cusR	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+cusR	confers no resistance to antibiotic after 36 hours	Cefoxitin
+cusR	confers no resistance to antibiotic after 36 hours	Spiramycin
+cusR	confers no resistance to antibiotic after 36 hours	Hygromycin 
+cusS	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+cusS	confers no resistance to antibiotic after 36 hours	Puromycin
+cusS	confers no resistance to antibiotic after 36 hours	Tylosin
+cusS	confers no resistance to antibiotic after 36 hours	Geneticin
+cusS	confers no resistance to antibiotic after 36 hours	Paromomycin
+cusS	confers no resistance to antibiotic after 36 hours	Troleandomycin
+cusS	confers no resistance to antibiotic after 36 hours	Polymyxin B
+cusS	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+cusS	confers no resistance to antibiotic after 36 hours	Amikacin
+cusS	confers no resistance to antibiotic after 36 hours	Hygromycin B
+cusS	confers no resistance to antibiotic after 36 hours	Kanamycin
+cusS	confers no resistance to antibiotic after 36 hours	Tobramycin
+cusS	confers no resistance to antibiotic after 36 hours	Novobiocin
+cusS	confers no resistance to antibiotic after 36 hours	Gentamicin
+cusS	confers no resistance to antibiotic after 36 hours	Neomycin
+cusS	confers no resistance to antibiotic after 36 hours	Capreomycin
+cusS	confers no resistance to antibiotic after 36 hours	Cefamandole
+cusS	confers no resistance to antibiotic after 36 hours	Cephalothin
+cusS	confers no resistance to antibiotic after 36 hours	Aztreonam
+cusS	confers no resistance to antibiotic after 36 hours	Norfloxacin
+cusS	confers no resistance to antibiotic after 36 hours	Oxacillin
+cusS	confers no resistance to antibiotic after 36 hours	Trimethoprim
+cusS	confers no resistance to antibiotic after 36 hours	Ofloxacin
+cusS	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+cusS	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+cusS	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+cusS	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+cusS	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+cusS	confers no resistance to antibiotic after 36 hours	Cefoxitin
+cusS	confers no resistance to antibiotic after 36 hours	Spiramycin
+cusS	confers no resistance to antibiotic after 36 hours	Hygromycin 
+dcuS	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+dcuS	confers no resistance to antibiotic after 36 hours	Puromycin
+dcuS	confers no resistance to antibiotic after 36 hours	Tylosin
+dcuS	confers no resistance to antibiotic after 36 hours	Geneticin
+dcuS	confers no resistance to antibiotic after 36 hours	Paromomycin
+dcuS	confers no resistance to antibiotic after 36 hours	Troleandomycin
+dcuS	confers no resistance to antibiotic after 36 hours	Polymyxin B
+dcuS	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+dcuS	confers no resistance to antibiotic after 36 hours	Amikacin
+dcuS	confers no resistance to antibiotic after 36 hours	Hygromycin B
+dcuS	confers no resistance to antibiotic after 36 hours	Kanamycin
+dcuS	confers no resistance to antibiotic after 36 hours	Tobramycin
+dcuS	confers no resistance to antibiotic after 36 hours	Novobiocin
+dcuS	confers no resistance to antibiotic after 36 hours	Gentamicin
+dcuS	confers no resistance to antibiotic after 36 hours	Neomycin
+dcuS	confers no resistance to antibiotic after 36 hours	Capreomycin
+dcuS	confers no resistance to antibiotic after 36 hours	Cefamandole
+dcuS	confers no resistance to antibiotic after 36 hours	Cephalothin
+dcuS	confers no resistance to antibiotic after 36 hours	Aztreonam
+dcuS	confers no resistance to antibiotic after 36 hours	Norfloxacin
+dcuS	confers no resistance to antibiotic after 36 hours	Oxacillin
+dcuS	confers no resistance to antibiotic after 36 hours	Trimethoprim
+dcuS	confers no resistance to antibiotic after 36 hours	Ofloxacin
+dcuS	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+dcuS	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+dcuS	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+dcuS	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+dcuS	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+dcuS	confers no resistance to antibiotic after 36 hours	Cefoxitin
+dcuS	confers no resistance to antibiotic after 36 hours	Spiramycin
+dcuS	confers no resistance to antibiotic after 36 hours	Hygromycin 
+dcuR	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+dcuR	confers no resistance to antibiotic after 36 hours	Puromycin
+dcuR	confers no resistance to antibiotic after 36 hours	Tylosin
+dcuR	confers no resistance to antibiotic after 36 hours	Geneticin
+dcuR	confers no resistance to antibiotic after 36 hours	Paromomycin
+dcuR	confers no resistance to antibiotic after 36 hours	Troleandomycin
+dcuR	confers no resistance to antibiotic after 36 hours	Polymyxin B
+dcuR	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+dcuR	confers no resistance to antibiotic after 36 hours	Amikacin
+dcuR	confers no resistance to antibiotic after 36 hours	Hygromycin B
+dcuR	confers no resistance to antibiotic after 36 hours	Kanamycin
+dcuR	confers no resistance to antibiotic after 36 hours	Tobramycin
+dcuR	confers no resistance to antibiotic after 36 hours	Novobiocin
+dcuR	confers no resistance to antibiotic after 36 hours	Gentamicin
+dcuR	confers no resistance to antibiotic after 36 hours	Neomycin
+dcuR	confers no resistance to antibiotic after 36 hours	Capreomycin
+dcuR	confers no resistance to antibiotic after 36 hours	Cefamandole
+dcuR	confers no resistance to antibiotic after 36 hours	Cephalothin
+dcuR	confers no resistance to antibiotic after 36 hours	Aztreonam
+dcuR	confers no resistance to antibiotic after 36 hours	Norfloxacin
+dcuR	confers no resistance to antibiotic after 36 hours	Oxacillin
+dcuR	confers no resistance to antibiotic after 36 hours	Trimethoprim
+dcuR	confers no resistance to antibiotic after 36 hours	Ofloxacin
+dcuR	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+dcuR	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+dcuR	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+dcuR	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+dcuR	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+dcuR	confers no resistance to antibiotic after 36 hours	Cefoxitin
+dcuR	confers no resistance to antibiotic after 36 hours	Spiramycin
+dcuR	confers no resistance to antibiotic after 36 hours	Hygromycin 
+kdpF	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+kdpF	confers no resistance to antibiotic after 36 hours	Puromycin
+kdpF	confers no resistance to antibiotic after 36 hours	Tylosin
+kdpF	confers no resistance to antibiotic after 36 hours	Geneticin
+kdpF	confers no resistance to antibiotic after 36 hours	Paromomycin
+kdpF	confers no resistance to antibiotic after 36 hours	Troleandomycin
+kdpF	confers no resistance to antibiotic after 36 hours	Polymyxin B
+kdpF	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+kdpF	confers no resistance to antibiotic after 36 hours	Amikacin
+kdpF	confers resistance to antibiotic after 36 hours	Hygromycin B
+kdpF	confers no resistance to antibiotic after 36 hours	Kanamycin
+kdpF	confers no resistance to antibiotic after 36 hours	Tobramycin
+kdpF	confers resistance to antibiotic after 36 hours	Novobiocin
+kdpF	confers no resistance to antibiotic after 36 hours	Gentamicin
+kdpF	confers no resistance to antibiotic after 36 hours	Neomycin
+kdpF	confers no resistance to antibiotic after 36 hours	Capreomycin
+kdpF	confers no resistance to antibiotic after 36 hours	Cefamandole
+kdpF	confers no resistance to antibiotic after 36 hours	Cephalothin
+kdpF	confers no resistance to antibiotic after 36 hours	Aztreonam
+kdpF	confers no resistance to antibiotic after 36 hours	Norfloxacin
+kdpF	confers no resistance to antibiotic after 36 hours	Oxacillin
+kdpF	confers no resistance to antibiotic after 36 hours	Trimethoprim
+kdpF	confers no resistance to antibiotic after 36 hours	Ofloxacin
+kdpF	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+kdpF	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+kdpF	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+kdpF	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+kdpF	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+kdpF	confers no resistance to antibiotic after 36 hours	Cefoxitin
+kdpF	confers no resistance to antibiotic after 36 hours	Spiramycin
+kdpF	confers no resistance to antibiotic after 36 hours	Hygromycin 
+kdpA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+kdpA	confers no resistance to antibiotic after 36 hours	Puromycin
+kdpA	confers no resistance to antibiotic after 36 hours	Tylosin
+kdpA	confers no resistance to antibiotic after 36 hours	Geneticin
+kdpA	confers no resistance to antibiotic after 36 hours	Paromomycin
+kdpA	confers no resistance to antibiotic after 36 hours	Troleandomycin
+kdpA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+kdpA	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+kdpA	confers no resistance to antibiotic after 36 hours	Amikacin
+kdpA	confers resistance to antibiotic after 36 hours	Hygromycin B
+kdpA	confers no resistance to antibiotic after 36 hours	Kanamycin
+kdpA	confers no resistance to antibiotic after 36 hours	Tobramycin
+kdpA	confers resistance to antibiotic after 36 hours	Novobiocin
+kdpA	confers no resistance to antibiotic after 36 hours	Gentamicin
+kdpA	confers no resistance to antibiotic after 36 hours	Neomycin
+kdpA	confers no resistance to antibiotic after 36 hours	Capreomycin
+kdpA	confers no resistance to antibiotic after 36 hours	Cefamandole
+kdpA	confers no resistance to antibiotic after 36 hours	Cephalothin
+kdpA	confers no resistance to antibiotic after 36 hours	Aztreonam
+kdpA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+kdpA	confers no resistance to antibiotic after 36 hours	Oxacillin
+kdpA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+kdpA	confers no resistance to antibiotic after 36 hours	Ofloxacin
+kdpA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+kdpA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+kdpA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+kdpA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+kdpA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+kdpA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+kdpA	confers no resistance to antibiotic after 36 hours	Spiramycin
+kdpA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+kdpB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+kdpB	confers no resistance to antibiotic after 36 hours	Puromycin
+kdpB	confers no resistance to antibiotic after 36 hours	Tylosin
+kdpB	confers no resistance to antibiotic after 36 hours	Geneticin
+kdpB	confers no resistance to antibiotic after 36 hours	Paromomycin
+kdpB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+kdpB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+kdpB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+kdpB	confers no resistance to antibiotic after 36 hours	Amikacin
+kdpB	confers resistance to antibiotic after 36 hours	Hygromycin B
+kdpB	confers no resistance to antibiotic after 36 hours	Kanamycin
+kdpB	confers no resistance to antibiotic after 36 hours	Tobramycin
+kdpB	confers resistance to antibiotic after 36 hours	Novobiocin
+kdpB	confers no resistance to antibiotic after 36 hours	Gentamicin
+kdpB	confers no resistance to antibiotic after 36 hours	Neomycin
+kdpB	confers no resistance to antibiotic after 36 hours	Capreomycin
+kdpB	confers no resistance to antibiotic after 36 hours	Cefamandole
+kdpB	confers no resistance to antibiotic after 36 hours	Cephalothin
+kdpB	confers no resistance to antibiotic after 36 hours	Aztreonam
+kdpB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+kdpB	confers no resistance to antibiotic after 36 hours	Oxacillin
+kdpB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+kdpB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+kdpB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+kdpB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+kdpB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+kdpB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+kdpB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+kdpB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+kdpB	confers no resistance to antibiotic after 36 hours	Spiramycin
+kdpB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+kdpC	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+kdpC	confers no resistance to antibiotic after 36 hours	Puromycin
+kdpC	confers no resistance to antibiotic after 36 hours	Tylosin
+kdpC	confers no resistance to antibiotic after 36 hours	Geneticin
+kdpC	confers no resistance to antibiotic after 36 hours	Paromomycin
+kdpC	confers no resistance to antibiotic after 36 hours	Troleandomycin
+kdpC	confers no resistance to antibiotic after 36 hours	Polymyxin B
+kdpC	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+kdpC	confers no resistance to antibiotic after 36 hours	Amikacin
+kdpC	confers resistance to antibiotic after 36 hours	Hygromycin B
+kdpC	confers no resistance to antibiotic after 36 hours	Kanamycin
+kdpC	confers no resistance to antibiotic after 36 hours	Tobramycin
+kdpC	confers resistance to antibiotic after 36 hours	Novobiocin
+kdpC	confers no resistance to antibiotic after 36 hours	Gentamicin
+kdpC	confers no resistance to antibiotic after 36 hours	Neomycin
+kdpC	confers no resistance to antibiotic after 36 hours	Capreomycin
+kdpC	confers no resistance to antibiotic after 36 hours	Cefamandole
+kdpC	confers no resistance to antibiotic after 36 hours	Cephalothin
+kdpC	confers no resistance to antibiotic after 36 hours	Aztreonam
+kdpC	confers no resistance to antibiotic after 36 hours	Norfloxacin
+kdpC	confers no resistance to antibiotic after 36 hours	Oxacillin
+kdpC	confers no resistance to antibiotic after 36 hours	Trimethoprim
+kdpC	confers no resistance to antibiotic after 36 hours	Ofloxacin
+kdpC	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+kdpC	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+kdpC	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+kdpC	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+kdpC	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+kdpC	confers no resistance to antibiotic after 36 hours	Cefoxitin
+kdpC	confers no resistance to antibiotic after 36 hours	Spiramycin
+kdpC	confers no resistance to antibiotic after 36 hours	Hygromycin 
+kdpD	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+kdpD	confers no resistance to antibiotic after 36 hours	Puromycin
+kdpD	confers no resistance to antibiotic after 36 hours	Tylosin
+kdpD	confers no resistance to antibiotic after 36 hours	Geneticin
+kdpD	confers no resistance to antibiotic after 36 hours	Paromomycin
+kdpD	confers no resistance to antibiotic after 36 hours	Troleandomycin
+kdpD	confers no resistance to antibiotic after 36 hours	Polymyxin B
+kdpD	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+kdpD	confers no resistance to antibiotic after 36 hours	Amikacin
+kdpD	confers resistance to antibiotic after 36 hours	Hygromycin B
+kdpD	confers no resistance to antibiotic after 36 hours	Kanamycin
+kdpD	confers no resistance to antibiotic after 36 hours	Tobramycin
+kdpD	confers resistance to antibiotic after 36 hours	Novobiocin
+kdpD	confers no resistance to antibiotic after 36 hours	Gentamicin
+kdpD	confers no resistance to antibiotic after 36 hours	Neomycin
+kdpD	confers no resistance to antibiotic after 36 hours	Capreomycin
+kdpD	confers no resistance to antibiotic after 36 hours	Cefamandole
+kdpD	confers no resistance to antibiotic after 36 hours	Cephalothin
+kdpD	confers no resistance to antibiotic after 36 hours	Aztreonam
+kdpD	confers no resistance to antibiotic after 36 hours	Norfloxacin
+kdpD	confers no resistance to antibiotic after 36 hours	Oxacillin
+kdpD	confers no resistance to antibiotic after 36 hours	Trimethoprim
+kdpD	confers no resistance to antibiotic after 36 hours	Ofloxacin
+kdpD	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+kdpD	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+kdpD	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+kdpD	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+kdpD	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+kdpD	confers no resistance to antibiotic after 36 hours	Cefoxitin
+kdpD	confers no resistance to antibiotic after 36 hours	Spiramycin
+kdpD	confers no resistance to antibiotic after 36 hours	Hygromycin 
+kdpE	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+kdpE	confers no resistance to antibiotic after 36 hours	Puromycin
+kdpE	confers no resistance to antibiotic after 36 hours	Tylosin
+kdpE	confers no resistance to antibiotic after 36 hours	Geneticin
+kdpE	confers no resistance to antibiotic after 36 hours	Paromomycin
+kdpE	confers no resistance to antibiotic after 36 hours	Troleandomycin
+kdpE	confers no resistance to antibiotic after 36 hours	Polymyxin B
+kdpE	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+kdpE	confers no resistance to antibiotic after 36 hours	Amikacin
+kdpE	confers resistance to antibiotic after 36 hours	Hygromycin B
+kdpE	confers no resistance to antibiotic after 36 hours	Kanamycin
+kdpE	confers no resistance to antibiotic after 36 hours	Tobramycin
+kdpE	confers resistance to antibiotic after 36 hours	Novobiocin
+kdpE	confers no resistance to antibiotic after 36 hours	Gentamicin
+kdpE	confers no resistance to antibiotic after 36 hours	Neomycin
+kdpE	confers no resistance to antibiotic after 36 hours	Capreomycin
+kdpE	confers no resistance to antibiotic after 36 hours	Cefamandole
+kdpE	confers no resistance to antibiotic after 36 hours	Cephalothin
+kdpE	confers no resistance to antibiotic after 36 hours	Aztreonam
+kdpE	confers no resistance to antibiotic after 36 hours	Norfloxacin
+kdpE	confers no resistance to antibiotic after 36 hours	Oxacillin
+kdpE	confers no resistance to antibiotic after 36 hours	Trimethoprim
+kdpE	confers no resistance to antibiotic after 36 hours	Ofloxacin
+kdpE	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+kdpE	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+kdpE	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+kdpE	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+kdpE	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+kdpE	confers no resistance to antibiotic after 36 hours	Cefoxitin
+kdpE	confers no resistance to antibiotic after 36 hours	Spiramycin
+kdpE	confers no resistance to antibiotic after 36 hours	Hygromycin 
+narP	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+narP	confers no resistance to antibiotic after 36 hours	Puromycin
+narP	confers no resistance to antibiotic after 36 hours	Tylosin
+narP	confers no resistance to antibiotic after 36 hours	Geneticin
+narP	confers no resistance to antibiotic after 36 hours	Paromomycin
+narP	confers no resistance to antibiotic after 36 hours	Troleandomycin
+narP	confers no resistance to antibiotic after 36 hours	Polymyxin B
+narP	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+narP	confers no resistance to antibiotic after 36 hours	Amikacin
+narP	confers no resistance to antibiotic after 36 hours	Hygromycin B
+narP	confers no resistance to antibiotic after 36 hours	Kanamycin
+narP	confers no resistance to antibiotic after 36 hours	Tobramycin
+narP	confers no resistance to antibiotic after 36 hours	Novobiocin
+narP	confers no resistance to antibiotic after 36 hours	Gentamicin
+narP	confers no resistance to antibiotic after 36 hours	Neomycin
+narP	confers no resistance to antibiotic after 36 hours	Capreomycin
+narP	confers no resistance to antibiotic after 36 hours	Cefamandole
+narP	confers no resistance to antibiotic after 36 hours	Cephalothin
+narP	confers no resistance to antibiotic after 36 hours	Aztreonam
+narP	confers no resistance to antibiotic after 36 hours	Norfloxacin
+narP	confers no resistance to antibiotic after 36 hours	Oxacillin
+narP	confers no resistance to antibiotic after 36 hours	Trimethoprim
+narP	confers no resistance to antibiotic after 36 hours	Ofloxacin
+narP	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+narP	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+narP	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+narP	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+narP	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+narP	confers no resistance to antibiotic after 36 hours	Cefoxitin
+narP	confers no resistance to antibiotic after 36 hours	Spiramycin
+narP	confers no resistance to antibiotic after 36 hours	Hygromycin 
+ntrB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+ntrB	confers no resistance to antibiotic after 36 hours	Puromycin
+ntrB	confers no resistance to antibiotic after 36 hours	Tylosin
+ntrB	confers resistance to antibiotic after 36 hours	Geneticin
+ntrB	confers resistance to antibiotic after 36 hours	Paromomycin
+ntrB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+ntrB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+ntrB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+ntrB	confers resistance to antibiotic after 36 hours	Amikacin
+ntrB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+ntrB	confers no resistance to antibiotic after 36 hours	Kanamycin
+ntrB	confers resistance to antibiotic after 36 hours	Tobramycin
+ntrB	confers no resistance to antibiotic after 36 hours	Novobiocin
+ntrB	confers resistance to antibiotic after 36 hours	Gentamicin
+ntrB	confers resistance to antibiotic after 36 hours	Neomycin
+ntrB	confers resistance to antibiotic after 36 hours	Capreomycin
+ntrB	confers no resistance to antibiotic after 36 hours	Cefamandole
+ntrB	confers no resistance to antibiotic after 36 hours	Cephalothin
+ntrB	confers no resistance to antibiotic after 36 hours	Aztreonam
+ntrB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+ntrB	confers no resistance to antibiotic after 36 hours	Oxacillin
+ntrB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+ntrB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+ntrB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+ntrB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+ntrB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+ntrB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+ntrB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+ntrB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+ntrB	confers no resistance to antibiotic after 36 hours	Spiramycin
+ntrB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+ntrC	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+ntrC	confers no resistance to antibiotic after 36 hours	Puromycin
+ntrC	confers no resistance to antibiotic after 36 hours	Tylosin
+ntrC	confers resistance to antibiotic after 36 hours	Geneticin
+ntrC	confers resistance to antibiotic after 36 hours	Paromomycin
+ntrC	confers no resistance to antibiotic after 36 hours	Troleandomycin
+ntrC	confers no resistance to antibiotic after 36 hours	Polymyxin B
+ntrC	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+ntrC	confers resistance to antibiotic after 36 hours	Amikacin
+ntrC	confers no resistance to antibiotic after 36 hours	Hygromycin B
+ntrC	confers no resistance to antibiotic after 36 hours	Kanamycin
+ntrC	confers resistance to antibiotic after 36 hours	Tobramycin
+ntrC	confers no resistance to antibiotic after 36 hours	Novobiocin
+ntrC	confers resistance to antibiotic after 36 hours	Gentamicin
+ntrC	confers resistance to antibiotic after 36 hours	Neomycin
+ntrC	confers resistance to antibiotic after 36 hours	Capreomycin
+ntrC	confers no resistance to antibiotic after 36 hours	Cefamandole
+ntrC	confers no resistance to antibiotic after 36 hours	Cephalothin
+ntrC	confers no resistance to antibiotic after 36 hours	Aztreonam
+ntrC	confers no resistance to antibiotic after 36 hours	Norfloxacin
+ntrC	confers no resistance to antibiotic after 36 hours	Oxacillin
+ntrC	confers no resistance to antibiotic after 36 hours	Trimethoprim
+ntrC	confers no resistance to antibiotic after 36 hours	Ofloxacin
+ntrC	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+ntrC	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+ntrC	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+ntrC	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+ntrC	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+ntrC	confers no resistance to antibiotic after 36 hours	Cefoxitin
+ntrC	confers no resistance to antibiotic after 36 hours	Spiramycin
+ntrC	confers no resistance to antibiotic after 36 hours	Hygromycin 
+ompR	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+ompR	confers no resistance to antibiotic after 36 hours	Puromycin
+ompR	confers no resistance to antibiotic after 36 hours	Tylosin
+ompR	confers no resistance to antibiotic after 36 hours	Geneticin
+ompR	confers no resistance to antibiotic after 36 hours	Paromomycin
+ompR	confers no resistance to antibiotic after 36 hours	Troleandomycin
+ompR	confers no resistance to antibiotic after 36 hours	Polymyxin B
+ompR	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+ompR	confers no resistance to antibiotic after 36 hours	Amikacin
+ompR	confers no resistance to antibiotic after 36 hours	Hygromycin B
+ompR	confers no resistance to antibiotic after 36 hours	Kanamycin
+ompR	confers no resistance to antibiotic after 36 hours	Tobramycin
+ompR	confers no resistance to antibiotic after 36 hours	Novobiocin
+ompR	confers no resistance to antibiotic after 36 hours	Gentamicin
+ompR	confers no resistance to antibiotic after 36 hours	Neomycin
+ompR	confers no resistance to antibiotic after 36 hours	Capreomycin
+ompR	confers resistance to antibiotic after 36 hours	Cefamandole
+ompR	confers resistance to antibiotic after 36 hours	Cephalothin
+ompR	confers resistance to antibiotic after 36 hours	Aztreonam
+ompR	confers resistance to antibiotic after 36 hours	Norfloxacin
+ompR	confers resistance to antibiotic after 36 hours	Oxacillin
+ompR	confers no resistance to antibiotic after 36 hours	Trimethoprim
+ompR	confers no resistance to antibiotic after 36 hours	Ofloxacin
+ompR	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+ompR	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+ompR	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+ompR	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+ompR	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+ompR	confers no resistance to antibiotic after 36 hours	Cefoxitin
+ompR	confers no resistance to antibiotic after 36 hours	Spiramycin
+ompR	confers no resistance to antibiotic after 36 hours	Hygromycin 
+envZ	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+envZ	confers no resistance to antibiotic after 36 hours	Puromycin
+envZ	confers no resistance to antibiotic after 36 hours	Tylosin
+envZ	confers no resistance to antibiotic after 36 hours	Geneticin
+envZ	confers no resistance to antibiotic after 36 hours	Paromomycin
+envZ	confers no resistance to antibiotic after 36 hours	Troleandomycin
+envZ	confers no resistance to antibiotic after 36 hours	Polymyxin B
+envZ	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+envZ	confers no resistance to antibiotic after 36 hours	Amikacin
+envZ	confers no resistance to antibiotic after 36 hours	Hygromycin B
+envZ	confers no resistance to antibiotic after 36 hours	Kanamycin
+envZ	confers no resistance to antibiotic after 36 hours	Tobramycin
+envZ	confers no resistance to antibiotic after 36 hours	Novobiocin
+envZ	confers no resistance to antibiotic after 36 hours	Gentamicin
+envZ	confers no resistance to antibiotic after 36 hours	Neomycin
+envZ	confers no resistance to antibiotic after 36 hours	Capreomycin
+envZ	confers resistance to antibiotic after 36 hours	Cefamandole
+envZ	confers resistance to antibiotic after 36 hours	Cephalothin
+envZ	confers resistance to antibiotic after 36 hours	Aztreonam
+envZ	confers resistance to antibiotic after 36 hours	Norfloxacin
+envZ	confers resistance to antibiotic after 36 hours	Oxacillin
+envZ	confers no resistance to antibiotic after 36 hours	Trimethoprim
+envZ	confers no resistance to antibiotic after 36 hours	Ofloxacin
+envZ	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+envZ	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+envZ	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+envZ	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+envZ	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+envZ	confers no resistance to antibiotic after 36 hours	Cefoxitin
+envZ	confers no resistance to antibiotic after 36 hours	Spiramycin
+envZ	confers no resistance to antibiotic after 36 hours	Hygromycin 
+phoB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+phoB	confers no resistance to antibiotic after 36 hours	Puromycin
+phoB	confers no resistance to antibiotic after 36 hours	Tylosin
+phoB	confers no resistance to antibiotic after 36 hours	Geneticin
+phoB	confers resistance to antibiotic after 36 hours	Paromomycin
+phoB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+phoB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+phoB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+phoB	confers no resistance to antibiotic after 36 hours	Amikacin
+phoB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+phoB	confers no resistance to antibiotic after 36 hours	Kanamycin
+phoB	confers resistance to antibiotic after 36 hours	Tobramycin
+phoB	confers no resistance to antibiotic after 36 hours	Novobiocin
+phoB	confers no resistance to antibiotic after 36 hours	Gentamicin
+phoB	confers no resistance to antibiotic after 36 hours	Neomycin
+phoB	confers no resistance to antibiotic after 36 hours	Capreomycin
+phoB	confers no resistance to antibiotic after 36 hours	Cefamandole
+phoB	confers no resistance to antibiotic after 36 hours	Cephalothin
+phoB	confers no resistance to antibiotic after 36 hours	Aztreonam
+phoB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+phoB	confers no resistance to antibiotic after 36 hours	Oxacillin
+phoB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+phoB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+phoB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+phoB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+phoB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+phoB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+phoB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+phoB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+phoB	confers no resistance to antibiotic after 36 hours	Spiramycin
+phoB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+phoR	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+phoR	confers no resistance to antibiotic after 36 hours	Puromycin
+phoR	confers no resistance to antibiotic after 36 hours	Tylosin
+phoR	confers no resistance to antibiotic after 36 hours	Geneticin
+phoR	confers resistance to antibiotic after 36 hours	Paromomycin
+phoR	confers no resistance to antibiotic after 36 hours	Troleandomycin
+phoR	confers no resistance to antibiotic after 36 hours	Polymyxin B
+phoR	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+phoR	confers no resistance to antibiotic after 36 hours	Amikacin
+phoR	confers no resistance to antibiotic after 36 hours	Hygromycin B
+phoR	confers no resistance to antibiotic after 36 hours	Kanamycin
+phoR	confers resistance to antibiotic after 36 hours	Tobramycin
+phoR	confers no resistance to antibiotic after 36 hours	Novobiocin
+phoR	confers no resistance to antibiotic after 36 hours	Gentamicin
+phoR	confers no resistance to antibiotic after 36 hours	Neomycin
+phoR	confers no resistance to antibiotic after 36 hours	Capreomycin
+phoR	confers no resistance to antibiotic after 36 hours	Cefamandole
+phoR	confers no resistance to antibiotic after 36 hours	Cephalothin
+phoR	confers no resistance to antibiotic after 36 hours	Aztreonam
+phoR	confers no resistance to antibiotic after 36 hours	Norfloxacin
+phoR	confers no resistance to antibiotic after 36 hours	Oxacillin
+phoR	confers no resistance to antibiotic after 36 hours	Trimethoprim
+phoR	confers no resistance to antibiotic after 36 hours	Ofloxacin
+phoR	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+phoR	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+phoR	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+phoR	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+phoR	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+phoR	confers no resistance to antibiotic after 36 hours	Cefoxitin
+phoR	confers no resistance to antibiotic after 36 hours	Spiramycin
+phoR	confers no resistance to antibiotic after 36 hours	Hygromycin 
+phoP	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+phoP	confers no resistance to antibiotic after 36 hours	Puromycin
+phoP	confers no resistance to antibiotic after 36 hours	Tylosin
+phoP	confers no resistance to antibiotic after 36 hours	Geneticin
+phoP	confers no resistance to antibiotic after 36 hours	Paromomycin
+phoP	confers no resistance to antibiotic after 36 hours	Troleandomycin
+phoP	confers no resistance to antibiotic after 36 hours	Polymyxin B
+phoP	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+phoP	confers no resistance to antibiotic after 36 hours	Amikacin
+phoP	confers no resistance to antibiotic after 36 hours	Hygromycin B
+phoP	confers no resistance to antibiotic after 36 hours	Kanamycin
+phoP	confers no resistance to antibiotic after 36 hours	Tobramycin
+phoP	confers no resistance to antibiotic after 36 hours	Novobiocin
+phoP	confers no resistance to antibiotic after 36 hours	Gentamicin
+phoP	confers no resistance to antibiotic after 36 hours	Neomycin
+phoP	confers no resistance to antibiotic after 36 hours	Capreomycin
+phoP	confers no resistance to antibiotic after 36 hours	Cefamandole
+phoP	confers no resistance to antibiotic after 36 hours	Cephalothin
+phoP	confers no resistance to antibiotic after 36 hours	Aztreonam
+phoP	confers no resistance to antibiotic after 36 hours	Norfloxacin
+phoP	confers no resistance to antibiotic after 36 hours	Oxacillin
+phoP	confers no resistance to antibiotic after 36 hours	Trimethoprim
+phoP	confers no resistance to antibiotic after 36 hours	Ofloxacin
+phoP	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+phoP	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+phoP	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+phoP	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+phoP	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+phoP	confers no resistance to antibiotic after 36 hours	Cefoxitin
+phoP	confers no resistance to antibiotic after 36 hours	Spiramycin
+phoP	confers no resistance to antibiotic after 36 hours	Hygromycin 
+phoQ	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+phoQ	confers no resistance to antibiotic after 36 hours	Puromycin
+phoQ	confers no resistance to antibiotic after 36 hours	Tylosin
+phoQ	confers no resistance to antibiotic after 36 hours	Geneticin
+phoQ	confers no resistance to antibiotic after 36 hours	Paromomycin
+phoQ	confers no resistance to antibiotic after 36 hours	Troleandomycin
+phoQ	confers no resistance to antibiotic after 36 hours	Polymyxin B
+phoQ	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+phoQ	confers no resistance to antibiotic after 36 hours	Amikacin
+phoQ	confers no resistance to antibiotic after 36 hours	Hygromycin B
+phoQ	confers no resistance to antibiotic after 36 hours	Kanamycin
+phoQ	confers no resistance to antibiotic after 36 hours	Tobramycin
+phoQ	confers no resistance to antibiotic after 36 hours	Novobiocin
+phoQ	confers no resistance to antibiotic after 36 hours	Gentamicin
+phoQ	confers no resistance to antibiotic after 36 hours	Neomycin
+phoQ	confers no resistance to antibiotic after 36 hours	Capreomycin
+phoQ	confers no resistance to antibiotic after 36 hours	Cefamandole
+phoQ	confers no resistance to antibiotic after 36 hours	Cephalothin
+phoQ	confers no resistance to antibiotic after 36 hours	Aztreonam
+phoQ	confers no resistance to antibiotic after 36 hours	Norfloxacin
+phoQ	confers no resistance to antibiotic after 36 hours	Oxacillin
+phoQ	confers no resistance to antibiotic after 36 hours	Trimethoprim
+phoQ	confers no resistance to antibiotic after 36 hours	Ofloxacin
+phoQ	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+phoQ	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+phoQ	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+phoQ	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+phoQ	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+phoQ	confers no resistance to antibiotic after 36 hours	Cefoxitin
+phoQ	confers no resistance to antibiotic after 36 hours	Spiramycin
+phoQ	confers no resistance to antibiotic after 36 hours	Hygromycin 
+qseB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+qseB	confers no resistance to antibiotic after 36 hours	Puromycin
+qseB	confers no resistance to antibiotic after 36 hours	Tylosin
+qseB	confers no resistance to antibiotic after 36 hours	Geneticin
+qseB	confers no resistance to antibiotic after 36 hours	Paromomycin
+qseB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+qseB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+qseB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+qseB	confers no resistance to antibiotic after 36 hours	Amikacin
+qseB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+qseB	confers no resistance to antibiotic after 36 hours	Kanamycin
+qseB	confers no resistance to antibiotic after 36 hours	Tobramycin
+qseB	confers no resistance to antibiotic after 36 hours	Novobiocin
+qseB	confers no resistance to antibiotic after 36 hours	Gentamicin
+qseB	confers no resistance to antibiotic after 36 hours	Neomycin
+qseB	confers no resistance to antibiotic after 36 hours	Capreomycin
+qseB	confers no resistance to antibiotic after 36 hours	Cefamandole
+qseB	confers no resistance to antibiotic after 36 hours	Cephalothin
+qseB	confers no resistance to antibiotic after 36 hours	Aztreonam
+qseB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+qseB	confers no resistance to antibiotic after 36 hours	Oxacillin
+qseB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+qseB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+qseB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+qseB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+qseB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+qseB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+qseB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+qseB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+qseB	confers no resistance to antibiotic after 36 hours	Spiramycin
+qseB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+qseC	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+qseC	confers no resistance to antibiotic after 36 hours	Puromycin
+qseC	confers no resistance to antibiotic after 36 hours	Tylosin
+qseC	confers no resistance to antibiotic after 36 hours	Geneticin
+qseC	confers no resistance to antibiotic after 36 hours	Paromomycin
+qseC	confers no resistance to antibiotic after 36 hours	Troleandomycin
+qseC	confers no resistance to antibiotic after 36 hours	Polymyxin B
+qseC	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+qseC	confers no resistance to antibiotic after 36 hours	Amikacin
+qseC	confers no resistance to antibiotic after 36 hours	Hygromycin B
+qseC	confers no resistance to antibiotic after 36 hours	Kanamycin
+qseC	confers no resistance to antibiotic after 36 hours	Tobramycin
+qseC	confers no resistance to antibiotic after 36 hours	Novobiocin
+qseC	confers no resistance to antibiotic after 36 hours	Gentamicin
+qseC	confers no resistance to antibiotic after 36 hours	Neomycin
+qseC	confers no resistance to antibiotic after 36 hours	Capreomycin
+qseC	confers no resistance to antibiotic after 36 hours	Cefamandole
+qseC	confers no resistance to antibiotic after 36 hours	Cephalothin
+qseC	confers no resistance to antibiotic after 36 hours	Aztreonam
+qseC	confers no resistance to antibiotic after 36 hours	Norfloxacin
+qseC	confers no resistance to antibiotic after 36 hours	Oxacillin
+qseC	confers no resistance to antibiotic after 36 hours	Trimethoprim
+qseC	confers no resistance to antibiotic after 36 hours	Ofloxacin
+qseC	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+qseC	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+qseC	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+qseC	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+qseC	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+qseC	confers no resistance to antibiotic after 36 hours	Cefoxitin
+qseC	confers no resistance to antibiotic after 36 hours	Spiramycin
+qseC	confers no resistance to antibiotic after 36 hours	Hygromycin 
+rcsB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+rcsB	confers no resistance to antibiotic after 36 hours	Puromycin
+rcsB	confers no resistance to antibiotic after 36 hours	Tylosin
+rcsB	confers no resistance to antibiotic after 36 hours	Geneticin
+rcsB	confers no resistance to antibiotic after 36 hours	Paromomycin
+rcsB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+rcsB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+rcsB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+rcsB	confers no resistance to antibiotic after 36 hours	Amikacin
+rcsB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+rcsB	confers no resistance to antibiotic after 36 hours	Kanamycin
+rcsB	confers no resistance to antibiotic after 36 hours	Tobramycin
+rcsB	confers no resistance to antibiotic after 36 hours	Novobiocin
+rcsB	confers no resistance to antibiotic after 36 hours	Gentamicin
+rcsB	confers no resistance to antibiotic after 36 hours	Neomycin
+rcsB	confers no resistance to antibiotic after 36 hours	Capreomycin
+rcsB	confers no resistance to antibiotic after 36 hours	Cefamandole
+rcsB	confers no resistance to antibiotic after 36 hours	Cephalothin
+rcsB	confers no resistance to antibiotic after 36 hours	Aztreonam
+rcsB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+rcsB	confers no resistance to antibiotic after 36 hours	Oxacillin
+rcsB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+rcsB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+rcsB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+rcsB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+rcsB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+rcsB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+rcsB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+rcsB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+rcsB	confers no resistance to antibiotic after 36 hours	Spiramycin
+rcsB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+rssB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+rssB	confers no resistance to antibiotic after 36 hours	Puromycin
+rssB	confers no resistance to antibiotic after 36 hours	Tylosin
+rssB	confers no resistance to antibiotic after 36 hours	Geneticin
+rssB	confers no resistance to antibiotic after 36 hours	Paromomycin
+rssB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+rssB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+rssB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+rssB	confers no resistance to antibiotic after 36 hours	Amikacin
+rssB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+rssB	confers no resistance to antibiotic after 36 hours	Kanamycin
+rssB	confers no resistance to antibiotic after 36 hours	Tobramycin
+rssB	confers no resistance to antibiotic after 36 hours	Novobiocin
+rssB	confers no resistance to antibiotic after 36 hours	Gentamicin
+rssB	confers no resistance to antibiotic after 36 hours	Neomycin
+rssB	confers no resistance to antibiotic after 36 hours	Capreomycin
+rssB	confers no resistance to antibiotic after 36 hours	Cefamandole
+rssB	confers no resistance to antibiotic after 36 hours	Cephalothin
+rssB	confers no resistance to antibiotic after 36 hours	Aztreonam
+rssB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+rssB	confers no resistance to antibiotic after 36 hours	Oxacillin
+rssB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+rssB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+rssB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+rssB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+rssB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+rssB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+rssB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+rssB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+rssB	confers no resistance to antibiotic after 36 hours	Spiramycin
+rssB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+rstA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+rstA	confers no resistance to antibiotic after 36 hours	Puromycin
+rstA	confers no resistance to antibiotic after 36 hours	Tylosin
+rstA	confers no resistance to antibiotic after 36 hours	Geneticin
+rstA	confers no resistance to antibiotic after 36 hours	Paromomycin
+rstA	confers resistance to antibiotic after 36 hours	Troleandomycin
+rstA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+rstA	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+rstA	confers no resistance to antibiotic after 36 hours	Amikacin
+rstA	confers no resistance to antibiotic after 36 hours	Hygromycin B
+rstA	confers no resistance to antibiotic after 36 hours	Kanamycin
+rstA	confers no resistance to antibiotic after 36 hours	Tobramycin
+rstA	confers no resistance to antibiotic after 36 hours	Novobiocin
+rstA	confers no resistance to antibiotic after 36 hours	Gentamicin
+rstA	confers no resistance to antibiotic after 36 hours	Neomycin
+rstA	confers no resistance to antibiotic after 36 hours	Capreomycin
+rstA	confers no resistance to antibiotic after 36 hours	Cefamandole
+rstA	confers no resistance to antibiotic after 36 hours	Cephalothin
+rstA	confers no resistance to antibiotic after 36 hours	Aztreonam
+rstA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+rstA	confers no resistance to antibiotic after 36 hours	Oxacillin
+rstA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+rstA	confers no resistance to antibiotic after 36 hours	Ofloxacin
+rstA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+rstA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+rstA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+rstA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+rstA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+rstA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+rstA	confers no resistance to antibiotic after 36 hours	Spiramycin
+rstA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+rstB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+rstB	confers no resistance to antibiotic after 36 hours	Puromycin
+rstB	confers no resistance to antibiotic after 36 hours	Tylosin
+rstB	confers no resistance to antibiotic after 36 hours	Geneticin
+rstB	confers no resistance to antibiotic after 36 hours	Paromomycin
+rstB	confers resistance to antibiotic after 36 hours	Troleandomycin
+rstB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+rstB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+rstB	confers no resistance to antibiotic after 36 hours	Amikacin
+rstB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+rstB	confers no resistance to antibiotic after 36 hours	Kanamycin
+rstB	confers no resistance to antibiotic after 36 hours	Tobramycin
+rstB	confers no resistance to antibiotic after 36 hours	Novobiocin
+rstB	confers no resistance to antibiotic after 36 hours	Gentamicin
+rstB	confers no resistance to antibiotic after 36 hours	Neomycin
+rstB	confers no resistance to antibiotic after 36 hours	Capreomycin
+rstB	confers no resistance to antibiotic after 36 hours	Cefamandole
+rstB	confers no resistance to antibiotic after 36 hours	Cephalothin
+rstB	confers no resistance to antibiotic after 36 hours	Aztreonam
+rstB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+rstB	confers no resistance to antibiotic after 36 hours	Oxacillin
+rstB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+rstB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+rstB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+rstB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+rstB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+rstB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+rstB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+rstB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+rstB	confers no resistance to antibiotic after 36 hours	Spiramycin
+rstB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+uhpA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+uhpA	confers no resistance to antibiotic after 36 hours	Puromycin
+uhpA	confers no resistance to antibiotic after 36 hours	Tylosin
+uhpA	confers no resistance to antibiotic after 36 hours	Geneticin
+uhpA	confers no resistance to antibiotic after 36 hours	Paromomycin
+uhpA	confers no resistance to antibiotic after 36 hours	Troleandomycin
+uhpA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+uhpA	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+uhpA	confers no resistance to antibiotic after 36 hours	Amikacin
+uhpA	confers no resistance to antibiotic after 36 hours	Hygromycin B
+uhpA	confers no resistance to antibiotic after 36 hours	Kanamycin
+uhpA	confers no resistance to antibiotic after 36 hours	Tobramycin
+uhpA	confers no resistance to antibiotic after 36 hours	Novobiocin
+uhpA	confers no resistance to antibiotic after 36 hours	Gentamicin
+uhpA	confers no resistance to antibiotic after 36 hours	Neomycin
+uhpA	confers no resistance to antibiotic after 36 hours	Capreomycin
+uhpA	confers no resistance to antibiotic after 36 hours	Cefamandole
+uhpA	confers no resistance to antibiotic after 36 hours	Cephalothin
+uhpA	confers no resistance to antibiotic after 36 hours	Aztreonam
+uhpA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+uhpA	confers no resistance to antibiotic after 36 hours	Oxacillin
+uhpA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+uhpA	confers no resistance to antibiotic after 36 hours	Ofloxacin
+uhpA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+uhpA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+uhpA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+uhpA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+uhpA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+uhpA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+uhpA	confers no resistance to antibiotic after 36 hours	Spiramycin
+uhpA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+uhpB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+uhpB	confers no resistance to antibiotic after 36 hours	Puromycin
+uhpB	confers no resistance to antibiotic after 36 hours	Tylosin
+uhpB	confers no resistance to antibiotic after 36 hours	Geneticin
+uhpB	confers no resistance to antibiotic after 36 hours	Paromomycin
+uhpB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+uhpB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+uhpB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+uhpB	confers no resistance to antibiotic after 36 hours	Amikacin
+uhpB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+uhpB	confers no resistance to antibiotic after 36 hours	Kanamycin
+uhpB	confers no resistance to antibiotic after 36 hours	Tobramycin
+uhpB	confers no resistance to antibiotic after 36 hours	Novobiocin
+uhpB	confers no resistance to antibiotic after 36 hours	Gentamicin
+uhpB	confers no resistance to antibiotic after 36 hours	Neomycin
+uhpB	confers no resistance to antibiotic after 36 hours	Capreomycin
+uhpB	confers no resistance to antibiotic after 36 hours	Cefamandole
+uhpB	confers no resistance to antibiotic after 36 hours	Cephalothin
+uhpB	confers no resistance to antibiotic after 36 hours	Aztreonam
+uhpB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+uhpB	confers no resistance to antibiotic after 36 hours	Oxacillin
+uhpB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+uhpB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+uhpB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+uhpB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+uhpB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+uhpB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+uhpB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+uhpB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+uhpB	confers no resistance to antibiotic after 36 hours	Spiramycin
+uhpB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+uvrY	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+uvrY	confers no resistance to antibiotic after 36 hours	Puromycin
+uvrY	confers no resistance to antibiotic after 36 hours	Tylosin
+uvrY	confers no resistance to antibiotic after 36 hours	Geneticin
+uvrY	confers no resistance to antibiotic after 36 hours	Paromomycin
+uvrY	confers no resistance to antibiotic after 36 hours	Troleandomycin
+uvrY	confers resistance to antibiotic after 36 hours	Polymyxin B
+uvrY	confers resistance to antibiotic after 36 hours	Dihydrostreptomycin
+uvrY	confers no resistance to antibiotic after 36 hours	Amikacin
+uvrY	confers no resistance to antibiotic after 36 hours	Hygromycin B
+uvrY	confers no resistance to antibiotic after 36 hours	Kanamycin
+uvrY	confers no resistance to antibiotic after 36 hours	Tobramycin
+uvrY	confers no resistance to antibiotic after 36 hours	Novobiocin
+uvrY	confers no resistance to antibiotic after 36 hours	Gentamicin
+uvrY	confers no resistance to antibiotic after 36 hours	Neomycin
+uvrY	confers no resistance to antibiotic after 36 hours	Capreomycin
+uvrY	confers no resistance to antibiotic after 36 hours	Cefamandole
+uvrY	confers no resistance to antibiotic after 36 hours	Cephalothin
+uvrY	confers no resistance to antibiotic after 36 hours	Aztreonam
+uvrY	confers no resistance to antibiotic after 36 hours	Norfloxacin
+uvrY	confers no resistance to antibiotic after 36 hours	Oxacillin
+uvrY	confers no resistance to antibiotic after 36 hours	Trimethoprim
+uvrY	confers no resistance to antibiotic after 36 hours	Ofloxacin
+uvrY	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+uvrY	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+uvrY	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+uvrY	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+uvrY	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+uvrY	confers no resistance to antibiotic after 36 hours	Cefoxitin
+uvrY	confers no resistance to antibiotic after 36 hours	Spiramycin
+uvrY	confers no resistance to antibiotic after 36 hours	Hygromycin 
+yojN	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+yojN	confers no resistance to antibiotic after 36 hours	Puromycin
+yojN	confers no resistance to antibiotic after 36 hours	Tylosin
+yojN	confers no resistance to antibiotic after 36 hours	Geneticin
+yojN	confers no resistance to antibiotic after 36 hours	Paromomycin
+yojN	confers no resistance to antibiotic after 36 hours	Troleandomycin
+yojN	confers no resistance to antibiotic after 36 hours	Polymyxin B
+yojN	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+yojN	confers no resistance to antibiotic after 36 hours	Amikacin
+yojN	confers no resistance to antibiotic after 36 hours	Hygromycin B
+yojN	confers no resistance to antibiotic after 36 hours	Kanamycin
+yojN	confers no resistance to antibiotic after 36 hours	Tobramycin
+yojN	confers no resistance to antibiotic after 36 hours	Novobiocin
+yojN	confers no resistance to antibiotic after 36 hours	Gentamicin
+yojN	confers no resistance to antibiotic after 36 hours	Neomycin
+yojN	confers no resistance to antibiotic after 36 hours	Capreomycin
+yojN	confers no resistance to antibiotic after 36 hours	Cefamandole
+yojN	confers no resistance to antibiotic after 36 hours	Cephalothin
+yojN	confers no resistance to antibiotic after 36 hours	Aztreonam
+yojN	confers no resistance to antibiotic after 36 hours	Norfloxacin
+yojN	confers no resistance to antibiotic after 36 hours	Oxacillin
+yojN	confers resistance to antibiotic after 36 hours	Trimethoprim
+yojN	confers no resistance to antibiotic after 36 hours	Ofloxacin
+yojN	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+yojN	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+yojN	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+yojN	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+yojN	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+yojN	confers no resistance to antibiotic after 36 hours	Cefoxitin
+yojN	confers no resistance to antibiotic after 36 hours	Spiramycin
+yojN	confers no resistance to antibiotic after 36 hours	Hygromycin 
+cbrA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+cbrA	confers no resistance to antibiotic after 36 hours	Puromycin
+cbrA	confers no resistance to antibiotic after 36 hours	Tylosin
+cbrA	confers no resistance to antibiotic after 36 hours	Geneticin
+cbrA	confers no resistance to antibiotic after 36 hours	Paromomycin
+cbrA	confers no resistance to antibiotic after 36 hours	Troleandomycin
+cbrA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+cbrA	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+cbrA	confers no resistance to antibiotic after 36 hours	Amikacin
+cbrA	confers no resistance to antibiotic after 36 hours	Hygromycin B
+cbrA	confers no resistance to antibiotic after 36 hours	Kanamycin
+cbrA	confers no resistance to antibiotic after 36 hours	Tobramycin
+cbrA	confers no resistance to antibiotic after 36 hours	Novobiocin
+cbrA	confers no resistance to antibiotic after 36 hours	Gentamicin
+cbrA	confers no resistance to antibiotic after 36 hours	Neomycin
+cbrA	confers no resistance to antibiotic after 36 hours	Capreomycin
+cbrA	confers no resistance to antibiotic after 36 hours	Cefamandole
+cbrA	confers no resistance to antibiotic after 36 hours	Cephalothin
+cbrA	confers no resistance to antibiotic after 36 hours	Aztreonam
+cbrA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+cbrA	confers no resistance to antibiotic after 36 hours	Oxacillin
+cbrA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+cbrA	confers resistance to antibiotic after 36 hours	Ofloxacin
+cbrA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+cbrA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+cbrA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+cbrA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+cbrA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+cbrA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+cbrA	confers no resistance to antibiotic after 36 hours	Spiramycin
+cbrA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+cbrB	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+cbrB	confers no resistance to antibiotic after 36 hours	Puromycin
+cbrB	confers no resistance to antibiotic after 36 hours	Tylosin
+cbrB	confers no resistance to antibiotic after 36 hours	Geneticin
+cbrB	confers no resistance to antibiotic after 36 hours	Paromomycin
+cbrB	confers no resistance to antibiotic after 36 hours	Troleandomycin
+cbrB	confers no resistance to antibiotic after 36 hours	Polymyxin B
+cbrB	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+cbrB	confers no resistance to antibiotic after 36 hours	Amikacin
+cbrB	confers no resistance to antibiotic after 36 hours	Hygromycin B
+cbrB	confers no resistance to antibiotic after 36 hours	Kanamycin
+cbrB	confers no resistance to antibiotic after 36 hours	Tobramycin
+cbrB	confers no resistance to antibiotic after 36 hours	Novobiocin
+cbrB	confers no resistance to antibiotic after 36 hours	Gentamicin
+cbrB	confers no resistance to antibiotic after 36 hours	Neomycin
+cbrB	confers no resistance to antibiotic after 36 hours	Capreomycin
+cbrB	confers no resistance to antibiotic after 36 hours	Cefamandole
+cbrB	confers no resistance to antibiotic after 36 hours	Cephalothin
+cbrB	confers no resistance to antibiotic after 36 hours	Aztreonam
+cbrB	confers no resistance to antibiotic after 36 hours	Norfloxacin
+cbrB	confers no resistance to antibiotic after 36 hours	Oxacillin
+cbrB	confers no resistance to antibiotic after 36 hours	Trimethoprim
+cbrB	confers no resistance to antibiotic after 36 hours	Ofloxacin
+cbrB	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+cbrB	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+cbrB	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+cbrB	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+cbrB	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+cbrB	confers no resistance to antibiotic after 36 hours	Cefoxitin
+cbrB	confers no resistance to antibiotic after 36 hours	Spiramycin
+cbrB	confers no resistance to antibiotic after 36 hours	Hygromycin 
+cbrC	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+cbrC	confers no resistance to antibiotic after 36 hours	Puromycin
+cbrC	confers no resistance to antibiotic after 36 hours	Tylosin
+cbrC	confers no resistance to antibiotic after 36 hours	Geneticin
+cbrC	confers no resistance to antibiotic after 36 hours	Paromomycin
+cbrC	confers no resistance to antibiotic after 36 hours	Troleandomycin
+cbrC	confers no resistance to antibiotic after 36 hours	Polymyxin B
+cbrC	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+cbrC	confers no resistance to antibiotic after 36 hours	Amikacin
+cbrC	confers no resistance to antibiotic after 36 hours	Hygromycin B
+cbrC	confers no resistance to antibiotic after 36 hours	Kanamycin
+cbrC	confers no resistance to antibiotic after 36 hours	Tobramycin
+cbrC	confers no resistance to antibiotic after 36 hours	Novobiocin
+cbrC	confers no resistance to antibiotic after 36 hours	Gentamicin
+cbrC	confers no resistance to antibiotic after 36 hours	Neomycin
+cbrC	confers no resistance to antibiotic after 36 hours	Capreomycin
+cbrC	confers no resistance to antibiotic after 36 hours	Cefamandole
+cbrC	confers no resistance to antibiotic after 36 hours	Cephalothin
+cbrC	confers no resistance to antibiotic after 36 hours	Aztreonam
+cbrC	confers no resistance to antibiotic after 36 hours	Norfloxacin
+cbrC	confers no resistance to antibiotic after 36 hours	Oxacillin
+cbrC	confers no resistance to antibiotic after 36 hours	Trimethoprim
+cbrC	confers no resistance to antibiotic after 36 hours	Ofloxacin
+cbrC	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+cbrC	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+cbrC	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+cbrC	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+cbrC	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+cbrC	confers no resistance to antibiotic after 36 hours	Cefoxitin
+cbrC	confers no resistance to antibiotic after 36 hours	Spiramycin
+cbrC	confers no resistance to antibiotic after 36 hours	Hygromycin 
+luxS	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+luxS	confers no resistance to antibiotic after 36 hours	Puromycin
+luxS	confers no resistance to antibiotic after 36 hours	Tylosin
+luxS	confers no resistance to antibiotic after 36 hours	Geneticin
+luxS	confers no resistance to antibiotic after 36 hours	Paromomycin
+luxS	confers no resistance to antibiotic after 36 hours	Troleandomycin
+luxS	confers no resistance to antibiotic after 36 hours	Polymyxin B
+luxS	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+luxS	confers no resistance to antibiotic after 36 hours	Amikacin
+luxS	confers no resistance to antibiotic after 36 hours	Hygromycin B
+luxS	confers no resistance to antibiotic after 36 hours	Kanamycin
+luxS	confers no resistance to antibiotic after 36 hours	Tobramycin
+luxS	confers no resistance to antibiotic after 36 hours	Novobiocin
+luxS	confers no resistance to antibiotic after 36 hours	Gentamicin
+luxS	confers no resistance to antibiotic after 36 hours	Neomycin
+luxS	confers no resistance to antibiotic after 36 hours	Capreomycin
+luxS	confers no resistance to antibiotic after 36 hours	Cefamandole
+luxS	confers no resistance to antibiotic after 36 hours	Cephalothin
+luxS	confers no resistance to antibiotic after 36 hours	Aztreonam
+luxS	confers no resistance to antibiotic after 36 hours	Norfloxacin
+luxS	confers no resistance to antibiotic after 36 hours	Oxacillin
+luxS	confers no resistance to antibiotic after 36 hours	Trimethoprim
+luxS	confers no resistance to antibiotic after 36 hours	Ofloxacin
+luxS	confers resistance to antibiotic after 36 hours	Oxycarboxin
+luxS	confers resistance to antibiotic after 36 hours	Sulfamethoxazole
+luxS	confers resistance to antibiotic after 36 hours	Sulfadiazine
+luxS	confers resistance to antibiotic after 36 hours	Sulfanilamide
+luxS	confers resistance to antibiotic after 36 hours	Sulfathiazole
+luxS	confers no resistance to antibiotic after 36 hours	Cefoxitin
+luxS	confers no resistance to antibiotic after 36 hours	Spiramycin
+luxS	confers no resistance to antibiotic after 36 hours	Hygromycin 
+phoA	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+phoA	confers no resistance to antibiotic after 36 hours	Puromycin
+phoA	confers no resistance to antibiotic after 36 hours	Tylosin
+phoA	confers no resistance to antibiotic after 36 hours	Geneticin
+phoA	confers no resistance to antibiotic after 36 hours	Paromomycin
+phoA	confers no resistance to antibiotic after 36 hours	Troleandomycin
+phoA	confers no resistance to antibiotic after 36 hours	Polymyxin B
+phoA	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+phoA	confers no resistance to antibiotic after 36 hours	Amikacin
+phoA	confers no resistance to antibiotic after 36 hours	Hygromycin B
+phoA	confers no resistance to antibiotic after 36 hours	Kanamycin
+phoA	confers no resistance to antibiotic after 36 hours	Tobramycin
+phoA	confers no resistance to antibiotic after 36 hours	Novobiocin
+phoA	confers no resistance to antibiotic after 36 hours	Gentamicin
+phoA	confers no resistance to antibiotic after 36 hours	Neomycin
+phoA	confers no resistance to antibiotic after 36 hours	Capreomycin
+phoA	confers no resistance to antibiotic after 36 hours	Cefamandole
+phoA	confers no resistance to antibiotic after 36 hours	Cephalothin
+phoA	confers no resistance to antibiotic after 36 hours	Aztreonam
+phoA	confers no resistance to antibiotic after 36 hours	Norfloxacin
+phoA	confers no resistance to antibiotic after 36 hours	Oxacillin
+phoA	confers no resistance to antibiotic after 36 hours	Trimethoprim
+phoA	confers no resistance to antibiotic after 36 hours	Ofloxacin
+phoA	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+phoA	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+phoA	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+phoA	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+phoA	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+phoA	confers no resistance to antibiotic after 36 hours	Cefoxitin
+phoA	confers no resistance to antibiotic after 36 hours	Spiramycin
+phoA	confers no resistance to antibiotic after 36 hours	Hygromycin 
+phoH	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+phoH	confers no resistance to antibiotic after 36 hours	Puromycin
+phoH	confers no resistance to antibiotic after 36 hours	Tylosin
+phoH	confers no resistance to antibiotic after 36 hours	Geneticin
+phoH	confers no resistance to antibiotic after 36 hours	Paromomycin
+phoH	confers no resistance to antibiotic after 36 hours	Troleandomycin
+phoH	confers no resistance to antibiotic after 36 hours	Polymyxin B
+phoH	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+phoH	confers no resistance to antibiotic after 36 hours	Amikacin
+phoH	confers no resistance to antibiotic after 36 hours	Hygromycin B
+phoH	confers no resistance to antibiotic after 36 hours	Kanamycin
+phoH	confers no resistance to antibiotic after 36 hours	Tobramycin
+phoH	confers no resistance to antibiotic after 36 hours	Novobiocin
+phoH	confers no resistance to antibiotic after 36 hours	Gentamicin
+phoH	confers no resistance to antibiotic after 36 hours	Neomycin
+phoH	confers no resistance to antibiotic after 36 hours	Capreomycin
+phoH	confers no resistance to antibiotic after 36 hours	Cefamandole
+phoH	confers no resistance to antibiotic after 36 hours	Cephalothin
+phoH	confers no resistance to antibiotic after 36 hours	Aztreonam
+phoH	confers no resistance to antibiotic after 36 hours	Norfloxacin
+phoH	confers no resistance to antibiotic after 36 hours	Oxacillin
+phoH	confers no resistance to antibiotic after 36 hours	Trimethoprim
+phoH	confers no resistance to antibiotic after 36 hours	Ofloxacin
+phoH	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+phoH	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+phoH	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+phoH	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+phoH	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+phoH	confers resistance to antibiotic after 36 hours	Cefoxitin
+phoH	confers resistance to antibiotic after 36 hours	Spiramycin
+phoH	confers no resistance to antibiotic after 36 hours	Hygromycin 
+phn	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+phn	confers no resistance to antibiotic after 36 hours	Puromycin
+phn	confers no resistance to antibiotic after 36 hours	Tylosin
+phn	confers no resistance to antibiotic after 36 hours	Geneticin
+phn	confers no resistance to antibiotic after 36 hours	Paromomycin
+phn	confers resistance to antibiotic after 36 hours	Troleandomycin
+phn	confers no resistance to antibiotic after 36 hours	Polymyxin B
+phn	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+phn	confers no resistance to antibiotic after 36 hours	Amikacin
+phn	confers no resistance to antibiotic after 36 hours	Hygromycin B
+phn	confers no resistance to antibiotic after 36 hours	Kanamycin
+phn	confers no resistance to antibiotic after 36 hours	Tobramycin
+phn	confers no resistance to antibiotic after 36 hours	Novobiocin
+phn	confers no resistance to antibiotic after 36 hours	Gentamicin
+phn	confers no resistance to antibiotic after 36 hours	Neomycin
+phn	confers no resistance to antibiotic after 36 hours	Capreomycin
+phn	confers no resistance to antibiotic after 36 hours	Cefamandole
+phn	confers no resistance to antibiotic after 36 hours	Cephalothin
+phn	confers no resistance to antibiotic after 36 hours	Aztreonam
+phn	confers no resistance to antibiotic after 36 hours	Norfloxacin
+phn	confers no resistance to antibiotic after 36 hours	Oxacillin
+phn	confers no resistance to antibiotic after 36 hours	Trimethoprim
+phn	confers no resistance to antibiotic after 36 hours	Ofloxacin
+phn	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+phn	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+phn	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+phn	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+phn	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+phn	confers resistance to antibiotic after 36 hours	Cefoxitin
+phn	confers no resistance to antibiotic after 36 hours	Spiramycin
+phn	confers no resistance to antibiotic after 36 hours	Hygromycin 
+psiE	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+psiE	confers no resistance to antibiotic after 36 hours	Puromycin
+psiE	confers no resistance to antibiotic after 36 hours	Tylosin
+psiE	confers no resistance to antibiotic after 36 hours	Geneticin
+psiE	confers no resistance to antibiotic after 36 hours	Paromomycin
+psiE	confers no resistance to antibiotic after 36 hours	Troleandomycin
+psiE	confers no resistance to antibiotic after 36 hours	Polymyxin B
+psiE	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+psiE	confers no resistance to antibiotic after 36 hours	Amikacin
+psiE	confers no resistance to antibiotic after 36 hours	Hygromycin B
+psiE	confers no resistance to antibiotic after 36 hours	Kanamycin
+psiE	confers no resistance to antibiotic after 36 hours	Tobramycin
+psiE	confers no resistance to antibiotic after 36 hours	Novobiocin
+psiE	confers no resistance to antibiotic after 36 hours	Gentamicin
+psiE	confers no resistance to antibiotic after 36 hours	Neomycin
+psiE	confers no resistance to antibiotic after 36 hours	Capreomycin
+psiE	confers no resistance to antibiotic after 36 hours	Cefamandole
+psiE	confers no resistance to antibiotic after 36 hours	Cephalothin
+psiE	confers no resistance to antibiotic after 36 hours	Aztreonam
+psiE	confers no resistance to antibiotic after 36 hours	Norfloxacin
+psiE	confers no resistance to antibiotic after 36 hours	Oxacillin
+psiE	confers no resistance to antibiotic after 36 hours	Trimethoprim
+psiE	confers no resistance to antibiotic after 36 hours	Ofloxacin
+psiE	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+psiE	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+psiE	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+psiE	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+psiE	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+psiE	confers no resistance to antibiotic after 36 hours	Cefoxitin
+psiE	confers no resistance to antibiotic after 36 hours	Spiramycin
+psiE	confers no resistance to antibiotic after 36 hours	Hygromycin 
+rpoS	confers no resistance to antibiotic after 36 hours	Chloramphenicol
+rpoS	confers no resistance to antibiotic after 36 hours	Puromycin
+rpoS	confers no resistance to antibiotic after 36 hours	Tylosin
+rpoS	confers no resistance to antibiotic after 36 hours	Geneticin
+rpoS	confers no resistance to antibiotic after 36 hours	Paromomycin
+rpoS	confers no resistance to antibiotic after 36 hours	Troleandomycin
+rpoS	confers no resistance to antibiotic after 36 hours	Polymyxin B
+rpoS	confers no resistance to antibiotic after 36 hours	Dihydrostreptomycin
+rpoS	confers no resistance to antibiotic after 36 hours	Amikacin
+rpoS	confers no resistance to antibiotic after 36 hours	Hygromycin B
+rpoS	confers no resistance to antibiotic after 36 hours	Kanamycin
+rpoS	confers no resistance to antibiotic after 36 hours	Tobramycin
+rpoS	confers no resistance to antibiotic after 36 hours	Novobiocin
+rpoS	confers no resistance to antibiotic after 36 hours	Gentamicin
+rpoS	confers no resistance to antibiotic after 36 hours	Neomycin
+rpoS	confers no resistance to antibiotic after 36 hours	Capreomycin
+rpoS	confers no resistance to antibiotic after 36 hours	Cefamandole
+rpoS	confers no resistance to antibiotic after 36 hours	Cephalothin
+rpoS	confers no resistance to antibiotic after 36 hours	Aztreonam
+rpoS	confers no resistance to antibiotic after 36 hours	Norfloxacin
+rpoS	confers no resistance to antibiotic after 36 hours	Oxacillin
+rpoS	confers no resistance to antibiotic after 36 hours	Trimethoprim
+rpoS	confers no resistance to antibiotic after 36 hours	Ofloxacin
+rpoS	confers no resistance to antibiotic after 36 hours	Oxycarboxin
+rpoS	confers no resistance to antibiotic after 36 hours	Sulfamethoxazole
+rpoS	confers no resistance to antibiotic after 36 hours	Sulfadiazine
+rpoS	confers no resistance to antibiotic after 36 hours	Sulfanilamide
+rpoS	confers no resistance to antibiotic after 36 hours	Sulfathiazole
+rpoS	confers no resistance to antibiotic after 36 hours	Cefoxitin
+rpoS	confers no resistance to antibiotic after 36 hours	Spiramycin
+rpoS	confers resistance to antibiotic after 36 hours	Hygromycin 

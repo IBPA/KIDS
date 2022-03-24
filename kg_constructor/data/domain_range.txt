@@ -1,0 +1,13 @@
+Relation	Domain	Range
+confers resistance to antibiotic	gene	antibiotic
+confers no resistance to antibiotic	gene	antibiotic
+upregulated by antibiotic	gene	antibiotic
+not upregulated by antibiotic	gene	antibiotic
+represses	gene	gene
+no represses	gene	gene
+activates	gene	gene
+no activates	gene	gene
+has	gene	molecular_function
+is involved in	gene	biological_process
+is part of	gene	cellular_component
+targeted by	gene	antibiotic

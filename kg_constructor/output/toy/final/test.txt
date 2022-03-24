@@ -1,6 +1,0 @@
-Phoebe Gates	bornIn	Texas	1
-Jennifer Gates	bornIn	Texas	1
-Melinda French	bornIn	Washington	1
-Rory Gates	bornIn	Texas	1
-Bill Gates	bornIn	Washington	1
-Bill Gates	bornIn	Texas	1

@@ -1,0 +1,1775 @@
+Subject	Predicate	Object
+yeiP	has	translation elongation factor activity
+priA	is involved in	double-strand break repair
+tsx	is part of	pore complex
+carA	is part of	cytoplasm
+rnhB	has	RNA-DNA hybrid ribonuclease activity
+dmsB	has	4 iron, 4 sulfur cluster binding
+pal	is part of	cell outer membrane
+priA	is involved in	DNA-dependent DNA replication
+mhpT	is part of	integral component of membrane
+xapA	has	inosine nucleosidase activity
+gmk	has	guanylate kinase activity
+btuC	is part of	plasma membrane
+araG	has	ATPase activity
+yibH	is part of	plasma membrane
+rfbA	has	glucose-1-phosphate thymidylyltransferase activity
+lpoB	is part of	cell outer membrane
+yqaB	has	phosphatase activity
+rfe	has	phosphotransferase activity, for other substituted phosphate groups
+yieL	is involved in	mycolate cell wall layer assembly
+purF	has	identical protein binding
+ftsI	is involved in	cell wall organization
+osmC	is part of	cytosol
+radD	is involved in	response to ionizing radiation
+accC	has	biotin carboxylase activity
+dacA	is involved in	regulation of cell shape
+entF	has	nucleotidyltransferase activity
+psuT	is part of	plasma membrane
+lldP	is part of	plasma membrane
+trmL	has	tRNA (cytosine-2'-O-)-methyltransferase activity
+perM	has	transporter activity
+nimR	is involved in	negative regulation of transcription, DNA-templated
+rsmH	is part of	cytoplasm
+osmY	has	protein binding
+uidC	is part of	cell outer membrane
+rpsG	is involved in	negative regulation of translation
+alpA	is involved in	positive regulation of transcription, DNA-templated
+ybiW	is part of	cytoplasm
+phnG	is part of	alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase complex
+mltC	has	lytic endotransglycosylase activity
+thrS	is part of	cytosol
+iscU	has	identical protein binding
+gpmA	is involved in	glycolytic process
+adeP	is part of	integral component of plasma membrane
+ybcJ	is part of	cytosol
+torR	has	DNA binding transcription factor activity
+mqsR	has	protein binding
+rnt	is involved in	DNA replication proofreading
+kbaY	has	zinc ion binding
+nudC	has	NADH pyrophosphatase activity
+maa	has	O-acyltransferase activity
+rzpR	is involved in	cytolysis
+nadA	has	4 iron, 4 sulfur cluster binding
+gatY	is part of	cytosol
+ynaI	has	mechanosensitive ion channel activity
+yfaA	is part of	cytosol
+suhB	is involved in	signal transduction
+pdxK	has	potassium ion binding
+fdoG	has	iron-sulfur cluster binding
+yhdJ	is involved in	DNA methylation on adenine
+cpxP	has	unfolded protein binding
+potB	is part of	integral component of plasma membrane
+idnT	is involved in	carbohydrate transport
+mak	has	hexokinase activity
+yaiW	is involved in	transcription, DNA-templated
+yghB	is involved in	response to drug
+abpB	has	protein binding
+sodC	has	superoxide dismutase activity
+ilvN	is part of	acetolactate synthase complex
+map	has	ferrous iron binding
+yeiP	is part of	cytoplasm
+leuE	has	amino acid transmembrane transporter activity
+insI-2	is involved in	transposition
+ychF	is part of	cytoplasm
+appX	is part of	cell outer membrane
+ytfE	has	iron ion binding
+gluQ	is part of	cytosol
+yohF	has	oxidoreductase activity
+ccmC	is part of	plasma membrane
+chaC	is involved in	bacterial-type flagellum-dependent cell motility
+groL	is involved in	response to radiation
+elbB	is involved in	isoprenoid biosynthetic process
+purF	is part of	cytosol
+mutL	is involved in	regulation of DNA recombination
+fdoH	is involved in	respiratory electron transport chain
+bglH	has	carbohydrate transmembrane transporter activity
+trmD	has	tRNA (guanine(37)-N(1))-methyltransferase activity
+slmA	has	protein binding
+pfkA	has	magnesium ion binding
+grcA	is part of	cytosol
+mngA	is involved in	mannosylglycerate transport
+prpR	has	DNA binding transcription factor activity
+nuoM	has	ubiquinone binding
+ssuA	is part of	membrane
+gudD	has	magnesium ion binding
+murJ	is part of	membrane
+baeS	is involved in	peptidyl-histidine phosphorylation
+ravA	has	identical protein binding
+ndh	is part of	NADH dehydrogenase complex
+cydC	is part of	integral component of membrane
+pdxK	has	pyridoxal phosphate binding
+acs	has	protein deacetylase activity
+ybeY	is involved in	maturation of SSU-rRNA
+frdB	is involved in	fermentation
+hscC	has	heat shock protein binding
+nuoF	is part of	plasma membrane respiratory chain complex I
+wzzE	is part of	integral component of plasma membrane
+yoaE	is part of	plasma membrane
+ybiB	is part of	cytosol
+thrS	has	
+tdk	is involved in	DNA metabolic process
+mreC	is involved in	regulation of cell shape
+agaD	is part of	integral component of membrane
+cheY	is involved in	bacterial-type flagellum-dependent cell motility
+dbpA	has	ATPase activity
+cheY	has	magnesium ion binding
+ccmF	has	heme binding
+adeD	is involved in	adenine catabolic process
+ldtE	is involved in	Gram-negative-bacterium-type cell wall biogenesis
+lpoA	is involved in	regulation of catalytic activity
+fecD	has	iron chelate transmembrane transporter activity
+flu	is part of	cell surface
+mtlD	is part of	cytosol
+dut	is involved in	dUMP biosynthetic process
+ybhI	is involved in	transmembrane transport
+cadA	is involved in	lysine catabolic process
+chbC	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+yeeO	is involved in	peptide transport
+hscA	has	ATP binding
+yfcR	is involved in	cell adhesion
+rfaD	is part of	membrane
+tsaD	has	protein binding
+cyoC	has	oxidoreduction-driven active transmembrane transporter activity
+yeaY	is part of	outer membrane
+rsmG	is involved in	rRNA base methylation
+ppc	is part of	cytosol
+casB	is part of	
+dctA	is involved in	cellular response to DNA damage stimulus
+cycA	is involved in	L-alanine transport
+proW	has	protein binding
+cusR	is part of	protein-DNA complex
+yqaB	is involved in	dephosphorylation
+pykF	is part of	cytoplasm
+carB	is involved in	arginine biosynthetic process
+actP	is involved in	sodium ion transport
+yfeR	is part of	cytosol
+yghG	is part of	cell outer membrane
+ppsR	has	enzyme regulator activity
+cusA	has	silver ion transmembrane transporter activity
+rimL	has	N-acetyltransferase activity
+glk	is involved in	glycolytic process
+narX	is involved in	signal transduction by protein phosphorylation
+gadX	has	transcriptional activator activity, bacterial-type RNA polymerase proximal promoter sequence-specific DNA binding
+mazF	has	protein binding
+ygiN	is part of	cytosol
+yrdA	has	identical protein binding
+yeaK	has	aminoacyl-tRNA editing activity
+ampH	has	penicillin binding
+ftsI	has	penicillin binding
+yjbF	is part of	integral component of cell outer membrane
+mfd	has	protein binding
+ybhF	is part of	plasma membrane
+sbcB	has	3'-5'-exoribonuclease activity
+truC	is involved in	tRNA pseudouridine synthesis
+ygaM	is part of	cytosol
+pspA	has	protein binding
+dtpA	is part of	integral component of plasma membrane
+allD	has	ureidoglycolate dehydrogenase activity
+dacB	is involved in	FtsZ-dependent cytokinesis
+puuC	is involved in	putrescine catabolic process
+yhbE	is part of	plasma membrane
+atoC	has	ornithine decarboxylase inhibitor activity
+clsC	has	phosphatidylglycerol-phosphatidylethanolamine phosphatidyltransferase activity
+clcA	is part of	membrane
+rpsE	is involved in	translation
+ydcP	has	peptidase activity
+cydB	is part of	membrane
+aspC	is involved in	L-phenylalanine biosynthetic process from chorismate via phenylpyruvate
+rplD	is involved in	negative regulation of endoribonuclease activity
+yjjI	is involved in	nitrogen compound metabolic process
+astE	has	protein binding
+dctA	has	protein binding
+rho	is involved in	DNA-templated transcription, termination
+yigM	has	transmembrane transporter activity
+hypF	is involved in	protein maturation
+atoS	has	phosphorelay sensor kinase activity
+patZ	is involved in	response to oxidative stress
+lrhA	is involved in	negative regulation of transcription, DNA-templated
+hofB	has	ATPase activity
+gpt	has	hypoxanthine phosphoribosyltransferase activity
+gntP	has	transporter activity
+mltG	is part of	plasma membrane
+leuE	is part of	plasma membrane
+malE	is part of	ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing
+skp	is part of	outer membrane-bounded periplasmic space
+aroB	has	protein binding
+lysS	is part of	cytosol
+cspC	is part of	cytosol
+narV	has	nitrate reductase activity
+abgA	has	para-aminobenzoyl-glutamate hydrolase activity
+fhuC	is involved in	iron chelate transport
+argS	has	arginine-tRNA ligase activity
+araD	is part of	cytosol
+rpsR	has	mRNA 5'-UTR binding
+wecE	has	pyridoxal phosphate binding
+ftsE	is part of	extrinsic component of membrane
+clpB	is part of	membrane
+sodC	is part of	extracellular space
+wzzB	is involved in	polysaccharide biosynthetic process
+dmsA	has	electron transfer activity
+infB	is part of	membrane
+lptF	is part of	integral component of membrane
+mdtL	is part of	integral component of plasma membrane
+ccmG	is involved in	oxidation-reduction process
+pykF	has	identical protein binding
+glnL	is involved in	phosphorelay signal transduction system
+murR	is involved in	carbohydrate derivative metabolic process
+sgcR	is involved in	transcription, DNA-templated
+rsmA	has	rRNA binding
+lpxC	has	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity
+flgC	is part of	bacterial-type flagellum hook
+uvrC	is involved in	nucleic acid phosphodiester bond hydrolysis
+mcrA	has	methyl-CpG binding
+ynfF	is involved in	anaerobic respiration
+rplB	is involved in	cytoplasmic translation
+menD	is involved in	menaquinone biosynthetic process
+tolR	has	protein binding
+dtd	is involved in	tRNA metabolic process
+malK	has	ATP binding
+lptA	is involved in	lipopolysaccharide transport
+degS	is part of	intrinsic component of plasma membrane
+bglH	is part of	intrinsic component of cell outer membrane
+gnd	is involved in	pentose-phosphate shunt
+yidI	is part of	plasma membrane
+rhaD	is involved in	rhamnose catabolic process
+preT	has	oxidoreductase activity
+allB	has	allantoinase activity
+fdhE	has	ferric iron binding
+norV	has	identical protein binding
+lplT	has	lysophospholipid transporter activity
+nudE	has	ADP-sugar diphosphatase activity
+pdxH	has	oxidoreductase activity
+potD	is part of	outer membrane-bounded periplasmic space
+lamB	is involved in	viral entry into host cell
+pfkA	has	ATP binding
+nanT	is involved in	sialic acid transport
+yhdY	is part of	plasma membrane
+argO	has	arginine transmembrane transporter activity
+flu	is part of	membrane
+prmA	is involved in	N-terminal peptidyl-alanine trimethylation
+yfcF	is involved in	response to hydrogen peroxide
+cadC	is part of	intracellular
+ygiZ	is part of	plasma membrane
+cadB	is involved in	cadaverine transport
+lrp	has	protein binding
+yjbH	is involved in	extracellular polysaccharide biosynthetic process
+purB	is involved in	cellular response to DNA damage stimulus
+ravA	is part of	cytosol
+ptsI	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+nikC	is part of	plasma membrane
+nagE	is involved in	N-acetylglucosamine transport
+caiA	is part of	plasma membrane
+cusB	is involved in	response to copper ion
+bcr	is part of	integral component of plasma membrane
+ydeE	is involved in	transmembrane transport
+mntH	has	uniporter activity
+hmp	is involved in	cellular response to nitrosative stress
+minE	has	protein binding
+afuC	is part of	ATP-binding cassette (ABC) transporter complex
+der	has	GTPase activating protein binding
+narG	has	nitrate reductase activity
+yadG	is involved in	response to X-ray
+fepC	is involved in	ferric-enterobactin transport
+rimK	is involved in	C-terminal protein amino acid modification
+cusS	is part of	plasma membrane
+betT	is involved in	choline transport
+grpE	has	adenyl-nucleotide exchange factor activity
+livH	is involved in	phenylalanine transport
+narH	is part of	membrane
+cobB	is involved in	chemotaxis
+amiA	has	zinc ion binding
+rplJ	is part of	large ribosomal subunit
+hns	is part of	protein-DNA complex
+emrK	has	transporter activity
+ddpA	has	
+dxr	has	identical protein binding
+sfmD	is involved in	pilus assembly
+fimC	has	protein binding
+livG	has	L-isoleucine transmembrane transporter activity
+rnlA	is involved in	mRNA catabolic process
+torC	is part of	integral component of membrane
+rne	is involved in	nucleic acid phosphodiester bond hydrolysis
+rbsK	is part of	cytoplasm
+lsrC	has	monosaccharide transmembrane transporter activity
+ygeW	is involved in	primary metabolic process
+fetA	has	protein binding
+eno	has	phosphopyruvate hydratase activity
+ppk	has	polyphosphate kinase activity
+yeeA	is part of	plasma membrane
+rnhA	is involved in	nucleic acid phosphodiester bond hydrolysis
+tisB	is involved in	anion transmembrane transport
+ahr	is involved in	oxidation-reduction process
+gntK	is involved in	carbohydrate phosphorylation
+hofQ	is involved in	carbon utilization
+pepT	is part of	cytosol
+aldA	is involved in	protein homotetramerization
+gyrA	is part of	DNA topoisomerase complex (ATP-hydrolyzing)
+paoC	has	protein binding
+gcvA	has	sequence-specific DNA binding
+zipA	is involved in	division septum assembly
+ndk	has	nucleoside diphosphate kinase activity
+sfmC	is involved in	protein folding
+pgl	is involved in	carbohydrate metabolic process
+cysS	has	metal ion binding
+nrfA	has	heme binding
+btuR	is involved in	aerobic cobalamin biosynthetic process
+rplC	is involved in	translation
+nupC	is involved in	
+msrP	is involved in	protein repair
+nuoM	is part of	plasma membrane
+fepE	has	ferric-enterobactin transmembrane transporter activity
+dnaQ	has	3'-5' exonuclease activity
+gltI	has	aspartate binding
+yfiC	has	methyltransferase activity
+pdxA	has	4-hydroxythreonine-4-phosphate dehydrogenase activity
+nanE	has	N-acylglucosamine-6-phosphate 2-epimerase activity
+kgtP	is involved in	cation transmembrane transport
+nuoA	has	NADH dehydrogenase activity
+tusA	is involved in	tRNA wobble position uridine thiolation
+clcB	is involved in	cellular response to acidic pH
+ydfK	is involved in	response to cold
+ydjJ	has	zinc ion binding
+ptrB	has	serine-type endopeptidase activity
+thiD	has	hydroxymethylpyrimidine kinase activity
+torR	has	transcription regulatory region sequence-specific DNA binding
+hybC	is part of	[Ni-Fe] hydrogenase complex
+adeP	has	solute:proton symporter activity
+tcyN	has	cysteine-transporting ATPase activity
+rplX	is part of	ribosome
+sufE	has	sulfur carrier activity
+feaB	is involved in	4-nitrophenol catabolic process
+ydiB	has	NAD binding
+yphB	has	catalytic activity
+mglC	is part of	integral component of membrane
+aspA	is involved in	cellular amino acid biosynthetic process
+glf	has	flavin adenine dinucleotide binding
+alaE	is part of	plasma membrane
+guaA	has	catalytic activity
+recJ	is involved in	response to X-ray
+yhjA	is involved in	cellular oxidant detoxification
+citE	has	magnesium ion binding
+oxyR	is part of	cytosol
+rpmG	is part of	ribosome
+hokC	is part of	periplasmic space
+asnA	has	nucleotide binding
+rbsB	is involved in	carbohydrate transport
+ydiR	has	oxidoreductase activity
+rutA	is involved in	thymine catabolic process
+pykA	has	pyruvate kinase activity
+tgt	is part of	cytosol
+purA	is involved in	nucleobase-containing small molecule interconversion
+ahpF	has	NADPH binding
+livM	is involved in	isoleucine transmembrane transport
+waaB	is part of	cytosol
+yeeO	is involved in	FAD transmembrane transport
+lptD	is involved in	Gram-negative-bacterium-type cell outer membrane assembly
+narW	has	protein binding
+ydiB	is part of	cytosol
+tynA	has	quinone binding
+emtA	is part of	cell outer membrane
+yfcG	has	disulfide oxidoreductase activity
+tmcA	has	rRNA cytidine N-acetyltransferase activity
+napA	is part of	periplasmic space
+yajL	is part of	mitochondrion
+rcsC	is involved in	peptidyl-histidine phosphorylation
+hisD	is part of	cytoplasm
+dnaK	is involved in	protein refolding
+mutY	is involved in	DNA repair
+icd	has	isocitrate dehydrogenase (NADP+) activity
+nagE	has	metal ion binding
+polA	is part of	cytosol
+ugpC	has	hydrolase activity
+cyoA	is part of	plasma membrane
+puuB	has	oxidoreductase activity
+bioC	is involved in	biotin biosynthetic process
+hemN	has	4 iron, 4 sulfur cluster binding
+phoQ	has	metal ion binding
+ptsI	has	protein binding
+argG	is part of	cytoplasm
+ghoT	is part of	cell pole
+ydcI	has	sequence-specific DNA binding
+pntA	has	NAD binding
+mutM	has	endonuclease activity
+ybhR	is part of	integral component of plasma membrane
+rdgC	is part of	bacterial nucleoid
+nuoL	has	NADH dehydrogenase activity
+malF	is part of	ATP-binding cassette (ABC) transporter complex
+hpf	is part of	cytosol
+ygfI	is involved in	transcription, DNA-templated
+leuS	is involved in	regulation of translational fidelity
+gspL	is part of	plasma membrane
+rfaD	has	NADP+ binding
+yaiV	is involved in	transcription, DNA-templated
+ftsX	is part of	integral component of membrane
+lapA	is part of	plasma membrane
+kdsD	has	arabinose-5-phosphate isomerase activity
+argR	is involved in	negative regulation of DNA-templated transcription, initiation
+glnE	is involved in	regulation of glutamine family amino acid metabolic process
+hofQ	has	DNA binding
+argO	has	amino acid transmembrane transporter activity
+hprS	has	protein binding
+adeD	has	ferrous iron binding
+zwf	has	NADP binding
+allR	has	DNA binding transcription factor activity
+sdhB	has	iron-sulfur cluster binding
+copA	is involved in	ATP hydrolysis coupled cation transmembrane transport
+mdtI	has	
+kdpC	is involved in	potassium ion transport
+glpB	is part of	glycerol-3-phosphate dehydrogenase complex
+xseA	is involved in	nucleic acid phosphodiester bond hydrolysis
+adhP	has	alcohol oxidase activity
+mqsA	has	sequence-specific DNA binding
+sxy	is involved in	regulation of DNA binding transcription factor activity
+ugpB	is part of	periplasmic space
+glpG	is part of	plasma membrane
+rlmH	is involved in	rRNA base methylation
+pphA	is involved in	response to temperature stimulus
+yjbJ	is part of	cytosol
+hyfR	is involved in	regulation of DNA-templated transcription, initiation
+rbbA	is part of	membrane
+pdeR	is involved in	cyclic-nucleotide-mediated signaling
+thiP	is part of	plasma membrane
+treB	has	protein-phosphocysteine-trehalose phosphotransferase system transporter activity
+add	is involved in	hypoxanthine salvage
+lhgO	is part of	cytoplasm
+dtpC	has	dipeptide transmembrane transporter activity
+uvrA	is involved in	DNA repair
+lasT	is involved in	tRNA nucleoside ribose methylation
+hda	has	DNA replication origin binding
+ybjN	is involved in	regulation of bacterial-type flagellum assembly
+mltB	is part of	outer membrane-bounded periplasmic space
+recD	is involved in	cellular response to DNA damage stimulus
+yjcE	has	sodium:proton antiporter activity
+pyrH	is involved in	pyrimidine nucleotide biosynthetic process
+bisC	has	electron transfer activity
+murP	is involved in	carbohydrate transport
+decR	is involved in	transcription, DNA-templated
+sulA	is involved in	negative regulation of cell division
+eamB	is part of	integral component of plasma membrane
+dauA	has	fumarate transmembrane transporter activity
+fnr	is involved in	regulation of transcription, DNA-templated
+ybiH	has	DNA binding transcription factor activity
+clpS	is involved in	response to heat
+prkB	is part of	cytosol
+yohP	is part of	integral component of plasma membrane
+prlC	is involved in	DNA replication
+idnO	has	gluconate 5-dehydrogenase activity
+gltP	is part of	membrane
+maeB	has	malate dehydrogenase (decarboxylating) (NADP+) activity
+rbn	is involved in	tRNA 3'-trailer cleavage, endonucleolytic
+sdhB	has	electron transfer activity
+recG	is part of	Holliday junction helicase complex
+idnK	is involved in	D-gluconate catabolic process
+ybhJ	is part of	cytosol
+mrcB	has	protein binding
+livF	is involved in	L-amino acid transport
+gsiB	is involved in	dipeptide transport
+tatC	is part of	TAT protein transport complex
+gsiA	is involved in	glutathione transmembrane transport
+fumA	has	fumarate hydratase activity
+rluE	has	pseudouridine synthase activity
+eutH	is part of	plasma membrane
+garD	has	galactarate dehydratase activity
+narH	is part of	intrinsic component of membrane
+mhpR	is involved in	negative regulation of transcription, DNA-templated
+recA	is involved in	response to radiation
+tsf	is part of	cytoplasm
+mdtD	is part of	integral component of membrane
+ispA	has	prenyltransferase activity
+dtpC	is involved in	tripeptide transmembrane transport
+astC	has	identical protein binding
+pgk	is part of	cytosol
+abgR	is involved in	transcription, DNA-templated
+nrdG	is involved in	nucleobase-containing small molecule interconversion
+pheM	is involved in	regulation of transcription, DNA-templated
+lipA	has	alpha-ketoacid dehydrogenase activity
+ygbM	has	racemase and epimerase activity, acting on carbohydrates and derivatives
+cdh	is part of	integral component of plasma membrane
+nanA	has	N-acetylneuraminate lyase activity
+ftsY	has	GTPase activity
+cysJ	has	riboflavin reductase (NADPH) activity
+rpsO	is part of	cytosolic small ribosomal subunit
+dhaK	is involved in	glycerol catabolic process
+ravA	is part of	cytoplasm
+mrdA	is involved in	response to antibiotic
+minD	has	ATP binding
+zraR	has	DNA binding
+rpsA	is involved in	negative regulation of cytoplasmic translation
+fpr	is involved in	iron-sulfur cluster assembly
+efeO	is involved in	response to oxidative stress
+cyoA	has	oxidoreduction-driven active transmembrane transporter activity
+rutA	is involved in	uracil catabolic process
+rsmJ	has	rRNA (guanine-N2-)-methyltransferase activity
+yfeX	has	peroxidase activity
+znuA	is involved in	ion transport
+cybB	has	heme binding
+trpD	has	anthranilate phosphoribosyltransferase activity
+trmD	has	magnesium ion binding
+mhpT	is part of	integral component of plasma membrane
+tnaB	is part of	plasma membrane
+sstT	is part of	plasma membrane
+rpsQ	is involved in	translation
+zwf	is involved in	oxidation-reduction process
+eutR	has	glyoxalase III activity
+ldrD	is part of	integral component of plasma membrane
+dtd	has	D-tyrosyl-tRNA(Tyr) deacylase activity
+yebK	is involved in	carbohydrate derivative metabolic process
+uacT	is involved in	organic acid transmembrane transport
+manY	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+sdaA	is part of	cytosol
+ccmF	is involved in	cytochrome c-heme linkage
+gntR	is involved in	cellular response to DNA damage stimulus
+flgD	is part of	cytosol
+yghG	is involved in	cellular response to DNA damage stimulus
+yrfG	is involved in	dephosphorylation
+rpmG	has	tRNA binding
+mtr	has	symporter activity
+mglC	is involved in	cellular response to DNA damage stimulus
+pstS	is involved in	phosphate ion transport
+ygeA	has	amino-acid racemase activity
+nikD	has	nickel-transporting ATPase activity
+nagE	is part of	plasma membrane
+yfcF	has	transferase activity
+cysZ	is part of	plasma membrane
+idi	has	isopentenyl-diphosphate delta-isomerase activity
+infC	is part of	cytosol
+recA	has	protein binding
+lexA	is involved in	negative regulation of transcription, DNA-templated
+fmt	is involved in	charged-tRNA amino acid modification
+glmU	has	glucosamine-1-phosphate N-acetyltransferase activity
+ygdG	has	potassium ion binding
+yqeF	is involved in	fatty acid beta-oxidation
+sdhE	has	protein binding
+rpiR	is involved in	carbohydrate derivative metabolic process
+cof	is involved in	antibiotic catabolic process
+nuoM	is part of	plasma membrane respiratory chain complex I
+thiH	is involved in	cellular response to DNA damage stimulus
+secD	has	protein binding
+uvrY	is involved in	phosphorelay signal transduction system
+dsdA	has	hydro-lyase activity
+ynbB	is involved in	peptidoglycan-based cell wall biogenesis
+yejB	is part of	ATP-binding cassette (ABC) transporter complex
+aidB	has	protein binding
+mlaF	has	protein binding
+pflB	is part of	cytosol
+bioD	is part of	cytosol
+nth	is involved in	DNA repair
+speG	has	magnesium ion binding
+pspA	is part of	cell pole
+clpB	has	ATPase activity, coupled
+cmtA	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+modF	is part of	ATP-binding cassette (ABC) transporter complex
+ftsE	has	protein binding
+rssA	is involved in	phosphatidylcholine metabolic process
+fimC	is involved in	chaperone-mediated protein folding
+fruA	is part of	plasma membrane
+cmoB	is involved in	tRNA processing
+glnL	has	identical protein binding
+ymiB	is part of	integral component of membrane
+napC	is involved in	anaerobic respiration
+kdsB	is part of	cytosol
+nagC	is involved in	regulation of transcription, DNA-templated
+tsaC	is involved in	tRNA threonylcarbamoyladenosine modification
+cadB	is part of	membrane
+argP	has	DNA binding transcription factor activity
+trmH	has	RNA binding
+zupT	has	manganese ion transmembrane transporter activity
+insB-4	is involved in	transposition, DNA-mediated
+orn	has	single-stranded DNA 3'-5' exodeoxyribonuclease activity
+yidC	is part of	integral component of membrane
+agaI	has	galactosamine-6-phosphate isomerase activity
+metH	is involved in	protein methylation
+napC	has	electron transfer activity
+yhbO	is part of	cytoplasm
+dtpB	is part of	plasma membrane
+pqiA	is part of	membrane
+yadN	is involved in	cell adhesion
+rpsT	has	rRNA binding
+ccmE	has	metal ion binding
+dxr	is involved in	isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process
+nlpE	is involved in	regulation of cell-substrate adhesion
+sixA	is part of	cytoplasm
+cysH	is involved in	oxidation-reduction process
+yhfK	is part of	membrane
+dinG	has	protein binding
+yiaA	is part of	plasma membrane
+ptsG	has	kinase activity
+hemF	is part of	cytosol
+atoB	has	acetyl-CoA C-acetyltransferase activity
+puuD	has	hydrolase activity
+mgtA	is involved in	magnesium ion transmembrane transport
+gltD	is involved in	glutamate biosynthetic process
+yddM	is involved in	transcription, DNA-templated
+dtd	has	aminoacyl-tRNA editing activity
+glgX	has	catalytic activity
+sucB	is part of	cytosol
+rcsD	is part of	integral component of plasma membrane
+potA	is part of	plasma membrane
+rfe	has	phospho-N-acetylmuramoyl-pentapeptide-transferase activity
+nfsA	has	chromate reductase activity
+araC	is involved in	regulation of transcription, DNA-templated
+queG	has	epoxyqueuosine reductase activity
+aspC	is part of	cytoplasm
+ghrB	has	glyoxylate reductase (NADP) activity
+nadR	has	magnesium ion binding
+dcuS	has	phosphorelay sensor kinase activity
+cysK	has	pyridoxal phosphate binding
+arnF	is involved in	response to iron(III) ion
+iraP	has	protein binding
+yccX	has	acylphosphatase activity
+tatC	is part of	membrane
+rpsD	is involved in	transcription antitermination
+dgt	has	single-stranded DNA binding
+phoU	is part of	cytoplasm
+idnR	has	DNA binding
+nrdB	has	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor
+atpA	is part of	proton-transporting ATP synthase complex, catalytic core F(1)
+rplE	has	5S rRNA binding
+dtpB	has	
+uhpT	has	hexose-phosphate:inorganic phosphate antiporter activity
+ulaA	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+evgS	is involved in	signal transduction by protein phosphorylation
+ackA	has	zinc ion binding
+rhtC	is involved in	amino acid transport
+zipA	has	protein binding
+ydcL	is part of	plasma membrane
+moaC	is involved in	protein hexamerization
+rnpA	is involved in	tRNA processing
+ytfT	is part of	plasma membrane
+ldrA	is involved in	programmed cell death
+rplS	is part of	ribosome
+lpoA	has	enzyme regulator activity
+eamB	is part of	plasma membrane
+ushA	is involved in	dephosphorylation
+dcuS	is part of	intracellular
+manY	is involved in	glucose import across plasma membrane
+bepA	has	metallopeptidase activity
+tdh	has	cadmium ion binding
+sbcB	has	exodeoxyribonuclease I activity
+prpR	is involved in	negative regulation of transcription, DNA-templated
+feoA	is part of	cytoplasm
+yciT	is involved in	regulation of transcription, DNA-templated
+prlC	is involved in	signal peptide processing
+lptE	is part of	cell outer membrane
+yhjX	is involved in	transmembrane transport
+flhA	is involved in	bacterial-type flagellum assembly
+hyaC	is part of	integral component of membrane
+narL	is involved in	regulation of gene expression
+yghB	has	transmembrane transporter activity
+queE	is part of	cytosol
+ftsZ	has	GTPase activity
+yoeB	is involved in	RNA phosphodiester bond hydrolysis, endonucleolytic
+ulaB	is part of	cytoplasm
+dgt	has	identical protein binding
+mrcA	has	drug binding
+umpH	is involved in	UMP catabolic process
+aceF	has	acetyltransferase activity
+acpS	has	transferase activity
+minE	is part of	plasma membrane
+yadM	is involved in	cell adhesion
+gatB	has	protein-phosphocysteine-galactitol-phosphotransferase system transporter activity
+ydgU	is part of	integral component of plasma membrane
+ribA	has	protein binding
+yibA	is involved in	response to radiation
+umuC	is part of	plasma membrane
+topA	has	DNA topoisomerase type I activity
+ppdB	is part of	integral component of plasma membrane
+qseC	is part of	integral component of membrane
+nhaA	is part of	integral component of membrane
+fabZ	has	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity
+atpD	has	proton-transporting ATP synthase activity, rotational mechanism
+glpC	has	glycerol-3-phosphate dehydrogenase activity
+murJ	is part of	plasma membrane
+dsbD	is part of	cytoplasmic side of plasma membrane
+ppdC	is part of	integral component of plasma membrane
+yagI	is involved in	negative regulation of transcription, DNA-templated
+ndh	is involved in	aerobic electron transport chain
+nanT	is involved in	carboxylic acid transmembrane transport
+gapA	has	glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity
+yjeF	has	NADPHX epimerase activity
+intB	is part of	cytosol
+hemN	is involved in	protoporphyrinogen IX biosynthetic process
+lamB	has	porin activity
+cusC	is involved in	response to silver ion
+hdeB	has	unfolded protein binding
+mdlB	has	xenobiotic transmembrane transporting ATPase activity
+dapB	has	4-hydroxy-tetrahydrodipicolinate reductase
+gmm	has	manganese ion binding
+tig	is involved in	protein unfolding
+yihX	is involved in	dephosphorylation
+mscL	has	ion channel activity
+yihS	has	mannose isomerase activity
+acrA	is part of	plasma membrane
+dsbD	has	protein disulfide oxidoreductase activity
+mutH	is part of	mismatch repair complex
+nrfD	is part of	plasma membrane
+rtcR	is involved in	positive regulation of transcription, DNA-templated
+yibT	is involved in	response to butan-1-ol
+malG	is involved in	maltodextrin transport
+hyi	is involved in	glyoxylate metabolic process
+ompA	is involved in	detection of virus
+bglB	is involved in	carbohydrate metabolic process
+glpD	has	sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity
+melA	has	alpha-galactosidase activity
+mazF	is involved in	negative regulation of cell growth
+cspD	is part of	cytosol
+frsA	has	protein binding
+narX	is involved in	cellular response to nitrate
+ygeX	is involved in	cellular amino acid catabolic process
+cadB	is part of	plasma membrane
+gspE	is involved in	protein secretion by the type II secretion system
+yieH	has	manganese ion binding
+thrS	is involved in	regulation of translation
+add	is involved in	cellular response to DNA damage stimulus
+emrB	is involved in	response to toxic substance
+yhaJ	is involved in	transcription, DNA-templated
+ldcA	has	carboxypeptidase activity
+pstB	has	ATP binding
+cpdA	has	3',5'-cyclic-AMP phosphodiesterase activity
+tcyJ	is involved in	amino acid transport
+glvC	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+engB	is part of	cytosol
+ghoS	is involved in	RNA phosphodiester bond hydrolysis, endonucleolytic
+focA	has	transporter activity
+fucU	is part of	cytoplasm
+accD	is part of	acetate CoA-transferase complex
+yjeH	is involved in	L-valine transmembrane transport
+yhbQ	has	3'-5'-exodeoxyribonuclease activity
+dacA	has	penicillin binding
+ileS	has	zinc ion binding
+nuoK	has	NADH dehydrogenase activity
+dsdA	has	L-serine ammonia-lyase activity
+nudL	has	hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides
+rpoZ	is involved in	
+obgE	has	GTP binding
+udp	is involved in	UMP catabolic process
+rplA	is involved in	maturation of LSU-rRNA
+radA	is involved in	response to radiation
+gatZ	is part of	integral component of plasma membrane
+ybiS	is part of	extracellular region
+ghrA	is part of	cytosol
+atpD	is part of	proton-transporting ATP synthase complex, catalytic core F(1)
+coaE	is involved in	coenzyme A biosynthetic process
+rimM	is involved in	ribosomal small subunit assembly
+dctA	has	L-aspartate transmembrane transporter activity
+lptB	has	
+cyoB	is involved in	electron transport coupled proton transport
+mdlA	has	ATPase activity
+wcaA	has	transferase activity, transferring glycosyl groups
+uvrA	is part of	excinuclease repair complex
+sdaB	has	L-serine ammonia-lyase activity
+ulaB	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+betB	has	aldehyde dehydrogenase (NAD) activity
+cynX	is involved in	cyanate catabolic process
+recT	is part of	protein-DNA complex
+lolC	is part of	integral component of plasma membrane
+nirC	is involved in	nitrite transport
+intE	is involved in	DNA integration
+nuoG	has	FMN binding
+bglH	is part of	pore complex
+iclR	is involved in	regulation of transcription, DNA-templated
+moeB	has	protein binding
+rplM	has	zinc ion binding
+fumE	has	fumarate hydratase activity
+pheS	is involved in	tRNA aminoacylation
+pdxH	is involved in	oxidation-reduction process
+mtfA	has	aminopeptidase activity
+tolQ	is part of	integral component of plasma membrane
+xylR	is involved in	regulation of transcription, DNA-templated
+yjjU	has	hydrolase activity
+carB	is involved in	pyrimidine nucleobase biosynthetic process
+cycA	has	glycine transmembrane transporter activity
+gshA	is involved in	glutathione biosynthetic process
+oxc	has	magnesium ion binding
+dgkA	is involved in	response to UV
+afuC	is involved in	ATP hydrolysis coupled cation transmembrane transport
+spoT	is involved in	guanosine tetraphosphate metabolic process
+fiu	is involved in	siderophore transport
+speG	is involved in	polyamine catabolic process
+gph	has	magnesium ion binding
+rpsP	has	four-way junction DNA binding
+oppA	is part of	periplasmic space
+glpK	is involved in	glycerol metabolic process
+panC	is part of	cytosol
+entD	is part of	integral component of plasma membrane
+manY	is part of	integral component of plasma membrane
+sulA	has	protein binding
+htpG	is involved in	response to heat
+dtpC	has	proton transmembrane transporter activity
+zntA	is involved in	detoxification of zinc ion
+murC	has	protein binding
+galE	is part of	cytoplasm
+rpoB	has	DNA-directed 5'-3' RNA polymerase activity
+dhaL	has	transferase activity
+rluA	is involved in	tRNA processing
+luxS	is involved in	L-methionine salvage from S-adenosylmethionine
+lacI	has	transcriptional repressor activity, bacterial-type RNA polymerase proximal promoter sequence-specific DNA binding
+sgcE	is involved in	pentose-phosphate shunt, non-oxidative branch
+sucB	is involved in	tricarboxylic acid cycle
+ompA	is involved in	cellular response to DNA damage stimulus
+patD	has	1-pyrroline dehydrogenase activity
+rplI	is part of	
+frdA	has	succinate dehydrogenase activity
+umuC	is involved in	translesion synthesis
+folE	has	GTP binding
+mglC	is part of	plasma membrane
+wecE	has	dTDP-4-amino-4,6-dideoxygalactose transaminase activity
+yegD	is involved in	cellular response to heat
+mltA	is part of	outer membrane-bounded periplasmic space
+greA	is part of	cytoplasm
+idi	is involved in	cellular response to DNA damage stimulus
+glnK	is involved in	regulation of catalytic activity
+dcyD	has	D-cysteine desulfhydrase activity
+gltB	has	glutamate synthase (NADPH) activity
+yciC	is part of	plasma membrane
+ypdA	is involved in	cellular response to nutrient
+obgE	has	guanyl ribonucleotide binding
+pntA	has	NADP binding
+phoQ	is involved in	protein autophosphorylation
+fimB	is involved in	DNA integration
+tehA	is part of	plasma membrane
+hypE	is involved in	protein maturation
+gspI	is involved in	protein secretion by the type II secretion system
+bglF	has	transferase activity
+phnG	has	protein binding
+yagA	is part of	cytosol
+entS	is part of	plasma membrane
+bioH	has	hydrolase activity
+murI	has	glutamate racemase activity
+ydcY	has	protein binding
+cusF	has	metallochaperone activity
+yibF	is involved in	glutathione metabolic process
+minD	is part of	cytosol
+focB	is part of	plasma membrane
+aroP	has	proton motive force dependent protein transmembrane transporter activity
+yceI	is part of	outer membrane-bounded periplasmic space
+hxpB	is involved in	dephosphorylation
+mutY	has	adenine/guanine mispair binding
+ivy	has	lysozyme inhibitor activity
+cusB	is part of	outer membrane-bounded periplasmic space
+hyaA	is involved in	anaerobic respiration
+truB	is part of	cytosol
+serA	is involved in	L-serine biosynthetic process
+clsB	has	phospholipase D activity
+ydaV	is involved in	DNA strand elongation involved in DNA replication
+emtA	has	lytic endotransglycosylase activity
+glpE	is part of	cytoplasm
+cysE	is involved in	response to X-ray
+dauA	is involved in	sulfate transmembrane transport
+lsrD	is involved in	monosaccharide transmembrane transport
+lysU	is part of	membrane
+minD	is part of	cytoplasmic side of plasma membrane
+trg	is part of	integral component of plasma membrane
+gpmA	is involved in	gluconeogenesis
+phoQ	is part of	intracellular
+qseB	has	phosphorelay response regulator activity
+malF	is involved in	maltose transport
+hybG	has	iron ion binding
+rhaD	is involved in	pentose catabolic process
+uidR	is involved in	negative regulation of transcription, DNA-templated
+yciH	has	ribosomal small subunit binding
+gntU	is part of	integral component of plasma membrane
+nudK	has	GDP-mannose hydrolase activity
+purA	is involved in	'de novo' AMP biosynthetic process
+adiY	has	DNA binding transcription factor activity
+gfcA	is part of	integral component of plasma membrane
+rimM	has	rRNA binding
+dcuS	is involved in	signal transduction by protein phosphorylation
+ydiP	is involved in	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+allC	has	allantoate deiminase activity
+trpR	has	sequence-specific DNA binding
+ycbX	has	protein binding
+nuoB	has	4 iron, 4 sulfur cluster binding
+pepB	is involved in	peptide catabolic process
+cmoB	is involved in	protein homotetramerization
+glpR	has	protein binding
+tmcA	is involved in	tRNA wobble cytosine modification
+cirA	has	colicin transmembrane transporter activity
+nikB	is part of	ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing
+grxB	has	glutathione disulfide oxidoreductase activity
+narU	is part of	integral component of plasma membrane
+opgH	is involved in	glucan biosynthetic process
+yidH	is involved in	response to oxidative stress
+argF	is involved in	arginine biosynthetic process via ornithine
+dam	has	S-adenosyl-L-methionine binding
+rplI	has	rRNA binding
+norV	has	electron transfer activity
+ypdA	is part of	plasma membrane
+solA	is involved in	cellular response to DNA damage stimulus
+ilvA	is involved in	threonine metabolic process
+ygdG	has	5'-flap endonuclease activity
+yieF	is involved in	xenobiotic metabolic process
+ruvB	is part of	Holliday junction resolvase complex
+seqA	is involved in	response to radiation
+cynT	has	zinc ion binding
+nikC	is part of	integral component of plasma membrane
+trpA	is part of	cytosol
+pstS	is involved in	ATP hydrolysis coupled anion transmembrane transport
+asmA	is part of	integral component of plasma membrane
+gpsA	has	glycerol-3-phosphate dehydrogenase [NAD(P)+] activity
+yehC	is involved in	protein folding
+yciT	is involved in	cellular response to DNA damage stimulus
+atoS	is part of	integral component of membrane
+yhgH	is involved in	carbon utilization
+emrB	has	
+mukB	is involved in	chromosome segregation
+rplM	is part of	cytosol
+hokB	is part of	integral component of plasma membrane
+ada	is involved in	negative regulation of transcription, DNA-templated
+ahpC	is involved in	cellular response to sulfate starvation
+flhC	is involved in	transcription, DNA-templated
+stpA	has	AT DNA binding
+bfd	has	protein binding
+ydcI	is involved in	negative regulation of transcription, DNA-templated
+sad	has	succinate-semialdehyde dehydrogenase [NAD(P)+] activity
+tig	is part of	cytosol
+ydcM	is involved in	transposition
+fadR	is involved in	regulation of fatty acid metabolic process
+yggF	is involved in	gluconeogenesis
+chpB	has	endoribonuclease activity, producing 5'-phosphomonoesters
+hycG	is part of	ferredoxin hydrogenase complex
+tdcC	has	serine transmembrane transporter activity
+gor	is part of	membrane
+apaH	is involved in	response to X-ray
+thrS	has	drug binding
+yeeA	has	protein binding
+symE	is involved in	SOS response
+idnT	has	transporter activity
+clcA	is involved in	regulation of anion transmembrane transport
+ugpQ	has	glycerophosphodiester phosphodiesterase activity
+dppF	is involved in	dipeptide transmembrane transport
+chbC	is involved in	carbohydrate transmembrane transport
+rpmC	is part of	
+nmpC	is part of	membrane
+yccJ	is part of	cytosol
+nrdE	has	ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor
+cysN	has	GTPase activity
+fetB	is part of	ATP-binding cassette (ABC) transporter complex
+yebE	is part of	integral component of plasma membrane
+ampH	has	carboxypeptidase activity
+bglG	has	protein binding
+nanS	is involved in	carboxylic acid metabolic process
+rfaG	has	lipopolysaccharide glucosyltransferase I activity
+ybfF	has	thiolester hydrolase activity
+thiE	is part of	cytoplasm
+trmO	has	tRNA binding
+rapA	is part of	cytoplasm
+fbaB	has	identical protein binding
+bcsQ	is involved in	cellulose biosynthetic process
+cyoD	is part of	integral component of plasma membrane
+ppk	has	polyphosphate:AMP phosphotransferase activity
+waaB	has	lipopolysaccharide-1,6-galactosyltransferase activity
+orn	is involved in	nucleic acid phosphodiester bond hydrolysis
+nikA	is part of	ATP-binding cassette (ABC) transporter complex
+arnT	is involved in	lipopolysaccharide biosynthetic process
+rpsT	is part of	cytosol
+yicH	is part of	integral component of plasma membrane
+yafS	is involved in	methylation
+btuE	has	glutathione peroxidase activity
+dhaL	has	magnesium ion binding
+rlmN	has	protein binding
+dhaK	is involved in	monosaccharide catabolic process
+ispB	is part of	cytosol
+frlB	is involved in	UDP-N-acetylglucosamine metabolic process
+yegS	has	protein binding
+agaW	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+kefB	is involved in	proton transmembrane transport
+pdxY	has	transferase activity
+yedP	is involved in	dephosphorylation
+alaE	is involved in	amino acid export across plasma membrane
+dctA	is part of	plasma membrane
+rseC	is part of	plasma membrane
+gloB	has	zinc ion binding
+mdtK	is part of	integral component of membrane
+rbbA	has	ATPase activity, coupled
+abpA	has	protein binding
+rimL	has	peptide-serine-N-acetyltransferase activity
+hcr	has	2 iron, 2 sulfur cluster binding
+xapB	is involved in	nucleobase-containing small molecule metabolic process
+ulaE	has	racemase and epimerase activity, acting on carbohydrates and derivatives
+zupT	is involved in	zinc ion transport
+codA	has	identical protein binding
+mtfA	is part of	cytosol
+rlmC	is involved in	rRNA base methylation
+sucB	has	dihydrolipoyllysine-residue succinyltransferase activity
+ulaR	is involved in	transcription, DNA-templated
+mltF	has	lytic transglycosylase activity
+dnaB	is involved in	DNA unwinding involved in DNA replication
+manX	is involved in	phosphoenolpyruvate-dependent sugar phosphotransferase system
+rplO	has	structural constituent of ribosome
+nikA	has	
+ompA	is involved in	ion transmembrane transport
+ydcS	is part of	outer membrane-bounded periplasmic space
+clpP	has	ATP-dependent peptidase activity
+hprR	is involved in	transcription, DNA-templated
+ligB	has	DNA ligase (NAD+) activity
+fepB	is part of	periplasmic space
+clpP	is involved in	response to radiation
+yfeR	is part of	cytoplasm
+yfeX	is involved in	cellular oxidant detoxification
+clcA	is involved in	proton transmembrane transport
+grcA	is part of	cytoplasm
+seqA	has	protein binding
+queA	has	S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity
+iscX	has	iron ion binding
+glsA	is involved in	response to acidic pH
+gph	is involved in	DNA repair
+hflC	is part of	integral component of external side of plasma membrane
+pck	has	magnesium ion binding
+opgC	is involved in	oligosaccharide metabolic process
+ampG	is part of	plasma membrane
+pgpB	has	phosphatidylglycerophosphatase activity
+iscR	has	DNA binding transcription factor activity
+bcp	has	hydroperoxide reductase activity
+rpsJ	is part of	small ribosomal subunit
+glyA	has	zinc ion binding
+tas	is part of	cytosol
+ygiV	is involved in	negative regulation of transcription, DNA-templated
+panB	has	3-methyl-2-oxobutanoate hydroxymethyltransferase activity
+malZ	has	catalytic activity
+relA	is part of	plasma membrane
+insI-1	has	DNA insertion or deletion binding
+yagI	is involved in	single-species biofilm formation
+garD	is involved in	galactarate catabolic process
+ypdB	is involved in	cell motility
+ftsB	is part of	cell division site
+dosC	has	carbon monoxide binding
+dusA	has	tRNA-dihydrouridine20 synthase activity
+ttdR	has	DNA binding transcription factor activity
+proS	has	proline-tRNA ligase activity
+moaB	is involved in	Mo-molybdopterin cofactor biosynthetic process
+rimI	has	transferase activity, transferring acyl groups other than amino-acyl groups
+prfA	is involved in	translational termination
+hcp	has	peroxidase activity
+hchA	has	protein deglycase activity
+mutY	has	DNA binding
+ybaE	has	
+trmB	is involved in	RNA (guanine-N7)-methylation
+fetA	is part of	plasma membrane
+caiB	is involved in	carnitine catabolic process
+cusS	is part of	integral component of membrane
+secA	is part of	plasma membrane
+ptsG	is involved in	
+feaB	is involved in	NAD biosynthetic process
+wcaB	has	acetyltransferase activity
+katG	is involved in	response to oxidative stress
+rplT	has	translation repressor activity, mRNA regulatory element binding
+ligA	has	NAD+ binding
+arnE	is involved in	transmembrane transport
+mscS	is involved in	cellular water homeostasis
+insH-5	is part of	cytosol
+clpX	is involved in	protein unfolding
+groL	is involved in	chaperone cofactor-dependent protein refolding
+nimR	is involved in	regulation of transcription, DNA-templated
+cysG	is involved in	porphyrin-containing compound biosynthetic process
+ugpA	is part of	ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing
+pgpB	is involved in	dephosphorylation
+qseB	is part of	protein-DNA complex
+ydiV	is involved in	negative regulation of DNA binding transcription factor activity
+rhaM	is involved in	rhamnose catabolic process
+trkG	is involved in	potassium ion transmembrane transport
+ptsH	is part of	phosphoenolpyruvate-dependent sugar phosphotransferase complex
+rstA	has	DNA binding transcription factor activity
+satP	is part of	integral component of plasma membrane
+yefM	has	sequence-specific DNA binding
+pdeB	has	cyclic-guanylate-specific phosphodiesterase activity
+sspA	has	bacterial-type RNA polymerase core enzyme binding
+yebK	is involved in	cellular response to DNA damage stimulus
+pyrF	is involved in	'de novo' pyrimidine nucleobase biosynthetic process
+nupC	has	uridine transmembrane transporter activity
+fis	has	sequence-specific DNA binding
+kdpB	is involved in	ATP hydrolysis coupled cation transmembrane transport
+hdeA	is involved in	cellular response to acidic pH
+secG	has	P-P-bond-hydrolysis-driven protein transmembrane transporter activity
+tolA	is involved in	protein transport
+thrC	is part of	cytosol
+fliS	is involved in	bacterial-type flagellum-dependent cell motility
+nfrB	has	transporter activity
+potB	is part of	plasma membrane
+yehY	is part of	ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing
+chrR	has	FMN reductase (NADPH) activity
+xylF	is involved in	D-ribose transmembrane transport
+hycD	is part of	plasma membrane
+yrfG	has	manganese ion binding
+brnQ	is part of	plasma membrane
+pdxB	is part of	cytosol
+slyD	has	unfolded protein binding
+vsr	is involved in	mismatch repair
+ygbI	has	DNA binding
+ybhL	is part of	plasma membrane
+xylH	is part of	integral component of membrane
+rbsB	is involved in	D-ribose transmembrane transport
+ubiI	has	2-octaprenylphenol hydroxylase activity
+glpC	is part of	plasma membrane
+bcsQ	has	ATP binding
+rutA	has	uracil oxygenase activity
+uraA	is part of	integral component of membrane
+rpsC	is part of	cytosol
+malX	is involved in	carbohydrate utilization
+elbB	is part of	cytosol
+pheP	is involved in	phenylalanine transport
+hisB	is involved in	histidine biosynthetic process
+dosP	has	protein binding
+ftsH	has	ATP binding
+sucD	is involved in	succinate metabolic process
+parE	is involved in	chromosome organization
+dnaA	is involved in	regulation of DNA replication
+ispB	is involved in	polyprenol biosynthetic process
+dcuA	is part of	plasma membrane
+yhhY	has	N-acetyltransferase activity
+ftsW	is involved in	cell division
+barA	has	phosphorelay sensor kinase activity
+araF	is involved in	L-arabinose transmembrane transport
+gadX	is involved in	transcription, DNA-templated
+yfcU	is involved in	pilus assembly
+btuE	has	peroxidase activity
+rpoB	is part of	membrane
+bcsZ	is part of	extracellular region
+nuoM	is part of	NADH dehydrogenase complex
+ytfF	has	transmembrane transporter activity
+astD	has	aminobutyraldehyde dehydrogenase activity
+zupT	has	cobalt ion transmembrane transporter activity
+fbp	has	fructose 1,6-bisphosphate 1-phosphatase activity
+nimR	has	DNA binding transcription factor activity
+ampD	is part of	outer membrane
+dedD	has	peptidoglycan binding
+alkB	has	1-ethyladenine demethylase activity
+lepB	is part of	integral component of plasma membrane
+dctR	is involved in	regulation of cellular carbohydrate catabolic process
+caiF	is involved in	transcription, DNA-templated
+araH	is part of	plasma membrane
+dmlA	is involved in	oxidation-reduction process
+gloB	is involved in	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+srkA	has	nucleotide binding
+ynjI	is part of	plasma membrane
+rutG	has	uracil transmembrane transporter activity
+dtpB	is involved in	proton transmembrane transport
+tap	is part of	integral component of plasma membrane
+hisP	is involved in	histidine transport
+gltS	is involved in	amino acid transport
+cspE	has	poly(A) binding
+pnp	has	protein binding
+yfdV	is part of	plasma membrane
+gstA	is involved in	response to hydrogen peroxide
+plaP	is involved in	
+cas3	has	hydrolase activity
+surA	has	peptide binding
+lamB	has	protein binding
+gshB	is part of	cytosol
+fadB	is involved in	fatty acid beta-oxidation
+insF1	is part of	cell outer membrane
+pitA	is involved in	arsenate ion transmembrane transport
+truB	is involved in	RNA folding
+yajL	is involved in	cellular response to oxidative stress
+gltX	is involved in	porphyrin-containing compound biosynthetic process
+artJ	is involved in	ionotropic glutamate receptor signaling pathway
+casA	has	DNA binding
+potG	is involved in	putrescine transport
+aceK	is involved in	dephosphorylation
+pyrD	has	FMN binding
+ompA	has	porin activity
+yrfF	is part of	plasma membrane
+ihfB	has	sequence-specific DNA binding
+yhfS	has	cysteine synthase activity
+rfbC	has	protein binding
+metN	has	ATPase activity
+speE	has	thermospermine synthase activity
+dcuC	has	succinate:fumarate antiporter activity
+truC	is involved in	tRNA processing
+ydjG	is part of	cytosol
+rpsR	is involved in	translation
+rbsR	has	protein binding
+lsrG	has	oxidoreductase activity
+nikC	has	nickel cation binding
+groS	is part of	cytosol
+ispA	is part of	cytosol
+glgX	has	glycogen debranching enzyme activity
+yadC	is involved in	cellular response to DNA damage stimulus
+proQ	is part of	cytosol
+yjbB	is part of	integral component of plasma membrane
+yhfK	is involved in	transmembrane transport
+raiA	is part of	cytosolic small ribosomal subunit
+chrR	is part of	cytosol
+ybhP	is part of	cytoplasm
+uidC	is involved in	transmembrane transport
+msbA	has	ATP binding
+yjbE	is involved in	extracellular polysaccharide biosynthetic process
+tolB	is involved in	bacteriocin transport
+tonB	is part of	integral component of external side of plasma membrane
+yacG	has	zinc ion binding
+mqo	is part of	cytoplasmic side of plasma membrane
+cpxR	is involved in	negative regulation of transcription, DNA-templated
+thpR	has	2',3'-cyclic-nucleotide 3'-phosphodiesterase activity
+rffC	has	N-acetyltransferase activity
+envC	is involved in	positive regulation of hydrolase activity
+ygiS	is involved in	peptide transport
+dgcZ	is involved in	negative regulation of bacterial-type flagellum assembly
+nupX	is part of	plasma membrane
+betA	is part of	membrane
+yigM	is part of	integral component of membrane
+rfaH	is involved in	regulation of transcription, DNA-templated
+asd	is involved in	lysine biosynthetic process via diaminopimelate
+scpC	is involved in	acetate metabolic process
+chiP	is involved in	transmembrane transport
+flgJ	is involved in	bacterial-type flagellum-dependent cell motility
+frdB	is part of	membrane
+potC	is part of	plasma membrane
+ybiH	is involved in	regulation of transcription, DNA-templated
+acs	is part of	cytosol
+mltG	has	lytic endotransglycosylase activity
+parC	is involved in	sister chromatid cohesion
+cheB	is involved in	chemotaxis
+rhaR	has	sequence-specific DNA binding
+nupC	is involved in	uridine transport
+kdsB	has	3-deoxy-manno-octulosonate cytidylyltransferase activity
+sad	is involved in	gamma-aminobutyric acid catabolic process
+ldtB	is involved in	peptidoglycan-protein cross-linking
+lysU	has	ligase activity
+pfkB	has	carbohydrate kinase activity
+gor	has	flavin adenine dinucleotide binding
+fadE	has	oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor
+glcC	has	DNA binding
+zapA	has	protein binding
+amtB	has	uniporter activity
+nlpD	is involved in	positive regulation of hydrolase activity
+appB	has	oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor
+ydhX	is part of	outer membrane-bounded periplasmic space
+pta	has	phosphate acetyltransferase activity
+ydjN	is part of	plasma membrane
+ahpC	has	protein binding
+ratA	is involved in	negative regulation of translational initiation
+mdtC	has	protein binding
+mdtB	has	drug:proton antiporter activity
+cheA	is involved in	signal transduction by protein phosphorylation
+ybjC	is involved in	response to butan-1-ol
+malP	is part of	cytosol
+cnu	has	protein binding
+cbrA	has	4 iron, 4 sulfur cluster binding
+ftsX	is part of	cell division site
+mdtP	is part of	outer membrane-bounded periplasmic space
+yggE	is part of	integral component of external side of plasma membrane
+serS	is involved in	tRNA aminoacylation for protein translation
+ptsH	is part of	cytosol
+yahF	is involved in	nucleoside triphosphate biosynthetic process
+yhbY	is involved in	ribosomal small subunit assembly
+ydeO	has	DNA binding transcription factor activity
+maeB	is part of	cytosol
+rbsB	has	monosaccharide transmembrane transporter activity
+iscX	is part of	cytosol
+tcyJ	is involved in	diaminopimelate transport
+adeD	is involved in	hypoxanthine biosynthetic process
+lysS	has	nucleic acid binding
+rzpR	has	protein binding
+yajL	is involved in	protein repair
+nuoE	is part of	NADH dehydrogenase complex
+acrB	is part of	plasma membrane
+tauC	is part of	ATP-binding cassette (ABC) transporter complex
+uidB	has	transporter activity
+paaE	is involved in	phenylacetate catabolic process
+rppH	is part of	cytoplasm
+yihG	is part of	plasma membrane
+mobA	is involved in	bis(molybdopterin guanine dinucleotide)molybdenum biosynthetic process
+secE	is part of	intracellular
+hslO	is involved in	response to oxidative stress
+ftsK	is involved in	response to salt stress
+nupC	is part of	integral component of plasma membrane
+smpB	is part of	cytosol
+gcvA	is involved in	response to UV
+recD	has	helicase activity
+solA	has	flavin adenine dinucleotide binding
+yjiA	has	transition metal ion binding
+treR	has	DNA binding
+serB	has	phosphoserine phosphatase activity
+wzzB	is involved in	peptidyl-tyrosine autophosphorylation
+xanP	is part of	plasma membrane
+hflK	is part of	integral component of external side of plasma membrane
+fadD	has	long-chain fatty acid-CoA ligase activity
+bglF	is part of	integral component of membrane
+ibpA	is part of	cytosol
+cusS	is involved in	phosphorylation
+rhaS	is involved in	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+gatC	has	protein-phosphocysteine-galactitol-phosphotransferase system transporter activity
+yfcF	has	oxidoreductase activity
+rbfA	is involved in	maturation of SSU-rRNA
+yidC	is part of	integral component of plasma membrane
+rmuC	is part of	integral component of plasma membrane
+lpxB	is involved in	lipid A biosynthetic process
+sdhA	is involved in	anaerobic respiration
+ruvA	is involved in	response to radiation
+tmk	is part of	cytoplasm
+bioD2	has	dethiobiotin synthase activity
+basR	has	DNA binding transcription factor activity
+yfaZ	is part of	cell outer membrane
+cadB	has	solute:proton symporter activity
+phoA	is part of	periplasmic space
+amiA	is part of	periplasmic space
+umuC	is part of	DNA polymerase V complex
+bipA	is part of	cytosol
+iscS	has	cysteine desulfurase activity
+yadK	is involved in	cell adhesion involved in single-species biofilm formation
+dsbD	is involved in	cellular response to temperature stimulus
+hisJ	has	amino acid binding
+frvB	is part of	plasma membrane
+mdaB	has	NADPH dehydrogenase (quinone) activity
+recA	is part of	cytosol
+potB	is involved in	polyamine transmembrane transport
+kbl	has	metal ion binding
+nimT	is involved in	response to antibiotic
+znuA	has	zinc ion binding
+mscK	is part of	plasma membrane
+yciV	is involved in	RNA phosphodiester bond hydrolysis, exonucleolytic
+polA	has	3'-5' exonuclease activity
+dadA	is part of	plasma membrane
+kdpE	has	DNA binding transcription factor activity
+emrE	is involved in	drug export
+adk	is involved in	translation
+ydiB	has	shikimate 3-dehydrogenase (NADP+) activity
+tyrS	is part of	cytosol
+rutA	has	monooxygenase activity
+rpiA	is involved in	D-ribose metabolic process
+fliA	is part of	cytosol
+fucU	has	fucose binding
+argE	has	acetylornithine deacetylase activity
+zur	has	DNA binding
+sppA	is part of	plasma membrane
+murQ	is involved in	amino sugar catabolic process
+higB	is involved in	regulation of mRNA stability
+emrE	is part of	integral component of plasma membrane
+recC	is involved in	nucleic acid phosphodiester bond hydrolysis
+rpoA	has	zinc ion binding
+dhaM	has	hydrolase activity
+eptC	has	phosphotransferase activity, phosphate group as acceptor
+fabB	has	3-oxoacyl-[acyl-carrier-protein] synthase activity
+sbmA	is involved in	microcin transport
+fmt	is part of	cytosol
+kch	is involved in	ion transport
+lolC	is involved in	protein localization to outer membrane
+dnaT	has	identical protein binding
+yfdC	is involved in	formate transport
+ybjC	is part of	membrane
+mreC	is part of	plasma membrane
+fpr	is involved in	response to drug
+zntA	is involved in	lead ion transport
+yncE	is part of	outer membrane-bounded periplasmic space
+gmhB	has	zinc ion binding
+hchA	is involved in	response to methylglyoxal
+osmF	is part of	outer membrane-bounded periplasmic space
+yehU	is part of	intracellular
+fhuA	has	toxic substance binding
+recO	is involved in	response to radiation
+kduI	has	metal ion binding
+truB	is involved in	tRNA pseudouridine synthesis
+glpA	is part of	glycerol-3-phosphate dehydrogenase complex
+map	is involved in	protein initiator methionine removal
+mutL	has	ATP binding
+iaaA	has	hydrolase activity
+yedI	is part of	plasma membrane
+copA	has	ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism
+tsaD	has	
+ydiO	is involved in	1-butanol biosynthetic process
+thrB	has	homoserine kinase activity
+rplM	has	structural constituent of ribosome
+yihT	is involved in	6-sulfoquinovose(1-) catabolic process
+uxaB	has	tagaturonate reductase activity
+crr	has	kinase activity
+fabG	has	3-oxo-pimeloyl-[acp] methyl ester reductase activity
+cynT	has	carbonate dehydratase activity
+basR	has	transcription regulatory region sequence-specific DNA binding
+prlF	has	enzyme binding
+osmY	is involved in	chaperone-mediated protein folding
+ygaV	is involved in	regulation of transcription, DNA-templated
+aspS	is part of	cytosol
+nth	has	DNA binding
+dnaJ	is part of	cytosol
+ligA	is involved in	DNA repair
+acrE	is involved in	response to antibiotic
+evgA	is part of	cytosol
+yrfG	has	purine nucleosidase activity
+cysK	is involved in	cellular amino acid biosynthetic process
+yibL	is part of	cytosol
+dinB	has	DNA-directed DNA polymerase activity
+pspF	is involved in	negative regulation of transcription, DNA-templated
+ppsR	is involved in	regulation of catalytic activity
+def	has	hydrolase activity
+nfuA	is involved in	iron-sulfur cluster assembly
+napA	is involved in	anaerobic respiration
+rplC	has	rRNA binding
+ydiR	is involved in	fatty acid beta-oxidation using acyl-CoA dehydrogenase
+crfC	is involved in	chromosome segregation
+ahpC	has	oxidoreductase activity, acting on peroxide as acceptor
+hda	is part of	membrane
+thiM	is part of	cytosol
+ydcV	is part of	plasma membrane
+murE	has	UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity
+glpT	is involved in	phosphate ion transmembrane transport
+yafQ	is involved in	response to antibiotic
+grcA	has	acetyltransferase activity
+gcvP	has	identical protein binding
+lysP	has	identical protein binding
+yebQ	is part of	integral component of plasma membrane
+cydC	is part of	integral component of plasma membrane
+potG	is involved in	polyamine transmembrane transport
+alsA	is part of	ATP-binding cassette (ABC) transporter complex
+rclR	is involved in	methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione
+rrrQ	is involved in	cytolysis by virus of host cell
+yebG	is involved in	DNA repair
+hns	has	RNA binding
+mscM	is part of	integral component of plasma membrane
+argK	has	protein binding
+ilvN	is involved in	isoleucine biosynthetic process
+frdB	has	3 iron, 4 sulfur cluster binding
+cysG	has	uroporphyrin-III C-methyltransferase activity
+cysZ	is involved in	sulfate assimilation
+frlB	has	identical protein binding
+xanP	is part of	integral component of plasma membrane
+mntH	is involved in	metal ion transport
+tesA	has	lysophospholipase activity
+ycgR	has	cyclic-di-GMP binding
+elaA	has	transferase activity, transferring acyl groups other than amino-acyl groups
+ybjI	is involved in	dephosphorylation
+proV	has	ATP binding
+yddA	has	ATPase activity
+cra	is involved in	glycolytic process
+flxA	has	protein binding
+puuE	is part of	cytosol
+pspF	has	sequence-specific DNA binding
+abgA	is involved in	folic acid catabolic process
+mepA	has	endopeptidase activity
+purL	has	ATPase activity, coupled
+bolA	is part of	cytosol
+basR	has	phosphorelay response regulator activity
+panZ	has	protein binding
+dnaB	is involved in	response to ionizing radiation
+dsbD	is involved in	oxidation-reduction process
+amyA	has	cation binding
+dsbB	has	protein binding
+yadC	is involved in	cell adhesion
+fhuB	is involved in	ferric-hydroxamate transport
+uhpB	is involved in	protein dephosphorylation
+mraY	is involved in	cell wall organization
+hyaB	is part of	membrane
+bglJ	is involved in	response to radiation
+mdh	is involved in	fermentation
+pbpC	has	hydrolase activity
+nuoB	is part of	membrane
+eno	has	protein binding
+ldtB	has	cysteine-type carboxypeptidase activity
+eutK	is involved in	response to X-ray
+aroA	is part of	cytosol
+msrB	is involved in	protein repair
+mrcB	is part of	plasma membrane
+bglA	has	beta-glucosidase activity
+torI	is involved in	negative regulation of DNA-templated transcription, initiation
+purD	has	ATPase activity, coupled
+rnhB	is involved in	mismatch repair
+flu	is part of	integral component of membrane
+roxA	has	ferrous iron binding
+rnhA	has	nucleic acid binding
+dauA	is involved in	succinate transmembrane transport
+rraA	is part of	cytosol
+atpF	is part of	proton-transporting ATP synthase complex, coupling factor F(o)
+gldA	is involved in	glycerol metabolic process
+ygdG	has	protein binding
+pbpC	has	penicillin binding
+appY	has	DNA binding transcription factor activity
+ynfB	is part of	cell outer membrane
+trpC	is involved in	tryptophan biosynthetic process
+pntA	is involved in	NADPH regeneration
+dppF	has	dipeptide transmembrane transporter activity
+caiF	is involved in	carnitine metabolic process
+hxpB	has	sorbitol-6-phosphatase activity
+cas3	has	3'-5'-exodeoxyribonuclease activity
+can	has	zinc ion binding
+entB	has	protein binding
+otsB	is involved in	trehalose biosynthetic process
+nrdB	has	iron ion binding
+fumC	is involved in	tricarboxylic acid cycle
+fucI	is part of	cytosol
+acrB	is part of	efflux pump complex
+cusB	is involved in	response to silver ion
+ldhA	is involved in	mixed acid fermentation
+kefC	is part of	integral component of plasma membrane
+hemB	is part of	cytosol
+arcA	has	transcription regulatory region sequence-specific DNA binding
+ybfE	has	protein binding
+baeS	has	phosphorelay sensor kinase activity
+rmf	is part of	cytoplasm
+narP	is part of	intracellular
+mmuP	is part of	plasma membrane
+ulaD	has	3-dehydro-L-gulonate-6-phosphate decarboxylase activity
+cbrA	is involved in	oxidation-reduction process
+cyaY	has	ferroxidase activity
+ubiJ	is involved in	ubiquinone biosynthetic process from chorismate
+xylF	is involved in	D-xylose transmembrane transport
+tig	is involved in	response to heat
+oppC	is involved in	peptidoglycan-associated peptide transport
+fucK	has	L-fuculokinase activity
+entD	is part of	enterobactin synthetase complex
+recT	has	DNA binding
+thyA	is involved in	dTMP biosynthetic process
+menB	has	protein binding
+basS	has	ATP binding
+chaA	is part of	integral component of plasma membrane
+ynbC	is involved in	lipid metabolic process
+yqgF	is part of	cytosol
+ltaE	is involved in	glycine biosynthetic process
+leuE	is involved in	homoserine transport
+rffT	has	fucosyltransferase activity
+rpoS	is involved in	transcription initiation from bacterial-type RNA polymerase promoter
+glgX	is involved in	glycogen catabolic process
+htpG	is involved in	protein folding
+accB	has	acetyl-CoA carboxylase activity
+ruvC	is involved in	recombinational repair
+secG	is involved in	SRP-dependent cotranslational protein targeting to membrane, translocation
+cysK	has	cysteine synthase activity
+katG	is part of	extracellular region
+pfkA	is involved in	carbohydrate phosphorylation
+sufS	has	selenocysteine lyase activity
+ydeM	is involved in	oxidation-reduction process
+sugE	is involved in	transmembrane transport
+rbsK	has	metal ion binding
+ribD	has	5-amino-6-(5-phosphoribosylamino)uracil reductase activity
+fepG	is part of	integral component of plasma membrane
+gss	is part of	cytosol
+uup	is involved in	response to radiation
+hypD	is involved in	cellular protein modification process
+aes	has	hydrolase activity
+folA	is part of	cytosol
+secG	has	protein binding
+nrfB	has	electron transfer activity
+malS	is part of	periplasmic space
+panC	has	pantoate-beta-alanine ligase activity
+rpsD	has	translation repressor activity, mRNA regulatory element binding
+envZ	has	phosphoprotein phosphatase activity
+yraJ	is part of	cell outer membrane
+macA	has	transporter activity
+selB	has	GTPase activity
+ftsI	has	protein binding
+menA	is involved in	ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate
+msrB	has	peptide-methionine (R)-S-oxide reductase activity
+trmB	is part of	tRNA methyltransferase complex
+chbR	is involved in	regulation of transcription, DNA-templated
+frdA	has	electron transfer activity
+gltX	is involved in	glutamyl-tRNA aminoacylation
+ccmE	is part of	intrinsic component of periplasmic side of plasma membrane
+hprS	is part of	plasma membrane
+metH	is part of	cytosol
+sixA	is involved in	dephosphorylation
+panC	is involved in	pantothenate biosynthetic process from valine
+slp	is part of	outer membrane
+rlmL	has	S-adenosylmethionine-dependent methyltransferase activity
+bglX	has	beta-glucosidase activity
+waaG	has	lipopolysaccharide glucosyltransferase I activity
+proQ	has	RNA strand-exchange activity
+lamB	is part of	intrinsic component of cell outer membrane
+fepD	is part of	ATP-binding cassette (ABC) transporter complex
+ruvB	has	protein binding
+yejA	is involved in	oligopeptide transport
+rspB	has	zinc ion binding
+tatE	is part of	integral component of plasma membrane
+nlpE	is part of	cell outer membrane
+mdh	has	oxidoreductase activity
+chbR	has	DNA binding transcription factor activity
+gudP	is part of	plasma membrane
+rplB	is part of	cytosolic large ribosomal subunit
+yfeH	is part of	plasma membrane
+xerD	has	DNA binding
+purL	is part of	cytoplasm
+recQ	has	protein binding
+rbsB	is part of	integral component of membrane
+dhaM	is part of	cytosol
+lsrB	is part of	plasma membrane
+rplM	is involved in	negative regulation of translation
+aspA	is part of	cytosol
+mobB	has	protein binding
+hupB	has	identical protein binding
+astE	has	succinylglutamate desuccinylase activity
+cobB	is involved in	peptidyl-lysine desuccinylation
+rfe	has	manganese ion binding
+tcyJ	has	transporter activity
+mdtK	has	drug transmembrane transporter activity
+mntH	has	manganese ion transmembrane transporter activity
+pncB	has	nicotinate phosphoribosyltransferase activity
+alaE	is involved in	L-alpha-amino acid transmembrane transport
+glpG	is involved in	proteolysis
+hslO	has	identical protein binding
+purR	is involved in	negative regulation of purine nucleotide biosynthetic process
+ompT	has	serine-type endopeptidase activity
+yegD	has	ATPase activity, coupled
+bglF	has	protein-N(PI)-phosphohistidine-sugar phosphotransferase activity
+gspJ	is part of	integral component of plasma membrane
+proP	is part of	integral component of plasma membrane
+dkgB	is involved in	methylglyoxal catabolic process
+pitA	has	inorganic phosphate transmembrane transporter activity
+lepB	has	serine-type endopeptidase activity
+lapB	is part of	integral component of plasma membrane
+ftnA	is involved in	intracellular sequestering of iron ion
+rne	is involved in	mRNA catabolic process
+yhbX	is involved in	lipopolysaccharide core region biosynthetic process
+ruvA	is involved in	SOS response
+xisE	is involved in	DNA recombination
+secA	is involved in	intracellular protein transmembrane transport
+pgrR	has	DNA binding
+bdm	is involved in	positive regulation of bacterial-type flagellum assembly
+purC	is involved in	cobalamin biosynthetic process
+metB	is part of	cytoplasm
+rplY	is involved in	translation
+galP	is involved in	galactose transmembrane transport
+yhdZ	is involved in	amino acid transmembrane transport
+cysA	is part of	ATP-binding cassette (ABC) transporter complex
+cynS	is involved in	cyanate catabolic process
+mprA	has	DNA binding
+yahF	is involved in	succinate metabolic process
+mgtA	has	calcium-transporting ATPase activity
+yjhI	has	DNA binding
+glpA	has	glycerol-3-phosphate dehydrogenase activity
+rplO	is part of	
+dedD	is part of	cell division site
+yeaK	has	Ser-tRNA(Ala) hydrolase activity
+mrr	is involved in	nucleic acid phosphodiester bond hydrolysis
+malF	is part of	plasma membrane
+rplQ	is part of	cytosolic large ribosomal subunit
+rplC	has	protein binding
+artJ	has	amino acid binding
+gadB	has	glutamate decarboxylase activity
+fabI	is involved in	lipid biosynthetic process
+agaD	is part of	plasma membrane
+frwB	is involved in	carbohydrate transmembrane transport
+yhdX	is part of	integral component of membrane
+yraJ	is involved in	transmembrane transport
+ftsI	is involved in	peptidoglycan biosynthetic process
+ftnA	has	ferric iron binding
+yoeB	has	ribosomal small subunit binding
+pyrB	has	aspartate carbamoyltransferase activity
+comR	is involved in	response to copper ion
+opgG	is involved in	beta-glucan biosynthetic process
+panF	is part of	plasma membrane
+entA	has	identical protein binding
+yegD	has	ATP binding
+emrE	is involved in	transmembrane transport
+uvrD	is involved in	protein homooligomerization
+preT	has	NADH dehydrogenase activity
+pstS	is part of	outer membrane-bounded periplasmic space
+amtB	is involved in	ammonium transmembrane transport
+sgcC	is involved in	carbohydrate transmembrane transport
+rarD	is part of	plasma membrane
+rho	has	RNA binding
+rho	has	identical protein binding
+moaE	is involved in	molybdopterin cofactor biosynthetic process
+lptB	is part of	ATP-binding cassette (ABC) transporter complex
+uacT	is involved in	xanthine transport
+hflX	has	GTPase activity
+yciV	has	nucleotidase activity
+lsrB	has	monosaccharide transmembrane transporter activity
+chaA	is involved in	cation transmembrane transport
+glyA	has	protein binding
+pgl	is part of	cytosol
+pfkA	has	NAD+ kinase activity
+dnaN	is involved in	nucleic acid phosphodiester bond hydrolysis
+ybiO	is involved in	transmembrane transport
+alaS	is involved in	regulation of translational fidelity
+mdtN	is involved in	drug transmembrane transport
+qseB	is involved in	response to metal ion
+yqjD	is part of	plasma membrane
+rpmF	is involved in	response to radiation
+malZ	is involved in	alpha-glucan catabolic process
+murR	is involved in	negative regulation of transcription, DNA-templated
+tdh	is involved in	threonine catabolic process
+der	has	ribosomal large subunit binding
+pinQ	has	hydrolase activity
+galK	is part of	cytoplasm
+pfkB	has	magnesium ion binding
+ymgF	is involved in	cell division
+mrcB	has	serine-type D-Ala-D-Ala carboxypeptidase activity
+galF	is part of	cytosol
+sodA	is involved in	superoxide metabolic process
+ribB	has	magnesium ion binding
+ybeQ	is involved in	response to oxidative stress
+appC	is part of	plasma membrane
+ftsB	has	identical protein binding
+dsbA	has	protein disulfide isomerase activity
+hypB	is involved in	cofactor biosynthetic process
+ygeX	has	pyridoxal phosphate binding
+mlaF	is involved in	phospholipid transport
+mutH	is involved in	mismatch repair
+nikE	is part of	ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing
+hisC	is part of	cytoplasm
+rutC	is involved in	nitrogen utilization
+lgoR	is involved in	galactonate catabolic process
+murP	has	kinase activity
+yecS	has	cysteine transmembrane transporter activity
+hybO	has	iron-sulfur cluster binding
+ftsH	is part of	integral component of plasma membrane
+yebT	is part of	integral component of plasma membrane
+hemD	is involved in	protoporphyrinogen IX biosynthetic process
+ydhF	is part of	cytosol
+dfp	has	phosphopantothenoylcysteine decarboxylase activity
+atoC	has	DNA binding transcription factor activity
+caiT	has	(R)-carnitine:4-(trimethylammonio)butanoate antiporter activity
+spoT	has	guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity
+glmS	has	glutamine-fructose-6-phosphate transaminase (isomerizing) activity
+pyrH	has	identical protein binding
+mlaB	is involved in	phospholipid transport
+rpmB	is part of	cytosol
+appA	is involved in	myo-inositol hexakisphosphate dephosphorylation
+gpsA	has	glycerol-3-phosphate dehydrogenase [NADP+] activity
+arcB	is part of	plasma membrane
+ulaC	has	protein-phosphocysteine-sugar phosphotransferase activity
+nudC	is involved in	NADP catabolic process
+sbmA	has	microcin transmembrane transporter activity
+yfbV	is involved in	negative regulation of chromosome organization
+lspA	has	endopeptidase activity
+tdcR	is involved in	positive regulation of transcription, DNA-templated
+yihR	is part of	cytoplasm
+yciV	has	5'-3' exoribonuclease activity
+iscA	has	2 iron, 2 sulfur cluster binding
+lysP	is part of	integral component of plasma membrane
+mfd	is involved in	transcription-coupled nucleotide-excision repair, DNA damage recognition
+ligB	is involved in	DNA ligation
+suhB	has	glycerol-2-phosphatase activity
+aceF	has	pyruvate dehydrogenase activity
+hycB	has	4 iron, 4 sulfur cluster binding
+amiA	is involved in	cellular response to antibiotic
+glnL	is involved in	signal transduction by protein phosphorylation
+tcyP	has	L-cystine transmembrane transporter activity
+pyrB	is involved in	pyrimidine ribonucleotide biosynthetic process
+cueR	is involved in	positive regulation of transcription, DNA-templated
+hexR	is part of	cytosol
+elfC	has	heparin binding
+rpoB	has	protein binding
+brnQ	is involved in	valine transport
+csrA	is involved in	negative regulation of glycogen biosynthetic process
+rlmD	has	4 iron, 4 sulfur cluster binding
+feaB	is involved in	protein homotetramerization
+prs	is involved in	nucleoside metabolic process
+hemE	is involved in	uroporphyrinogen III biosynthetic process
+rfaH	is involved in	transcription elongation from bacterial-type RNA polymerase promoter
+cirA	has	siderophore transmembrane transporter activity
+pitB	is part of	integral component of membrane
+pheS	is part of	cytoplasm
+yhfK	is part of	plasma membrane
+pepP	has	identical protein binding
+ssuC	has	alkanesulfonate transmembrane transporter activity
+dmsB	is involved in	anaerobic respiration
+eptB	is part of	plasma membrane
+ubiX	is involved in	ubiquinone biosynthetic process
+casE	is involved in	RNA processing
+phoU	is involved in	cellular response to pH
+yihS	is involved in	6-sulfoquinovose(1-) catabolic process
+malK	is involved in	maltodextrin transport
+yidC	is involved in	protein homooligomerization
+cfa	is involved in	lipid modification
+paaJ	is involved in	fatty acid beta-oxidation
+yjeH	has	neutral L-amino acid secondary active transmembrane transporter activity
+ynfF	has	selenate reductase activity
+era	is involved in	protein phosphorylation
+yggF	is part of	cytosol
+lldP	has	solute:proton symporter activity
+amiB	is involved in	cell division
+alsA	is involved in	monosaccharide transmembrane transport
+ydcU	is part of	plasma membrane
+cpxP	is part of	outer membrane-bounded periplasmic space
+ugpC	has	ATP binding
+focB	is involved in	formate transport
+afuB	is part of	plasma membrane

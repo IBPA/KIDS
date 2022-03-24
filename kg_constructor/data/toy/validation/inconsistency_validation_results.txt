@@ -1,2 +1,0 @@
-Subject	Predicate	Object
-Bill Gates	divorcedWith	Melinda French

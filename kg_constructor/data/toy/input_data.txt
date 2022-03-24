@@ -1,3 +1,0 @@
-Path	Source
-source1/data.txt	source1
-source2/data.txt	source2
