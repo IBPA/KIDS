@@ -1,0 +1,97 @@
+arcB	Chloramphenicol
+arcB	Puromycin
+arcB	Tylosin
+arcA	Geneticin
+arcA	Paromomycin
+arcB	Troleandomycin
+atoS	Polymyxin B
+atoC	Polymyxin B
+atoS	Dihydrostreptomycin
+atoC	Dihydrostreptomycin
+baeS	
+baeR	
+barA	
+cpxR	Amikacin
+cpxR	Dihydrostreptomycin
+cpxR	Geneticin
+cpxR	Hygromycin B
+cpxR	Kanamycin
+cpxR	Tobramycin
+cpxA	Amikacin
+cpxA	Dihydrostreptomycin
+cpxA	Geneticin
+cpxA	Hygromycin B
+cpxA	Kanamycin
+cusR	Tobramycin
+cusS	
+dcuS	
+dcuR	
+kdpF	Novobiocin
+kdpA	Novobiocin
+kdpB	Novobiocin
+kdpC	Novobiocin
+kdpD	Novobiocin
+kdpE	Novobiocin
+kdpF	Hygromycin B
+kdpA	Hygromycin B
+kdpB	Hygromycin B
+kdpC	Hygromycin B
+kdpD	Hygromycin B
+kdpE	Hygromycin B
+narP	
+ntrB	Amikacin
+ntrB	Geneticin
+ntrB	Gentamicin
+ntrB	Neomycin
+ntrB	Paromomycin
+ntrB	Tobramycin
+ntrB	Capreomycin
+ntrC	Amikacin
+ntrC	Geneticin
+ntrC	Gentamicin
+ntrC	Neomycin
+ntrC	Paromomycin
+ntrC	Tobramycin
+ntrC	Capreomycin
+ompR	Cefamandole
+ompR	Cephalothin
+ompR	Aztreonam
+ompR	Norfloxacin
+ompR	Oxacillin
+envZ	Cefamandole
+envZ	Cephalothin
+envZ	Aztreonam
+envZ	Norfloxacin
+envZ	Oxacillin
+phoB	Tobramycin
+phoB	Paromomycin
+phoR	Tobramycin
+phoR	Paromomycin
+phoP	
+phoQ	
+qseB	
+qseC	
+rcsB	
+rssB	
+rstA	Troleandomycin
+rstB	Troleandomycin
+uhpA	
+uhpB	
+uvrY	Polymyxin B
+uvrY	Dihydrostreptomycin
+yojN	Trimethoprim
+cbrA	Ofloxacin
+cbrB	
+cbrC	
+luxS	Oxycarboxin
+luxS	Sulfamethoxazole
+luxS	Sulfadiazine
+luxS	Sulfanilamide
+luxS	Sulfathiazole
+phoA	
+phoH	Cefoxitin
+phoH	Spiramycin
+phn	Troleandomycin
+phn	Cefoxitin
+psiE	
+rpoS	Hygromycin B

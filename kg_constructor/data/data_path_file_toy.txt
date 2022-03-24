@@ -1,0 +1,4 @@
+Path	Source
+/path/to/dataset/directory/GO/GO_toy.txt	GO
+/path/to/dataset/directory/Tamae_et_al/Tamae_et_al_KO_Antibiotics_toy.txt	Tamae
+/path/to/dataset/directory/Liu_et_al/Liu_et_al_KO_Antibiotics_toy.txt	Liu

@@ -1,5 +1,0 @@
-Subject	Predicate	Object
-Bill Gates	founderOf	Microsoft
-Jennifer Gates	bornIn	Washington
-Microsoft	locatedIn	Washington
-Bill Gates	divorcedWith	Melinda Gates

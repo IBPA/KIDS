@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<rules>
+	<rule name="confers_resistance_to_antibiotic_*">
+		<if>
+			<feature name="Predicate" value="confers resistance to antibiotic *"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="confers resistance to antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="confers_no_resistance_to_antibiotic_*">
+		<if>
+			<feature name="Predicate" value="confers no resistance to antibiotic *"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="confers no resistance to antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="upregulated_by_antibiotic_*">
+		<if>
+			<feature name="Predicate" value="upregulated by antibiotic *"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="upregulated by antibiotic"></feature>
+		</then>
+	</rule>
+	<rule name="not_upregulated_by_antibiotic_*">
+		<if>
+			<feature name="Predicate" value="not upregulated by antibiotic *"></feature>
+		</if>
+		<then>
+			<feature name="Predicate" value="not upregulated by antibiotic"></feature>
+		</then>
+	</rule>
+</rules>

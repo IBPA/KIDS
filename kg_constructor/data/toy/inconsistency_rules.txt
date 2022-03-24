@@ -1,2 +1,0 @@
-where	value_1	value_2
-Predicate	divorcedWith	marriedTo

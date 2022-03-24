@@ -1,0 +1,271 @@
+Subject	Predicate	Object
+norA	confers resistance to drug	Ciprofloxacin
+norB	confers resistance to drug	Ciprofloxacin
+pmrA	confers resistance to drug	Ciprofloxacin
+qepA	confers resistance to drug	Ciprofloxacin
+patA	confers resistance to drug	Ciprofloxacin
+patB	confers resistance to drug	Ciprofloxacin
+mexA	confers resistance to drug	Ciprofloxacin
+mexB	confers resistance to drug	Ciprofloxacin
+oprM	confers resistance to drug	Ciprofloxacin
+gyrA	confers resistance to drug	Ciprofloxacin
+parC	confers resistance to drug	Ciprofloxacin
+parE	confers resistance to drug	Ciprofloxacin
+mfd	confers resistance to drug	Ciprofloxacin
+efrA	confers resistance to drug	Ciprofloxacin
+efrB	confers resistance to drug	Ciprofloxacin
+msbA	confers resistance to drug	Ciprofloxacin
+pmpM	confers resistance to drug	Ciprofloxacin
+acrE	confers resistance to drug	Ciprofloxacin
+acrF	confers resistance to drug	Ciprofloxacin
+tolC	confers resistance to drug	Ciprofloxacin
+mdtL	confers resistance to drug	Ciprofloxacin
+lamB	confers resistance to drug	Ciprofloxacin
+mexX	confers resistance to drug	Ciprofloxacin
+mexY	confers resistance to drug	Ciprofloxacin
+oprA	confers resistance to drug	Ciprofloxacin
+parC	targeted by	Ciprofloxacin
+gyrA	targeted by	Ciprofloxacin
+gyrB	targeted by	Ciprofloxacin
+gyrA	confers resistance to drug	Enoxacin
+parC	confers resistance to drug	Enoxacin
+parE	confers resistance to drug	Enoxacin
+mdtH	confers resistance to drug	Enoxacin
+gyrA	targeted by	Enoxacin
+oqxA	confers resistance to drug	Nitrofurantoin
+oqxB	confers resistance to drug	Nitrofurantoin
+msbA	confers resistance to drug	Metronidazole
+dnaA	confers resistance to drug	Rifampin
+rbpA	confers resistance to drug	Rifampin
+efrA	confers resistance to drug	Rifampin
+efrB	confers resistance to drug	Rifampin
+efpA	confers resistance to drug	Rifampin
+acrA	confers resistance to drug	Rifampin
+acrB	confers resistance to drug	Rifampin
+tolC	confers resistance to drug	Rifampin
+adeI	confers resistance to drug	Rifampin
+adeJ	confers resistance to drug	Rifampin
+adeK	confers resistance to drug	Rifampin
+rphB	confers resistance to drug	Rifampin
+rphA	confers resistance to drug	Rifampin
+rpoB	targeted by	Rifampin
+armA	confers resistance to drug	Tobramycin
+rmtA	confers resistance to drug	Tobramycin
+rmtB	confers resistance to drug	Tobramycin
+rmtC	confers resistance to drug	Tobramycin
+sgm	confers resistance to drug	Tobramycin
+mexX	confers resistance to drug	Tobramycin
+mexY	confers resistance to drug	Tobramycin
+oprM	confers resistance to drug	Tobramycin
+oprA	confers resistance to drug	Tobramycin
+acrA	confers resistance to drug	Tobramycin
+acrD	confers resistance to drug	Tobramycin
+tolC	confers resistance to drug	Tobramycin
+kamB	confers resistance to drug	Neomycin
+mipA	confers resistance to drug	Streptomycin
+rpsL	targeted by	Streptomycin
+emrK	confers resistance to drug	Tetracycline
+emrY	confers resistance to drug	Tetracycline
+tolC	confers resistance to drug	Tetracycline
+tap	confers resistance to drug	Tetracycline
+mexA	confers resistance to drug	Tetracycline
+mexB	confers resistance to drug	Tetracycline
+oprM	confers resistance to drug	Tetracycline
+tetX	confers resistance to drug	Tetracycline
+tetQ	confers resistance to drug	Tetracycline
+tetS	confers resistance to drug	Tetracycline
+tetT	confers resistance to drug	Tetracycline
+tetW	confers resistance to drug	Tetracycline
+tetM	confers resistance to drug	Tetracycline
+tetO	confers resistance to drug	Tetracycline
+mexJ	confers resistance to drug	Tetracycline
+mexK	confers resistance to drug	Tetracycline
+mexP	confers resistance to drug	Tetracycline
+mexQ	confers resistance to drug	Tetracycline
+opmE	confers resistance to drug	Tetracycline
+oprJ	confers resistance to drug	Tetracycline
+mexC	confers resistance to drug	Tetracycline
+mexD	confers resistance to drug	Tetracycline
+otrC	confers resistance to drug	Tetracycline
+mepA	confers resistance to drug	Tetracycline
+adeA	confers resistance to drug	Tetracycline
+adeB	confers resistance to drug	Tetracycline
+adeC	confers resistance to drug	Tetracycline
+adeF	confers resistance to drug	Tetracycline
+adeG	confers resistance to drug	Tetracycline
+adeH	confers resistance to drug	Tetracycline
+mdfA	confers resistance to drug	Tetracycline
+mexX	confers resistance to drug	Tetracycline
+mexY	confers resistance to drug	Tetracycline
+oprA	confers resistance to drug	Tetracycline
+mexG	confers resistance to drug	Tetracycline
+mexH	confers resistance to drug	Tetracycline
+mexI	confers resistance to drug	Tetracycline
+opmD	confers resistance to drug	Tetracycline
+vanS	confers resistance to drug	Vancomycin
+vanR	confers resistance to drug	Vancomycin
+vanA	confers resistance to drug	Vancomycin
+vanB	confers resistance to drug	Vancomycin
+mexA	confers resistance to drug	Ampicillin
+mexB	confers resistance to drug	Ampicillin
+oprM	confers resistance to drug	Ampicillin
+nmcA	confers resistance to drug	Ampicillin
+acrA	confers resistance to drug	Ampicillin
+acrB	confers resistance to drug	Ampicillin
+tolC	confers resistance to drug	Ampicillin
+dacA	targeted by	Ampicillin
+dacC	targeted by	Ampicillin
+dacD	targeted by	Ampicillin
+dacB	targeted by	Ampicillin
+pbpG	targeted by	Ampicillin
+ftsI	targeted by	Ampicillin
+mrdA	targeted by	Ampicillin
+ampH	targeted by	Ampicillin
+mrcA	targeted by	Ampicillin
+mrcB	targeted by	Ampicillin
+prc	targeted by	Ampicillin
+cfxA	confers resistance to drug	Cefoxitin
+nmcA	confers resistance to drug	Cefoxitin
+dacA	targeted by	Cefoxitin
+dacC	targeted by	Cefoxitin
+dacD	targeted by	Cefoxitin
+dacB	targeted by	Cefoxitin
+pbpG	targeted by	Cefoxitin
+ftsI	targeted by	Cefoxitin
+mrdA	targeted by	Cefoxitin
+ampH	targeted by	Cefoxitin
+mrcA	targeted by	Cefoxitin
+mrcB	targeted by	Cefoxitin
+prc	targeted by	Cefoxitin
+lpxD	confers resistance to drug	Colistin
+lpxC	confers resistance to drug	Colistin
+lpxA	confers resistance to drug	Colistin
+mexA	confers resistance to drug	Colistin
+mexB	confers resistance to drug	Colistin
+oprM	confers resistance to drug	Colistin
+mexA	confers resistance to drug	Chloramphenicol
+mexB	confers resistance to drug	Chloramphenicol
+oprM	confers resistance to drug	Chloramphenicol
+mexP	confers resistance to drug	Chloramphenicol
+mexQ	confers resistance to drug	Chloramphenicol
+opmE	confers resistance to drug	Chloramphenicol
+mexM	confers resistance to drug	Chloramphenicol
+mexN	confers resistance to drug	Chloramphenicol
+mexC	confers resistance to drug	Chloramphenicol
+mexD	confers resistance to drug	Chloramphenicol
+oprJ	confers resistance to drug	Chloramphenicol
+mexE	confers resistance to drug	Chloramphenicol
+mexF	confers resistance to drug	Chloramphenicol
+oprN	confers resistance to drug	Chloramphenicol
+cmlB	confers resistance to drug	Chloramphenicol
+cmrA	confers resistance to drug	Chloramphenicol
+cmx	confers resistance to drug	Chloramphenicol
+fexA	confers resistance to drug	Chloramphenicol
+floR	confers resistance to drug	Chloramphenicol
+acrA	confers resistance to drug	Chloramphenicol
+acrB	confers resistance to drug	Chloramphenicol
+tolC	confers resistance to drug	Chloramphenicol
+adeI	confers resistance to drug	Chloramphenicol
+adeJ	confers resistance to drug	Chloramphenicol
+adeK	confers resistance to drug	Chloramphenicol
+mdsA	confers resistance to drug	Chloramphenicol
+mdsB	confers resistance to drug	Chloramphenicol
+mdsC	confers resistance to drug	Chloramphenicol
+bmr	confers resistance to drug	Chloramphenicol
+mexV	confers resistance to drug	Chloramphenicol
+mexW	confers resistance to drug	Chloramphenicol
+smeD	confers resistance to drug	Chloramphenicol
+smeE	confers resistance to drug	Chloramphenicol
+smeF	confers resistance to drug	Chloramphenicol
+ykkC	confers resistance to drug	Chloramphenicol
+ykkD	confers resistance to drug	Chloramphenicol
+flo	confers resistance to drug	Chloramphenicol
+cat	confers resistance to drug	Chloramphenicol
+catB	confers resistance to drug	Chloramphenicol
+catD	confers resistance to drug	Chloramphenicol
+catI	confers resistance to drug	Chloramphenicol
+catP	confers resistance to drug	Chloramphenicol
+catQ	confers resistance to drug	Chloramphenicol
+catS	confers resistance to drug	Chloramphenicol
+catU	confers resistance to drug	Chloramphenicol
+cipA	confers resistance to drug	Chloramphenicol
+cfrA	confers resistance to drug	Chloramphenicol
+clbA	confers resistance to drug	Chloramphenicol
+clbB	confers resistance to drug	Chloramphenicol
+clbC	confers resistance to drug	Chloramphenicol
+cfrC	confers resistance to drug	Chloramphenicol
+ereA	confers resistance to drug	Erythromycin
+ereB	confers resistance to drug	Erythromycin
+mel	confers resistance to drug	Erythromycin
+msrA	confers resistance to drug	Erythromycin
+macA	confers resistance to drug	Erythromycin
+macB	confers resistance to drug	Erythromycin
+tolC	confers resistance to drug	Erythromycin
+cmeA	confers resistance to drug	Erythromycin
+cmeB	confers resistance to drug	Erythromycin
+cmeC	confers resistance to drug	Erythromycin
+mdtE	confers resistance to drug	Erythromycin
+mdtF	confers resistance to drug	Erythromycin
+mexA	confers resistance to drug	Erythromycin
+mexB	confers resistance to drug	Erythromycin
+oprM	confers resistance to drug	Erythromycin
+ermC	confers resistance to drug	Erythromycin
+ermA	confers resistance to drug	Erythromycin
+ermB	confers resistance to drug	Erythromycin
+ermD	confers resistance to drug	Erythromycin
+ermF	confers resistance to drug	Erythromycin
+ermG	confers resistance to drug	Erythromycin
+ermI	confers resistance to drug	Erythromycin
+ermN	confers resistance to drug	Erythromycin
+ermQ	confers resistance to drug	Erythromycin
+ermR	confers resistance to drug	Erythromycin
+ermT	confers resistance to drug	Erythromycin
+ermX	confers resistance to drug	Erythromycin
+oleD	confers resistance to drug	Erythromycin
+mgtA	confers resistance to drug	Erythromycin
+mphA	confers resistance to drug	Erythromycin
+mphB	confers resistance to drug	Erythromycin
+mphC	confers resistance to drug	Erythromycin
+mexV	confers resistance to drug	Erythromycin
+mexW	confers resistance to drug	Erythromycin
+mexX	confers resistance to drug	Erythromycin
+mexY	confers resistance to drug	Erythromycin
+mexJ	confers resistance to drug	Erythromycin
+mexK	confers resistance to drug	Erythromycin
+mexP	confers resistance to drug	Erythromycin
+mexQ	confers resistance to drug	Erythromycin
+efrA	confers resistance to drug	Erythromycin
+efrB	confers resistance to drug	Erythromycin
+muxA	confers resistance to drug	Erythromycin
+muxB	confers resistance to drug	Erythromycin
+muxC	confers resistance to drug	Erythromycin
+opmB	confers resistance to drug	Erythromycin
+lpeA	confers resistance to drug	Erythromycin
+lpeB	confers resistance to drug	Erythromycin
+emrE	confers resistance to drug	Erythromycin
+axyX	confers resistance to drug	Erythromycin
+axyY	confers resistance to drug	Erythromycin
+oprZ	confers resistance to drug	Erythromycin
+oprA	confers resistance to drug	Erythromycin
+cmeA	confers resistance to drug	Fusidic acid
+cmeB	confers resistance to drug	Fusidic acid
+cmeC	confers resistance to drug	Fusidic acid
+fusB	confers resistance to drug	Fusidic acid
+fusH	confers resistance to drug	Fusidic acid
+fusD	confers resistance to drug	Fusidic acid
+fusC	confers resistance to drug	Fusidic acid
+fusA	confers resistance to drug	Fusidic acid
+fusE	confers resistance to drug	Fusidic acid
+fusA	targeted by	Fusidic acid
+mexJ	confers resistance to drug	Triclosan
+mexK	confers resistance to drug	Triclosan
+opmH	confers resistance to drug	Triclosan
+triA	confers resistance to drug	Triclosan
+triB	confers resistance to drug	Triclosan
+triC	confers resistance to drug	Triclosan
+fabI	confers resistance to drug	Triclosan
+fabG	confers resistance to drug	Triclosan
+acrA	confers resistance to drug	Triclosan
+acrB	confers resistance to drug	Triclosan
+tolC	confers resistance to drug	Triclosan
+fabI	targeted by	Triclosan
