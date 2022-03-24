@@ -1,0 +1,9 @@
+if_where	if_rule	if_value	replace_where	replace_value
+Predicate	is	upregulated by antibiotic after 30 mins	Predicate,Object	has,response to antibiotic
+Predicate	is	upregulated by antibiotic after 30 mins	Predicate	confers resistance to antibiotic after 30 mins
+Predicate	is	not upregulated by antibiotic after 30 mins	Predicate	confers no resistance to antibiotic after 30 mins
+Predicate	startswith	confers resistance to antibiotic after	Predicate	confers resistance to antibiotic
+Predicate	startswith	confers no resistance to antibiotic after	Predicate	confers no resistance to antibiotic
+Predicate	is	confers resistance to antibiotic	Predicate,Object	has,response to antibiotic
+Predicate	is	activates	Predicate,Object	has,DNA binding transcription factor activity
+Predicate	is	represses	Predicate,Object	has,DNA binding transcription factor activity

@@ -1,0 +1,12 @@
+Bill Gates	founderOf	Microsoft	1
+Jennifer Gates	bornIn	Washington	1
+Jennifer Gates	childOf	Bill Gates	1
+Jennifer Gates	childOf	Melinda French	1
+Melinda French	bornIn	Texas	1
+Melinda French	childOf	Bill Gates	1
+Melinda French	childOf	Melinda French	1
+Microsoft	locatedIn	Washington	1
+Phoebe Gates	bornIn	Washington	1
+Phoebe Gates	childOf	Bill Gates	1
+Phoebe Gates	childOf	Melinda French	1
+Rory Gates	bornIn	Washington	1

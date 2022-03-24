@@ -1,0 +1,11 @@
+Path	Source
+hiTRN/hiTRN.txt	hiTRN
+GO/GO.txt	GO
+Shaw_et_al/Shaw_et_al.txt	Shaw
+Zhou_et_al/Zhou_et_al.txt	Zhou
+Nichols_et_al/Nichols_et_al.txt	Nichols
+Tamae_et_al/Tamae_et_al_KO_Antibiotics.txt	Tamae
+Liu_et_al/Liu_et_al_KO_Antibiotics.txt	Liu
+Girgis_et_al/Girgis_et_al.txt	Girgis
+Soo_et_al/Soo_et_al.txt	Soo
+CARD/CARD_Antibiotics_Resistance_Ecoli_Genes.txt	CARD

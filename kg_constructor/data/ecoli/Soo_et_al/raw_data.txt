@@ -1,0 +1,70 @@
+Amoxicillin	
+Aztreonam	yeaD
+Aztreonam	ycgZ
+Aztreonam	rbsR
+Carbenicillin	
+Cefazolin	bdm
+Cefmetazole	ycgZ
+Cefoperazone	bcr
+Cefuroxime	ycgZ
+Cephalothin	bdm
+Cloxacillin	
+Moxalactam	ycgZ
+Nafcillin	bdm
+Oxacillin	
+Penicillin G	bfd
+Phenethicillin	ydaC
+Piperacillin	yeeX
+Piperacillin	ugpC
+Apramycin	yejG
+Dihydrostreptomycin	cpdA
+Paromomycin	
+Sisomicin	yejG
+Tobramycin	yejG
+Sulfachloropyridazine	bcr
+Sulfadiazine	nudB
+Sulfadiazine	luxS
+Sulfamethazine	rbsR
+Sulfamethazine	ycgZ
+Sulfamonomethoxine	rbsR
+Sulfathiazole	phnC
+Sulfathiazole	bcr
+Sulfisoxazole	bcr
+Trimethoprim	folA
+Ciprofloxacin	marA
+Enoxacin	soxS
+Enoxacin	cynT
+Nalidixic acid	galE
+Nalidixic acid	yfdO
+Ofloxacin	marA
+Demeclocycline	
+Minocycline	
+Oxytetracycline	bcr
+Penimepicycline	ycgZ
+Penimepicycline	marA
+Rolitetracycline	bcr
+Erythromycin	ydaC
+Erythromycin	ydfW
+Josamycin	yhfK
+Josamycin	cpdA
+Lincomycin	cmr
+Lincomycin	rbsR
+Oleandomycin	ydfW
+Spiramycin	tusE
+Spiramycin	ydfW
+Tylosin	marA
+Phleomycin	
+5-Nitro-2-furaldehyde semicarbazone	mdtM
+Furaltadone	yagT
+Furaltadone	mdtM
+Nitrofurantoin	tfaX
+Rifampicin	feoC
+Rifampicin	tusE
+Rifamycin SV	
+Fusidic acid	hcaR
+Blasticidin S	csiE
+Blasticidin S	yjbI
+Puromycin	mdtM
+Ornidazole	ypjC
+Tinidazole	wrbA
+Tinidazole	mdtM

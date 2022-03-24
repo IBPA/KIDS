@@ -1,0 +1,2 @@
+Subject	Predicate	Object	Belief	Source size	Sources	Total source size	Mean belief of conflicting tuples	Belief difference	Conflicting tuple info
+Bill Gates	marriedTo	Melinda French	1.0000000000	1	source1	2	0.0103934065	0.9896065935	[(('Bill Gates', 'divorcedWith', 'Melinda French'), ['source2'], 0.010393406467252852)]
