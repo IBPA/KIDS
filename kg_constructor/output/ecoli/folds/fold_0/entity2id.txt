@@ -1,0 +1,7998 @@
+7997
+emtA	0
+smtA	1
+ybcW	2
+yhjE	3
+ybfF	4
+yfdR	5
+zitB	6
+hycG	7
+fruA	8
+elfG	9
+fepD	10
+pagP	11
+dcyD	12
+xseB	13
+phnM	14
+gor	15
+panF	16
+alaA	17
+ydjL	18
+rlmM	19
+gltI	20
+yjfF	21
+rcsD	22
+rdoA	23
+ymfK	24
+yacH	25
+ytfT	26
+insB-4	27
+selB	28
+yfeD	29
+insD-7	30
+miaA	31
+fhuA	32
+rsmI	33
+ygcP	34
+tldD	35
+yicH	36
+insF1	37
+yjiM	38
+sgbE	39
+eamB	40
+hybO	41
+mzrA	42
+gadA	43
+hybC	44
+hemB	45
+mlaC	46
+pfkB	47
+fryA	48
+intD	49
+hcaT	50
+exbD	51
+glgB	52
+narI	53
+ybeX	54
+nlpD	55
+ykgR	56
+yedD	57
+ybeF	58
+torY	59
+cyoA	60
+ymfT	61
+nhaR	62
+wcaM	63
+yhaB	64
+ymfL	65
+yidL	66
+pepQ	67
+sucB	68
+purP	69
+lpxC	70
+cysI	71
+yhhL	72
+rffG	73
+agaD	74
+trmJ	75
+nuoM	76
+mukF	77
+acpS	78
+yccF	79
+tcyN	80
+hyfR	81
+hscB	82
+cbrC	83
+osmC	84
+yhcM	85
+rob	86
+fimI	87
+ynfH	88
+aceA	89
+cheW	90
+paaE	91
+malK	92
+potF	93
+zapE	94
+idnK	95
+minE	96
+yajO	97
+lptD	98
+menD	99
+dcm	100
+yfgH	101
+yeeZ	102
+malY	103
+fucU	104
+cdaR	105
+rutE	106
+ubiD	107
+ycjP	108
+yraN	109
+yncM	110
+nth	111
+hybE	112
+hycE	113
+ymdA	114
+ptsG	115
+ubiG	116
+yqgE	117
+cutA	118
+xdhC	119
+yfeS	120
+elfC	121
+rstB	122
+ruvC	123
+ccmC	124
+mlaD	125
+nikA	126
+yebO	127
+hyaA	128
+yhfT	129
+yidG	130
+essD	131
+leuB	132
+serC	133
+glnA	134
+cydB	135
+tdcE	136
+ydgC	137
+yghD	138
+yegX	139
+fimB	140
+uspG	141
+cheR	142
+gpmM	143
+gfcC	144
+mrdA	145
+tonB	146
+folE	147
+yfhL	148
+insB-6	149
+eutC	150
+lpxT	151
+yahI	152
+xapA	153
+mreC	154
+yhjX	155
+ypjM_2	156
+yjbF	157
+nimT	158
+dinQ	159
+trmI	160
+dtpB	161
+glnK	162
+ydaU	163
+rutB	164
+yjhG	165
+mutY	166
+ndh	167
+csgC	168
+lar	169
+pheT	170
+ydbH	171
+yffB	172
+metQ	173
+yjdL	174
+cysJ	175
+ybiT	176
+ynjH	177
+ybhJ	178
+yafK	179
+sufB	180
+rhaR	181
+cusS	182
+kbp	183
+tcyL	184
+luxS	185
+hycA	186
+rplN	187
+yifO	188
+dapA	189
+proB	190
+ibpB	191
+zapB	192
+fdrA	193
+glvC	194
+rpmB	195
+ydgK	196
+yigZ	197
+ydfZ	198
+yeiB	199
+ung	200
+yjaA	201
+nohA	202
+yjbE	203
+hsdS	204
+eutA	205
+eutP	206
+serS	207
+yjaB	208
+ispA	209
+yjjY	210
+ycaI	211
+ycgR	212
+yacC	213
+gyrA	214
+mlc	215
+paoA	216
+ispB	217
+yibV	218
+yjiJ	219
+fecD	220
+pbpG	221
+ybdG	222
+accC	223
+ytjA	224
+amiA	225
+garP	226
+fliF	227
+yjdQ	228
+recE	229
+torS	230
+yijE	231
+ldrC	232
+sfmC	233
+yciG	234
+fnr	235
+nrfG	236
+opgE	237
+ybeR	238
+nei	239
+waaA	240
+clpB	241
+torA	242
+xdhA	243
+waaF	244
+nuoH	245
+ldcC	246
+hcaE	247
+nusA	248
+degP	249
+nfsA	250
+uvrC	251
+lon	252
+ydcH	253
+yjiS	254
+yeaI	255
+yfaP	256
+yoaI	257
+aspC	258
+ybhS	259
+rpe	260
+cybB	261
+ppdD	262
+ymjB	263
+yiaC	264
+cra	265
+molR	266
+yjcH	267
+ybiP	268
+ykfA	269
+narZ	270
+phoH	271
+folC	272
+mmuM	273
+eutS	274
+dtd	275
+iadA	276
+greA	277
+idnD	278
+rutF	279
+parE	280
+coaA	281
+ybhQ	282
+yhjA	283
+yedQ	284
+ypeA	285
+yedA	286
+hns	287
+fryB	288
+crl	289
+acpT	290
+cbeA	291
+apaG	292
+symE	293
+hemN	294
+dgoK	295
+xdhB	296
+ygeK	297
+yggR	298
+dpiA	299
+setA	300
+ycaM	301
+ydgI	302
+fbaA	303
+yadL	304
+yfcT	305
+ysdC	306
+yaiI	307
+mdtN	308
+yfdY	309
+pykF	310
+yeeP	311
+abgT	312
+fsr	313
+bluR	314
+modC	315
+pntB	316
+blc	317
+yffM	318
+moaD	319
+yicJ	320
+rsxE	321
+ubiC	322
+tusC	323
+yfbU	324
+ybfH	325
+aer	326
+galE	327
+rplX	328
+pnp	329
+yobF	330
+dkgA	331
+narX	332
+ymiB	333
+truA	334
+yieE	335
+yddL	336
+ghrB	337
+bax	338
+ttcA	339
+ubiB	340
+ycjX	341
+yecM	342
+flu	343
+htrL	344
+aroB	345
+tesB	346
+ykgI	347
+gudD	348
+ftsY	349
+ibsB	350
+pphA	351
+ygcN	352
+cca	353
+tolQ	354
+aas	355
+yidH	356
+rpsC	357
+zapD	358
+pncB	359
+yeeN	360
+casD	361
+yehU	362
+ygiZ	363
+galU	364
+kdsD	365
+rcbA	366
+yidI	367
+thiF	368
+acnA	369
+yfaH	370
+yeaY	371
+arnF	372
+dnaC	373
+insD-2	374
+ygaP	375
+tfaQ	376
+yigG	377
+yiaL	378
+btuB	379
+lptA	380
+mokB	381
+xisD	382
+casC	383
+yafX	384
+lsrA	385
+ydfP	386
+maa	387
+ygfM	388
+dnaK	389
+ycgM	390
+insC-2	391
+ymfN	392
+clcA	393
+higB	394
+ymgA	395
+hyfA	396
+cobT	397
+waaQ	398
+yaiP	399
+clsA	400
+yfbO	401
+edd	402
+ttcC	403
+yciS	404
+ybgC	405
+cbl	406
+metH	407
+hha	408
+hscA	409
+yaaA	410
+fieF	411
+hyaB	412
+ybcM	413
+ygeR	414
+yihP	415
+rtcB	416
+rbsR	417
+chiA	418
+mazF	419
+gntK	420
+ulaR	421
+ydfJ	422
+yihY	423
+lptF	424
+dnaQ	425
+ygcS	426
+mtlD	427
+panB	428
+ttdA	429
+yjdP	430
+yieP	431
+flhD	432
+ompX	433
+ypdB	434
+argT	435
+sodB	436
+ytfL	437
+atpB	438
+rpnB	439
+ybfD	440
+rpsO	441
+ydeR	442
+ompG	443
+ybjQ	444
+ilvA	445
+pfkA	446
+ybiX	447
+yfeY	448
+ompN	449
+rfbA	450
+relE	451
+yegS	452
+insE-4	453
+yjiG	454
+ygfI	455
+ydeO	456
+yncE	457
+yjcO	458
+yddA	459
+ynfE	460
+cspF	461
+ykfB	462
+mrr	463
+ybdM	464
+nudE	465
+glpE	466
+yjhQ	467
+rplJ	468
+tomB	469
+ydeI	470
+ccmA	471
+rplR	472
+yeiG	473
+eutE	474
+rpsK	475
+dsdX	476
+cusF	477
+atl	478
+yeaG	479
+pssA	480
+rodZ	481
+ygdI	482
+ydjG	483
+yiaK	484
+ybiS	485
+yiiE	486
+ynfP	487
+queD	488
+lgoR	489
+glcD	490
+yffQ	491
+tdcD	492
+thiS	493
+alpA	494
+nikR	495
+murG	496
+xylF	497
+rplO	498
+yceF	499
+ydiJ	500
+erpA	501
+yfeO	502
+lplT	503
+cpoB	504
+ybjL	505
+nuoB	506
+yrdA	507
+yfjQ	508
+phnE_1	509
+proK	510
+cspC	511
+yqhH	512
+fhlA	513
+ybcD	514
+ydeM	515
+ybiA	516
+ccmD	517
+insD-4	518
+yecD	519
+accA	520
+sspA	521
+yehY	522
+ykgP	523
+yjgM	524
+nfi	525
+ydhU	526
+sdaA	527
+fliN	528
+fhuD	529
+mcaS	530
+yjjP	531
+yifL	532
+ftnA	533
+ykgG	534
+tyrR	535
+yojI	536
+ykgA	537
+wrbA	538
+aroM	539
+lpxD	540
+insA-4	541
+yaiT	542
+nagZ	543
+wbbL	544
+srkA	545
+add	546
+nagC	547
+cueO	548
+pliG	549
+elfD	550
+cdsA	551
+csgA	552
+yhbO	553
+nuoC	554
+yfcV	555
+mhpF	556
+purT	557
+fecA	558
+nanM	559
+rpsQ	560
+yceQ	561
+trpS	562
+mglC	563
+ybjS	564
+frc	565
+rcsA	566
+relB	567
+gcvH	568
+yadD	569
+borD	570
+ftsH	571
+paaD	572
+yneG	573
+bcsF	574
+cbpA	575
+bglF	576
+torC	577
+tyrB	578
+ynfD	579
+insI-3	580
+proY	581
+yqjH	582
+thrL	583
+ybiI	584
+minC	585
+sbcB	586
+sfsB	587
+hemD	588
+ybbO	589
+mscL	590
+rof	591
+fliM	592
+hsdR	593
+yggX	594
+yehW	595
+cusB	596
+yagY	597
+yrhB	598
+yeiI	599
+lpp	600
+deoB	601
+cysM	602
+sspB	603
+trpB	604
+gltX	605
+icdC	606
+yhdU	607
+yrhD	608
+dppF	609
+rng	610
+betI	611
+sgcQ	612
+ppc	613
+aaeR	614
+phoR	615
+glxK	616
+tolC	617
+pgi	618
+pgm	619
+ybjM	620
+setB	621
+yqiH	622
+yiiM	623
+ygcW	624
+rihB	625
+yoeG	626
+yoaF	627
+topAI	628
+ftsW	629
+arcC	630
+yqjC	631
+clpA	632
+acpH	633
+yjeO	634
+wecH	635
+yecH	636
+yodD	637
+hxpA	638
+ydiE	639
+ribB	640
+yahH	641
+gspM	642
+iraM	643
+nirB	644
+valS	645
+yihT	646
+yagI	647
+wzxE	648
+xylH	649
+pdeR	650
+yfcJ	651
+pncC	652
+yjiN	653
+ybcH	654
+rutD	655
+barA	656
+fabR	657
+csiD	658
+yagE	659
+nuoJ	660
+ilvL	661
+acs	662
+yjgA	663
+efeO	664
+matP	665
+ygjP	666
+hrpA	667
+xisE	668
+hemG	669
+evgS	670
+truB	671
+yjfI	672
+yidQ	673
+pdeN	674
+yffN	675
+yhdE	676
+yedW	677
+ada	678
+atpI	679
+nrfD	680
+trmA	681
+xylA	682
+yohK	683
+thiI	684
+grxD	685
+gutQ	686
+yfaU	687
+yggD	688
+soxR	689
+tsaE	690
+yedM	691
+nagE	692
+yejK	693
+yghO	694
+yhdJ	695
+yqeJ	696
+yagH	697
+fetA	698
+ygdG	699
+yiaM	700
+torZ	701
+rplI	702
+dhaR	703
+zntB	704
+yihL	705
+rseA	706
+leuE	707
+exuT	708
+mtlA	709
+ychH	710
+sad	711
+yfcI	712
+aceF	713
+yahO	714
+apaH	715
+gdhA	716
+chpB	717
+mpaA	718
+gabT	719
+hemL	720
+lsrG	721
+yfcL	722
+fabI	723
+gloB	724
+carB	725
+yicR	726
+yibA	727
+ycgB	728
+patA	729
+ccmG	730
+yciU	731
+gnsA	732
+hofO	733
+proX	734
+ydfT	735
+sseA	736
+ygfK	737
+argS	738
+murJ	739
+yedK	740
+yhaC	741
+yrdE	742
+relA	743
+uxuB	744
+ydjH	745
+pheL	746
+kdpE	747
+sxy	748
+rpoN	749
+gltF	750
+yhhT	751
+alsE	752
+hinT	753
+tehB	754
+rihC	755
+chiP	756
+clsC	757
+yjjA	758
+cfa	759
+nfrB	760
+yobD	761
+dgkA	762
+yhbW	763
+yihM	764
+yqcA	765
+wzxC	766
+eutL	767
+citD	768
+mlaA	769
+ymfQ	770
+mlaB	771
+elbB	772
+fliQ	773
+yggL	774
+creC	775
+nrdA	776
+nuoN	777
+gltL	778
+secB	779
+yhcH	780
+yhfS	781
+dicA	782
+xylB	783
+yjbR	784
+metF	785
+yhjJ	786
+nrfF	787
+yegV	788
+uxaB	789
+alsA	790
+arsR	791
+yfjK	792
+eno	793
+pheM	794
+insD-5	795
+insG	796
+pyrH	797
+fhuF	798
+glcG	799
+carA	800
+matC	801
+yafL	802
+pnuC	803
+yhjG	804
+kdgT	805
+mprA	806
+ydhT	807
+ycaR	808
+yiaD	809
+rlmL	810
+insI-2	811
+yneH	812
+ychF	813
+yggT	814
+adeD	815
+yahE	816
+fhuB	817
+yibI	818
+betB	819
+ynbD	820
+ygjI	821
+dtpC	822
+hpt	823
+codA	824
+clsB	825
+gltS	826
+hlyE	827
+kdpD	828
+ygeM	829
+hdfR	830
+ypfN	831
+tehA	832
+mdlB	833
+metB	834
+yajR	835
+gudP	836
+yfdV	837
+yihS	838
+mppA	839
+amiD	840
+bdcR	841
+uvrD	842
+ecpA	843
+dmsD	844
+ecnA	845
+ybjT	846
+yciT	847
+mdaB	848
+kch	849
+phnD	850
+plaP	851
+hyaE	852
+insL-1	853
+creB	854
+gsk	855
+mutS	856
+yffP	857
+glpD	858
+hofC	859
+ssuC	860
+ybcN	861
+betT	862
+yhiJ	863
+eaeH	864
+lpoB	865
+yfbL	866
+pyrL	867
+fimE	868
+selA	869
+fdhF	870
+msrP	871
+mdtK	872
+yaaU	873
+lepA	874
+ligA	875
+ydfB	876
+loiP	877
+rarA	878
+dcuC	879
+cbpM	880
+puuE	881
+elaA	882
+ymbA	883
+tadA	884
+ulaF	885
+amn	886
+avtA	887
+ycjV	888
+ydhI	889
+ydjO	890
+nudB	891
+glpK	892
+fimG	893
+tam	894
+yqhA	895
+nemR	896
+yebF	897
+yejB	898
+ygeF	899
+hofP	900
+apbE	901
+yfbR	902
+ydiM	903
+ycjR	904
+yafD	905
+lsrB	906
+mfd	907
+feaR	908
+yecT	909
+yqiK	910
+glrK	911
+ppnN	912
+yciX	913
+dsbB	914
+dapD	915
+xerC	916
+serB	917
+eptC	918
+ybbV	919
+ygaV	920
+argA	921
+rmuC	922
+nusB	923
+yqcC	924
+fimC	925
+yaaW	926
+dapE	927
+cpsG	928
+intR	929
+rseP	930
+ydeP	931
+potH	932
+yjhC	933
+ynfF	934
+ypjC	935
+mdtG	936
+msrC	937
+leuA	938
+yjcD	939
+yecR	940
+fetB	941
+yliL	942
+gsiA	943
+yjgL	944
+nadA	945
+ycbU	946
+ygiD	947
+mgrB	948
+rnt	949
+yjfY	950
+yieK	951
+allA	952
+grcA	953
+ompC	954
+gloA	955
+ldrA	956
+yfdK	957
+yiiX	958
+rpsI	959
+mltD	960
+ytfF	961
+yfiF	962
+purM	963
+yeeD	964
+blr	965
+ulaD	966
+ytjC	967
+ygjQ	968
+proQ	969
+dgcE	970
+bacA	971
+pldA	972
+ycgV	973
+lsrF	974
+yfjX	975
+aroF	976
+yohD	977
+flgL	978
+mlaE	979
+gapA	980
+rpnD	981
+slyA	982
+yggE	983
+cueR	984
+ymfD	985
+yccX	986
+zntA	987
+arfA	988
+glsA1	989
+yhaV	990
+yneF	991
+mntP	992
+hemA	993
+wzc	994
+napF	995
+yphH	996
+fimF	997
+hokD	998
+insD-1	999
+ribF	1000
+ydcO	1001
+dsdA	1002
+envR	1003
+torI	1004
+waaL	1005
+ydhY	1006
+flk	1007
+yejG	1008
+gmk	1009
+fdoI	1010
+mdtA	1011
+rpmH	1012
+rsxD	1013
+nanK	1014
+frr	1015
+paaK	1016
+ydjN	1017
+ves	1018
+iscX	1019
+ygdD	1020
+fimA	1021
+rimM	1022
+ssuE	1023
+cvpA	1024
+insA-5	1025
+def	1026
+ykgE	1027
+rnr	1028
+ydcT	1029
+ydcV	1030
+gss	1031
+acpP	1032
+dauA	1033
+oxc	1034
+ydcC	1035
+abgR	1036
+yeaW	1037
+nikB	1038
+ytfB	1039
+galF	1040
+yehR	1041
+yeeR	1042
+gntU	1043
+yhcC	1044
+ylbE	1045
+rpsT	1046
+fkpA	1047
+ytfI	1048
+pinQ	1049
+ymdF	1050
+thpR	1051
+lsrC	1052
+intG	1053
+lysR	1054
+yjdA	1055
+yliI	1056
+fldB	1057
+rsmG	1058
+rseB	1059
+ybdN	1060
+paoB	1061
+dnaA	1062
+ycbZ	1063
+exuR	1064
+rplF	1065
+yegR	1066
+ypjA	1067
+groS	1068
+yjdK	1069
+paaI	1070
+gabD	1071
+yhhY	1072
+ldrD	1073
+insD-6	1074
+exbB	1075
+psiE	1076
+yeiQ	1077
+yjbL	1078
+insH-7	1079
+yehS	1080
+yncG	1081
+mnmE	1082
+speC	1083
+znuB	1084
+recF	1085
+panE	1086
+yhcF	1087
+yaeR	1088
+ptsI	1089
+cytR	1090
+yhhH	1091
+ispG	1092
+rtcR	1093
+yqiG	1094
+ydiQ	1095
+wbbK	1096
+yedF	1097
+bcp	1098
+ydjF	1099
+ogrK	1100
+yehT	1101
+ygiS	1102
+proL	1103
+fabB	1104
+potA	1105
+gspE	1106
+msrA	1107
+yhbE	1108
+yeiR	1109
+orn	1110
+yhcD	1111
+argB	1112
+holC	1113
+rpmD	1114
+yibT	1115
+ydfH	1116
+ompA	1117
+eutQ	1118
+murP	1119
+yfgF	1120
+insD-3	1121
+agp	1122
+era	1123
+fldA	1124
+metK	1125
+wbbJ	1126
+yfjS	1127
+purD	1128
+ygcG	1129
+yijD	1130
+mepH	1131
+yoeB	1132
+acrB	1133
+msbA	1134
+marB	1135
+gapC	1136
+yacG	1137
+yagF	1138
+ypdA	1139
+lolA	1140
+bamB	1141
+yejE	1142
+folX	1143
+dsrB	1144
+epmB	1145
+fecE	1146
+hcaC	1147
+yfeC	1148
+ypjM_3	1149
+pldB	1150
+metC	1151
+livH	1152
+yeaN	1153
+glcB	1154
+fixB	1155
+puuP	1156
+astC	1157
+serA	1158
+folM	1159
+rep	1160
+ynfL	1161
+aroA	1162
+yjbB	1163
+intE	1164
+ybbN	1165
+yafT	1166
+yjfL	1167
+ppdC	1168
+syd	1169
+priC	1170
+yedI	1171
+lacA	1172
+chpS	1173
+yraI	1174
+yrfF	1175
+yafN	1176
+ygjR	1177
+mntH	1178
+yhaJ	1179
+ahr	1180
+cobS	1181
+dcuA	1182
+lptG	1183
+cheA	1184
+ybgE	1185
+cof	1186
+cyaA	1187
+araE	1188
+abgA	1189
+casB	1190
+yfcU	1191
+cbrB	1192
+alaE	1193
+yfhM	1194
+yidX	1195
+ydcL	1196
+agaA	1197
+yidJ	1198
+ptsH	1199
+insN	1200
+hypE	1201
+hslJ	1202
+yaeQ	1203
+sbcC	1204
+aegA	1205
+ldtE	1206
+iraD	1207
+yegD	1208
+rpsF	1209
+ycdU	1210
+caiB	1211
+ybdK	1212
+ygeV	1213
+htpX	1214
+yaiS	1215
+glpX	1216
+yghF	1217
+ykgB	1218
+hyfB	1219
+yohJ	1220
+glnQ	1221
+bsmA	1222
+ompW	1223
+yhbQ	1224
+yibG	1225
+ybcJ	1226
+hyaF	1227
+hspQ	1228
+hisL	1229
+ribC	1230
+frmB	1231
+lomR	1232
+ygeO	1233
+cspA	1234
+cobC	1235
+nanA	1236
+flgH	1237
+rpoA	1238
+yfeW	1239
+yhjR	1240
+gltP	1241
+tktA	1242
+yaiF	1243
+ybcY	1244
+clpS	1245
+dipZ	1246
+nfsB	1247
+rpmE	1248
+uhpA	1249
+ybgJ	1250
+etk	1251
+yggP	1252
+yebT	1253
+mtlR	1254
+sgcR	1255
+rffD	1256
+ddpA	1257
+kup	1258
+nac	1259
+prc	1260
+wcaA	1261
+yfbV	1262
+frwB	1263
+trpD	1264
+lldR	1265
+ubiI	1266
+hypT	1267
+gutM	1268
+yieH	1269
+waaI	1270
+tdk	1271
+ftsX	1272
+sdaB	1273
+yicT	1274
+yjdF	1275
+insI3	1276
+ydhB	1277
+ycdX	1278
+ddpD	1279
+trpE	1280
+mobB	1281
+treB	1282
+ybdZ	1283
+manZ	1284
+lpcA	1285
+greB	1286
+yqiA	1287
+ygeG	1288
+yaaJ	1289
+yfgC	1290
+pinR	1291
+ymfH	1292
+gpt	1293
+nfrA	1294
+narG	1295
+frlC	1296
+agaR	1297
+mocA	1298
+ydcK	1299
+yafZ	1300
+mngR	1301
+gfcA	1302
+yibJ	1303
+fdhE	1304
+yjiV	1305
+ykgO	1306
+radD	1307
+ybdD	1308
+ybbL	1309
+ydeU	1310
+aat	1311
+yqjI	1312
+eutM	1313
+tilS	1314
+rffA	1315
+ybaA	1316
+yjeF	1317
+yqhC	1318
+insE-1	1319
+yebC	1320
+yhfL	1321
+flgM	1322
+lptC	1323
+yqgD	1324
+bssR	1325
+ybaP	1326
+hisF	1327
+glgS	1328
+ydaT	1329
+ugpA	1330
+ydaW	1331
+yhiS	1332
+ybiY	1333
+gph	1334
+hofN	1335
+ygcO	1336
+hsdM	1337
+livF	1338
+yqjD	1339
+menF	1340
+ubiH	1341
+ygaQ	1342
+mraY	1343
+yaiA	1344
+aceB	1345
+hokE	1346
+mltF	1347
+pitA	1348
+yneK	1349
+sdaC	1350
+livG	1351
+yjiK	1352
+sucA	1353
+malP	1354
+yeaX	1355
+gfcE	1356
+perR	1357
+ppsR	1358
+yagA	1359
+ybhR	1360
+leuD	1361
+artJ	1362
+cusC	1363
+hyfH	1364
+malE	1365
+rarD	1366
+tcyJ	1367
+ampE	1368
+dfp	1369
+rpiB	1370
+ygdR	1371
+fadA	1372
+tatC	1373
+dinB	1374
+emrD	1375
+yobB	1376
+lptB	1377
+htrE	1378
+xerD	1379
+aaeB	1380
+ybfC	1381
+ilvH	1382
+ariR	1383
+ydcD	1384
+ftsE	1385
+zupT	1386
+ydjM	1387
+insB-7	1388
+fliG	1389
+sstT	1390
+mioC	1391
+secE	1392
+sutR	1393
+dapB	1394
+malG	1395
+ftsA	1396
+fdnG	1397
+pdeF	1398
+fixX	1399
+citE	1400
+azuC	1401
+ssuD	1402
+hemY	1403
+ftsL	1404
+yraP	1405
+rimO	1406
+yejA	1407
+yejO	1408
+sfmA	1409
+yegP	1410
+yggS	1411
+preA	1412
+ygeQ	1413
+pstC	1414
+yjjZ	1415
+slyX	1416
+yiaA	1417
+yfiN	1418
+ddlB	1419
+lipA	1420
+arnA	1421
+chbR	1422
+mokC	1423
+miaB	1424
+nadR	1425
+ypfG	1426
+lolD	1427
+yqiJ	1428
+oppC	1429
+ebgR	1430
+gshB	1431
+insC-5	1432
+ybbM	1433
+yiaV	1434
+pyrE	1435
+bisC	1436
+mtn	1437
+potB	1438
+prfB	1439
+casE	1440
+ybgO	1441
+ybiB	1442
+bfr	1443
+rpsS	1444
+rpiR	1445
+ypeB	1446
+ssuB	1447
+folA	1448
+xisR	1449
+yahG	1450
+speB	1451
+yrbL	1452
+yceB	1453
+yqjF	1454
+fabD	1455
+ycbF	1456
+yhfA	1457
+emrY	1458
+fepB	1459
+glnP	1460
+paaG	1461
+npr	1462
+ogt	1463
+thrA	1464
+rimP	1465
+insB-2	1466
+yidZ	1467
+cas1	1468
+fadL	1469
+insE-3	1470
+tolA	1471
+ygfF	1472
+yajQ	1473
+csrD	1474
+exoX	1475
+yphC	1476
+yqeF	1477
+dgcT	1478
+gspI	1479
+rfbC	1480
+yidA	1481
+ychA	1482
+tas	1483
+yjgR	1484
+yqgF	1485
+rzoQ	1486
+sdhC	1487
+yedZ	1488
+flhA	1489
+yhhJ	1490
+menC	1491
+yhdV	1492
+guaA	1493
+scpC	1494
+yhaI	1495
+gcd	1496
+yhbV	1497
+pgrR	1498
+phoU	1499
+dinI	1500
+epmA	1501
+nanS	1502
+ppx	1503
+tus	1504
+ymgI	1505
+stfR	1506
+rhtA	1507
+insB-1	1508
+yihA	1509
+yccU	1510
+tauB	1511
+yhdY	1512
+ycgG	1513
+umpG	1514
+recX	1515
+ykgH	1516
+ydiB	1517
+ybcF	1518
+tusB	1519
+mgtL	1520
+yibN	1521
+yjhV	1522
+yjbI	1523
+sgcA	1524
+ycbB	1525
+hemF	1526
+hypA	1527
+ybaO	1528
+rplP	1529
+cadB	1530
+rzpD	1531
+hofM	1532
+priA	1533
+yciZ	1534
+ydiT	1535
+acrD	1536
+fepG	1537
+yagK	1538
+flgF	1539
+adrA	1540
+prlF	1541
+tnaB	1542
+ycjS	1543
+dinG	1544
+cysD	1545
+atoE	1546
+gmd	1547
+moaE	1548
+yfdQ	1549
+secF	1550
+yedX	1551
+selU	1552
+ykfH	1553
+fucO	1554
+kdpB	1555
+malZ	1556
+trpA	1557
+ycaO	1558
+ygjV	1559
+hypC	1560
+nudJ	1561
+yibW	1562
+fis	1563
+nepI	1564
+ymfS	1565
+gspB	1566
+kduD	1567
+ssb	1568
+yebQ	1569
+nrdH	1570
+hupB	1571
+znuC	1572
+fdoG	1573
+baeS	1574
+mazE	1575
+metJ	1576
+ltaE	1577
+nudL	1578
+hipA	1579
+none	1580
+yeaC	1581
+ypfM	1582
+ccmE	1583
+ykfF	1584
+yhfK	1585
+ascG	1586
+phnJ	1587
+pphB	1588
+holA	1589
+ymgJ	1590
+aroC	1591
+garR	1592
+pabC	1593
+yjcC	1594
+ylbF	1595
+rnd	1596
+yfcA	1597
+secY	1598
+yihW	1599
+pyrC	1600
+ydcA	1601
+yehH	1602
+yciM	1603
+yagN	1604
+recN	1605
+glpB	1606
+rdgB	1607
+yjtD	1608
+mutL	1609
+uspF	1610
+napG	1611
+psd	1612
+yffS	1613
+yhgN	1614
+puuD	1615
+acnB	1616
+insH-11	1617
+gsiC	1618
+endA	1619
+elaD	1620
+cmtA	1621
+fliD	1622
+otsA	1623
+rdgC	1624
+trkG	1625
+yqhD	1626
+nrfC	1627
+yjfM	1628
+yoaD	1629
+argF	1630
+uraA	1631
+cvrA	1632
+ytjB	1633
+ilvM	1634
+paaZ	1635
+ydjK	1636
+pspF	1637
+smrB	1638
+ybhA	1639
+yfgJ	1640
+ytcA	1641
+ycgH	1642
+ydhS	1643
+aroH	1644
+cysW	1645
+yceJ	1646
+yfaX	1647
+yoaH	1648
+hfq	1649
+kbl	1650
+galS	1651
+proA	1652
+asnB	1653
+rutG	1654
+ygcQ	1655
+tdcA	1656
+speA	1657
+gfcB	1658
+crr	1659
+fixC	1660
+yncH	1661
+yqhG	1662
+tatB	1663
+gstA	1664
+yhiI	1665
+csgF	1666
+cstA	1667
+dpiB	1668
+fhuC	1669
+pepB	1670
+ettA	1671
+yigP	1672
+gloC	1673
+yigE	1674
+nadD	1675
+yjiY	1676
+yahN	1677
+ydeQ	1678
+yhdX	1679
+lamB	1680
+yjiT	1681
+ymgD	1682
+ynaK	1683
+uxaC	1684
+ynfA	1685
+aspA	1686
+ygeH	1687
+uspB	1688
+yqcE	1689
+dgcQ	1690
+fliT	1691
+yfeZ	1692
+pth	1693
+yfcS	1694
+ycfP	1695
+ybeY	1696
+yafO	1697
+srlB	1698
+alr	1699
+lhr	1700
+pspB	1701
+yjdM	1702
+uvrB	1703
+nanC	1704
+ydhV	1705
+yqgB	1706
+kilR	1707
+udk	1708
+nudC	1709
+ybcC	1710
+tfaR	1711
+insA-6	1712
+cedA	1713
+tfaX	1714
+chaC	1715
+fdx	1716
+ybgI	1717
+ybhD	1718
+malT	1719
+yegQ	1720
+yrhA	1721
+pepN	1722
+pck	1723
+waaP	1724
+trxA	1725
+menI	1726
+yebG	1727
+zwf	1728
+yghT	1729
+azoR	1730
+flgN	1731
+yehE	1732
+mukB	1733
+cheB	1734
+yeaM	1735
+ysaA	1736
+cmoB	1737
+mmuP	1738
+yhfG	1739
+truD	1740
+ynaJ	1741
+rcnB	1742
+hisD	1743
+ompL	1744
+uspE	1745
+rpsB	1746
+rpnA	1747
+melB	1748
+glpC	1749
+rffH	1750
+fbp	1751
+malI	1752
+yjcZ	1753
+glpA	1754
+tnaC	1755
+ybhK	1756
+yncJ	1757
+yciQ	1758
+ybaM	1759
+fabZ	1760
+cysK	1761
+shoB	1762
+glpR	1763
+pdeA	1764
+yadN	1765
+ggt	1766
+ychN	1767
+yjeI	1768
+tmk	1769
+plsX	1770
+yfcE	1771
+cspI	1772
+ynhF	1773
+ygeW	1774
+yajD	1775
+ecnB	1776
+ynfG	1777
+ychG	1778
+ybdR	1779
+atoS	1780
+yifK	1781
+yeaQ	1782
+yfjJ	1783
+ymiA	1784
+hyfG	1785
+btuD	1786
+ybaK	1787
+pspG	1788
+rplD	1789
+insI-1	1790
+glyS	1791
+aceK	1792
+yidP	1793
+nikC	1794
+ssuA	1795
+fimZ	1796
+eptA	1797
+allE	1798
+tiaE	1799
+uspC	1800
+ydjZ	1801
+yqaD	1802
+fliS	1803
+phnF	1804
+ymgE	1805
+rpsD	1806
+iaaA	1807
+yncD	1808
+lpxA	1809
+phoB	1810
+folP	1811
+ptrA	1812
+accB	1813
+trxB	1814
+yfiC	1815
+ygdQ	1816
+rbsK	1817
+mltC	1818
+crcB	1819
+fucI	1820
+gnd	1821
+leuL	1822
+sodA	1823
+ygeI	1824
+yhiM	1825
+acrF	1826
+rhtC	1827
+ylbG	1828
+obgE	1829
+btuC	1830
+paoC	1831
+astB	1832
+rplU	1833
+ybhB	1834
+phnC	1835
+yghS	1836
+wcaI	1837
+mreD	1838
+amiB	1839
+asnC	1840
+yjbT	1841
+dxr	1842
+ugpE	1843
+yciN	1844
+cheY	1845
+cynS	1846
+napD	1847
+yfdE	1848
+micM	1849
+ybhL	1850
+ydbL	1851
+bglA	1852
+yqeA	1853
+dapF	1854
+pppA	1855
+pmbA	1856
+yebE	1857
+pgpA	1858
+galT	1859
+nrdR	1860
+idnR	1861
+rnlB	1862
+ycjG	1863
+nudK	1864
+bioC	1865
+katE	1866
+solA	1867
+yqeI	1868
+nanR	1869
+cspG	1870
+btuF	1871
+ghrA	1872
+hybD	1873
+pabB	1874
+bcr	1875
+sugE	1876
+recT	1877
+udp	1878
+smg	1879
+gatY	1880
+mlaF	1881
+ychE	1882
+tdcB	1883
+ampH	1884
+umuD	1885
+yfaD	1886
+ygbM	1887
+ydaY	1888
+yadM	1889
+ybeL	1890
+pntA	1891
+cadA	1892
+hyfI	1893
+malS	1894
+rpsR	1895
+dbpA	1896
+dcuD	1897
+yfaS	1898
+purU	1899
+ydeE	1900
+yebB	1901
+yccA	1902
+yphA	1903
+rhmA	1904
+adiC	1905
+sulA	1906
+hflD	1907
+ygaC	1908
+yhcA	1909
+alsK	1910
+flgA	1911
+idi	1912
+yfhR	1913
+yieF	1914
+kdgR	1915
+yjiL	1916
+slp	1917
+hslU	1918
+yjjB	1919
+narJ	1920
+yceA	1921
+ygeX	1922
+ldtD	1923
+fadE	1924
+yneE	1925
+bglB	1926
+yeeE	1927
+yrbG	1928
+yjhP	1929
+xylE	1930
+ycfK	1931
+ompF	1932
+rrrQ	1933
+frdC	1934
+alkA	1935
+yfbM	1936
+rpoH	1937
+argD	1938
+trpL	1939
+ycjD	1940
+yciK	1941
+yeeW	1942
+pdeL	1943
+paaA	1944
+ccmF	1945
+ybiW	1946
+artI	1947
+mhpC	1948
+adk	1949
+yjbQ	1950
+ynjE	1951
+ylaC	1952
+btuE	1953
+yliF	1954
+tig	1955
+ychS	1956
+yfeR	1957
+dctR	1958
+fliR	1959
+coaD	1960
+thiL	1961
+sdhA	1962
+yniA	1963
+fucR	1964
+kduI	1965
+asnS	1966
+yfgI	1967
+idnT	1968
+dsbC	1969
+dksA	1970
+tpiA	1971
+cybC	1972
+glnS	1973
+ycbL	1974
+yfjP	1975
+ytfA	1976
+allS	1977
+kgtP	1978
+atpE	1979
+yedR	1980
+yiaU	1981
+degS	1982
+gpr	1983
+upp	1984
+mhpB	1985
+yjbH	1986
+alaC	1987
+ppa	1988
+puuC	1989
+hokB	1990
+yhbX	1991
+ecpR	1992
+cpdA	1993
+pdxA	1994
+eutK	1995
+mtgA	1996
+hisA	1997
+pheA	1998
+ppnP	1999
+apt	2000
+arfB	2001
+yedJ	2002
+cutC	2003
+evgA	2004
+ygeY	2005
+yhhA	2006
+ydiO	2007
+yjgX	2008
+insF-5	2009
+ybaL	2010
+yhhI	2011
+fliA	2012
+insE-5	2013
+baeR	2014
+cadC	2015
+lexA	2016
+insA-7	2017
+torT	2018
+yjiA	2019
+ykfN	2020
+entB	2021
+ybbW	2022
+yghY	2023
+yacL	2024
+lysU	2025
+gnsB	2026
+rffC	2027
+araG	2028
+cysQ	2029
+zapC	2030
+suhB	2031
+waaS	2032
+dgoR	2033
+lsrR	2034
+wbbI	2035
+yciC	2036
+rseC	2037
+nhaB	2038
+rpmI	2039
+yhdN	2040
+yeaD	2041
+yceI	2042
+sufA	2043
+yraR	2044
+nanE	2045
+yjbJ	2046
+yieL	2047
+folD	2048
+ybjD	2049
+yoaA	2050
+ghxP	2051
+abgB	2052
+mtnN	2053
+mdtQ	2054
+mdoH	2055
+ybhC	2056
+ralR	2057
+ybiR	2058
+ninE	2059
+aroG	2060
+trmL	2061
+wzzE	2062
+ydcM	2063
+rsmE	2064
+cyoB	2065
+fadB	2066
+envZ	2067
+glnL	2068
+pdxB	2069
+yhbS	2070
+insC-3	2071
+rlmI	2072
+yggW	2073
+gltJ	2074
+ypjM_1	2075
+murA	2076
+aldA	2077
+sucD	2078
+kefB	2079
+fhiA	2080
+mcrC	2081
+ydeS	2082
+ydfD	2083
+xanQ	2084
+hemE	2085
+frmR	2086
+ynfM	2087
+dadA	2088
+rhaM	2089
+xapB	2090
+tusE	2091
+dcuS	2092
+yjdJ	2093
+yafS	2094
+adeP	2095
+yegE	2096
+flhE	2097
+arpB	2098
+galK	2099
+yfdH	2100
+murR	2101
+rsmA	2102
+hisB	2103
+tusD	2104
+aroD	2105
+uidR	2106
+hisG	2107
+pepE	2108
+ybbP	2109
+ygdT	2110
+rraB	2111
+ydiR	2112
+bepA	2113
+ybaY	2114
+mliC	2115
+atpF	2116
+ydaF	2117
+yniC	2118
+dppB	2119
+ldtC	2120
+ydiF	2121
+ydgD	2122
+ilvD	2123
+gltK	2124
+lpxH	2125
+insH-2	2126
+ravA	2127
+rsd	2128
+rsmF	2129
+dacD	2130
+cysB	2131
+etp	2132
+rlmB	2133
+moeB	2134
+artQ	2135
+rplS	2136
+yfiM	2137
+feoB	2138
+nadC	2139
+ygdB	2140
+ygjH	2141
+yjjJ	2142
+dcuB	2143
+yebY	2144
+ddpF	2145
+ybjO	2146
+uvrA	2147
+macA	2148
+ydjI	2149
+ddpC	2150
+mobA	2151
+pgaC	2152
+ispE	2153
+yahK	2154
+aes	2155
+yffO	2156
+ubiX	2157
+ptsA	2158
+yhhN	2159
+fadK	2160
+fadH	2161
+nupX	2162
+fklB	2163
+smpB	2164
+yehB	2165
+hrpB	2166
+yafQ	2167
+ybiO	2168
+yecE	2169
+yneL	2170
+ycjY	2171
+ydcN	2172
+insC-4	2173
+rpsU	2174
+ygiQ	2175
+glgP	2176
+cptB	2177
+ycfZ	2178
+lit	2179
+mnaT	2180
+ychJ	2181
+yjeN	2182
+dsbG	2183
+yjaZ	2184
+norR	2185
+uhpT	2186
+yegJ	2187
+sufC	2188
+cysS	2189
+kdgK	2190
+yedN	2191
+appA	2192
+dppA	2193
+pabA	2194
+yicS	2195
+arnT	2196
+cdgI	2197
+acrA	2198
+yihX	2199
+pcm	2200
+yicG	2201
+yicC	2202
+csiR	2203
+kbaZ	2204
+spy	2205
+atoB	2206
+citC	2207
+glyQ	2208
+rclC	2209
+lipB	2210
+ubiE	2211
+yaiZ	2212
+abpA	2213
+yfaE	2214
+gcvR	2215
+glcA	2216
+mhpD	2217
+putP	2218
+recO	2219
+ansP	2220
+kdsA	2221
+cspD	2222
+oxyR	2223
+gadC	2224
+gatZ	2225
+asr	2226
+purL	2227
+yhdW	2228
+dgcC	2229
+tpr	2230
+eutG	2231
+dusA	2232
+hisI	2233
+yiiR	2234
+yfeX	2235
+ycbJ	2236
+tnaA	2237
+yebZ	2238
+yceM	2239
+bcsQ	2240
+melR	2241
+argE	2242
+yghG	2243
+lrp	2244
+ydaS	2245
+yccE	2246
+ypdI	2247
+glcF	2248
+sgcC	2249
+yfeK	2250
+dacA	2251
+rluC	2252
+trkH	2253
+chbF	2254
+nrdB	2255
+yeaE	2256
+cynT	2257
+ycgZ	2258
+moaB	2259
+uacT	2260
+dinJ	2261
+moeA	2262
+rho	2263
+ypaB	2264
+ratA	2265
+mtfA	2266
+pdeK	2267
+uspD	2268
+tdcC	2269
+prfH	2270
+araH	2271
+rpiA	2272
+grxC	2273
+dgcJ	2274
+iap	2275
+purA	2276
+rpoE	2277
+frlD	2278
+mhpR	2279
+yibF	2280
+mhpA	2281
+caiC	2282
+mdoC	2283
+afuB	2284
+napC	2285
+yjiR	2286
+yfdX	2287
+queF	2288
+lhgO	2289
+mhpE	2290
+plsB	2291
+yehA	2292
+ygbI	2293
+mltA	2294
+ygjK	2295
+hcaF	2296
+cpxP	2297
+chaB	2298
+copA	2299
+bglH	2300
+infA	2301
+diaA	2302
+nrfE	2303
+ycfL	2304
+mpl	2305
+tsgA	2306
+mnmA	2307
+nagK	2308
+nsrR	2309
+pka	2310
+ybdJ	2311
+maeA	2312
+rfaD	2313
+nrdF	2314
+yfiL	2315
+rrrD	2316
+yidR	2317
+nikE	2318
+citG	2319
+fdhD	2320
+dcp	2321
+ynbA	2322
+mglB	2323
+ygbJ	2324
+dgcP	2325
+glvB	2326
+ppdA	2327
+yijO	2328
+rhlB	2329
+guaC	2330
+yicN	2331
+yciE	2332
+cmk	2333
+speG	2334
+ydaE	2335
+pmrR	2336
+sieB	2337
+paaH	2338
+amiC	2339
+yedV	2340
+maoP	2341
+fadJ	2342
+ccmH	2343
+fepC	2344
+insB-3	2345
+ortT	2346
+yfaL	2347
+bioH	2348
+thrS	2349
+dgcI	2350
+rpsG	2351
+hycB	2352
+yaaI	2353
+rpsL	2354
+yaaX	2355
+ybeT	2356
+pdxJ	2357
+mdh	2358
+chbA	2359
+frlR	2360
+yiaB	2361
+ydeT	2362
+gntP	2363
+ymfO	2364
+pqiC	2365
+yihU	2366
+insH-1	2367
+potD	2368
+ybgS	2369
+yicI	2370
+panC	2371
+ycgL	2372
+recQ	2373
+rpsM	2374
+yafU	2375
+sucC	2376
+rnhA	2377
+yidE	2378
+ydiZ	2379
+mutT	2380
+glnB	2381
+agaV	2382
+prkB	2383
+dedA	2384
+hupA	2385
+ybeU	2386
+fsaA	2387
+rbsA	2388
+tcdA	2389
+yadH	2390
+ampG	2391
+dmsC	2392
+ilvN	2393
+uup	2394
+ybfO	2395
+yhiN	2396
+menE	2397
+modF	2398
+tsaB	2399
+ldcA	2400
+prpC	2401
+ulaG	2402
+sthA	2403
+argK	2404
+agaS	2405
+rimK	2406
+ribA	2407
+sohB	2408
+thiC	2409
+cdd	2410
+nupG	2411
+mutH	2412
+ypjB	2413
+katG	2414
+yzgL	2415
+ppk	2416
+plsC	2417
+ybfL	2418
+prpR	2419
+trmO	2420
+yfdN	2421
+adiY	2422
+minD	2423
+yhiK	2424
+yceG	2425
+yejH	2426
+yiaW	2427
+yiiG	2428
+pdeH	2429
+ibsE	2430
+rnc	2431
+yebV	2432
+gshA	2433
+wzyE	2434
+allB	2435
+pspE	2436
+mdtO	2437
+yohO	2438
+ycgX	2439
+glmU	2440
+yddE	2441
+ydhQ	2442
+nuoF	2443
+rbsB	2444
+fdnH	2445
+ompT	2446
+ygiW	2447
+recC	2448
+yhfU	2449
+ptrB	2450
+hypF	2451
+adhP	2452
+yfiB	2453
+yoaE	2454
+bamC	2455
+rpmF	2456
+uspA	2457
+yihR	2458
+sbmA	2459
+yjaG	2460
+ynbC	2461
+yiaF	2462
+yfiH	2463
+yjcS	2464
+sbp	2465
+dmlA	2466
+rlmE	2467
+grxA	2468
+yehK	2469
+nlpI	2470
+nudG	2471
+entH	2472
+frvB	2473
+yfbN	2474
+rzpR	2475
+pspC	2476
+rhlE	2477
+djlB	2478
+yeeL	2479
+fre	2480
+ruvA	2481
+aaeA	2482
+frlB	2483
+rplE	2484
+ydcJ	2485
+ydbC	2486
+yeeA	2487
+yegH	2488
+ibpA	2489
+trg	2490
+appX	2491
+argC	2492
+gpsA	2493
+ppiA	2494
+mukE	2495
+smf	2496
+flhC	2497
+yjhY	2498
+yrfG	2499
+rhaB	2500
+yihG	2501
+puuA	2502
+macB	2503
+hybA	2504
+fumA	2505
+ygbA	2506
+osmE	2507
+yjjG	2508
+ymgG	2509
+yaeP	2510
+yhdZ	2511
+yoeE	2512
+yraQ	2513
+lapB	2514
+lpxL	2515
+bolA	2516
+gsiB	2517
+yfjI	2518
+yciF	2519
+ynfO	2520
+yafF	2521
+ykfK	2522
+feoA	2523
+seqA	2524
+prfC	2525
+queC	2526
+ycjQ	2527
+yhfZ	2528
+mtr	2529
+fhuE	2530
+yaeF	2531
+lptE	2532
+yaiV	2533
+yjeH	2534
+glvG	2535
+ysaC	2536
+yghB	2537
+rapZ	2538
+yjhI	2539
+ykgM	2540
+dgoA	2541
+yjhD	2542
+fcl	2543
+ddpX	2544
+rlmF	2545
+zntR	2546
+narU	2547
+coaE	2548
+yfjM	2549
+yphG	2550
+hisM	2551
+ycaC	2552
+yneM	2553
+mdtL	2554
+hyaC	2555
+glxR	2556
+rlmC	2557
+lolE	2558
+bglX	2559
+yadV	2560
+entD	2561
+pgk	2562
+livM	2563
+bamD	2564
+yafE	2565
+flgG	2566
+gntT	2567
+insJ	2568
+prpD	2569
+ycbX	2570
+ilvC	2571
+ydfO	2572
+yegK	2573
+asnA	2574
+ddlA	2575
+yahA	2576
+yidK	2577
+yddM	2578
+cysE	2579
+sufE	2580
+yfbP	2581
+yphE	2582
+yqfA	2583
+yhbU	2584
+putA	2585
+ohsC	2586
+ycgJ	2587
+phoP	2588
+holB	2589
+sdiA	2590
+dut	2591
+lyxK	2592
+modA	2593
+sgbH	2594
+yccJ	2595
+recG	2596
+fadD	2597
+hflC	2598
+rbfA	2599
+rne	2600
+yjiC	2601
+insK	2602
+cysC	2603
+purR	2604
+ascB	2605
+hslR	2606
+yeeS	2607
+talB	2608
+glpG	2609
+pdeI	2610
+yjhH	2611
+pyrF	2612
+ykgC	2613
+eco	2614
+pykA	2615
+mnmG	2616
+ycfT	2617
+yeaR	2618
+mreB	2619
+cirA	2620
+pgaB	2621
+pflD	2622
+yheS	2623
+rihA	2624
+yrhC	2625
+yedP	2626
+cusA	2627
+yghU	2628
+iscA	2629
+rpoD	2630
+yiiF	2631
+viaA	2632
+ynaA	2633
+wbbH	2634
+ydcS	2635
+tyrS	2636
+ybjE	2637
+rusA	2638
+glgC	2639
+ybbJ	2640
+ubiA	2641
+yfjW	2642
+rpoC	2643
+djlA	2644
+nimR	2645
+sgbU	2646
+iscS	2647
+yfjR	2648
+glsA	2649
+dgoD	2650
+yddK	2651
+yibQ	2652
+yjhX	2653
+ymfA	2654
+mhpT	2655
+icd	2656
+hyuA	2657
+nrdD	2658
+yagX	2659
+alsC	2660
+oppF	2661
+dctA	2662
+dgoT	2663
+groL	2664
+insF-4	2665
+thrB	2666
+nlpA	2667
+ackA	2668
+yeiL	2669
+yjhZ	2670
+mdoD	2671
+hiuH	2672
+yidC	2673
+thyA	2674
+cysN	2675
+yebS	2676
+marR	2677
+ydcP	2678
+yajI	2679
+yeeJ	2680
+lapA	2681
+tfaD	2682
+yjgN	2683
+ybiU	2684
+ybjI	2685
+gpmA	2686
+secD	2687
+artP	2688
+abpB	2689
+insA-3	2690
+ppdB	2691
+yjfC	2692
+ybgQ	2693
+ybhN	2694
+ligT	2695
+metI	2696
+phnN	2697
+ydhC	2698
+yfhG	2699
+yjfJ	2700
+ygfB	2701
+yjjI	2702
+hycD	2703
+degQ	2704
+kptA	2705
+thiQ	2706
+yniD	2707
+queE	2708
+hokC	2709
+yefM	2710
+waaB	2711
+dacB	2712
+yegL	2713
+ridA	2714
+yeeT	2715
+astE	2716
+yqjG	2717
+yheO	2718
+frdA	2719
+ydjJ	2720
+ygfT	2721
+cpxR	2722
+marA	2723
+yfgD	2724
+gcl	2725
+rluF	2726
+caiE	2727
+cecR	2728
+ymjA	2729
+tfaE	2730
+arnC	2731
+appY	2732
+thiH	2733
+manX	2734
+yniB	2735
+ypjI	2736
+corA	2737
+yegU	2738
+lysS	2739
+pstA	2740
+rimJ	2741
+yjcE	2742
+setC	2743
+thiM	2744
+yecS	2745
+yecF	2746
+yihV	2747
+ahpF	2748
+bdcA	2749
+ydaM	2750
+ybgD	2751
+glpT	2752
+gspO	2753
+frmA	2754
+pinH	2755
+yobA	2756
+rsxC	2757
+cbrA	2758
+yddH	2759
+manY	2760
+insF-1	2761
+yfbS	2762
+eutJ	2763
+insH-5	2764
+yddW	2765
+dxs	2766
+glyU	2767
+intZ	2768
+atpC	2769
+yfjU	2770
+bamE	2771
+qmcA	2772
+ilvE	2773
+yaeB	2774
+ykfI	2775
+yqiI	2776
+waaY	2777
+lgoT	2778
+yadK	2779
+nrfB	2780
+ilvG	2781
+eutD	2782
+dnaJ	2783
+xseA	2784
+maeB	2785
+tbpA	2786
+hyaD	2787
+bcsG	2788
+ybiH	2789
+yaiY	2790
+flgC	2791
+dps	2792
+nadE	2793
+citT	2794
+yhbY	2795
+caiT	2796
+ynjA	2797
+btuR	2798
+yahL	2799
+glnE	2800
+murQ	2801
+bcsE	2802
+mdoG	2803
+mdlA	2804
+prfA	2805
+ushA	2806
+rsxG	2807
+map	2808
+yggI	2809
+citX	2810
+ybbD	2811
+yeeX	2812
+osmB	2813
+priB	2814
+ycgY	2815
+glnG	2816
+yidD	2817
+yciB	2818
+ybjP	2819
+gadX	2820
+ybcV	2821
+pdeB	2822
+hisS	2823
+yagM	2824
+ydbA	2825
+yigF	2826
+yjfZ	2827
+napA	2828
+yihI	2829
+yhhM	2830
+ydiH	2831
+uidB	2832
+yoeA	2833
+tdcF	2834
+rph	2835
+hisJ	2836
+fic	2837
+yhaM	2838
+yihN	2839
+cmtB	2840
+creD	2841
+psuT	2842
+yehX	2843
+yciI	2844
+uhpC	2845
+yhjH	2846
+ykiB	2847
+insC-1	2848
+feoC	2849
+ybbY	2850
+cpdB	2851
+malX	2852
+ydcR	2853
+ydhX	2854
+yiaY	2855
+rfaH	2856
+yabI	2857
+arrQ	2858
+recA	2859
+rlpA	2860
+ycdT	2861
+rpoB	2862
+fadM	2863
+sgcE	2864
+msrQ	2865
+birA	2866
+rhsE	2867
+hypD	2868
+ycgN	2869
+iscU	2870
+glyA	2871
+slyB	2872
+yecC	2873
+dhaL	2874
+rspA	2875
+ffh	2876
+pepD	2877
+ygiN	2878
+yjjK	2879
+menA	2880
+insB-5	2881
+ydfK	2882
+raiA	2883
+bluF	2884
+ygiM	2885
+ydgU	2886
+ais	2887
+rnb	2888
+yiaN	2889
+gadE	2890
+frvA	2891
+dusB	2892
+atoD	2893
+yjdC	2894
+rcsF	2895
+yjcF	2896
+ucpA	2897
+yeiW	2898
+guaB	2899
+nrdE	2900
+gcvP	2901
+thiP	2902
+cpxA	2903
+srmB	2904
+prmB	2905
+ytfK	2906
+ybcO	2907
+alx	2908
+ychO	2909
+engB	2910
+yqeG	2911
+ybjC	2912
+insH-3	2913
+yeeO	2914
+intA	2915
+crp	2916
+yagL	2917
+hisC	2918
+iraP	2919
+prlC	2920
+yciA	2921
+yhaL	2922
+yqjE	2923
+rsmD	2924
+dicB	2925
+kefF	2926
+dicC	2927
+yhdP	2928
+fecB	2929
+mazG	2930
+sapF	2931
+ydfG	2932
+allC	2933
+rutC	2934
+hicB	2935
+ydaG	2936
+tsaC	2937
+moaA	2938
+yebK	2939
+yphB	2940
+rpoS	2941
+yeiS	2942
+narW	2943
+rem	2944
+intQ	2945
+metE	2946
+csgG	2947
+lpoA	2948
+dtpD	2949
+ybfB	2950
+pyrB	2951
+ygaM	2952
+frvX	2953
+mqo	2954
+acrZ	2955
+ykgL	2956
+glf	2957
+mepM	2958
+intF	2959
+moaC	2960
+nuoL	2961
+pyrG	2962
+ycaL	2963
+chbB	2964
+cas3	2965
+ydiS	2966
+tsaD	2967
+fucP	2968
+yfeN	2969
+safA	2970
+ybjJ	2971
+mqsR	2972
+yagB	2973
+ygfS	2974
+phoQ	2975
+bioA	2976
+ygjJ	2977
+curA	2978
+hdeD	2979
+purN	2980
+tolR	2981
+speD	2982
+ygfZ	2983
+dnaE	2984
+ddpB	2985
+gmr	2986
+basS	2987
+ttdB	2988
+ydfN	2989
+yfcC	2990
+yabP	2991
+yfjH	2992
+yfaQ	2993
+ldrB	2994
+nfuA	2995
+ydfU	2996
+yraH	2997
+yjjQ	2998
+lpxK	2999
+yihD	3000
+yegW	3001
+fumE	3002
+pepA	3003
+tgt	3004
+queG	3005
+ybbA	3006
+ycjT	3007
+nrdG	3008
+ymfJ	3009
+thrC	3010
+pspA	3011
+fliJ	3012
+yaeI	3013
+ybhP	3014
+yajL	3015
+ybhH	3016
+ythA	3017
+nuoG	3018
+dhaM	3019
+rfbX	3020
+rsuA	3021
+ydfW	3022
+yiaG	3023
+rlmD	3024
+ybeM	3025
+ydbK	3026
+yobH	3027
+zinT	3028
+psuG	3029
+treF	3030
+yehC	3031
+narL	3032
+satP	3033
+srlE	3034
+yigM	3035
+ydcY	3036
+deoA	3037
+mdtJ	3038
+tdcR	3039
+ebgA	3040
+ubiJ	3041
+yegZ	3042
+gspH	3043
+gltD	3044
+mcbR	3045
+rhsC	3046
+ycaD	3047
+tatD	3048
+rhaT	3049
+yifB	3050
+ykgQ	3051
+ymgF	3052
+mepS	3053
+ypjD	3054
+gcvA	3055
+tppB	3056
+ybgP	3057
+insH-10	3058
+purK	3059
+cynR	3060
+yphD	3061
+yjjV	3062
+ugpB	3063
+emrB	3064
+paaC	3065
+ybiC	3066
+casA	3067
+zur	3068
+galP	3069
+ytfR	3070
+lysO	3071
+rpsH	3072
+hycI	3073
+yfeA	3074
+sapC	3075
+tisB	3076
+insH-6	3077
+cydD	3078
+lacZ	3079
+ycjU	3080
+renD	3081
+ygiL	3082
+dam	3083
+lfhA	3084
+ycfD	3085
+paaY	3086
+feaB	3087
+ydiP	3088
+rbsD	3089
+araJ	3090
+yghQ	3091
+mokA	3092
+entC	3093
+insF-3	3094
+nrdI	3095
+glcE	3096
+yhcB	3097
+dcuR	3098
+yrdD	3099
+fumB	3100
+tmcA	3101
+alsB	3102
+pqqL	3103
+paaX	3104
+ybeQ	3105
+insC-6	3106
+fliZ	3107
+gadB	3108
+yebW	3109
+uvrY	3110
+rluD	3111
+gcvT	3112
+yjjX	3113
+ftsZ	3114
+aldB	3115
+rnhB	3116
+murD	3117
+norV	3118
+araD	3119
+rpsE	3120
+xthA	3121
+aceE	3122
+thiK	3123
+mdtP	3124
+entS	3125
+speF	3126
+ppsA	3127
+ygcE	3128
+dmsA	3129
+ivbL	3130
+prmC	3131
+gatC	3132
+yeaV	3133
+argG	3134
+yhhW	3135
+atoA	3136
+fepA	3137
+yneJ	3138
+hemH	3139
+kdsB	3140
+spoT	3141
+pgpB	3142
+gatB	3143
+napB	3144
+xapR	3145
+trpR	3146
+yfaA	3147
+lspA	3148
+ibsD	3149
+fusA	3150
+flgB	3151
+galR	3152
+purF	3153
+ygbL	3154
+dnaX	3155
+yfcD	3156
+fur	3157
+rplA	3158
+mepA	3159
+sgcB	3160
+gspG	3161
+actP	3162
+rssB	3163
+rnlA	3164
+waaU	3165
+tsx	3166
+hcaD	3167
+uidC	3168
+yfdP	3169
+yhgA	3170
+qorB	3171
+polB	3172
+ratB	3173
+ypjK	3174
+frdD	3175
+fliE	3176
+yceK	3177
+ybfK	3178
+yjjN	3179
+arsB	3180
+zraP	3181
+yhhZ	3182
+pflC	3183
+ssnA	3184
+ypdF	3185
+insH-9	3186
+yjiH	3187
+ugpQ	3188
+wcaC	3189
+gntR	3190
+ymcE	3191
+ftnB	3192
+hipB	3193
+tamB	3194
+yoeF	3195
+lpd	3196
+yejL	3197
+motA	3198
+yiiD	3199
+hflK	3200
+lnt	3201
+sfmF	3202
+damX	3203
+glnH	3204
+phnH	3205
+flhB	3206
+gspA	3207
+yojO	3208
+insO-1	3209
+yafC	3210
+ymjC	3211
+yhjC	3212
+secG	3213
+patD	3214
+fliK	3215
+intB	3216
+flgK	3217
+ybhU	3218
+ygaX	3219
+hprS	3220
+entF	3221
+yadC	3222
+gatR_1	3223
+hslO	3224
+yfiE	3225
+mog	3226
+lsrK	3227
+yahJ	3228
+fruB	3229
+malM	3230
+yihQ	3231
+fabF	3232
+glcC	3233
+yghX	3234
+yfjY	3235
+hisQ	3236
+rcdA	3237
+yfgM	3238
+rcsB	3239
+kdpC	3240
+rna	3241
+ydeA	3242
+ygcR	3243
+hmp	3244
+narH	3245
+hdeA	3246
+phnI	3247
+panZ	3248
+csgE	3249
+ebgC	3250
+hdeB	3251
+lolB	3252
+yagW	3253
+ycdY	3254
+yhiD	3255
+ibaG	3256
+yceD	3257
+epd	3258
+lysP	3259
+yggC	3260
+ldtB	3261
+rlmJ	3262
+holD	3263
+ybhM	3264
+yehD	3265
+yrdB	3266
+cspB	3267
+rplT	3268
+efeU_1	3269
+sanA	3270
+rcsC	3271
+allR	3272
+ykfM	3273
+alkB	3274
+rsxA	3275
+ybfP	3276
+ybaB	3277
+yffL	3278
+yzcX	3279
+basR	3280
+dsbA	3281
+yhiL	3282
+ytfH	3283
+yibS	3284
+pdxI	3285
+ypfH	3286
+yhhX	3287
+sfmH	3288
+cysA	3289
+rluB	3290
+ivy	3291
+waaZ	3292
+yhjY	3293
+tar	3294
+aroK	3295
+betA	3296
+potE	3297
+hcxA	3298
+nusG	3299
+rhmR	3300
+cyoE	3301
+panD	3302
+dinD	3303
+yiaT	3304
+yqfB	3305
+amtB	3306
+ykfJ	3307
+lldP	3308
+yeiH	3309
+ykfC	3310
+ydeJ	3311
+ybfA	3312
+malF	3313
+adiA	3314
+murI	3315
+yaiL	3316
+adeQ	3317
+sbcD	3318
+nikD	3319
+yahC	3320
+codB	3321
+yceH	3322
+ykgJ	3323
+eutH	3324
+yfdT	3325
+ugpC	3326
+eamA	3327
+yeeH	3328
+racR	3329
+yjfN	3330
+trpC	3331
+rffM	3332
+phnO	3333
+yihO	3334
+ydbD	3335
+rzoD	3336
+yciW	3337
+speE	3338
+scpA	3339
+ruvB	3340
+purE	3341
+tabA	3342
+mdtC	3343
+cmoM	3344
+yaiE	3345
+nuoI	3346
+yjhF	3347
+tqsA	3348
+bcsA	3349
+ymgH	3350
+radA	3351
+mdtH	3352
+fecI	3353
+mrp	3354
+hybF	3355
+rayT	3356
+ftsP	3357
+kbaY	3358
+rhaA	3359
+dnaB	3360
+ynjF	3361
+sgrT	3362
+argP	3363
+mdtD	3364
+dadX	3365
+ycbC	3366
+yqgC	3367
+mcbA	3368
+yheV	3369
+metL	3370
+ylbH	3371
+ylaB	3372
+ypdJ	3373
+yoaK	3374
+yfcH	3375
+ispF	3376
+ybaN	3377
+yiaJ	3378
+ynfK	3379
+hycF	3380
+ymdB	3381
+nirC	3382
+nemA	3383
+fdnI	3384
+rzoR	3385
+hsrA	3386
+trxC	3387
+yjbS	3388
+wcaK	3389
+narQ	3390
+yehI	3391
+appB	3392
+yddB	3393
+hepA	3394
+gadW	3395
+rutA	3396
+ydjX	3397
+yecN	3398
+nadK	3399
+rpsN	3400
+yehM	3401
+ydfV	3402
+ihfB	3403
+metG	3404
+rfaE	3405
+psuK	3406
+yohC	3407
+yciV	3408
+holE	3409
+yifN	3410
+yaeH	3411
+ygiB	3412
+murF	3413
+stpA	3414
+mrcA	3415
+yfcQ	3416
+phnG	3417
+flgJ	3418
+focB	3419
+ytfQ	3420
+clcB	3421
+crfC	3422
+cbtA	3423
+ccmB	3424
+ybdH	3425
+csrA	3426
+ynbB	3427
+tsf	3428
+hokA	3429
+dppC	3430
+rpmG	3431
+pdxY	3432
+yaiO	3433
+yeiP	3434
+yhjK	3435
+yddG	3436
+rutR	3437
+rluA	3438
+ygdH	3439
+ybfE	3440
+yfcO	3441
+zipA	3442
+recJ	3443
+yphF	3444
+ulaA	3445
+bioD1	3446
+fucA	3447
+proP	3448
+slmA	3449
+lysA	3450
+yfjL	3451
+yadE	3452
+dmsB	3453
+mdtI	3454
+thiE	3455
+ysgA	3456
+fimH	3457
+rplB	3458
+deoD	3459
+ygiF	3460
+hisP	3461
+rnk	3462
+hyfF	3463
+ycjN	3464
+yhcG	3465
+murB	3466
+potC	3467
+yqeC	3468
+ihfA	3469
+yejF	3470
+malQ	3471
+ygbE	3472
+yhcN	3473
+glgA	3474
+yiiQ	3475
+yhfX	3476
+ndk	3477
+cdh	3478
+ybaQ	3479
+yoaC	3480
+ydbJ	3481
+yagU	3482
+yehQ	3483
+sdhB	3484
+aaeX	3485
+yncI	3486
+oppD	3487
+ygcU	3488
+yqeH	3489
+nmpC	3490
+yadS	3491
+ycjM	3492
+astD	3493
+ygiH	3494
+yoeH	3495
+caiA	3496
+gldA	3497
+yoaG	3498
+cyoD	3499
+dgcZ	3500
+yfdO	3501
+der	3502
+ynjD	3503
+fumD	3504
+araF	3505
+hypB	3506
+tamA	3507
+ylcI	3508
+erfK	3509
+yoaJ	3510
+ynjB	3511
+yncK	3512
+agaC	3513
+ysaD	3514
+mltG	3515
+gyrB	3516
+yfiP	3517
+yjjL	3518
+oppA	3519
+mngA	3520
+waaH	3521
+elfA	3522
+lpxP	3523
+atpA	3524
+cobU	3525
+efp	3526
+murE	3527
+lrhA	3528
+dgt	3529
+preT	3530
+yhhS	3531
+yigB	3532
+yfdC	3533
+fucK	3534
+yhfY	3535
+yidB	3536
+yjdN	3537
+hyi	3538
+fumC	3539
+ypdK	3540
+rplV	3541
+tktB	3542
+yiaO	3543
+dppD	3544
+ydiU	3545
+gspD	3546
+yhjD	3547
+ygeA	3548
+recB	3549
+gsiD	3550
+pgsA	3551
+glpF	3552
+pyrI	3553
+ycaQ	3554
+treA	3555
+dcrB	3556
+xdhD	3557
+ycjO	3558
+ldtA	3559
+yjhR	3560
+mlrA	3561
+ycaN	3562
+helD	3563
+lpxM	3564
+ybfG	3565
+murC	3566
+nhaA	3567
+hycC	3568
+cas2	3569
+phr	3570
+yjeM	3571
+ykgD	3572
+mdoB	3573
+mbhA	3574
+ynbE	3575
+wcaE	3576
+mntS	3577
+insI4	3578
+ilvY	3579
+uxuR	3580
+hxpB	3581
+sgrR	3582
+qseB	3583
+ymfI	3584
+alaT	3585
+bhsA	3586
+ydjA	3587
+yfbT	3588
+otsB	3589
+cydX	3590
+rfbB	3591
+glrR	3592
+entA	3593
+emrK	3594
+yahB	3595
+pspD	3596
+fliH	3597
+yqaA	3598
+dnaG	3599
+deoC	3600
+yadG	3601
+yhaK	3602
+entE	3603
+deoR	3604
+yghW	3605
+cobB	3606
+lgt	3607
+yqiC	3608
+ugd	3609
+afuC	3610
+ycgI	3611
+ileS	3612
+yohP	3613
+narY	3614
+ychQ	3615
+rpsP	3616
+pyrD	3617
+cyoC	3618
+tesA	3619
+ynjC	3620
+sdhE	3621
+psiF	3622
+yahF	3623
+yghZ	3624
+zraS	3625
+yfdF	3626
+nadB	3627
+pdhR	3628
+focA	3629
+ilvB	3630
+arcB	3631
+yedL	3632
+fabH	3633
+ydiK	3634
+gspJ	3635
+yhjB	3636
+rplC	3637
+ubiF	3638
+yciH	3639
+frwC	3640
+acrR	3641
+caiF	3642
+yqeB	3643
+ycfS	3644
+ispD	3645
+dgcM	3646
+argI	3647
+yfgO	3648
+yjaH	3649
+kdpA	3650
+ldhA	3651
+cnu	3652
+fliI	3653
+ybiV	3654
+yddJ	3655
+yghE	3656
+insX	3657
+fliL	3658
+rpmC	3659
+ybhG	3660
+paaF	3661
+mgtA	3662
+bioP	3663
+dnaN	3664
+ycfH	3665
+arcA	3666
+rhmD	3667
+dld	3668
+bcsZ	3669
+mdtE	3670
+amyA	3671
+rmf	3672
+ydhL	3673
+norW	3674
+sapA	3675
+mdtB	3676
+yfeH	3677
+dnaT	3678
+yeaP	3679
+yhdH	3680
+hcaB	3681
+pbl	3682
+yafV	3683
+rlmN	3684
+yoeD	3685
+fau	3686
+grpE	3687
+ydiV	3688
+chaA	3689
+pagB	3690
+puuB	3691
+ybaT	3692
+yhfW	3693
+tauD	3694
+ydgH	3695
+ycaK	3696
+ydhR	3697
+yqfE	3698
+bcsB	3699
+ysaB	3700
+rsmH	3701
+ydcF	3702
+fecR	3703
+mak	3704
+osmF	3705
+hcxB	3706
+yncL	3707
+yajC	3708
+ybjH	3709
+sra	3710
+php	3711
+arsC	3712
+wcaD	3713
+yagJ	3714
+rplK	3715
+fsaB	3716
+vsr	3717
+gltA	3718
+rhsA	3719
+hscC	3720
+inaA	3721
+asmA	3722
+rppH	3723
+cusR	3724
+glsA2	3725
+ylcG	3726
+ydiN	3727
+pal	3728
+ybcL	3729
+citF	3730
+aidB	3731
+msrB	3732
+gatD	3733
+roxA	3734
+araB	3735
+sgcX	3736
+yjgH	3737
+rlmH	3738
+glgX	3739
+lsrD	3740
+metR	3741
+narK	3742
+proC	3743
+yfaZ	3744
+yeaL	3745
+rsmC	3746
+aslB	3747
+hyfD	3748
+guaD	3749
+tynA	3750
+yciY	3751
+rclR	3752
+yfjZ	3753
+ynaE	3754
+pflA	3755
+wcaF	3756
+slyD	3757
+hchA	3758
+ydgA	3759
+yhgE	3760
+atoC	3761
+pgaD	3762
+znuA	3763
+yjbG	3764
+cptA	3765
+fkpB	3766
+pcnB	3767
+ydjE	3768
+ydgJ	3769
+wcaB	3770
+yafW	3771
+hybB	3772
+yccT	3773
+insL-3	3774
+rzpQ	3775
+leuS	3776
+nrfA	3777
+gmhB	3778
+araA	3779
+ykfG	3780
+can	3781
+yfbK	3782
+yqiB	3783
+ybaV	3784
+csiE	3785
+idnO	3786
+tufB	3787
+yfaY	3788
+phoA	3789
+ybgK	3790
+tisA	3791
+hflX	3792
+ymfR	3793
+rstA	3794
+allD	3795
+ampD	3796
+insA-2	3797
+ydfA	3798
+yibL	3799
+yajG	3800
+yohF	3801
+rhsD	3802
+infB	3803
+rtn	3804
+tsr	3805
+insL-2	3806
+ypjF	3807
+cmoA	3808
+sapB	3809
+ftsQ	3810
+rbsC	3811
+recR	3812
+prs	3813
+mdtM	3814
+ybgF	3815
+ascF	3816
+glk	3817
+yibH	3818
+lacI	3819
+yiiS	3820
+pepP	3821
+ydhK	3822
+secA	3823
+ybdL	3824
+paoD	3825
+hybG	3826
+yedY	3827
+insH-8	3828
+hemX	3829
+ilvI	3830
+osmY	3831
+aphA	3832
+recD	3833
+yjeT	3834
+ftsN	3835
+kdsC	3836
+yjbM	3837
+yhdT	3838
+tauA	3839
+qor	3840
+cyaY	3841
+ydiL	3842
+ydaV	3843
+ynfC	3844
+pta	3845
+accD	3846
+sdhD	3847
+waaJ	3848
+wzzB	3849
+higA	3850
+qorA	3851
+shiA	3852
+fmt	3853
+ypaA	3854
+ghxQ	3855
+yliE	3856
+gstB	3857
+yraK	3858
+ycdZ	3859
+mngB	3860
+yjhU	3861
+bioD2	3862
+yqaB	3863
+mscK	3864
+ydiY	3865
+yraJ	3866
+yfdG	3867
+ampC	3868
+narP	3869
+yfcF	3870
+nuoE	3871
+rtcA	3872
+scpB	3873
+hprR	3874
+yzfA	3875
+yfgG	3876
+deaD	3877
+garL	3878
+ygbN	3879
+hcp	3880
+yfhH	3881
+menH	3882
+hda	3883
+yjfP	3884
+bfd	3885
+paaJ	3886
+rhtB	3887
+thiG	3888
+yjjM	3889
+cysG	3890
+insA-1	3891
+yhcO	3892
+yheU	3893
+secM	3894
+pgaA	3895
+aroE	3896
+infC	3897
+mutM	3898
+ybaS	3899
+menB	3900
+nanT	3901
+yggU	3902
+lgoD	3903
+ytfJ	3904
+ypjJ	3905
+ygaU	3906
+gspC	3907
+nohB	3908
+rhsB	3909
+yjjW	3910
+nhoA	3911
+ybgA	3912
+prmA	3913
+rpmA	3914
+phnK	3915
+bssS	3916
+ybbB	3917
+nudI	3918
+tdcG	3919
+cspE	3920
+ahpC	3921
+yigI	3922
+yjhB	3923
+dgcN	3924
+dosC	3925
+rraA	3926
+yccM	3927
+eutR	3928
+ispH	3929
+yggF	3930
+atpD	3931
+rplL	3932
+sseB	3933
+fruK	3934
+yjiX	3935
+ftp	3936
+rplY	3937
+bglG	3938
+puuR	3939
+mipA	3940
+mraZ	3941
+ytfP	3942
+dgcF	3943
+yjhE	3944
+arpA	3945
+treR	3946
+cho	3947
+fliC	3948
+lolC	3949
+tufA	3950
+yfdI	3951
+pdeD	3952
+ttdT	3953
+mnmC	3954
+dosP	3955
+arnD	3956
+astA	3957
+mqsA	3958
+dmlR	3959
+lafU	3960
+soxS	3961
+yecJ	3962
+yahD	3963
+fliY	3964
+mscS	3965
+ybhF	3966
+kefG	3967
+eutN	3968
+pbpC	3969
+typA	3970
+adhE	3971
+ybcI	3972
+ydhP	3973
+nagA	3974
+gspK	3975
+hofQ	3976
+livK	3977
+glsB	3978
+potI	3979
+flxA	3980
+fliO	3981
+gltB	3982
+tyrP	3983
+ydfI	3984
+csdE	3985
+pdxK	3986
+mdfA	3987
+truC	3988
+ycjW	3989
+ycjF	3990
+frvR	3991
+phnL	3992
+yeeY	3993
+insH-4	3994
+comR	3995
+ypeC	3996
+ulaC	3997
+yffR	3998
+ynfB	3999
+ybeD	4000
+napH	4001
+sppA	4002
+yjgW	4003
+ypfJ	4004
+pgpC	4005
+agaW	4006
+rnpA	4007
+metN	4008
+leuO	4009
+rpmJ	4010
+brnQ	4011
+fbaB	4012
+hcaR	4013
+yghJ	4014
+folK	4015
+poxB	4016
+mglA	4017
+gntX	4018
+ybjX	4019
+ydfE	4020
+fxsA	4021
+yeaJ	4022
+ydhZ	4023
+aspS	4024
+yaaY	4025
+dusC	4026
+pepT	4027
+gspL	4028
+pheS	4029
+yagP	4030
+sixA	4031
+glmM	4032
+livJ	4033
+essQ	4034
+pmrD	4035
+yibU	4036
+ligB	4037
+yfcR	4038
+yjeJ	4039
+yafJ	4040
+yidF	4041
+efeU	4042
+ydaQ	4043
+ydcZ	4044
+uxaA	4045
+fadR	4046
+yqcG	4047
+yehP	4048
+dinF	4049
+agaI	4050
+ynaI	4051
+atpH	4052
+dkgB	4053
+fixA	4054
+appC	4055
+ygbK	4056
+ybfQ	4057
+yigA	4058
+atpG	4059
+rclA	4060
+mltB	4061
+yagV	4062
+nupC	4063
+rbbA	4064
+thiD	4065
+xylG	4066
+yqjA	4067
+hyfC	4068
+ibsC	4069
+argO	4070
+ybjN	4071
+yahM	4072
+sodC	4073
+ynfN	4074
+ycbK	4075
+treC	4076
+yedE	4077
+pdeG	4078
+tap	4079
+topA	4080
+yccS	4081
+htpG	4082
+lacY	4083
+iclR	4084
+mrcB	4085
+nudF	4086
+emrE	4087
+ycfJ	4088
+ydcX	4089
+ynhG	4090
+ppiC	4091
+tusA	4092
+rsxB	4093
+yadI	4094
+ypdE	4095
+rclB	4096
+eda	4097
+rimI	4098
+uof	4099
+fliP	4100
+gabP	4101
+yggN	4102
+ykgF	4103
+alaS	4104
+ymfM	4105
+fes	4106
+trmH	4107
+leuC	4108
+eptB	4109
+yqjK	4110
+yafY	4111
+yjdO	4112
+yicL	4113
+gfcD	4114
+envY	4115
+rpnC	4116
+ybdF	4117
+ydeN	4118
+yodB	4119
+rhaS	4120
+lpxB	4121
+ytfE	4122
+elyC	4123
+folB	4124
+ansA	4125
+djlC	4126
+hyfJ	4127
+argH	4128
+cysU	4129
+yhaH	4130
+hicA	4131
+rcnA	4132
+intS	4133
+umuC	4134
+ynjI	4135
+msyB	4136
+chbG	4137
+prpE	4138
+cynX	4139
+pncA	4140
+hycH	4141
+sfmD	4142
+umpH	4143
+kefC	4144
+trmD	4145
+sufS	4146
+ymfE	4147
+yhjV	4148
+uidA	4149
+paaB	4150
+yfdL	4151
+polA	4152
+clpX	4153
+lysC	4154
+surA	4155
+uhpB	4156
+ydcU	4157
+yggM	4158
+tfaS	4159
+ygaZ	4160
+ymfP	4161
+pheP	4162
+rplW	4163
+yceO	4164
+yjgZ	4165
+tcyP	4166
+wcaJ	4167
+rspB	4168
+ykiA	4169
+yafP	4170
+clpP	4171
+srlR	4172
+waaG	4173
+fdoH	4174
+yedS	4175
+ybeZ	4176
+yegI	4177
+melA	4178
+yicO	4179
+hydN	4180
+rfe	4181
+yeaO	4182
+phoE	4183
+frwD	4184
+queA	4185
+ybcQ	4186
+anmK	4187
+grxB	4188
+fabA	4189
+hcr	4190
+yifE	4191
+yeaK	4192
+flgI	4193
+purH	4194
+garK	4195
+ygfQ	4196
+ydaN	4197
+tatE	4198
+ygeP	4199
+yfaV	4200
+potG	4201
+bioD	4202
+ygiV	4203
+yfcP	4204
+ibsA	4205
+stfE	4206
+gspF	4207
+rpoZ	4208
+mdtF	4209
+emrA	4210
+hpf	4211
+rhoL	4212
+hofB	4213
+asd	4214
+tdh	4215
+ppiB	4216
+rssA	4217
+eutB	4218
+selD	4219
+ygaH	4220
+agaB	4221
+ykfL	4222
+yjfK	4223
+ymgC	4224
+yciO	4225
+mcrB	4226
+yjdI	4227
+nlpC	4228
+gmm	4229
+yfcZ	4230
+yagG	4231
+rsmB	4232
+ycaP	4233
+rplQ	4234
+cheZ	4235
+yqaE	4236
+rffE	4237
+ybbC	4238
+motB	4239
+ybfN	4240
+insM	4241
+ydhF	4242
+ygiC	4243
+ylcH	4244
+insE-2	4245
+yfdM	4246
+bglJ	4247
+dacC	4248
+torD	4249
+efeB	4250
+ybhI	4251
+tyrA	4252
+ftsK	4253
+aroL	4254
+aslA	4255
+wza	4256
+racC	4257
+araC	4258
+arcZ	4259
+eutT	4260
+ansB	4261
+pqiB	4262
+frlA	4263
+yeiE	4264
+yhgF	4265
+wzb	4266
+glmS	4267
+mrdB	4268
+yeaH	4269
+sbmC	4270
+tolB	4271
+narV	4272
+yfcG	4273
+argR	4274
+rsfS	4275
+pstS	4276
+ydhJ	4277
+yodC	4278
+phnP	4279
+rpsA	4280
+nuoK	4281
+ybjG	4282
+lepB	4283
+yqgA	4284
+yfaW	4285
+fiu	4286
+cydA	4287
+rimL	4288
+ttdR	4289
+ybiJ	4290
+yjiP	4291
+ymdE	4292
+yehL	4293
+hisH	4294
+ybeH	4295
+gluQ	4296
+dcd	4297
+galM	4298
+hyfE	4299
+yqaC	4300
+mug	4301
+glnD	4302
+csgD	4303
+fepE	4304
+torR	4305
+yhbP	4306
+yqeK	4307
+ompR	4308
+rsmJ	4309
+aroP	4310
+artM	4311
+bdm	4312
+yfiR	4313
+dhaK	4314
+yfdS	4315
+smrA	4316
+yjjU	4317
+metA	4318
+tatA	4319
+yhaO	4320
+ribD	4321
+bamA	4322
+flgD	4323
+pstB	4324
+manA	4325
+ftsI	4326
+rpsJ	4327
+ygeN	4328
+ytfG	4329
+yfjD	4330
+pflB	4331
+cydC	4332
+decR	4333
+pitB	4334
+rlmA	4335
+xylR	4336
+yaiW	4337
+waaC	4338
+creA	4339
+garD	4340
+nfo	4341
+pinE	4342
+sapD	4343
+cpsB	4344
+ykgN	4345
+csgB	4346
+rlmG	4347
+cycA	4348
+yghR	4349
+yghA	4350
+ispU	4351
+mcrA	4352
+ybcK	4353
+ybdO	4354
+cysH	4355
+caiD	4356
+nagB	4357
+pptA	4358
+aqpZ	4359
+yjcB	4360
+insO	4361
+frsA	4362
+arnE	4363
+hexR	4364
+fryC	4365
+yhbT	4366
+pdxH	4367
+dedD	4368
+yfaT	4369
+pgl	4370
+ppiD	4371
+yhcE	4372
+ycbV	4373
+corC	4374
+wcaL	4375
+yheT	4376
+ygaR	4377
+nirD	4378
+hslV	4379
+ybgL	4380
+glpQ	4381
+proS	4382
+srlD	4383
+trkA	4384
+yhhQ	4385
+arnB	4386
+rluE	4387
+flgE	4388
+abrB	4389
+zapA	4390
+lldD	4391
+cysP	4392
+mntR	4393
+rcnR	4394
+rplM	4395
+ypdC	4396
+xanP	4397
+fecC	4398
+yegT	4399
+uxuA	4400
+parC	4401
+gudX	4402
+iscR	4403
+hdhA	4404
+sfsA	4405
+ybfI	4406
+ydcI	4407
+yfjT	4408
+nlpE	4409
+yihF	4410
+ylbI	4411
+kdpF	4412
+topB	4413
+ydjY	4414
+yigL	4415
+purB	4416
+zraR	4417
+elaB	4418
+ulaE	4419
+yecA	4420
+insF-2	4421
+yijF	4422
+modB	4423
+yoaB	4424
+rhaD	4425
+qseC	4426
+tauC	4427
+yejM	4428
+ydfX	4429
+bioF	4430
+ydeK	4431
+ulaB	4432
+ydfR	4433
+oppB	4434
+epmC	4435
+pqiA	4436
+Levofloxacin	4437
+Tinidazole	4438
+Oxycarboxin	4439
+Tylosin	4440
+Josamycin	4441
+Puromycin	4442
+Sulfamethazine	4443
+Ciprofloxacin	4444
+Cefamandole	4445
+Streptonigrin	4446
+Trimethoprim	4447
+Dactinomycin	4448
+CHIR090	4449
+Minocycline	4450
+Amikacin	4451
+Furaltadone	4452
+Sulfathiazole	4453
+Kanamycin	4454
+Cefoxitin	4455
+Rifampin	4456
+Azithromycin	4457
+Rolitetracycline	4458
+Nitrofurantoin	4459
+Cefsulodin	4460
+Cefuroxime	4461
+Ofloxacin	4462
+Cloxacillin	4463
+Moxalactam	4464
+Chlortetracycline	4465
+Vancomycin	4466
+Penicillin G	4467
+Carbenicillin	4468
+Tetracycline	4469
+Bacitracin	4470
+Sulfadiazine	4471
+Nalidixic acid	4472
+Dihydrostreptomycin	4473
+Gentamicins	4474
+Aztreonam	4475
+Radicicol	4476
+Doxycycline hyclate	4477
+Cerulenin	4478
+Ornidazole	4479
+5-Nitro-2-furaldehyde semicarbazone	4480
+Hygromycin B	4481
+Polymyxin B	4482
+Penimepicycline	4483
+Piperacillin	4484
+Sulfisoxazole	4485
+Erythromycin	4486
+Oleandomycin	4487
+Sisomicin	4488
+Novobiocin	4489
+Amoxicillin	4490
+Colistin	4491
+Sulfamethizole	4492
+Cefoperazone	4493
+Neomycin	4494
+Chloramphenicol	4495
+Ampicillin	4496
+Nigericin	4497
+Fusidic acid	4498
+Oxacillin	4499
+Doxycycline	4500
+Sulfanilamide	4501
+Streptomycin	4502
+Hygromycin 	4503
+Enoxacin	4504
+Doxorubicin	4505
+Oxytetracycline	4506
+Mecillinam	4507
+Lomefloxacin	4508
+Thiolactomycin	4509
+Geneticin	4510
+Sulfachloropyridazine	4511
+Rifamycin SV	4512
+Fosfomycin	4513
+Cefazolin	4514
+Nafcillin	4515
+Clarythromycin	4516
+Mitomycin C	4517
+Paromomycin	4518
+Cephradine	4519
+Tobramycin	4520
+Bicyclomycin	4521
+Troleandomycin	4522
+Spiramycin	4523
+Metronidazole	4524
+Lincomycin	4525
+Apramycin	4526
+Triclosan	4527
+Phleomycin	4528
+Capreomycin	4529
+Spectinomycin	4530
+Sulfamethoxazole	4531
+Tunicamycin	4532
+Norfloxacin	4533
+Cefmetazole	4534
+Blasticidin S	4535
+Phenethicillin	4536
+Cephalothin	4537
+Sulfamonomethoxine	4538
+Ceftazidime	4539
+Bleomycin	4540
+restriction endodeoxyribonuclease activity	4541
+phosphoadenylyl-sulfate reductase (thioredoxin) activity	4542
+decanoate-CoA ligase activity	4543
+methyl-CpG binding	4544
+thiosulfate binding	4545
+cobinamide kinase activity	4546
+hydroxyacylglutathione hydrolase activity	4547
+1-ethyladenine demethylase activity	4548
+phosphoric diester hydrolase activity	4549
+glutamate:sodium symporter activity	4550
+lipopolysaccharide-1,6-galactosyltransferase activity	4551
+adenylylsulfate kinase activity	4552
+galactarate dehydratase activity	4553
+mRNA 5'-UTR binding	4554
+spermidine synthase activity	4555
+oxoglutarate dehydrogenase (succinyl-transferring) activity	4556
+alanine racemase activity	4557
+NAD-dependent protein deacetylase activity	4558
+ATP phosphoribosyltransferase activity	4559
+ketol-acid reductoisomerase activity	4560
+glutathione oxidoreductase activity	4561
+uridylate kinase activity	4562
+xanthine phosphoribosyltransferase activity	4563
+enzyme activator activity	4564
+branched-chain amino acid transmembrane transporter activity	4565
+CTP reductase activity	4566
+D-serine transmembrane transporter activity	4567
+organophosphate:inorganic phosphate antiporter activity	4568
+dTDP-4-amino-4,6-dideoxygalactose transaminase activity	4569
+acetate CoA-transferase activity	4570
+8-oxo-7,8-dihydroguanosine triphosphate pyrophosphatase activity	4571
+DNA-N1-methyladenine dioxygenase activity	4572
+sulfurtransferase activity	4573
+4 iron, 4 sulfur cluster binding	4574
+DNA (cytosine-5-)-methyltransferase activity	4575
+methylcytosine dioxygenase activity	4576
+metalloexopeptidase activity	4577
+NAD(P)+ transhydrogenase (AB-specific) activity	4578
+5'-3' exonuclease activity	4579
+3-deoxy-7-phosphoheptulonate synthase activity	4580
+peptidoglycan glycosyltransferase activity	4581
+N-acylmannosamine kinase activity	4582
+long-chain fatty acid [acyl-carrier-protein] ligase activity	4583
+dephospho-CoA kinase activity	4584
+GDP-mannose 4,6-dehydratase activity	4585
+2-dehydro-3-deoxygalactonokinase activity	4586
+glycerol-2-phosphatase activity	4587
+tRNA-dihydrouridine20 synthase activity	4588
+sulfur carrier activity	4589
+phosphoribosylamine-glycine ligase activity	4590
+dihydrolipoyllysine-residue succinyltransferase activity	4591
+shikimate transmembrane transporter activity	4592
+pyrimidine nucleoside binding	4593
+siderophore transmembrane transporter activity	4594
+copper-transporting ATPase activity	4595
+glutamine-fructose-6-phosphate transaminase (isomerizing) activity	4596
+sorbitol-6-phosphate 2-dehydrogenase activity	4597
+imidazoleglycerol-phosphate dehydratase activity	4598
+protein tyrosine phosphatase activity	4599
+ether hydrolase activity	4600
+L-ribulose-phosphate 4-epimerase activity	4601
+antibiotic transmembrane transporter activity	4602
+ribosomal small subunit binding	4603
+glutamate synthase activity	4604
+steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	4605
+S-ribosylhomocysteine lyase activity	4606
+RNA ligase activity	4607
+amino acid binding	4608
+protein histidine kinase activity	4609
+arsenate reductase (glutaredoxin) activity	4610
+guanosine phosphorylase activity	4611
+gluconokinase activity	4612
+transferase activity, transferring acyl groups	4613
+aminopeptidase activity	4614
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amidines	4615
+alcohol dehydrogenase [NAD(P)+] activity	4616
+maltose-transporting ATPase activity	4617
+taurine dioxygenase activity	4618
+NADPHX epimerase activity	4619
+cysteine-transporting ATPase activity	4620
+uracil DNA N-glycosylase activity	4621
+23S rRNA (guanine(1835)-N(2))-methyltransferase activity	4622
+lipoate synthase activity	4623
+translation release factor activity, codon specific	4624
+ornithine decarboxylase inhibitor activity	4625
+N-acetyl-gamma-glutamyl-phosphate reductase activity	4626
+tellurite transmembrane transporter activity	4627
+aspartate-ammonia ligase activity	4628
+undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase activity	4629
+phosphoenolpyruvate carboxylase activity	4630
+rRNA (guanine-N7-)-methyltransferase activity	4631
+lactoylglutathione lyase activity	4632
+proline dehydrogenase activity	4633
+tartronate-semialdehyde synthase activity	4634
+heptose-1-phosphate adenylyltransferase activity	4635
+histidinol-phosphatase activity	4636
+inositol phosphate phosphatase activity	4637
+purine nucleoside transmembrane transporter activity	4638
+maleylacetoacetate isomerase activity	4639
+translation initiation factor activity	4640
+mannonate dehydratase activity	4641
+phospho-N-acetylmuramoyl-pentapeptide-transferase activity	4642
+xenobiotic transmembrane transporting ATPase activity	4643
+T/G mismatch-specific endonuclease activity	4644
+fructose-bisphosphate aldolase activity	4645
+alcohol oxidase activity	4646
+glutathionylspermidine synthase activity	4647
+galactose transmembrane transporter activity	4648
+D-ribose transmembrane transporter activity	4649
+phosphoenolpyruvate-glycerone phosphotransferase activity	4650
+bacterial-type RNA polymerase enhancer sequence-specific DNA binding	4651
+microcin transmembrane transporter activity	4652
+neutral amino acid:sodium symporter activity	4653
+adenine phosphoribosyltransferase activity	4654
+anthranilate synthase activity	4655
+tRNA cytidylyltransferase activity	4656
+quinone binding	4657
+carnitine dehydratase activity	4658
+preprotein binding	4659
+DNA topoisomerase binding	4660
+antimonite secondary active transmembrane transporter activity	4661
+peptide-serine-N-acetyltransferase activity	4662
+3-demethylubiquinone-n 3-O-methyltransferase activity	4663
+cholate 7-alpha-dehydrogenase activity	4664
+D-methionine transmembrane transporter activity	4665
+16S rRNA (guanine(1207)-N(2))-methyltransferase activity	4666
+glutamate-5-semialdehyde dehydrogenase activity	4667
+4-acetamido-4,6-dideoxy-D-galactose transferase activity	4668
+metal ion binding	4669
+glycine betaine:proton symporter activity	4670
+diaminopropionate ammonia-lyase activity	4671
+dihydroneopterin triphosphate pyrophosphohydrolase activity	4672
+D-lactate dehydrogenase activity	4673
+methylthioadenosine nucleosidase activity	4674
+transferase activity, transferring phosphorus-containing groups	4675
+double-stranded methylated DNA binding	4676
+valine-pyruvate transaminase activity	4677
+gamma-glutamyl-gamma-aminobutyrate hydrolase activity	4678
+nucleoside transmembrane transporter activity	4679
+choline transmembrane transporter activity	4680
+3-dehydroquinate dehydratase activity	4681
+aspartic acid methylthiotransferase activity	4682
+metallopeptidase activity	4683
+succinate-CoA ligase (ADP-forming) activity	4684
+phosphoglycerate kinase activity	4685
+alkanesulfonate transmembrane transporter activity	4686
+3'(2'),5'-bisphosphate nucleotidase activity	4687
+tyrosine-based site-specific recombinase activity	4688
+carboxy-lyase activity	4689
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase activity	4690
+phosphopantetheine binding	4691
+metalloendopeptidase activity	4692
+pyruvate dehydrogenase (quinone) activity	4693
+acetyl-CoA:oxalate CoA-transferase	4694
+protein binding, bridging	4695
+carbohydrate transmembrane transporter activity	4696
+pseudouridine synthase activity	4697
+heat shock protein binding	4698
+2-ketobutyrate formate-lyase activity	4699
+phosphorelay sensor kinase activity	4700
+C4-dicarboxylate transmembrane transporter activity	4701
+succinylglutamate desuccinylase activity	4702
+N-methyltransferase activity	4703
+thiolester hydrolase activity	4704
+tRNA 5-carboxymethoxyuridine methyltransferase activity	4705
+hydro-lyase activity	4706
+azobenzene reductase activity	4707
+phosphate acetyltransferase activity	4708
+glycerate 2-kinase activity	4709
+1-deoxy-D-xylulose-5-phosphate reductoisomerase activity	4710
+DNA ligase activity	4711
+DNA-7-methylguanine glycosylase activity	4712
+IMP 5'-nucleotidase activity	4713
+methionine adenosyltransferase activity	4714
+adenosylcobinamide-GDP ribazoletransferase activity	4715
+aspartate ammonia-lyase activity	4716
+cytosolic dipeptidase activity	4717
+GMP 5'-nucleotidase activity	4718
+acetylglutamate kinase activity	4719
+phosphotransferase activity, phosphate group as acceptor	4720
+formyl-CoA transferase activity	4721
+2-octoprenyl-3-methyl-6-methoxy-1,4-benzoquinone hydroxylase activity	4722
+arabinose-5-phosphate isomerase activity	4723
+argininosuccinate synthase activity	4724
+methionine-tRNA ligase activity	4725
+3-methyl-2-oxobutanoate hydroxymethyltransferase activity	4726
+UDP-N-acetylmuramoylalanyl-D-glutamate-2,6-diaminopimelate ligase activity	4727
+cofactor binding	4728
+1,4-dihydroxy-2-naphthoyl-CoA synthase activity	4729
+RNA pyrophosphohydrolase activity	4730
+selenate reductase activity	4731
+biotin synthase activity	4732
+acetylornithine deacetylase activity	4733
+16S rRNA (guanine(1516)-N(2))-methyltransferase activity	4734
+crotonobetaine-CoA ligase activity	4735
+lipopolysaccharide glucosyltransferase I activity	4736
+protein-phosphocysteine-sugar phosphotransferase activity	4737
+hydrolase activity, acting on glycosyl bonds	4738
+2-oxopent-4-enoate hydratase activity	4739
+sugar-phosphatase activity	4740
+butane-1,4-diamine:2-oxoglutarate aminotransferase activity	4741
+threonine-type endopeptidase activity	4742
+double-stranded DNA endodeoxyribonuclease activity	4743
+sialic acid transmembrane transporter activity	4744
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen	4745
+homoserine kinase activity	4746
+ATPase-coupled molybdate transmembrane transporter activity	4747
+UDP-glucose 4-epimerase activity	4748
+3'-tRNA processing endoribonuclease activity	4749
+lactate transmembrane transporter activity	4750
+GMP synthase (glutamine-hydrolyzing) activity	4751
+preQ1 synthase activity	4752
+oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor	4753
+acetyltransferase activity	4754
+prephenate dehydratase activity	4755
+short-chain carboxylesterase activity	4756
+bacterial-type RNA polymerase holo enzyme binding	4757
+allulose 6-phosphate 3-epimerase activity	4758
+protoheme IX farnesyltransferase activity	4759
+L-fuculokinase activity	4760
+UDP-glucose 6-dehydrogenase activity	4761
+protein heterodimerization activity	4762
+bis(5'-nucleosyl)-tetraphosphatase activity	4763
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds	4764
+NADH dehydrogenase activity	4765
+ADP-heptose-lipopolysaccharide heptosyltransferase activity	4766
+lipopolysaccharide core heptosyltransferase activity	4767
+exoribonuclease activity	4768
+phosphogluconate dehydrogenase (decarboxylating) activity	4769
+high-affinity sulfate:proton symporter activity	4770
+alanylglutamate dipeptidase activity	4771
+polyamine binding	4772
+phosphoribosylaminoimidazole carboxylase activity	4773
+dGTPase activity	4774
+4-amino-4-deoxychorismate synthase activity	4775
+nicotinate phosphoribosyltransferase activity	4776
+NAD+ binding	4777
+molybdenum cofactor guanylyltransferase activity	4778
+tRNA adenylyltransferase activity	4779
+glutamate dehydrogenase (NAD+) activity	4780
+potassium ion binding	4781
+tRNA-specific adenosine-34 deaminase activity	4782
+L-cystine transmembrane transporter activity	4783
+glutathione-regulated potassium exporter activity	4784
+4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase activity	4785
+hydrolase activity, acting on acid anhydrides, in phosphorus-containing anhydrides	4786
+DNA-(apurinic or apyrimidinic site) endonuclease activity	4787
+5'-tyrosyl-DNA phosphodiesterase activity	4788
+(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase activity	4789
+L-leucine transmembrane transporter activity	4790
+IMP dehydrogenase activity	4791
+secondary active p-aminobenzoyl-glutamate transmembrane transporter activity	4792
+iron ion binding	4793
+DNA-3-methyladenine glycosylase activity	4794
+zinc ion transmembrane transporter activity	4795
+dihydroorotate dehydrogenase activity	4796
+FAD binding	4797
+metal cluster binding	4798
+anti-sigma factor antagonist activity	4799
+ribosomal S6-glutamic acid ligase activity	4800
+3-deoxy-manno-octulosonate-8-phosphatase activity	4801
+leucyltransferase activity	4802
+inorganic diphosphatase activity	4803
+oxidoreductase activity, acting on other nitrogenous compounds as donors, with NAD or NADP as acceptor	4804
+aminobutyraldehyde dehydrogenase activity	4805
+inosine nucleosidase activity	4806
+cob(I)yrinic acid a,c-diamide adenosyltransferase activity	4807
+N-acetylglucosamine kinase activity	4808
+energy transducer activity	4809
+putrescine-importing ATPase activity	4810
+GTP diphosphokinase activity	4811
+DNA replication origin binding	4812
+DNA clamp loader activity	4813
+transcriptional activator activity, bacterial-type RNA polymerase proximal promoter sequence-specific DNA binding	4814
+sn-glycerol-3-phosphate:ubiquinone oxidoreductase activity	4815
+3-deoxy-manno-octulosonate cytidylyltransferase activity	4816
+succinate:fumarate antiporter activity	4817
+glycerol-3-phosphate transmembrane transporter activity	4818
+6-deoxy-6-sulfofructose-1-phosphate aldolase activity	4819
+electron transfer activity	4820
+L-arabinose isomerase activity	4821
+CTP synthase activity	4822
+glutathione transmembrane transporter activity	4823
+GTP binding	4824
+methionine-R-sulfoxide reductase activity	4825
+protein-phosphocysteine-trehalose phosphotransferase system transporter activity	4826
+amylo-alpha-1,6-glucosidase activity	4827
+single-stranded DNA binding	4828
+DNA/RNA hybrid annealing activity	4829
+isomerase activity	4830
+adenylate cyclase activity	4831
+ribosomal large subunit binding	4832
+oxidoreductase activity, acting on NAD(P)H, quinone or similar compound as acceptor	4833
+manganese ion binding	4834
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity	4835
+cobalt ion binding	4836
+glycerol-3-phosphate dehydrogenase [NADP+] activity	4837
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase activity	4838
+iron-sulfur cluster binding	4839
+triose-phosphate isomerase activity	4840
+fucose binding	4841
+protein-N(PI)-phosphohistidine-sugar phosphotransferase activity	4842
+phosphomannomutase activity	4843
+hypoxanthine phosphoribosyltransferase activity	4844
+S-methylmethionine transmembrane transporter activity	4845
+bacterial-type RNA polymerase core enzyme binding	4846
+UDP-N-acetylmuramoylalanine-D-glutamate ligase activity	4847
+IMP cyclohydrolase activity	4848
+proton-transporting ATPase activity, rotational mechanism	4849
+pantetheine-phosphate adenylyltransferase activity	4850
+high-affinity zinc transmembrane transporter activity	4851
+UDP-galactopyranose mutase activity	4852
+ferric-chelate reductase (NADPH) activity	4853
+protein disulfide isomerase activity	4854
+threonine synthase activity	4855
+lipopolysaccharide-transporting ATPase activity	4856
+L-arabinose transmembrane transporter activity	4857
+D-tyrosyl-tRNA(Tyr) deacylase activity	4858
+L-aspartate:2-oxoglutarate aminotransferase activity	4859
+DNA insertion or deletion binding	4860
+dihydrolipoyllysine-residue acetyltransferase activity	4861
+adenosylmethionine-8-amino-7-oxononanoate transaminase activity	4862
+cytosine deaminase activity	4863
+DNA binding, bending	4864
+[acyl-carrier-protein] phosphodiesterase activity	4865
+glutathione binding	4866
+O antigen ligase activity	4867
+spermidine transmembrane transporter activity	4868
+carnitine-CoA ligase activity	4869
+selenium binding	4870
+pyrimidine-nucleoside phosphorylase activity	4871
+4-alpha-glucanotransferase activity	4872
+lactose binding	4873
+transmembrane signaling receptor activity	4874
+peptide-methionine (R)-S-oxide reductase activity	4875
+transcription factor activity, bacterial-type RNA polymerase transcription enhancer sequence-specific binding	4876
+identical protein binding	4877
+nucleoside-triphosphate diphosphatase activity	4878
+transcription regulatory region DNA binding	4879
+S-adenosylmethionine-dependent tRNA (m5U54) methyltransferase activity	4880
+NAD(P)H nitroreductase activity	4881
+protein-phosphocysteine-N-acetylglucosamine phosphotransferase system transporter activity	4882
+thiamine-phosphate kinase activity	4883
+5-(carboxyamino)imidazole ribonucleotide mutase activity	4884
+carboxylic acid transmembrane transporter activity	4885
+lipoate-protein ligase activity	4886
+transcription factor binding	4887
+neutral amino acid transmembrane transporter activity	4888
+voltage-gated chloride channel activity	4889
+glucuronosyltransferase activity	4890
+3-octaprenyl-4-hydroxybenzoate carboxy-lyase activity	4891
+thiosulfate sulfurtransferase activity	4892
+cadaverine aminopropyltransferase activity	4893
+nickel cation transmembrane transporter activity	4894
+response to antibiotic	4895
+porin activity	4896
+L-tyrosine:2-oxoglutarate aminotransferase activity	4897
+3-oxoacyl-[acyl-carrier-protein] synthase activity	4898
+transferase activity, transferring amino-acyl groups	4899
+exopolyphosphatase activity	4900
+UDP-2,3-diacylglucosamine hydrolase activity	4901
+molybdenum ion binding	4902
+phosphate ion binding	4903
+Type IV site-specific deoxyribonuclease activity	4904
+methylated-DNA-[protein]-cysteine S-methyltransferase activity	4905
+mRNA 3'-UTR binding	4906
+O-phospho-L-serine:2-oxoglutarate aminotransferase activity	4907
+glutamate N-acetyltransferase activity	4908
+transition metal ion binding	4909
+amidase activity	4910
+acyl carrier activity	4911
+ribonucleoside-diphosphate reductase activity, thioredoxin disulfide as acceptor	4912
+osmosensor activity	4913
+oxidoreductase activity	4914
+[citrate (pro-3S)-lyase] ligase activity	4915
+cysteine transmembrane transporter activity	4916
+dihydrolipoyl dehydrogenase activity	4917
+transcription antitermination factor activity, DNA binding	4918
+endopeptidase activity	4919
+(2,3-dihydroxybenzoyl)adenylate synthase activity	4920
+3-sulfolactaldehyde reductase activity	4921
+ribonuclease G activity	4922
+cadmium-exporting ATPase activity	4923
+racemase and epimerase activity, acting on amino acids and derivatives	4924
+hydrogen:quinone oxidoreductase activity	4925
+protein-phosphocysteine-mannosylglycerate-phosphotransferase system transporter activity	4926
+rRNA (adenine-N6,N6-)-dimethyltransferase activity	4927
+1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity	4928
+maltodextrin transmembrane transporter activity	4929
+chitin disaccharide deacetylase activity	4930
+FAD transmembrane transporter activity	4931
+heme binding	4932
+glycine dehydrogenase (decarboxylating) activity	4933
+acetate-CoA ligase activity	4934
+cation-transporting ATPase activity	4935
+glycerol-3-phosphate dehydrogenase activity	4936
+peptidoglycan L,D-transpeptidase activity	4937
+1-acylglycerol-3-phosphate O-acyltransferase activity	4938
+guanosine-5'-triphosphate,3'-diphosphate diphosphatase activity	4939
+glucuronate isomerase activity	4940
+protein-N(PI)-phosphohistidine-mannitol phosphotransferase system transmembrane transporter activity	4941
+N-acetylmuramoyl-L-alanine amidase activity	4942
+carbonate dehydratase activity	4943
+prophage integrase activity	4944
+tRNA 2-selenouridine synthase activity	4945
+2,3-dihydroxybenzoate-serine ligase activity	4946
+xanthine dehydrogenase activity	4947
+guanine binding	4948
+ATPase activity, coupled to transmembrane movement of substances	4949
+glycerol channel activity	4950
+proline dipeptidase activity	4951
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, NAD(P)H as one donor, and incorporation of one atom of oxygen	4952
+phospholipase A2 activity	4953
+L-idonate 5-dehydrogenase activity	4954
+ATPase-coupled protein transmembrane transporter activity	4955
+asparaginase activity	4956
+oxidoreductase activity, acting on iron-sulfur proteins as donors, NAD or NADP as acceptor	4957
+ribonuclease activity	4958
+repressing transcription factor binding	4959
+transferase activity, transferring glycosyl groups	4960
+glutamyl-tRNA reductase activity	4961
+lipid kinase activity	4962
+magnesium ion binding	4963
+tartrate dehydrogenase activity	4964
+altronate dehydratase activity	4965
+prenyltransferase activity	4966
+maltodextrin phosphorylase activity	4967
+aminoacyl-tRNA editing activity	4968
+pyrimidine deoxyribonucleotide binding	4969
+D-cysteine desulfhydrase activity	4970
+oxidoreductase activity, acting on the CH-NH group of donors, NAD or NADP as acceptor	4971
+acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase activity	4972
+cyanate hydratase activity	4973
+nuclease activity	4974
+drug transmembrane transporter activity	4975
+CDP-diacylglycerol diphosphatase activity	4976
+phospholipase activity	4977
+phosphoribosylaminoimidazolecarboxamide formyltransferase activity	4978
+phosphoribosylanthranilate isomerase activity	4979
+tryptophan-tRNA ligase activity	4980
+aldo-keto reductase (NADP) activity	4981
+4-hydroxyphenylacetaldehyde dehydrogenase activity	4982
+malic enzyme activity	4983
+oxaloacetate tautomerase activity	4984
+tryptophanase activity	4985
+aldehyde-lyase activity	4986
+maltose O-acetyltransferase activity	4987
+glutamate synthase (NADPH) activity	4988
+tRNA (uracil-2'-O-)-methyltransferase activity	4989
+rRNA (uridine) methyltransferase activity	4990
+cation binding	4991
+cobinamide phosphate guanylyltransferase activity	4992
+protein tyrosine/serine/threonine phosphatase activity	4993
+rRNA (adenine-C2-)-methyltransferase activity	4994
+sulfoquinovosidase activity	4995
+aspartate binding	4996
+glutamate binding	4997
+thymidine kinase activity	4998
+riboflavin reductase (NADPH) activity	4999
+oxidoreductase activity, acting on diphenols and related substances as donors, oxygen as acceptor	5000
+palmitoyl-CoA hydrolase activity	5001
+L-methionine secondary active transmembrane transporter activity	5002
+cytochrome-c oxidase activity	5003
+pyruvate dehydrogenase activity	5004
+bent DNA binding	5005
+chloride channel activity	5006
+deoxyribose-phosphate aldolase activity	5007
+oxygen-dependent protoporphyrinogen oxidase activity	5008
+methylthiotransferase activity	5009
+carbamate kinase activity	5010
+guanosine-3',5'-bis(diphosphate) 3'-diphosphatase activity	5011
+polyamine-transporting ATPase activity	5012
+oligoribonucleotidase activity	5013
+adenyl-nucleotide exchange factor activity	5014
+2-octaprenyl-6-methoxy-1,4-benzoquinone methyltransferase activity	5015
+protein binding involved in protein folding	5016
+glutamate decarboxylase activity	5017
+guanyl ribonucleotide binding	5018
+dUTP diphosphatase activity	5019
+phosphopentomutase activity	5020
+acetyl-CoA C-acyltransferase activity	5021
+solute:proton antiporter activity	5022
+16S rRNA (guanine(966)-N(2))-methyltransferase activity	5023
+ATP binding	5024
+oxidoreductase activity, acting on other nitrogenous compounds as donors	5025
+2-octaprenyl-6-methoxy-1,4-benzoquinone methylase activity	5026
+L-methionine transmembrane transporter activity	5027
+oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor	5028
+5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase activity	5029
+high-affinity tryptophan transmembrane transporter activity	5030
+medium-chain fatty acid-CoA ligase activity	5031
+oxidized pyrimidine nucleobase lesion DNA N-glycosylase activity	5032
+carbohydrate:cation symporter activity	5033
+phosphopantothenate--cysteine ligase activity	5034
+2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase activity	5035
+2 iron, 2 sulfur cluster binding	5036
+propionyl-CoA:succinate CoA-transferase activity	5037
+chromate reductase activity	5038
+dCTP diphosphatase activity	5039
+uridine kinase activity	5040
+virion binding	5041
+L-fucose isomerase activity	5042
+phosphatidylglycerol binding	5043
+ATPase activity, coupled to transmembrane movement of ions, phosphorylative mechanism	5044
+L-methionine:thioredoxin-disulfide S-oxidoreductase activity	5045
+phospholipid transporter activity	5046
+hydroxyisourate hydrolase activity	5047
+5S rRNA binding	5048
+mannose-6-phosphate isomerase activity	5049
+racemase and epimerase activity, acting on carbohydrates and derivatives	5050
+undecaprenyl-phosphate glucose phosphotransferase activity	5051
+N-acetyl-anhydromuramoyl-L-alanine amidase activity	5052
+inosine kinase activity	5053
+formate C-acetyltransferase activity	5054
+carbohydrate:proton symporter activity	5055
+L-threonine ammonia-lyase activity	5056
+CoA hydrolase activity	5057
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase activity	5058
+cytosine C-5 DNA demethylase activity	5059
+uracil:cation symporter activity	5060
+electron-transferring-flavoprotein dehydrogenase activity	5061
+formate transmembrane transporter activity	5062
+tRNA (adenine) methyltransferase activity	5063
+molybdopterin-synthase adenylyltransferase activity	5064
+L-lactate dehydrogenase activity	5065
+valine-tRNA ligase activity	5066
+2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase activity	5067
+drug:proton antiporter activity	5068
+enzyme binding	5069
+zinc ion binding	5070
+serine-type D-Ala-D-Ala carboxypeptidase activity	5071
+adenosine 5'-monophosphoramidase activity	5072
+peptide-methionine (S)-S-oxide reductase activity	5073
+mannitol-1-phosphate 5-dehydrogenase activity	5074
+pyrroline-5-carboxylate reductase activity	5075
+ribulose-phosphate 3-epimerase activity	5076
+2-dehydro-3-deoxyglucarate aldolase activity	5077
+hydrolase activity, acting on acid carbon-carbon bonds, in ketonic substances	5078
+pyridoxal phosphatase activity	5079
+3-mercaptopyruvate sulfurtransferase activity	5080
+1,4-dihydroxy-2-naphthoate octaprenyltransferase activity	5081
+acetaldehyde dehydrogenase (acetylating) activity	5082
+ATP-dependent 3'-5' RNA helicase activity	5083
+crossover junction endodeoxyribonuclease activity	5084
+iron-sulfur transferase activity	5085
+DNA/RNA hybrid binding	5086
+nicotinate-nucleotide diphosphorylase (carboxylating) activity	5087
+tryptophan synthase activity	5088
+carboxyl-O-methyltransferase activity	5089
+undecaprenyl-diphosphatase activity	5090
+mismatched DNA binding	5091
+single-stranded DNA-dependent ATP-dependent DNA helicase activity	5092
+threonine-tRNA ligase activity	5093
+thiamine-phosphate diphosphorylase activity	5094
+acetate kinase activity	5095
+rRNA (uridine-C5-)-methyltransferase activity	5096
+exonuclease activity	5097
+nitrite reductase [NAD(P)H] activity	5098
+copper chaperone activity	5099
+hydroxypyruvate reductase activity	5100
+2-dehydro-3-deoxy-D-pentonate aldolase activity	5101
+transmembrane transporter activity	5102
+amino-acid betaine transmembrane transporter activity	5103
+oxidoreductase activity, acting on a sulfur group of donors	5104
+shikimate 3-dehydrogenase (NAD+) activity	5105
+nicotinamidase activity	5106
+DNA primase activity	5107
+fumarate transmembrane transporter activity	5108
+proline-tRNA ligase activity	5109
+colicin transmembrane transporter activity	5110
+NADP+ binding	5111
+CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity	5112
+glucosidase activity	5113
+thiamine pyrophosphate binding	5114
+carbon-oxygen lyase activity	5115
+uroporphyrin-III C-methyltransferase activity	5116
+tRNA (5-methylaminomethyl-2-thiouridylate)-methyltransferase activity	5117
+5'-3' exodeoxyribonuclease activity	5118
+DNA/RNA helicase activity	5119
+acetyl-CoA hydrolase activity	5120
+peptidoglycan binding	5121
+biotin transmembrane transporter activity	5122
+guanosine tetraphosphate binding	5123
+DNA-directed DNA polymerase activity	5124
+uracil oxygenase activity	5125
+exodeoxyribonuclease I activity	5126
+FMN adenylyltransferase activity	5127
+starch synthase activity	5128
+RNA helicase activity	5129
+transcription coactivator activity	5130
+isocitrate dehydrogenase (NADP+) activity	5131
+dTDP-4-dehydrorhamnose reductase activity	5132
+peroxidase activity	5133
+chorismate lyase activity	5134
+cystathionine beta-lyase activity	5135
+structural constituent of ribosome	5136
+ATPase activity, coupled	5137
+quinolinate synthetase A activity	5138
+methylisocitrate lyase activity	5139
+galactitol-1-phosphate 5-dehydrogenase activity	5140
+protein-phosphocysteine-D-fructose-phosphotransferase system transporter activity	5141
+tRNA (cytosine-2'-O-)-methyltransferase activity	5142
+protein serine/threonine phosphatase activity	5143
+peptidase activity	5144
+2-methylcitrate dehydratase activity	5145
+lipopolysaccharide transmembrane transporter activity	5146
+glycogen phosphorylase activity	5147
+acylglycerol O-acyltransferase activity	5148
+arsenite transmembrane transporter activity	5149
+translation activator activity	5150
+glutaminase activity	5151
+methylmalonyl-CoA decarboxylase activity	5152
+hydroxymethylbutenyl pyrophosphate reductase activity	5153
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in cyclic amides	5154
+rRNA (cytosine) methyltransferase activity	5155
+manganese ion transmembrane transporter activity	5156
+serine transmembrane transporter activity	5157
+D-serine ammonia-lyase activity	5158
+protein-succinyllysine desuccinylase activity	5159
+succinate dehydrogenase (ubiquinone) activity	5160
+glycerol-3-phosphate dehydrogenase [NAD(P)+] activity	5161
+DNA helicase activity	5162
+GTP cyclohydrolase I activity	5163
+4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase activity	5164
+2-hydroxy-6-oxonona-2,4,7-trienedioate hydrolase activity	5165
+exodeoxyribonuclease activity	5166
+FK506 binding	5167
+6-phosphofructokinase activity	5168
+GDP-L-fucose synthase activity	5169
+pyrophosphatase activity	5170
+glycerol transmembrane transporter activity	5171
+glucose-1-phosphatase activity	5172
+maltose transmembrane transporter activity	5173
+8-oxo-GDP phosphatase activity	5174
+rRNA (uridine-2'-O-)-methyltransferase activity	5175
+UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase activity	5176
+D-alanine-D-alanine ligase activity	5177
+metal ion transmembrane transporter activity	5178
+RNA strand annealing activity	5179
+hydrolase activity	5180
+5-aminolevulinate synthase activity	5181
+GTPase activity	5182
+glycerol-3-phosphate-transporting ATPase activity	5183
+S-adenosylhomocysteine deaminase activity	5184
+glycerol-3-phosphate O-acyltransferase activity	5185
+uridine nucleosidase activity	5186
+RNA-DNA hybrid ribonuclease activity	5187
+1-deoxy-D-xylulose-5-phosphate synthase activity	5188
+transferase activity, transferring acyl groups other than amino-acyl groups	5189
+tRNA nucleotidyltransferase activity	5190
+2-iminoacetate synthase activity	5191
+silver ion transmembrane transporter activity	5192
+ornithine carbamoyltransferase activity	5193
+phosphogluconate dehydratase activity	5194
+arylamine N-acetyltransferase activity	5195
+bacterial-type RNA polymerase regulatory region sequence-specific DNA binding	5196
+succinate-semialdehyde dehydrogenase (NAD+) activity	5197
+deoxycytidine deaminase activity	5198
+melibiose:sodium symporter activity	5199
+enzyme regulator activity	5200
+DNA topoisomerase activity	5201
+phosphotransferase activity, alcohol group as acceptor	5202
+[protein-PII] uridylyltransferase activity	5203
+DNA polymerase processivity factor activity	5204
+sequence-specific double-stranded DNA binding	5205
+adenylate kinase activity	5206
+glucarate dehydratase activity	5207
+para-aminobenzoyl-glutamate hydrolase activity	5208
+xylonate dehydratase activity	5209
+fimbrial usher porin activity	5210
+UDP-3-O-acyl-N-acetylglucosamine deacetylase activity	5211
+xyloglucan 1,6-alpha-xylosidase activity	5212
+ferrous iron transmembrane transporter activity	5213
+ADP-glyceromanno-heptose 6-epimerase activity	5214
+alpha,alpha-trehalase activity	5215
+3-hydroxyacyl-CoA dehydrogenase activity	5216
+endodeoxyribonuclease activity, producing 5'-phosphomonoesters	5217
+UDP-N-acetyl-D-mannosamine dehydrogenase activity	5218
+2-dehydropantoate 2-reductase activity	5219
+dipeptidase activity	5220
+alcohol dehydrogenase activity, zinc-dependent	5221
+translation repressor activity, mRNA regulatory element binding	5222
+fructose 6-phosphate aldolase activity	5223
+alcohol dehydrogenase (NAD) activity	5224
+nitric oxide reductase activity	5225
+amino acid transmembrane transporter activity	5226
+glutamate dehydrogenase (NADP+) activity	5227
+2-octaprenyl-6-methoxyphenol hydroxylase activity	5228
+3'-nucleotidase activity	5229
+UTP:glucose-1-phosphate uridylyltransferase activity	5230
+oxidoreductase activity, acting on peroxide as acceptor	5231
+ureidoglycolate dehydrogenase activity	5232
+diaminopimelate decarboxylase activity	5233
+undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase activity	5234
+adenylosuccinate synthase activity	5235
+xylulokinase activity	5236
+thymidylate synthase activity	5237
+lipopeptide binding	5238
+AMP binding	5239
+activating transcription factor binding	5240
+2,3-bisphosphoglycerate-independent phosphoglycerate mutase activity	5241
+propionate-CoA ligase activity	5242
+glycolate dehydrogenase activity	5243
+transferase activity, transferring pentosyl groups	5244
+oxidoreductase activity, acting on the CH-CH group of donors	5245
+oxidoreductase activity, acting on a sulfur group of donors, disulfide as acceptor	5246
+dethiobiotin synthase activity	5247
+maltose binding	5248
+oxidized purine DNA binding	5249
+malate:proton symporter activity	5250
+RNA binding	5251
+obsolete gamma-glutamyltransferase activity	5252
+asparagine-tRNA ligase activity	5253
+poly(A) binding	5254
+methenyltetrahydrofolate cyclohydrolase activity	5255
+serine-type carboxypeptidase activity	5256
+sulfate binding	5257
+methylglyoxal synthase activity	5258
+dimethylallyltranstransferase activity	5259
+ADP-sugar diphosphatase activity	5260
+recombinase activity	5261
+O-palmitoyltransferase activity	5262
+ribokinase activity	5263
+3-phytase activity	5264
+menaquinone-dependent protoporphyrinogen oxidase activity	5265
+coproporphyrinogen dehydrogenase activity	5266
+glutathione hydrolase activity	5267
+ferric-enterobactin transmembrane transporter activity	5268
+DNA hairpin binding	5269
+phospholipid binding	5270
+ribonuclease R activity	5271
+exoribonuclease activity, producing 5'-phosphomonoesters	5272
+spermidine-importing ATPase activity	5273
+holo-citrate lyase synthase activity	5274
+guanine deaminase activity	5275
+lactaldehyde dehydrogenase activity	5276
+cysteine-tRNA ligase activity	5277
+bacterial-type RNA polymerase regulatory region DNA binding	5278
+isoleucine-tRNA ligase activity	5279
+catalase activity	5280
+biotin carboxylase activity	5281
+bacterial-type proximal promoter sequence-specific DNA binding	5282
+lipoic acid binding	5283
+epoxyqueuosine reductase activity	5284
+lytic transglycosylase activity	5285
+scopolin beta-glucosidase activity	5286
+tRNA N-acetyltransferase activity	5287
+glycerol kinase activity	5288
+nicotinamide-nucleotide adenylyltransferase activity	5289
+DNA topoisomerase type I activity	5290
+sirohydrochlorin ferrochelatase activity	5291
+adenosine deaminase activity	5292
+polyphosphate:AMP phosphotransferase activity	5293
+AT DNA binding	5294
+UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase activity	5295
+phenylacetaldehyde dehydrogenase activity	5296
+integrase activity	5297
+allose transmembrane transporter activity	5298
+ornithine decarboxylase activity	5299
+arginine binding	5300
+zinc-exporting ATPase activity	5301
+glutamate-cysteine ligase activity	5302
+phosphatidylglycerol-phosphatidylethanolamine phosphatidyltransferase activity	5303
+3-hydroxypropionate dehydrogenase (NADP+) activity	5304
+selenocysteine insertion sequence binding	5305
+phosphoglycolate phosphatase activity	5306
+4-hydroxy-2-oxoglutarate aldolase activity	5307
+protein-L-isoaspartate (D-aspartate) O-methyltransferase activity	5308
+oxygen sensor activity	5309
+malate dehydrogenase (decarboxylating) (NAD+) activity	5310
+lipopolysaccharide binding	5311
+tRNA binding	5312
+heme transporter activity	5313
+benzoate transmembrane transporter activity	5314
+carbon monoxide binding	5315
+cytoskeletal protein binding	5316
+ferrous iron binding	5317
+NAD+ kinase activity	5318
+4-hydroxy-tetrahydrodipicolinate reductase	5319
+lysozyme inhibitor activity	5320
+malate dehydrogenase (decarboxylating) (NADP+) activity	5321
+3,4-dihydroxy-2-butanone-4-phosphate synthase activity	5322
+cyclic-nucleotide phosphodiesterase activity	5323
+cadmium ion binding	5324
+DNA ligase (NAD+) activity	5325
+intramolecular transferase activity, transferring amino groups	5326
+mRNA binding	5327
+homoserine dehydrogenase activity	5328
+[glutamate-ammonia-ligase] adenylyltransferase activity	5329
+[isocitrate dehydrogenase (NADP+)] kinase activity	5330
+acetate transmembrane transporter activity	5331
+histidine phosphotransfer kinase activity	5332
+proton motive force dependent protein transmembrane transporter activity	5333
+double-stranded RNA binding	5334
+sulfur compound transmembrane transporter activity	5335
+aspartate-tRNA ligase activity	5336
+endopeptidase inhibitor activity	5337
+aminoacyl-tRNA hydrolase activity	5338
+5-formyltetrahydrofolate cyclo-ligase activity	5339
+glucose-6-phosphate dehydrogenase activity	5340
+N-acetylglucosamine transmembrane transporter activity	5341
+sulfathiazole transmembrane transporter activity	5342
+glycerophosphodiester phosphodiesterase activity	5343
+N6-isopentenyladenosine methylthiotransferase activity	5344
+alkanesulfonate monooxygenase activity	5345
+chorismate synthase activity	5346
+threonine efflux transmembrane transporter activity	5347
+allose 6-phosphate isomerase activity	5348
+oxidoreduction-driven active transmembrane transporter activity	5349
+selenocysteine lyase activity	5350
+alkylated DNA binding	5351
+choline dehydrogenase activity	5352
+ligand-gated channel activity	5353
+fucose transmembrane transporter activity	5354
+2-keto-3-deoxygluconate:proton symporter activity	5355
+protein tyrosine kinase activity	5356
+L-rhamnose isomerase activity	5357
+thiamine kinase activity	5358
+ion transmembrane transporter activity	5359
+amidophosphoribosyltransferase activity	5360
+misfolded protein binding	5361
+3-deoxy-8-phosphooctulonate synthase activity	5362
+protein-phosphocysteine-glucose phosphotransferase system transporter activity	5363
+xylose isomerase activity	5364
+coenzyme binding	5365
+S-adenosylmethionine:tRNA ribosyltransferase-isomerase activity	5366
+fructuronate reductase activity	5367
+rRNA (cytosine-2'-O-)-methyltransferase activity	5368
+CDP-diacylglycerol-serine O-phosphatidyltransferase activity	5369
+tRNA (guanine(37)-N(1))-methyltransferase activity	5370
+oxidoreductase activity, acting on a sulfur group of donors, quinone or similar compound as acceptor	5371
+transporter activity	5372
+potassium:proton antiporter activity	5373
+dihydropyrimidine dehydrogenase (NADP+) activity	5374
+acetate:proton symporter activity	5375
+nucleic acid binding	5376
+dioxygenase activity	5377
+tRNA (guanine-N1-)-methyltransferase activity	5378
+L-serine ammonia-lyase activity	5379
+argininosuccinate lyase activity	5380
+acryloyl-CoA reductase (NADP+) activity	5381
+alkyl sulfatase activity	5382
+FMN reductase activity	5383
+diguanylate cyclase activity	5384
+obsolete signal transducer activity	5385
+trehalose-phosphatase activity	5386
+lyase activity	5387
+dihydrofolate synthase activity	5388
+pseudouridine kinase activity	5389
+pantothenate transmembrane transporter activity	5390
+P-P-bond-hydrolysis-driven protein transmembrane transporter activity	5391
+5-(carboxyamino)imidazole ribonucleotide synthase activity	5392
+allose kinase activity	5393
+23S rRNA (adenine(2030)-N(6))-methyltransferase activity	5394
+four-way junction DNA binding	5395
+tyrosine-tRNA ligase activity	5396
+tRNA (adenine-N6-)-methyltransferase activity	5397
+inorganic anion exchanger activity	5398
+bacterial-type RNA polymerase transcription factor activity, metal ion regulated sequence-specific DNA binding	5399
+glycerol-3-phosphatase activity	5400
+glutathione synthase activity	5401
+alpha-galactosidase activity	5402
+nucleotidase activity	5403
+betaine-aldehyde dehydrogenase activity	5404
+rRNA (cytosine-C5-)-methyltransferase activity	5405
+acetolactate synthase activity	5406
+succinylornithine transaminase activity	5407
+erythrose-4-phosphate dehydrogenase activity	5408
+N-acylneuraminate cytidylyltransferase activity	5409
+ammeline aminohydrolase activity	5410
+large ribosomal subunit rRNA binding	5411
+endoribonuclease activity, producing 5'-phosphomonoesters	5412
+gluconate transmembrane transporter activity	5413
+D-aminoacyl-tRNA deacylase activity	5414
+3-isopropylmalate dehydratase activity	5415
+pyruvate kinase activity	5416
+glycine betaine-transporting ATPase activity	5417
+4-hydroxy-tetrahydrodipicolinate synthase	5418
+methylgalactoside transmembrane transporter activity	5419
+oxalyl-CoA decarboxylase activity	5420
+carbohydrate derivative binding	5421
+protein kinase activity	5422
+ATPase-coupled sulfate transmembrane transporter activity	5423
+beta-phosphoglucomutase activity	5424
+lipoprotein transporter activity	5425
+protein-containing complex scaffold activity	5426
+D-lactate dehydrogenase (cytochrome) activity	5427
+cysteine-type peptidase activity	5428
+purine-nucleoside phosphorylase activity	5429
+hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides	5430
+3-carboxyethylcatechol 2,3-dioxygenase activity	5431
+S-adenosyl-L-methionine binding	5432
+oxidoreductase activity, acting on a heme group of donors	5433
+proton-transporting ATP synthase activity, rotational mechanism	5434
+small ribosomal subunit rRNA binding	5435
+di-trans,poly-cis-decaprenylcistransferase activity	5436
+oxidative RNA demethylase activity	5437
+glycogen debranching enzyme activity	5438
+single-stranded DNA 5'-3' exodeoxyribonuclease activity	5439
+cation:cation antiporter activity	5440
+phosphopantothenoylcysteine decarboxylase activity	5441
+oxidoreductase activity, acting on CH or CH2 groups, NAD or NADP as acceptor	5442
+aspartate kinase activity	5443
+carbon dioxide binding	5444
+queuine tRNA-ribosyltransferase activity	5445
+precorrin-2 dehydrogenase activity	5446
+anion channel activity	5447
+CoA-ligase activity	5448
+acetylglucosaminyltransferase activity	5449
+bis(5'-nucleosyl)-tetraphosphatase (symmetrical) activity	5450
+rRNA (guanine-N1-)-methyltransferase activity	5451
+O-acetyltransferase activity	5452
+S-(hydroxymethyl)glutathione dehydrogenase activity	5453
+isopentenyl-diphosphate delta-isomerase activity	5454
+UDP-3-O-(R-3-hydroxymyristoyl)-glucosamine N-acyltransferase activity	5455
+dTDP-4-dehydrorhamnose 3,5-epimerase activity	5456
+cysteine desulfurase activity	5457
+3'-5' RNA helicase activity	5458
+cytochrome bo3 ubiquinol oxidase activity	5459
+lipid-linked peptidoglycan transporter activity	5460
+phosphoribosylaminoimidazolesuccinocarboxamide synthase activity	5461
+ADP-ribose diphosphatase activity	5462
+lysozyme activity	5463
+magnesium ion transmembrane transporter activity	5464
+2'-5'-RNA ligase activity	5465
+oxidoreductase activity, acting on the aldehyde or oxo group of donors	5466
+L-2-hydroxyglutarate oxidase activity	5467
+D-amino-acid dehydrogenase activity	5468
+methionine synthase activity	5469
+[acyl-carrier-protein] S-malonyltransferase activity	5470
+helicase activity	5471
+zinc efflux active transmembrane transporter activity	5472
+zinc efflux transmembrane transporter activity	5473
+N-acetylneuraminate lyase activity	5474
+nucleotidyltransferase activity	5475
+acid phosphatase activity	5476
+deacetylase activity	5477
+L-tryptophan transmembrane transporter activity	5478
+calcium-transporting ATPase activity	5479
+NADPH:quinone reductase activity	5480
+lytic endotransglycosylase activity	5481
+cytidine kinase activity	5482
+adenosine nucleosidase activity	5483
+toxic substance binding	5484
+folic acid binding	5485
+translation release factor activity, codon nonspecific	5486
+N-hydroxyarylamine O-acetyltransferase activity	5487
+phenylacetate-CoA ligase activity	5488
+dATP pyrophosphohydrolase activity	5489
+oxidoreductase activity, oxidizing metal ions, oxygen as acceptor	5490
+2,3-dihydro-2,3-dihydroxybenzoate dehydrogenase activity	5491
+5'-deoxyribose-5-phosphate lyase activity	5492
+succinate transmembrane transporter activity	5493
+prosthetic group binding	5494
+chloride ion binding	5495
+diacylglycerol kinase activity	5496
+trimethylamine-N-oxide reductase (cytochrome c) activity	5497
+histidine-tRNA ligase activity	5498
+bacterial-type RNA polymerase transcription factor activity, sequence-specific DNA binding	5499
+hydroxylamine reductase activity	5500
+L-xylulokinase activity	5501
+phosphatase activity	5502
+ATPase activator activity	5503
+single-stranded DNA endodeoxyribonuclease activity	5504
+DNA topoisomerase (ATP-hydrolyzing) inhibitor activity	5505
+peptide alpha-N-acetyltransferase activity	5506
+prephenate dehydrogenase (NAD+) activity	5507
+4-hydroxy-2-oxovalerate aldolase activity	5508
+double-stranded DNA 5'-3' exodeoxyribonuclease activity	5509
+tRNA dimethylallyltransferase activity	5510
+L-cysteine desulfhydrase activity	5511
+aldose 1-epimerase activity	5512
+leucine-tRNA ligase activity	5513
+UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase activity	5514
+dTDP-glucose 4,6-dehydratase activity	5515
+dihydrouracil dehydrogenase (NAD+) activity	5516
+carbohydrate binding	5517
+phosphomethylpyrimidine kinase activity	5518
+succinyltransferase activity	5519
+arabinose isomerase activity	5520
+intramolecular transferase activity, phosphotransferases	5521
+glyoxylate reductase (NADP) activity	5522
+2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase activity	5523
+serine 3-dehydrogenase activity	5524
+mannose binding	5525
+toxin transmembrane transporter activity	5526
+kinase activity	5527
+L-amino acid transmembrane transporter activity	5528
+double-stranded DNA-dependent ATPase activity	5529
+phosphoribosylformylglycinamidine synthase activity	5530
+cation efflux transmembrane transporter activity	5531
+GTPase activator activity	5532
+translation repressor activity	5533
+endodeoxyribonuclease activity	5534
+protein-phosphocysteine-N-acetylmuramate phosphotransferase system transporter activity	5535
+primary active transmembrane transporter activity	5536
+RNA methyltransferase activity	5537
+protein methyltransferase activity	5538
+succinate-semialdehyde dehydrogenase [NAD(P)+] activity	5539
+3-hydroxybutyryl-CoA dehydrogenase activity	5540
+phosphoribosylglycinamide formyltransferase activity	5541
+arginine decarboxylase activity	5542
+isocitrate lyase activity	5543
+carbohydrate kinase activity	5544
+pyrimidine nucleoside transmembrane transporter activity	5545
+sulfonate dioxygenase activity	5546
+2-hydroxyglutarate dehydrogenase activity	5547
+phosphoenolpyruvate-protein phosphotransferase activity	5548
+threonine aldolase activity	5549
+glutathione-disulfide reductase activity	5550
+ureidoglycine aminohydrolase activity	5551
+phosphoglycerate dehydrogenase activity	5552
+transferase activity, transferring aldehyde or ketonic groups	5553
+RNA strand-exchange activity	5554
+glycerophosphocholine phosphodiesterase activity	5555
+sigma factor antagonist activity	5556
+triphosphoric monoester hydrolase activity	5557
+glycolipid transporter activity	5558
+gluconate 5-dehydrogenase activity	5559
+phospholipase D activity	5560
+dimethyl sulfoxide reductase activity	5561
+lipoyl(octanoyl) transferase activity	5562
+solute:cation symporter activity	5563
+dihydropteroate synthase activity	5564
+deoxyribodipyrimidine photo-lyase activity	5565
+dihydroneopterin triphosphate 2'-epimerase activity	5566
+nucleoside-diphosphatase activity	5567
+proton transmembrane transporter activity	5568
+oxidoreductase activity, acting on NAD(P)H, nitrogenous group as acceptor	5569
+adenine deaminase activity	5570
+zinc D-Ala-D-Ala carboxypeptidase activity	5571
+6-phospho-beta-glucosidase activity	5572
+cobalamin binding	5573
+cystathionine gamma-synthase activity	5574
+transferase activity, transferring alkyl or aryl (other than methyl) groups	5575
+purine nucleobase transmembrane transporter activity	5576
+ribose phosphate diphosphokinase activity	5577
+oxygen binding	5578
+molybdopterin synthase activity	5579
+symporter activity	5580
+alpha-ketoacid dehydrogenase activity	5581
+lysine:cadaverine antiporter activity	5582
+3'-5'-exodeoxyribonuclease activity	5583
+ligase activity	5584
+obsolete transmembrane electron transfer carrier	5585
+nucleotide binding	5586
+cysteine-type carboxypeptidase activity	5587
+L-idonate transmembrane transporter activity	5588
+D,D-heptose 1,7-bisphosphate phosphatase activity	5589
+indole-3-glycerol-phosphate synthase activity	5590
+ribosome binding	5591
+carboxylic ester hydrolase activity	5592
+polar-amino acid-transporting ATPase activity	5593
+catalytic activity	5594
+inorganic anion transmembrane transporter activity	5595
+peptide:proton symporter activity	5596
+proline:proton symporter activity	5597
+citrate (Si)-synthase activity	5598
+ATP diphosphatase activity	5599
+ADP binding	5600
+thiamine transmembrane transporter activity	5601
+4-hydroxybenzoate octaprenyltransferase activity	5602
+2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase activity	5603
+histidinol-phosphate transaminase activity	5604
+fucose:proton symporter activity	5605
+S-formylglutathione hydrolase activity	5606
+N-methyl-L-amino-acid oxidase activity	5607
+carnitine transmembrane transporter activity	5608
+alpha-1,4-glucosidase activity	5609
+oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, 2-oxoglutarate as one donor, and incorporation of one atom each of oxygen into both donors	5610
+shikimate kinase activity	5611
+thymidylate kinase activity	5612
+chaperone binding	5613
+carboxypeptidase activity	5614
+D-sedoheptulose 7-phosphate isomerase activity	5615
+dipeptide transmembrane transporter activity	5616
+deaminase activity	5617
+cytosine transmembrane transporter activity	5618
+hydrolase activity, acting on ester bonds	5619
+3',5'-cyclic-AMP phosphodiesterase activity	5620
+1-pyrroline-5-carboxylate dehydrogenase activity	5621
+sedoheptulose-7-phosphate:D-glyceraldehyde-3-phosphate glyceronetransferase activity	5622
+glutathione transferase activity	5623
+UDP-N-acetylglucosamine 2-epimerase activity	5624
+putrescine:ornithine antiporter activity	5625
+aromatic-amino-acid:2-oxoglutarate aminotransferase activity	5626
+RNA polymerase core enzyme binding	5627
+carboxyl- or carbamoyltransferase activity	5628
+phosphatidylethanolamine:Kdo2-lipid A phosphoethanolamine transferase activity	5629
+palmitoleoyl [acyl-carrier-protein]-dependent acyltransferase activity	5630
+DNA-dependent ATPase activity	5631
+ATP-dependent DNA/RNA helicase activity	5632
+disulfide oxidoreductase activity	5633
+pyrroloquinoline quinone binding	5634
+leucine binding	5635
+dGTP binding	5636
+dCTP deaminase activity	5637
+thymidine phosphorylase activity	5638
+guanyl-nucleotide exchange factor activity	5639
+sulfur amino acid transmembrane transporter activity	5640
+ion channel activity	5641
+hydrogenase (acceptor) activity	5642
+lipid-transporting ATPase activity	5643
+6,7-dihydropteridine reductase activity	5644
+RNA-3'-phosphate cyclase activity	5645
+oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor	5646
+murein tripeptide carboxypeptidase activity	5647
+1,4-alpha-glucan branching enzyme activity	5648
+N-acylglucosamine-6-phosphate 2-epimerase activity	5649
+triphosphoribosyl-dephospho-CoA synthase activity	5650
+chorismate mutase activity	5651
+structural molecule activity	5652
+diaminohydroxyphosphoribosylaminopyrimidine deaminase activity	5653
+L-fuculose-phosphate aldolase activity	5654
+[isocitrate dehydrogenase (NADP+)] phosphatase activity	5655
+cytidine transmembrane transporter activity	5656
+lipid phosphatase activity	5657
+uridine phosphorylase activity	5658
+phosphotransferase activity, for other substituted phosphate groups	5659
+arginine-tRNA ligase activity	5660
+ATPase activity	5661
+cation transmembrane transporter activity	5662
+uroporphyrinogen decarboxylase activity	5663
+UMP kinase activity	5664
+aryl-alcohol dehydrogenase (NADP+) activity	5665
+cyclopropane-fatty-acyl-phospholipid synthase activity	5666
+dihydromonapterin reductase activity	5667
+glutathionylspermidine amidase activity	5668
+adenine/cytosine mispair binding	5669
+bacterial-type RNA polymerase core promoter sequence-specific DNA binding	5670
+4-hydroxybutyrate dehydrogenase activity	5671
+diphosphotransferase activity	5672
+iron chelate transmembrane transporter activity	5673
+potassium-transporting ATPase activity	5674
+nickel cation binding	5675
+L-amino acid efflux transmembrane transporter activity	5676
+dihydroorotase activity	5677
+2-isopropylmalate synthase activity	5678
+GTPase activating protein binding	5679
+protein-lysine N-methyltransferase activity	5680
+2,4-dienoyl-CoA reductase (NADPH) activity	5681
+monosaccharide transmembrane transporter activity	5682
+L-rhamnonate dehydratase activity	5683
+peptide deformylase activity	5684
+D-xylose:proton symporter activity	5685
+thioredoxin-disulfide reductase activity	5686
+ureidoglycolate lyase activity	5687
+5'-deoxynucleotidase activity	5688
+polyribonucleotide nucleotidyltransferase activity	5689
+unfolded protein binding	5690
+aspartate-semialdehyde dehydrogenase activity	5691
+tRNA (guanine-N7-)-methyltransferase activity	5692
+oligosaccharide transporting porin activity	5693
+lactaldehyde reductase activity	5694
+L-phenylalanine transmembrane transporter activity	5695
+RNA-dependent ATPase activity	5696
+pyridoxal kinase activity	5697
+8-oxo-7,8-dihydroguanine DNA N-glycosylase activity	5698
+dihydroneopterin aldolase activity	5699
+long-chain-3-hydroxyacyl-CoA dehydrogenase activity	5700
+3-chloro-D-alanine dehydrochlorinase activity	5701
+rRNA (adenine-N6-)-methyltransferase activity	5702
+L-threonine transmembrane transporter activity	5703
+mannitol-1-phosphatase activity	5704
+3-hydroxyoctanoyl-[acyl-carrier-protein] dehydratase activity	5705
+protein histidine kinase binding	5706
+ligase activity, forming carbon-nitrogen bonds	5707
+exodeoxyribonuclease V activity	5708
+pyrimidine-5'-nucleotide nucleosidase activity	5709
+molybdenum cofactor cytidylyltransferase activity	5710
+hexuronate transmembrane transporter activity	5711
+galactoside O-acetyltransferase activity	5712
+GTP cyclohydrolase II activity	5713
+tagatose-6-phosphate kinase activity	5714
+gluconate 2-dehydrogenase activity	5715
+metalloaminopeptidase activity	5716
+3-dehydroquinate synthase activity	5717
+proline binding	5718
+ribosylpyrimidine nucleosidase activity	5719
+carbamoyl-phosphate synthase (ammonia) activity	5720
+S-adenosylmethionine-homocysteine S-methyltransferase activity	5721
+putrescine transmembrane transporter activity	5722
+alkaline phosphatase activity	5723
+glucose transmembrane transporter activity	5724
+4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase activity	5725
+aspartate carbamoyltransferase activity	5726
+transcription factor activity, core RNA polymerase binding	5727
+cobalt ion transmembrane transporter activity	5728
+isochorismatase activity	5729
+phosphoribosyl-AMP cyclohydrolase activity	5730
+3-isopropylmalate dehydrogenase activity	5731
+UDP-sugar diphosphatase activity	5732
+tRNA (guanosine-2'-O-)-methyltransferase activity	5733
+nickel-transporting ATPase activity	5734
+molybdopterin adenylyltransferase activity	5735
+ferric iron transmembrane transporter activity	5736
+core promoter binding	5737
+xanthosine transmembrane transporter activity	5738
+single-stranded RNA binding	5739
+DOPA dioxygenase activity	5740
+3-oxo-pimeloyl-[acp] methyl ester reductase activity	5741
+ferroxidase activity	5742
+thiamine-pyrophosphatase activity	5743
+copper ion binding	5744
+8-amino-7-oxononanoate synthase activity	5745
+rubredoxin-NAD+ reductase activity	5746
+glycerophosphoinositol glycerophosphodiesterase activity	5747
+rhamnulose-1-phosphate aldolase activity	5748
+hydrolase activity, hydrolyzing N-glycosyl compounds	5749
+allantoinase activity	5750
+6-carboxy-5,6,7,8-tetrahydropterin synthase activity	5751
+succinyldiaminopimelate transaminase activity	5752
+putrescine binding	5753
+lactose:proton symporter activity	5754
+glutamate racemase activity	5755
+L-methionine-(S)-S-oxide reductase activity	5756
+acyl-[acyl-carrier-protein]-phospholipid O-acyltransferase activity	5757
+orotidine-5'-phosphate decarboxylase activity	5758
+aminomethyltransferase activity	5759
+protein-phosphocysteine-L-ascorbate-phosphotransferase system transporter activity	5760
+diamine N-acetyltransferase activity	5761
+pyridoxal phosphate binding	5762
+oxidoreductase activity, oxidizing metal ions	5763
+ATP-dependent RNA helicase activity	5764
+exodeoxyribonuclease VII activity	5765
+Ala-tRNA(Pro) hydrolase activity	5766
+protein dimerization activity	5767
+glycerol dehydrogenase [NAD+] activity	5768
+tagatose-bisphosphate aldolase activity	5769
+L-serine transmembrane transporter activity	5770
+calcium ion binding	5771
+ribulokinase activity	5772
+protein homodimerization activity	5773
+NADH binding	5774
+NAD(P)+ transhydrogenase activity	5775
+UDP-glucose:hexose-1-phosphate uridylyltransferase activity	5776
+transcriptional repressor activity, bacterial-type RNA polymerase proximal promoter sequence-specific DNA binding	5777
+nicotinate-nucleotide adenylyltransferase activity	5778
+AMP nucleosidase activity	5779
+protein-N(PI)-phosphohistidine-mannose phosphotransferase system transporter activity	5780
+tetrahydrofolylpolyglutamate synthase activity	5781
+NADH pyrophosphatase activity	5782
+alkyl hydroperoxide reductase activity	5783
+penicillin binding	5784
+glutamate-ammonia ligase activity	5785
+riboflavin synthase activity	5786
+L-alanine:2-oxoglutarate aminotransferase activity	5787
+methylglyoxal reductase (NADPH-dependent, acetol producing)	5788
+lipopolysaccharide N-acetylglucosaminyltransferase activity	5789
+sodium:proton antiporter activity	5790
+serine-type peptidase activity	5791
+ribonuclease III activity	5792
+D-xylose transmembrane transporter activity	5793
+N-acetyltransferase activity	5794
+UDP-4-amino-4-deoxy-L-arabinose aminotransferase	5795
+long-chain fatty acid transporting porin activity	5796
+oxidoreductase activity, acting on phosphorus or arsenic in donors	5797
+UDP-N-acetylmuramoylalanyl-D-glutamyl-2,6-diaminopimelate-D-alanyl-D-alanine ligase activity	5798
+aminoacyl-tRNA ligase activity	5799
+heptose 7-phosphate kinase activity	5800
+protein kinase activator activity	5801
+misfolded RNA binding	5802
+2-hydroxy-6-oxonona-2,4-dienedioate hydrolase activity	5803
+glutathione peroxidase activity	5804
+glycolaldehyde dehydrogenase activity	5805
+rRNA (guanosine-2'-O-)-methyltransferase activity	5806
+3-hydroxybutyryl-CoA epimerase activity	5807
+rRNA (cytosine-N4-)-methyltransferase activity	5808
+acid-amino acid ligase activity	5809
+enoyl-[acyl-carrier-protein] reductase (NADH) activity	5810
+phosphatidate cytidylyltransferase activity	5811
+active transmembrane transporter activity	5812
+N-acyltransferase activity	5813
+nitrate transmembrane transporter activity	5814
+N6-(1,2-dicarboxyethyl)AMP AMP-lyase (fumarate-forming) activity	5815
+long-chain fatty acid-CoA ligase activity	5816
+dTTP diphosphatase activity	5817
+GDP-mannose mannosyl hydrolase activity	5818
+protoheme IX ABC transporter activity	5819
+transcription regulatory region sequence-specific DNA binding	5820
+lysophospholipid transporter activity	5821
+oleic acid binding	5822
+Cys-tRNA(Pro) hydrolase activity	5823
+biotin-[acetyl-CoA-carboxylase] ligase activity	5824
+glycerol-phosphate:inorganic phosphate antiporter activity	5825
+isochorismate synthase activity	5826
+DNA translocase activity	5827
+efflux transmembrane transporter activity	5828
+protein-lysine lysyltransferase activity	5829
+branched-chain-amino-acid transaminase activity	5830
+NAD(P)H dehydrogenase (quinone) activity	5831
+thermospermine synthase activity	5832
+L-isoleucine transmembrane transporter activity	5833
+N-acylglucosamine 2-epimerase activity	5834
+UDP-4-amino-4-deoxy-L-arabinose formyltransferase activity	5835
+N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase activity	5836
+acyl-CoA hydrolase activity	5837
+siderophore uptake transmembrane transporter activity	5838
+UDP-N-acetylmuramate-L-alanine ligase activity	5839
+ubiquinone binding	5840
+phosphopyruvate hydratase activity	5841
+peptidoglycan peptide transmembrane transporter activity	5842
+glutathione disulfide oxidoreductase activity	5843
+beta-N-acetylhexosaminidase activity	5844
+ribose 1,5-bisphosphate phosphokinase activity	5845
+farnesyltranstransferase activity	5846
+hydroxyethylthiazole kinase activity	5847
+L-methionine-(R)-S-oxide reductase activity	5848
+sigma factor activity	5849
+6-deoxy-6-sulfofructose kinase activity	5850
+NADHX epimerase activity	5851
+DNA supercoiling activity	5852
+3-(3-hydroxyphenyl)propionate hydroxylase activity	5853
+protein self-association	5854
+beta-ketoacyl-acyl-carrier-protein synthase III activity	5855
+arsenate ion transmembrane transporter activity	5856
+solute:proton symporter activity	5857
+pyruvate-flavodoxin oxidoreductase activity	5858
+NADP binding	5859
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase activity	5860
+transcription antitermination factor activity, RNA binding	5861
+cardiolipin synthase activity	5862
+nitrite efflux transmembrane transporter activity	5863
+uracil phosphoribosyltransferase activity	5864
+potassium ion transmembrane transporter activity	5865
+superoxide dismutase activity	5866
+glucokinase activity	5867
+alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity	5868
+AU-rich element binding	5869
+holo-[acyl-carrier-protein] synthase activity	5870
+protein-phosphocysteine-N,N'-diacetylchitobiose phosphotransferase system transporter activity	5871
+2-hydroxy-3-oxopropionate reductase activity	5872
+3'-5'-exoribonuclease activity	5873
+tripeptide transmembrane transporter activity	5874
+glucose-6-phosphatase activity	5875
+N-ethylmaleimide reductase activity	5876
+alpha,alpha-phosphotrehalase activity	5877
+nucleoside-triphosphatase activity	5878
+ribonucleoside-triphosphate reductase activity	5879
+peptide-lysine-N-acetyltransferase activity	5880
+4-amino-4-deoxychorismate lyase activity	5881
+urate transmembrane transporter activity	5882
+adenosylmethionine decarboxylase activity	5883
+phosphoribosyl-ATP diphosphatase activity	5884
+chloride transmembrane transporter activity	5885
+beta-alanine transmembrane transporter activity	5886
+2-dehydro-3-deoxygluconokinase activity	5887
+L-threonylcarbamoyladenylate synthase	5888
+alkali metal ion binding	5889
+mechanosensitive ion channel activity	5890
+glutamate 5-kinase activity	5891
+protein deacetylase activity	5892
+L-aspartate oxidase activity	5893
+arsenate reductase activity	5894
+porphobilinogen synthase activity	5895
+mannose isomerase activity	5896
+deoxyribonuclease V activity	5897
+5'-flap endonuclease activity	5898
+phosphoribosylformylglycinamidine cyclo-ligase activity	5899
+guanylate kinase activity	5900
+peptidyl-lysine acetyltransferase activity	5901
+2-methylisocitrate dehydratase activity	5902
+triphosphatase activity	5903
+hemi-methylated DNA-binding	5904
+O-acetylhomoserine aminocarboxypropyltransferase activity	5905
+rRNA (pseudouridine-N3-)-methyltransferase activity	5906
+diaminopimelate epimerase activity	5907
+5-fluorocytosine deaminase activity	5908
+endonuclease activity	5909
+dodecenoyl-CoA delta-isomerase activity	5910
+neutral L-amino acid secondary active transmembrane transporter activity	5911
+carbon-carbon lyase activity	5912
+cardiolipin binding	5913
+thioredoxin peroxidase activity	5914
+2',3'-cyclic-nucleotide 2'-phosphodiesterase activity	5915
+potassium channel activity	5916
+alkylbase DNA N-glycosylase activity	5917
+phosphoric ester hydrolase activity	5918
+site-specific recombinase activity	5919
+N-acetylglucosamine-6-phosphate deacetylase activity	5920
+monooxygenase activity	5921
+(R)-aminopropanol dehydrogenase activity	5922
+endoribonuclease inhibitor activity	5923
+protein deglycase activity	5924
+3 iron, 4 sulfur cluster binding	5925
+alpha-mannosidase activity	5926
+ferric iron binding	5927
+formate dehydrogenase (quinone) activity	5928
+galactonate dehydratase activity	5929
+fluoride transmembrane transporter activity	5930
+beta-ketoacyl-acyl-carrier-protein synthase II activity	5931
+beta-galactosidase activity	5932
+beta-glucuronidase activity	5933
+cytidylate kinase activity	5934
+tagaturonate reductase activity	5935
+inositol monophosphate 1-phosphatase activity	5936
+glucose-1-phosphate adenylyltransferase activity	5937
+ribosylnicotinamide kinase activity	5938
+CTPase activity	5939
+lipid-A-disaccharide synthase activity	5940
+rRNA (guanine-N2-)-methyltransferase activity	5941
+quaternary ammonium group binding	5942
+UTP diphosphatase activity	5943
+acetyl-CoA carboxylase activity	5944
+GDP-mannose hydrolase activity	5945
+oxidoreductase activity, acting on NAD(P)H	5946
+tripeptide aminopeptidase activity	5947
+mannose-1-phosphate guanylyltransferase activity	5948
+serine-tRNA ligase activity	5949
+flavin adenine dinucleotide binding	5950
+phosphoprotein phosphatase activity	5951
+intramolecular transferase activity	5952
+antisigma factor binding	5953
+phosphoglucomutase activity	5954
+sequence-specific DNA binding	5955
+glutamate-putrescine ligase activity	5956
+4-hydroxythreonine-4-phosphate dehydrogenase activity	5957
+tRNA (adenine-C2-)-methyltransferase activity	5958
+trehalose transmembrane transporter activity	5959
+ferredoxin-NADP+ reductase activity	5960
+5'-3' exoribonuclease activity	5961
+allantoate deiminase activity	5962
+substrate-specific channel activity	5963
+bacterial-type RNA polymerase transcriptional repressor activity, sequence-specific DNA binding	5964
+3'-5' exonuclease activity	5965
+glutamine-tRNA ligase activity	5966
+nucleoside:proton symporter activity	5967
+protein-glutamine N-methyltransferase activity	5968
+acyl binding	5969
+tRNA dihydrouridine synthase activity	5970
+purine-specific mismatch base pair DNA N-glycosylase activity	5971
+transferase activity, transferring hexosyl groups	5972
+polyphosphate kinase activity	5973
+ribose-5-phosphate isomerase activity	5974
+galactose binding	5975
+oxidized purine nucleobase lesion DNA N-glycosylase activity	5976
+1,4-dihydroxy-2-naphthoyl-CoA thioesterase activity	5977
+endoribonuclease activity	5978
+rhamnulokinase activity	5979
+transcription factor activity, bacterial-type RNA polymerase proximal promoter sequence-specific DNA binding	5980
+6-phosphogluconolactonase activity	5981
+hexose:proton symporter activity	5982
+xanthine transmembrane transporter activity	5983
+beta-glucosidase activity	5984
+cyclic-guanylate-specific phosphodiesterase activity	5985
+glucosamine-1-phosphate N-acetyltransferase activity	5986
+peroxiredoxin activity	5987
+GMP synthase activity	5988
+nitric oxide dioxygenase activity	5989
+recombination hotspot binding	5990
+2-deoxyglucose-6-phosphatase activity	5991
+bacterial-type RNA polymerase transcriptional activator activity, sequence-specific DNA binding	5992
+tungstate binding	5993
+phosphoglucosamine mutase activity	5994
+double-stranded DNA binding	5995
+UDP-glucuronate decarboxylase activity	5996
+dihydroxy-acid dehydratase activity	5997
+transcription corepressor activity	5998
+trans-2-decenoyl-acyl-carrier-protein isomerase activity	5999
+pimelyl-[acyl-carrier protein] methyl ester esterase activity	6000
+lysophospholipase activity	6001
+cysteine synthase activity	6002
+protein transporter activity	6003
+deoxyribonuclease activity	6004
+beta-aspartyl-peptidase activity	6005
+hydroxymethylbilane synthase activity	6006
+nucleoside diphosphate kinase activity	6007
+L-ascorbate 6-phosphate lactonase activity	6008
+copper ion transmembrane transporter activity	6009
+(S)-2-hydroxy-acid oxidase activity	6010
+NADH dehydrogenase (ubiquinone) activity	6011
+glycolate transmembrane transporter activity	6012
+O-acetyl-ADP-ribose deacetylase activity	6013
+nitrite reductase (cytochrome, ammonia-forming) activity	6014
+ferric-transporting ATPase activity	6015
+beta-lactamase activity	6016
+oligopeptide binding	6017
+small molecule binding	6018
+hexose-phosphate:inorganic phosphate antiporter activity	6019
+protein-phosphocysteine-glucosamine phosphotransferase system transporter activity	6020
+cystathionine gamma-lyase activity	6021
+ionotropic glutamate receptor activity	6022
+phenylalanine-tRNA ligase activity	6023
+L-leucine:2-oxoglutarate aminotransferase activity	6024
+D-malate dehydrogenase (decarboxylating) activity	6025
+histidinol dehydrogenase activity	6026
+glycine transmembrane transporter activity	6027
+agmatinase activity	6028
+heparin binding	6029
+cellulase activity	6030
+amino acid-transporting ATPase activity	6031
+protein-phosphocysteine-mannitol phosphotransferase system transporter activity	6032
+cyclic pyranopterin monophosphate synthase activity	6033
+5-amino-6-(5-phosphoribosylamino)uracil reductase activity	6034
+glycerophosphodiester transmembrane transporter activity	6035
+anion binding	6036
+3-oxoadipyl-CoA thiolase activity	6037
+ribonuclease E activity	6038
+purine nucleosidase activity	6039
+protein-disulfide reductase activity	6040
+8-oxo-7,8-dihydrodeoxyguanosine triphosphate pyrophosphatase activity	6041
+tRNA(Ile)-lysidine synthase activity	6042
+dihydrofolate reductase activity	6043
+aconitate hydratase activity	6044
+aldehyde dehydrogenase [NAD(P)+] activity	6045
+tetraacyldisaccharide 4'-kinase activity	6046
+secondary active transmembrane transporter activity	6047
+propionate kinase activity	6048
+antioxidant activity	6049
+enoyl-CoA hydratase activity	6050
+nucleoside-specific channel forming porin activity	6051
+(R)-carnitine:4-(trimethylammonio)butanoate antiporter activity	6052
+2-octaprenyl-3-methyl-5-hydroxy-6-methoxy-1,4-benzoquinone methyltransferase activity	6053
+ATP-dependent 3'-5' DNA helicase activity	6054
+homoserine transmembrane transporter activity	6055
+hydrolase activity, hydrolyzing O-glycosyl compounds	6056
+octanoyltransferase activity	6057
+2-methylcitrate synthase activity	6058
+signal sequence binding	6059
+hydroperoxide reductase activity	6060
+peptidyl-prolyl cis-trans isomerase activity	6061
+enterochelin esterase activity	6062
+asparagine synthase (glutamine-hydrolyzing) activity	6063
+acylphosphatase activity	6064
+serine-type endopeptidase activity	6065
+homoserine O-succinyltransferase activity	6066
+cobalamin-transporting ATPase activity	6067
+hydroxymethylpyrimidine kinase activity	6068
+3-phosphoshikimate 1-carboxyvinyltransferase activity	6069
+5-amino-6-(5-phosphoribitylamino)uracil phosphatase activity	6070
+amino-acid racemase activity	6071
+spermidine binding	6072
+shikimate 3-dehydrogenase (NADP+) activity	6073
+arsenite secondary active transmembrane transporter activity	6074
+quercetin 2,3-dioxygenase activity	6075
+hydroxypyruvate isomerase activity	6076
+ribosomal-protein-alanine N-acetyltransferase activity	6077
+2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity	6078
+preribosome binding	6079
+phosphatidylserine decarboxylase activity	6080
+oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor	6081
+coproporphyrinogen oxidase activity	6082
+6,7-dimethyl-8-ribityllumazine synthase activity	6083
+NAD binding	6084
+thiamine binding	6085
+UDP-N-acetylmuramate dehydrogenase activity	6086
+monosaccharide-transporting ATPase activity	6087
+lipopolysaccharide heptosyltransferase activity	6088
+3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase activity	6089
+high-affinity secondary active nitrite transmembrane transporter activity	6090
+membrane insertase activity	6091
+guanine transmembrane transporter activity	6092
+L-glutamine transmembrane transporter activity	6093
+GDP-glucosidase activity	6094
+succinate dehydrogenase activity	6095
+pyridoxine 5'-phosphate synthase activity	6096
+transferase activity	6097
+endochitinase activity	6098
+isoguanine deaminase activity	6099
+malate synthase activity	6100
+metallodipeptidase activity	6101
+four-way junction helicase activity	6102
+nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity	6103
+oxidoreductase activity, acting on diphenols and related substances as donors	6104
+S-adenosylmethionine-dependent methyltransferase activity	6105
+poly(3-hydroxybutyrate) depolymerase activity	6106
+single-stranded DNA 3'-5' exodeoxyribonuclease activity	6107
+autoinducer-2 kinase activity	6108
+riboflavin kinase activity	6109
+single-stranded DNA-dependent ATPase activity	6110
+8-oxo-dGDP phosphatase activity	6111
+quinate 3-dehydrogenase (NAD+) activity	6112
+nucleobase transmembrane transporter activity	6113
+uniporter activity	6114
+melibiose:cation symporter activity	6115
+ferrochelatase activity	6116
+2',3'-cyclic-nucleotide 3'-phosphodiesterase activity	6117
+ammonium transmembrane transporter activity	6118
+pyridoxamine-phosphate oxidase activity	6119
+3-hydroxyphenyl propionate:proton symporter activity	6120
+succinyl-diaminopimelate desuccinylase activity	6121
+lipopolysaccharide glucosyltransferase II activity	6122
+3-dehydro-L-gulonate-6-phosphate decarboxylase activity	6123
+D-glucose transmembrane transporter activity	6124
+phosphorelay response regulator activity	6125
+carbamoyl-phosphate synthase (glutamine-hydrolyzing) activity	6126
+4-phosphoerythronate dehydrogenase activity	6127
+selenide, water dikinase activity	6128
+phenylserine aldolase activity	6129
+rRNA cytidine N-acetyltransferase activity	6130
+cytidine deaminase activity	6131
+glucose-6-phosphate isomerase activity	6132
+galactokinase activity	6133
+sulfoquinovose isomerase activity	6134
+L-aspartate:fumarate oxidoreductase activity	6135
+formyltetrahydrofolate deformylase activity	6136
+amine transmembrane transporter activity	6137
+lipase activity	6138
+GDP binding	6139
+2-hydroxyglutarate synthase activity	6140
+cadmium ion transmembrane transporter activity	6141
+transketolase activity	6142
+L-valine transmembrane transporter activity	6143
+DNA topoisomerase type II (ATP-hydrolyzing) activity	6144
+damaged DNA binding	6145
+nitric oxide binding	6146
+pyrimidine-specific mismatch base pair DNA N-glycosylase activity	6147
+adenine/guanine mispair binding	6148
+3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity	6149
+2-dehydro-3-deoxy-6-phosphogalactonate aldolase activity	6150
+arabinose:proton symporter activity	6151
+anthranilate phosphoribosyltransferase activity	6152
+pseudouridylate synthase activity	6153
+adenyl ribonucleotide binding	6154
+L-tyrosine transmembrane transporter activity	6155
+ATP-dependent helicase activity	6156
+cytochrome-c peroxidase activity	6157
+protein disulfide oxidoreductase activity	6158
+phosphoenolpyruvate carboxykinase (ATP) activity	6159
+alpha-amylase activity	6160
+primary amine oxidase activity	6161
+sulfate transmembrane transporter activity	6162
+site-specific DNA-methyltransferase (adenine-specific) activity	6163
+galactosamine-6-phosphate isomerase activity	6164
+N-succinylarginine dihydrolase activity	6165
+translation elongation factor activity	6166
+phosphatidylglycerophosphatase activity	6167
+DNA binding transcription factor activity	6168
+adenine transmembrane transporter activity	6169
+L-ribulose-5-phosphate 3-epimerase activity	6170
+alcohol dehydrogenase (NADP+) activity	6171
+pantothenate kinase activity	6172
+aldehyde dehydrogenase (NAD) activity	6173
+riboflavin reductase (NADH) activity	6174
+trisaccharide binding	6175
+alanine-tRNA ligase activity	6176
+serine binding	6177
+methylmalonyl-CoA mutase activity	6178
+methylenetetrahydrofolate dehydrogenase (NADP+) activity	6179
+L-allo-threonine aldolase activity	6180
+carnitine racemase activity	6181
+adenosylhomocysteine nucleosidase activity	6182
+orotate phosphoribosyltransferase activity	6183
+phosphatidylcholine 1-acylhydrolase activity	6184
+2-octaprenylphenol hydroxylase activity	6185
+glyoxalase III activity	6186
+polyprenyltransferase activity	6187
+toxin-antitoxin pair type II binding	6188
+endoribonuclease activity, producing 3'-phosphomonoesters	6189
+polynucleotide adenylyltransferase activity	6190
+cyclic-di-GMP binding	6191
+L-ascorbic acid binding	6192
+serine O-acetyltransferase activity	6193
+D(-)-tartrate dehydratase activity	6194
+acetyl-CoA C-acetyltransferase activity	6195
+molybdate ion transmembrane transporter activity	6196
+bicarbonate binding	6197
+fumarate hydratase activity	6198
+ribonuclease inhibitor activity	6199
+imidazoleglycerol-phosphate synthase activity	6200
+tRNA m6t6A37 methyltransferase activity	6201
+lead ion transmembrane transporter activity	6202
+galactose:proton symporter activity	6203
+NADPH dehydrogenase (quinone) activity	6204
+methyltransferase activity	6205
+quinoprotein glucose dehydrogenase activity	6206
+2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase activity	6207
+lysine-tRNA ligase activity	6208
+uracil transmembrane transporter activity	6209
+methionine-oxo-acid transaminase activity	6210
+isovaleryl-CoA dehydrogenase activity	6211
+acetylesterase activity	6212
+methylenetetrahydrofolate reductase (NAD(P)H) activity	6213
+phosphatidylglycerol-prolipoprotein diacylglyceryl transferase activity	6214
+fucosyltransferase activity	6215
+nucleotide diphosphatase activity	6216
+glycine hydroxymethyltransferase activity	6217
+DNA-directed 5'-3' RNA polymerase activity	6218
+molecular_function	6219
+inorganic phosphate transmembrane transporter activity	6220
+geranyltranstransferase activity	6221
+protein transmembrane transporter activity	6222
+protein-N(PI)-phosphohistidine-fructose phosphotransferase system transporter activity	6223
+malate dehydrogenase (quinone) activity	6224
+DNA N-glycosylase activity	6225
+sodium ion binding	6226
+trans-aconitate 2-methyltransferase activity	6227
+glycerone kinase activity	6228
+UDP-glucuronic acid dehydrogenase activity	6229
+metallochaperone activity	6230
+malate dehydrogenase activity	6231
+D-alanine transmembrane transporter activity	6232
+ATP-dependent peptidase activity	6233
+hexokinase activity	6234
+1-pyrroline dehydrogenase activity	6235
+7,8-dihydromonapterin aldolase activity	6236
+23S rRNA (adenine(1618)-N(6))-methyltransferase activity	6237
+1-phosphofructokinase activity	6238
+4-aminobutyrate transaminase activity	6239
+drug binding	6240
+NAD+ synthase activity	6241
+FMN transmembrane transporter activity	6242
+glycine binding	6243
+L-alanine transmembrane transporter activity	6244
+nicotinamide-nucleotide amidase activity	6245
+GMP reductase activity	6246
+peptide binding	6247
+glutamate-tRNA ligase activity	6248
+phosphoserine phosphatase activity	6249
+rRNA (uridine-N3-)-methyltransferase activity	6250
+nitrate reductase activity	6251
+molybdopterin molybdotransferase activity	6252
+maltose transporting porin activity	6253
+ATP-dependent DNA helicase activity	6254
+signal recognition particle binding	6255
+acyl-CoA dehydrogenase activity	6256
+lipid binding	6257
+lysine decarboxylase activity	6258
+enzyme inhibitor activity	6259
+6-pyruvoyltetrahydropterin synthase activity	6260
+ribonucleotide binding	6261
+L-seryl-tRNASec selenium transferase activity	6262
+rRNA binding	6263
+methionyl-tRNA formyltransferase activity	6264
+protein kinase binding	6265
+pantoate-beta-alanine ligase activity	6266
+ADP-dependent NAD(P)H-hydrate dehydratase activity	6267
+tRNA threonylcarbamoyladenosine dehydratase	6268
+uroporphyrinogen-III synthase activity	6269
+iron chaperone activity	6270
+transposase activity	6271
+NADPH binding	6272
+protein-phosphocysteine-galactitol-phosphotransferase system transporter activity	6273
+o-succinylbenzoate-CoA ligase activity	6274
+proline:sodium symporter activity	6275
+monosaccharide binding	6276
+fatty acid binding	6277
+sorbitol-6-phosphatase activity	6278
+inorganic cation transmembrane transporter activity	6279
+glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity	6280
+sulfate adenylyltransferase (ATP) activity	6281
+taurine transmembrane transporter activity	6282
+L-threonine 3-dehydrogenase activity	6283
+dATP binding	6284
+glycoside-pentoside-hexuronide:cation symporter activity	6285
+arginine transmembrane transporter activity	6286
+Ser-tRNA(Ala) hydrolase activity	6287
+GTP 3',8'-cyclase activity	6288
+gamma-glutamylcyclotransferase activity	6289
+FMN binding	6290
+glucose-1-phosphate thymidylyltransferase activity	6291
+pyruvate, water dikinase activity	6292
+lithium ion binding	6293
+[formate-C-acetyltransferase]-activating enzyme activity	6294
+antiporter activity	6295
+bubble DNA binding	6296
+water channel activity	6297
+tetrapyrrole binding	6298
+uridine transmembrane transporter activity	6299
+glutamate-1-semialdehyde 2,1-aminomutase activity	6300
+serine-type endopeptidase inhibitor activity	6301
+exodeoxyribonuclease III activity	6302
+diacylglycerol binding	6303
+O-acyltransferase activity	6304
+FMN reductase (NADPH) activity	6305
+2-dehydro-3-deoxy-phosphogluconate aldolase activity	6306
+5'-nucleotidase activity	6307
+UDP-N-acetylglucosamine diphosphorylase activity	6308
+protein serine/threonine kinase activity	6309
+translation regulator activity	6310
+molybdopterin cofactor binding	6311
+(R)-2-hydroxyglutarate dehydrogenase activity	6312
+high-affinity L-histidine transmembrane transporter activity	6313
+glucosamine-6-phosphate deaminase activity	6314
+DNA binding	6315
+nicotinamide riboside transmembrane transporter activity	6316
+L-lysine efflux transmembrane transporter activity	6317
+protein binding	6318
+transaminase activity	6319
+L-aspartate transmembrane transporter activity	6320
+fructose 1,6-bisphosphate 1-phosphatase activity	6321
+phosphatidylglycerol-membrane-oligosaccharide glycerophosphotransferase activity	6322
+deoxycytidine catabolic process	6323
+tRNA seleno-modification	6324
+negative regulation of DNA binding transcription factor activity	6325
+polysaccharide biosynthetic process	6326
+glycerol metabolic process	6327
+L-lysine transmembrane transport	6328
+organic phosphonate catabolic process	6329
+activation of protein kinase activity	6330
+dTTP catabolic process	6331
+glutamyl-tRNA aminoacylation	6332
+methylglyoxal metabolic process	6333
+UMP biosynthetic process	6334
+protein targeting to membrane	6335
+response to paraquat	6336
+selenocysteine biosynthetic process	6337
+diacetylchitobiose catabolic process	6338
+receptor-mediated bacteriophage irreversible attachment to host cell	6339
+pathogenesis	6340
+gluconeogenesis	6341
+diaminopimelate transport	6342
+purine nucleoside interconversion	6343
+sulfur utilization	6344
+regulation of polysaccharide biosynthetic process	6345
+response to acidic pH	6346
+putrescine biosynthetic process	6347
+response to organonitrogen compound	6348
+positive regulation of lyase activity	6349
+positive regulation of translation, ncRNA-mediated	6350
+glutamine transport	6351
+quinone metabolic process	6352
+RNA phosphodiester bond hydrolysis, endonucleolytic	6353
+cellular response to magnesium starvation	6354
+cytosine transport	6355
+positive regulation of GTPase activity	6356
+glutaminyl-tRNA aminoacylation	6357
+regulation of DNA-templated transcription, elongation	6358
+glutathione transmembrane transport	6359
+lipoprotein transport	6360
+peptidyl-histidine phosphorylation	6361
+N-terminal protein amino acid modification	6362
+dipeptide transport	6363
+peptidyl-L-beta-methylthioaspartic acid biosynthetic process from peptidyl-aspartic acid	6364
+'de novo' pyridoxal 5'-phosphate biosynthetic process	6365
+positive regulation of macromolecule biosynthetic process	6366
+glycine decarboxylation via glycine cleavage system	6367
+glycopeptide catabolic process	6368
+peptidyl-lysine deacetylation	6369
+glycerophosphodiester transmembrane transport	6370
+regulation of intracellular pH	6371
+nucleoside triphosphate catabolic process	6372
+L-phenylalanine biosynthetic process	6373
+plasma membrane copper ion transport	6374
+threonine transport	6375
+negative regulation of endoribonuclease activity	6376
+tetrahydrofolate biosynthetic process	6377
+positive regulation of secondary metabolite biosynthetic process	6378
+cellular response to arsenic-containing substance	6379
+response to starvation	6380
+localization within membrane	6381
+heme O biosynthetic process	6382
+phenylacetate catabolic process	6383
+purine nucleotide biosynthetic process	6384
+response to nickel cation	6385
+fatty acid metabolic process	6386
+dihydrofolate biosynthetic process	6387
+quinolinate biosynthetic process	6388
+cellular response to temperature stimulus	6389
+dormancy process	6390
+cellular iron ion homeostasis	6391
+cellular amino acid biosynthetic process	6392
+protein transport	6393
+regulation of pH	6394
+response to UV	6395
+glycogen catabolic process	6396
+fermentation	6397
+glucose-6-phosphate transport	6398
+negative regulation of growth	6399
+ADP biosynthetic process	6400
+ribosomal large subunit assembly	6401
+RNA phosphodiester bond hydrolysis	6402
+cobalt ion transport	6403
+allose transmembrane transport	6404
+polyphosphate catabolic process	6405
+cell separation after cytokinesis	6406
+negative regulation of phosphate metabolic process	6407
+shikimate metabolic process	6408
+cytolysis	6409
+tetrapyrrole biosynthetic process	6410
+polyamine catabolic process	6411
+tRNA acetylation	6412
+2-oxoglutarate metabolic process	6413
+response to organic substance	6414
+phosphatidic acid biosynthetic process	6415
+response to oxygen levels	6416
+uroporphyrinogen III biosynthetic process	6417
+protein palmitoylation	6418
+DNA topological change	6419
+protein-lysine lysylation	6420
+fructose 6-phosphate metabolic process	6421
+glutathione transport	6422
+glyoxylate cycle	6423
+transcriptional attenuation	6424
+adenine transport	6425
+translation reinitiation	6426
+negative regulation of cytokinesis	6427
+allantoin assimilation pathway	6428
+peptidyl-cysteine methylation	6429
+tetrahydrofolylpolyglutamate biosynthetic process	6430
+lipid localization	6431
+cellular lipid metabolic process	6432
+DNA strand elongation involved in DNA replication	6433
+D-cysteine catabolic process	6434
+lysine catabolic process	6435
+nucleoid organization	6436
+cellular amino acid catabolic process	6437
+L-alanine transport	6438
+formate transport	6439
+protein destabilization	6440
+negative regulation of FtsZ-dependent cytokinesis	6441
+nitrogen utilization	6442
+negative regulation of phosphorelay signal transduction system	6443
+cytolysis by virus of host cell	6444
+4-nitrophenol catabolic process	6445
+rRNA processing	6446
+L-asparagine biosynthetic process	6447
+carbohydrate transport	6448
+formaldehyde catabolic process	6449
+glycine betaine biosynthetic process from choline	6450
+FAD transmembrane transport	6451
+selenocysteine incorporation	6452
+SRP-dependent cotranslational protein targeting to membrane	6453
+ferric-hydroxamate transport	6454
+purine nucleobase catabolic process	6455
+pseudouridine synthesis	6456
+protein repair	6457
+tRNA threonylcarbamoyladenosine modification	6458
+enzyme active site formation	6459
+acetate metabolic process	6460
+fructose catabolic process	6461
+positive regulation of protein catabolic process	6462
+proteolysis	6463
+protein peptidyl-prolyl isomerization	6464
+response to osmotic stress	6465
+L-phenylalanine biosynthetic process from chorismate via phenylpyruvate	6466
+iron-sulfur cluster assembly	6467
+non-phosphorylated glucose catabolic process	6468
+lysophospholipid transport	6469
+sulfathiazole transport	6470
+cell death	6471
+RNA processing	6472
+cell septum assembly	6473
+protein deglycation	6474
+peptidoglycan catabolic process	6475
+N,N'-diacetylchitobiose import	6476
+detection of chemical stimulus	6477
+purine nucleobase transport	6478
+tRNA thio-modification	6479
+enterobactin biosynthetic process	6480
+negative regulation of protein catabolic process	6481
+enterobactin catabolic process	6482
+Mo-molybdopterin cofactor biosynthetic process	6483
+tyrosine biosynthetic process	6484
+pantothenate transmembrane transport	6485
+cellular response to selenium ion	6486
+protein unfolding	6487
+response to selenite ion	6488
+sulfate transmembrane transport	6489
+NAD catabolic process	6490
+pentose catabolic process	6491
+regulation of cell shape	6492
+D-galactonate catabolic process	6493
+bile acid and bile salt transport	6494
+L-amino acid transport	6495
+protein glycosylation	6496
+thymine catabolic process	6497
+shikimate transmembrane transport	6498
+positive regulation of translational fidelity	6499
+peptidoglycan turnover	6500
+pyruvate catabolic process	6501
+lactate catabolic process	6502
+negative regulation of phosphate transmembrane transport	6503
+protein stabilization	6504
+negative regulation of siderophore biosynthetic process	6505
+regulation of cellular carbohydrate catabolic process	6506
+cellular response to amino acid starvation	6507
+protoporphyrinogen IX biosynthetic process	6508
+response to tellurium ion	6509
+guanine transmembrane transport	6510
+lipid transport	6511
+branched-chain amino acid transport	6512
+purine ribonucleotide biosynthetic process	6513
+dTDP-rhamnose biosynthetic process	6514
+peptidyl-glutamine methylation	6515
+negative regulation of transcription, DNA-templated	6516
+cell adhesion	6517
+pantothenate biosynthetic process from valine	6518
+chemotaxis	6519
+N-acetylglucosamine transport	6520
+regulation of bacterial-type flagellum-dependent cell motility	6521
+dipeptide transmembrane transport	6522
+oxidative single-stranded RNA demethylation	6523
+response to lithium ion	6524
+single-species biofilm formation on inanimate substrate	6525
+DNA unwinding involved in DNA replication	6526
+bile acid catabolic process	6527
+deoxyribonucleotide catabolic process	6528
+sulfur amino acid metabolic process	6529
+nicotinamide riboside transport	6530
+positive regulation of transport	6531
+Group I intron splicing	6532
+negative regulation of ion transmembrane transporter activity	6533
+tripeptide transport	6534
+hexose phosphate transport	6535
+response to toxic substance	6536
+glycerol-3-phosphate transmembrane transport	6537
+iron assimilation	6538
+uridine catabolic process	6539
+carnitine transport	6540
+NAD salvage	6541
+regulation of proteolysis	6542
+aspartate transmembrane transport	6543
+lipid metabolic process	6544
+lipoprotein biosynthetic process	6545
+amino acid transport	6546
+trehalose catabolic process	6547
+NAD biosynthetic process	6548
+carbohydrate phosphorylation	6549
+RNA repair	6550
+'de novo' IMP biosynthetic process	6551
+DNA import into cell involved in transformation	6552
+nitrate assimilation	6553
+amyloid fibril formation	6554
+cell redox homeostasis	6555
+arsenite transport	6556
+lysine biosynthetic process	6557
+prolyl-tRNA aminoacylation	6558
+pyrimidine ribonucleotide biosynthetic process	6559
+O antigen biosynthetic process	6560
+glyoxylate catabolic process	6561
+UDP-D-xylose biosynthetic process	6562
+tRNA methylation	6563
+response to cadmium ion	6564
+colicin transport	6565
+IMP salvage	6566
+cellular response to nitrite	6567
+neutral amino acid transport	6568
+anaerobic electron transport chain	6569
+cellular response to reactive oxygen species	6570
+clearance of foreign intracellular DNA	6571
+regulation of protein complex assembly	6572
+ferrichrome transport	6573
+L-serine metabolic process	6574
+positive regulation of fatty acid biosynthetic process	6575
+DNA catabolic process, endonucleolytic	6576
+phosphate ion transmembrane transport	6577
+glycine biosynthetic process	6578
+tRNA guanine ribose methylation	6579
+D-serine transport	6580
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway involved in terpenoid biosynthetic process	6581
+folic acid metabolic process	6582
+ammonia assimilation cycle	6583
+adenine salvage	6584
+DNA ligation	6585
+cellular carbohydrate catabolic process	6586
+chaperone-mediated protein transport	6587
+peptidyl-lysine acetylation	6588
+regulation of protein targeting to membrane	6589
+arginine transmembrane transport	6590
+intracellular pH elevation	6591
+sulfathiazole transmembrane transport	6592
+SRP-dependent cotranslational protein targeting to membrane, translocation	6593
+positive regulation of cytokinesis	6594
+protein methylation	6595
+negative regulation of carbohydrate metabolic process	6596
+cell wall mannoprotein biosynthetic process	6597
+one-carbon metabolic process	6598
+5-phosphoribose 1-diphosphate biosynthetic process	6599
+ethanol biosynthetic process	6600
+glucose import	6601
+sister chromatid cohesion	6602
+riboflavin metabolic process	6603
+transition metal ion transport	6604
+positive regulation of transcription, DNA-templated	6605
+L-arabinose catabolic process to xylulose 5-phosphate	6606
+cobalamin transport	6607
+pyrimidine-containing compound transmembrane transport	6608
+regulation of response to osmotic stress	6609
+antimonite transport	6610
+tRNA aminoacylation for protein translation	6611
+DNA-templated transcription, elongation	6612
+propionate biosynthetic process	6613
+folic acid-containing compound biosynthetic process	6614
+response to hydroperoxide	6615
+response to zinc ion	6616
+positive regulation of cytoskeleton organization	6617
+ubiquinone biosynthetic process from chorismate	6618
+ATP hydrolysis coupled cation transmembrane transport	6619
+phosphatidylethanolamine biosynthetic process	6620
+phage shock	6621
+DNA mediated transformation	6622
+L-glutamate transmembrane transport	6623
+pyrimidine nucleoside transport	6624
+microcin B17 transport	6625
+positive regulation of DNA-dependent DNA replication initiation	6626
+L-arginine transport	6627
+pyrimidine ribonucleoside catabolic process	6628
+regulation of pentose-phosphate shunt	6629
+glycol catabolic process	6630
+single-species submerged biofilm formation	6631
+ribonucleotide excision repair	6632
+regulation of translation	6633
+galactarate catabolic process	6634
+cellular zinc ion homeostasis	6635
+pantothenate biosynthetic process	6636
+gene silencing	6637
+internal peptidyl-lysine acetylation	6638
+UMP catabolic process	6639
+menaquinone biosynthetic process	6640
+regulation of single-species biofilm formation on inanimate substrate	6641
+phospholipid transport	6642
+negative regulation of cell killing	6643
+lysine biosynthetic process via aminoadipic acid	6644
+L-ornithine transmembrane transport	6645
+carboxylic acid transmembrane transport	6646
+cysteinyl-tRNA aminoacylation	6647
+glutamate catabolic process	6648
+positive regulation of translation	6649
+maturation of SSU-rRNA	6650
+nucleobase-containing small molecule metabolic process	6651
+cell volume homeostasis	6652
+response to antibiotic	6653
+D-arabinose catabolic process	6654
+colanic acid biosynthetic process	6655
+response to methylglyoxal	6656
+arginine biosynthetic process	6657
+negative regulation of glycogen biosynthetic process	6658
+positive regulation of ATPase activity	6659
+DNA replication proofreading	6660
+spermidine transport	6661
+positive regulation of mRNA cleavage	6662
+contractile ring localization	6663
+galactitol catabolic process	6664
+L-ascorbic acid transmembrane transport	6665
+long-chain fatty acid transport	6666
+glucose 6-phosphate metabolic process	6667
+coenzyme A biosynthetic process	6668
+regulation of bacterial-type flagellum assembly	6669
+D-xylose metabolic process	6670
+positive regulation of nitrogen utilization	6671
+viral process	6672
+maintenance of stationary phase	6673
+osmosensory signaling via phosphorelay pathway	6674
+3-hydroxyphenylpropionic acid transport	6675
+protein transport by the Sec complex	6676
+tryptophan biosynthetic process	6677
+ribosomal small subunit biogenesis	6678
+amino sugar catabolic process	6679
+D-glucuronate catabolic process	6680
+lysine biosynthetic process via diaminopimelate and N-succinyl-2-amino-6-ketopimelate	6681
+trehalose metabolism in response to cold stress	6682
+NADH metabolic process	6683
+'de novo' NAD biosynthetic process from aspartate	6684
+replication fork reversal	6685
+defense response to virus	6686
+methionyl-tRNA aminoacylation	6687
+osmoregulated periplasmic glucan biosynthetic process	6688
+divalent inorganic cation transport	6689
+positive aerotaxis	6690
+protein localization to outer membrane	6691
+regulation of cellular pH	6692
+threonyl-tRNA aminoacylation	6693
+DNA integration	6694
+chloride transport	6695
+phospholipid biosynthetic process	6696
+formaldehyde metabolic process	6697
+purine nucleoside catabolic process	6698
+acetate biosynthetic process	6699
+uridine transport	6700
+protein deglycosylation	6701
+adenosine catabolic process	6702
+peptidyl-lysine trimethylation	6703
+histidine biosynthetic process	6704
+formate oxidation	6705
+positive regulation of type IV pilus biogenesis	6706
+establishment or maintenance of cell polarity regulating cell shape	6707
+nitrate transport	6708
+D-gluconate catabolic process	6709
+molybdate ion transport	6710
+acetaldehyde catabolic process	6711
+viral entry into host cell	6712
+carnitine catabolic process	6713
+response to hypochlorite	6714
+UDP-glucose metabolic process	6715
+tRNA methylthiolation	6716
+4-(trimethylammonio)butanoate transport	6717
+lipoprotein metabolic process	6718
+FMN biosynthetic process	6719
+xenobiotic metabolic process	6720
+transposition	6721
+fatty acid beta-oxidation, unsaturated, even number	6722
+fructose 1,6-bisphosphate metabolic process	6723
+proteolysis involved in cellular protein catabolic process	6724
+regulation of cellular component movement	6725
+GMP salvage	6726
+Gram-negative-bacterium-type cell wall biogenesis	6727
+maltose transport	6728
+homoserine transport	6729
+molybdenum incorporation into molybdenum-molybdopterin complex	6730
+urate transport	6731
+tRNA modification	6732
+provirus excision	6733
+putrescine catabolic process	6734
+mannosylation	6735
+DNA replication initiation	6736
+autolysis	6737
+D-ribose transmembrane transport	6738
+regulation of fatty acid biosynthetic process	6739
+cellular stress response to acid chemical	6740
+galactose catabolic process via UDP-galactose	6741
+rolling circle DNA replication	6742
+guanine salvage	6743
+tryptophan catabolic process	6744
+phosphorus metabolic process	6745
+cellular response to DNA damage stimulus	6746
+plasma membrane acetate transport	6747
+L-serine biosynthetic process	6748
+ribosome disassembly	6749
+respiratory chain complex II assembly	6750
+base-excision repair, AP site formation	6751
+intracellular sequestering of iron ion	6752
+transsulfuration	6753
+rhamnose metabolic process	6754
+heme transport	6755
+signal transduction	6756
+monosaccharide transmembrane transport	6757
+cardiolipin biosynthetic process	6758
+regulation of nitrogen utilization	6759
+alpha-glucan catabolic process	6760
+negative regulation of fatty acid biosynthetic process	6761
+lipoprotein localization to outer membrane	6762
+D-xylose transmembrane transport	6763
+glycolate transmembrane transport	6764
+peptidyl-tyrosine dephosphorylation	6765
+peptidoglycan-associated peptide transport	6766
+CDP-diacylglycerol biosynthetic process	6767
+proline catabolic process to glutamate	6768
+long-chain fatty acid metabolic process	6769
+purine nucleobase metabolic process	6770
+L-alanine biosynthetic process from pyruvate	6771
+riboflavin biosynthetic process	6772
+cytidine transport	6773
+regulation of transcription by RNA polymerase II	6774
+glutathione catabolic process	6775
+regulation of cell motility	6776
+microcin transport	6777
+conversion of methionyl-tRNA to N-formyl-methionyl-tRNA	6778
+guanosine catabolic process	6779
+lipopolysaccharide biosynthetic process	6780
+tRNA 3'-terminal CCA addition	6781
+rRNA base methylation	6782
+adenosine biosynthetic process	6783
+xenobiotic transport	6784
+D-serine catabolic process	6785
+proton transmembrane transport	6786
+protein maturation by iron-sulfur cluster transfer	6787
+cellular response to oxidative stress	6788
+glucarate catabolic process	6789
+GDP-mannose metabolic process	6790
+manganese ion transport	6791
+threonine biosynthetic process	6792
+negative regulation of hydrolase activity	6793
+polyphosphate biosynthetic process	6794
+potassium ion transmembrane transport	6795
+glutamate biosynthetic process	6796
+regulation of cell cycle	6797
+positive regulation of catalytic activity	6798
+anaerobic respiration	6799
+cellular carbohydrate metabolic process	6800
+cellular response to acidic pH	6801
+cation transport	6802
+tripeptide transmembrane transport	6803
+purine ribonucleoside monophosphate biosynthetic process	6804
+negative regulation of glucose import	6805
+transcriptional attenuation by ribosome	6806
+lipoate metabolic process	6807
+cell wall organization	6808
+amino acid export across plasma membrane	6809
+tRNA catabolic process	6810
+cadmium ion transmembrane transport	6811
+oxalate catabolic process	6812
+DNA synthesis involved in DNA repair	6813
+molybdopterin cofactor biosynthetic process	6814
+glycine biosynthetic process from serine	6815
+division septum assembly	6816
+cytoplasmic translation	6817
+phosphatidylglycerol biosynthetic process	6818
+RNA modification	6819
+protein dephosphorylation	6820
+ubiquinone biosynthetic process	6821
+protein homotrimerization	6822
+glycerol-3-phosphate catabolic process	6823
+D-galacturonate catabolic process	6824
+cellular response to nitrogen starvation	6825
+dATP catabolic process	6826
+arginine transport	6827
+carbon catabolite regulation of transcription	6828
+arginyl-tRNA aminoacylation	6829
+bis(molybdopterin guanine dinucleotide)molybdenum biosynthetic process	6830
+transcription elongation from bacterial-type RNA polymerase promoter	6831
+sodium ion transport	6832
+peptidyl-lysine demalonylation	6833
+carbohydrate catabolic process	6834
+thiamine biosynthetic process	6835
+response to reactive oxygen species	6836
+hemolysis in other organism	6837
+mRNA cleavage involved in gene silencing	6838
+lysyl-tRNA aminoacylation	6839
+long-chain fatty acid biosynthetic process	6840
+regulation of ion transmembrane transporter activity	6841
+regulation of anion transmembrane transport	6842
+malate metabolic process	6843
+pyrimidine nucleotide biosynthetic process	6844
+cellular response to cell envelope stress	6845
+isoprenoid biosynthetic process via mevalonate	6846
+monocarboxylic acid transport	6847
+protein-phosphoribosyl dephospho-coenzyme A linkage	6848
+siderophore transmembrane transport	6849
+positive chemotaxis	6850
+response to leucine	6851
+regulation of transcription, DNA-templated	6852
+valine transport	6853
+L-lysine transport	6854
+cellular phosphate ion homeostasis	6855
+cell adhesion involved in single-species biofilm formation	6856
+intracellular signal transduction	6857
+phosphorelay signal transduction system	6858
+anion transmembrane transport	6859
+negative regulation of GTPase activity	6860
+replication fork arrest involved in DNA replication termination	6861
+glyoxylate metabolic process	6862
+negative regulation of translation, ncRNA-mediated	6863
+succinate metabolic process	6864
+phosphate ion transport	6865
+signal peptide processing	6866
+Kdo2-lipid A biosynthetic process	6867
+detoxification of copper ion	6868
+glutamine biosynthetic process	6869
+cellular response to sulfate starvation	6870
+peptidyl-tyrosine autophosphorylation	6871
+response to cobalt ion	6872
+hydrogen peroxide catabolic process	6873
+heme biosynthetic process	6874
+mannosylglycerate transport	6875
+dodecyl sulfate metabolic process	6876
+N-terminal peptidyl-serine acetylation	6877
+L-valine transmembrane transport	6878
+response to iron ion	6879
+oxazole or thiazole biosynthetic process	6880
+negative regulation of molecular function	6881
+chromosome segregation	6882
+positive regulation of sulfur utilization	6883
+negative regulation of cell growth	6884
+extracellular polysaccharide biosynthetic process	6885
+transcription antitermination	6886
+cellular response to manganese ion	6887
+monosaccharide catabolic process	6888
+wobble position uridine ribose methylation	6889
+proline transport	6890
+cellular cadmium ion homeostasis	6891
+fucose transmembrane transport	6892
+glycerophospholipid biosynthetic process	6893
+prosthetic group biosynthetic process	6894
+L-proline biosynthetic process	6895
+amino acid transmembrane transport	6896
+sulfate transport	6897
+regulation of nitrogen compound metabolic process	6898
+division septum site selection	6899
+intracellular protein transmembrane transport	6900
+arginine catabolic process to succinate	6901
+fatty acid alpha-oxidation	6902
+DNA-templated transcription, termination	6903
+phenylalanine transport	6904
+response to amino acid	6905
+beta-glucan biosynthetic process	6906
+tricarboxylic acid cycle	6907
+D-alanine biosynthetic process	6908
+RNA methylation	6909
+3,4-dihydroxybenzoate biosynthetic process	6910
+chorismate biosynthetic process	6911
+conjugation	6912
+negative regulation of bacterial-type flagellum assembly	6913
+bacterial-type flagellum-dependent cell motility	6914
+tellurite transport	6915
+regulation of response to drug	6916
+hyperosmotic salinity response	6917
+tryptophan transport	6918
+homocysteine metabolic process	6919
+aerobic cobalamin biosynthetic process	6920
+nitroglycerin metabolic process	6921
+rhamnose catabolic process	6922
+glutamine metabolic process	6923
+maltodextrin transport	6924
+cell division	6925
+bacterial-type DNA replication	6926
+'de novo' L-methionine biosynthetic process	6927
+base-excision repair, AP site formation via deaminated base removal	6928
+protein maturation	6929
+DNA-templated transcription, initiation	6930
+zinc ion transmembrane transport	6931
+cysteine biosynthetic process via cystathionine	6932
+oxaloacetate metabolic process	6933
+inositol metabolic process	6934
+silver ion transmembrane transport	6935
+catabolic process	6936
+vitamin transmembrane transport	6937
+tRNA dihydrouridine synthesis	6938
+regulation of chromosome segregation	6939
+fumarate transport	6940
+thiazole biosynthetic process	6941
+bacterial-type flagellum-dependent swimming motility	6942
+response to unfolded protein	6943
+RNA catabolic process	6944
+copper ion export	6945
+tRNA-guanine transglycosylation	6946
+hexose metabolic process	6947
+ammonium transport	6948
+NADPH regeneration	6949
+regulation of catalytic activity	6950
+N-terminal protein amino acid acetylation	6951
+bacterial transcription	6952
+cell wall macromolecule biosynthetic process	6953
+phenylethylamine catabolic process	6954
+transposition, DNA-mediated	6955
+cysteine biosynthetic process	6956
+negative regulation of single-species biofilm formation on inanimate substrate	6957
+regulation of division septum assembly	6958
+plasmid maintenance	6959
+response to oxidative stress	6960
+antibiotic transport	6961
+isoleucine transport	6962
+mRNA polyadenylation	6963
+2'-deoxyribonucleotide biosynthetic process	6964
+D-amino acid metabolic process	6965
+L-ascorbic acid catabolic process	6966
+protein-N6-(L-lysyl)-L-lysine modification to protein-N6-(beta-lysyl)-L-lysine	6967
+stringent response	6968
+putrescine biosynthetic process from arginine	6969
+ketone catabolic process	6970
+aromatic compound catabolic process	6971
+cellular response to metal ion	6972
+nucleotide-excision repair	6973
+response to magnesium ion	6974
+magnesium ion transmembrane transport	6975
+transcription-coupled nucleotide-excision repair	6976
+folic acid catabolic process	6977
+response to iron(III) ion	6978
+nucleoside metabolic process	6979
+protein deacetylation	6980
+D-gluconate metabolic process	6981
+cell chemotaxis	6982
+CMP biosynthetic process	6983
+peptidoglycan-based cell wall biogenesis	6984
+lipid-linked peptidoglycan transport	6985
+lactate biosynthetic process	6986
+rRNA 5'-end processing	6987
+siroheme biosynthetic process	6988
+electron transport coupled proton transport	6989
+proline biosynthetic process	6990
+cell wall macromolecule metabolic process	6991
+arginine biosynthetic process via ornithine	6992
+glutathione metabolic process	6993
+protein maturation by protein folding	6994
+isoleucyl-tRNA aminoacylation	6995
+post-translational protein modification	6996
+peptidoglycan-protein cross-linking	6997
+cysteine catabolic process	6998
+siderophore biosynthetic process	6999
+cellular manganese ion homeostasis	7000
+aldonic acid catabolic process	7001
+detection of maltose stimulus	7002
+cellular response to zinc ion starvation	7003
+regulation of polyamine biosynthetic process	7004
+mismatch repair	7005
+propionate catabolic process, 2-methylcitrate cycle	7006
+cellular oxidant detoxification	7007
+lactose catabolic process	7008
+phosphoenolpyruvate-dependent sugar phosphotransferase system	7009
+negative regulation of DNA-templated transcription, initiation	7010
+cellular response to amino acid stimulus	7011
+peptidyl-arginine hydroxylation	7012
+purine nucleotide metabolic process	7013
+iron chelate transport	7014
+fatty acid elongation	7015
+galactose transmembrane transport	7016
+glutathione biosynthetic process	7017
+cellular response to glucose-phosphate stress	7018
+fructose metabolic process	7019
+enterobactin transport	7020
+polyprenol biosynthetic process	7021
+regulation of protein homooligomerization	7022
+mRNA stabilization	7023
+positive regulation of oxidoreductase activity	7024
+lipopolysaccharide metabolic process	7025
+NADP catabolic process	7026
+dUTP catabolic process	7027
+recombinational repair	7028
+protein acetylation	7029
+isoleucine biosynthetic process	7030
+adenosine transport	7031
+N-acetylglucosamine metabolic process	7032
+oxidation-reduction process	7033
+L-phenylalanine catabolic process	7034
+siderophore metabolic process	7035
+phenazine biosynthetic process	7036
+UDP biosynthetic process	7037
+inositol phosphate dephosphorylation	7038
+'de novo' protein folding	7039
+ammonium transmembrane transport	7040
+lipid modification	7041
+FtsZ-dependent cytokinesis	7042
+regulation of DNA replication	7043
+organophosphate ester transport	7044
+positive regulation of isoprenoid metabolic process	7045
+DNA catabolic process	7046
+purine ribonucleoside salvage	7047
+methylglyoxal catabolic process	7048
+positive regulation of cell growth	7049
+threonine metabolic process	7050
+carbon utilization	7051
+regulation of cell growth	7052
+XMP salvage	7053
+acetoacetic acid catabolic process	7054
+lipid phosphorylation	7055
+response to xenobiotic stimulus	7056
+cytochrome c-heme linkage via heme-L-cysteine	7057
+regulation of cellular organohalogen metabolic process	7058
+ferrous iron import across plasma membrane	7059
+mixed acid fermentation	7060
+DNA replication, synthesis of RNA primer	7061
+trans-translation-dependent protein tagging	7062
+double-strand break repair	7063
+regulation of nitrate assimilation	7064
+cellular response to nutrient	7065
+bacterial-type flagellum assembly	7066
+cytochrome complex assembly	7067
+response to light stimulus	7068
+regulation of glutamine family amino acid metabolic process	7069
+aspartyl-tRNA aminoacylation	7070
+hexuronate transmembrane transport	7071
+oxidative single-stranded DNA demethylation	7072
+cellular hyperosmotic response	7073
+protein homooligomerization	7074
+response to ethanol	7075
+iron incorporation into metallo-sulfur cluster	7076
+pyrimidine nucleobase metabolic process	7077
+DNA synthesis involved in double-strand break repair via homologous recombination	7078
+nickel cation homeostasis	7079
+methylglyoxal biosynthetic process	7080
+sulfur compound metabolic process	7081
+methylgalactoside transport	7082
+zymogen activation	7083
+trehalose metabolism in response to stress	7084
+cellular response to hypoxia	7085
+vitamin K biosynthetic process	7086
+resolution of recombination intermediates	7087
+metabolic process	7088
+chaperone-mediated protein transport across periplasmic space	7089
+protein phosphorylation	7090
+cytidine deamination	7091
+melibiose catabolic process	7092
+glucan biosynthetic process	7093
+tartrate metabolic process	7094
+negative regulation of translation	7095
+pyrimidine nucleobase salvage	7096
+homoserine metabolic process	7097
+sulfate assimilation, phosphoadenylyl sulfate reduction by phosphoadenylyl-sulfate reductase (thioredoxin)	7098
+superoxide metabolic process	7099
+3'-phosphoadenosine 5'-phosphosulfate metabolic process	7100
+GMP metabolic process	7101
+GMP biosynthetic process	7102
+N-terminal peptidyl-alanine trimethylation	7103
+N-acetylmannosamine catabolic process	7104
+cell morphogenesis	7105
+positive regulation of cell projection organization	7106
+diaminopimelate biosynthetic process	7107
+transcription initiation from bacterial-type RNA polymerase promoter	7108
+myo-inositol hexakisphosphate dephosphorylation	7109
+biotin transport	7110
+glucose metabolic process	7111
+L-cysteine catabolic process to pyruvate	7112
+mannose metabolic process	7113
+pyrimidine nucleobase catabolic process	7114
+xanthosine transport	7115
+silver ion transport	7116
+maturation of LSU-rRNA	7117
+isopentenyl diphosphate biosynthetic process, methylerythritol 4-phosphate pathway	7118
+DNA methylation on adenine	7119
+negative regulation of purine nucleotide biosynthetic process	7120
+serine family amino acid biosynthetic process	7121
+peptide metabolic process	7122
+galactose metabolic process	7123
+negative regulation of translation in response to stress	7124
+folic acid biosynthetic process	7125
+guanosine tetraphosphate metabolic process	7126
+rRNA (guanine-N7)-methylation	7127
+glycolytic process through fructose-6-phosphate	7128
+alanine catabolic process	7129
+cellular response to cold	7130
+ribosomal small subunit assembly	7131
+nucleotide-sugar biosynthetic process	7132
+dTTP biosynthetic process	7133
+peptide transport	7134
+protein transmembrane transport	7135
+L-galactonate catabolic process	7136
+cellular respiration	7137
+rescue of stalled ribosome	7138
+transmembrane transport	7139
+nucleoside triphosphate biosynthetic process	7140
+sialic acid transport	7141
+lipoprotein biosynthetic process via signal peptide cleavage	7142
+fatty acid oxidation	7143
+tRNA 5'-leader removal	7144
+carbon catabolite repression of transcription	7145
+lactate oxidation	7146
+acetate catabolic process	7147
+establishment of localization in cell	7148
+inosine catabolic process	7149
+L-alanine biosynthetic process	7150
+lactate transmembrane transport	7151
+translesion synthesis	7152
+sulfur compound catabolic process	7153
+blue light signaling pathway	7154
+aspartate metabolic process	7155
+oligosaccharide transport	7156
+seryl-tRNA aminoacylation	7157
+glycolate catabolic process	7158
+gluconate transmembrane transport	7159
+iron ion homeostasis	7160
+lysine biosynthetic process via diaminopimelate	7161
+response to butan-1-ol	7162
+polyamine transport	7163
+L-ascorbic acid metabolic process	7164
+regulation of bacterial-type flagellum-dependent cell motility by regulation of motor speed	7165
+cellular response to nitric oxide	7166
+DNA-dependent DNA replication	7167
+aspartate biosynthetic process	7168
+regulation of ATPase activity	7169
+S-methylmethionine transport	7170
+lipid catabolic process	7171
+DNA repair	7172
+DNA demethylation	7173
+double-strand break repair via homologous recombination	7174
+deoxyribonucleotide biosynthetic process	7175
+1-butanol biosynthetic process	7176
+copper ion transmembrane transport	7177
+sucrose biosynthetic process	7178
+nucleoside transmembrane transport	7179
+D-xylose catabolic process	7180
+regulation of gene expression	7181
+regulation of peptidase activity	7182
+response to silver ion	7183
+regulation of protein kinase activity	7184
+DNA excision	7185
+negative regulation of ribosome biogenesis	7186
+tRNA wobble adenosine to inosine editing	7187
+fatty acid beta-oxidation, unsaturated, even number, reductase/isomerase pathway	7188
+cellular response to nitrosative stress	7189
+pyridoxal 5'-phosphate salvage	7190
+negative regulation of protein transport	7191
+positive regulation of protein dephosphorylation	7192
+cellular response to zinc ion	7193
+cellular response to mercury ion	7194
+quorum sensing	7195
+negative chemotaxis	7196
+response to copper ion	7197
+poly-hydroxybutyrate biosynthetic process	7198
+modulation of apoptotic process in other organism	7199
+RNA phosphodiester bond hydrolysis, exonucleolytic	7200
+L-idonate catabolic process	7201
+isopentenyl diphosphate biosynthetic process	7202
+L-serine transport	7203
+GDP metabolic process	7204
+galactonate catabolic process	7205
+proline transmembrane transport	7206
+glycerol to glycerone phosphate metabolic process	7207
+tRNA nucleoside ribose methylation	7208
+DNA replication, Okazaki fragment processing	7209
+acyl-CoA metabolic process	7210
+regulation of secondary metabolite biosynthetic process	7211
+regulation of DNA binding transcription factor activity	7212
+negative regulation of protein modification process	7213
+'de novo' pyrimidine nucleobase biosynthetic process	7214
+chloride transmembrane transport	7215
+response to cold	7216
+glycogen metabolic process	7217
+maturation of SSU-rRNA from tricistronic rRNA transcript (SSU-rRNA, 5.8S rRNA, LSU-rRNA)	7218
+lead ion transport	7219
+positive regulation of DNA-templated transcription, termination	7220
+regulation of cell-substrate adhesion	7221
+translational termination	7222
+regulation of cell septum assembly	7223
+cellular response to phosphate starvation	7224
+endonucleolytic cleavage involved in rRNA processing	7225
+2,4,6-trinitrotoluene catabolic process	7226
+DNA catabolic process, exonucleolytic	7227
+positive regulation of DNA-templated transcription, initiation	7228
+oligosaccharide-lipid intermediate biosynthetic process	7229
+alkanesulfonate transport	7230
+negative regulation of division septum assembly	7231
+nitrate metabolic process	7232
+copper ion transport	7233
+organic acid transmembrane transport	7234
+RNA (guanine-N7)-methylation	7235
+rRNA acetylation involved in maturation of SSU-rRNA	7236
+response to carbon starvation	7237
+protein folding	7238
+acetyl-CoA biosynthetic process from pyruvate	7239
+queuosine biosynthetic process	7240
+carbohydrate derivative metabolic process	7241
+negative regulation of nucleic acid-templated transcription	7242
+cell motility	7243
+adenine catabolic process	7244
+L-histidine transmembrane transport	7245
+positive regulation of RNA splicing	7246
+cAMP biosynthetic process	7247
+triglyceride biosynthetic process	7248
+protein import	7249
+positive regulation of tryptophan metabolic process	7250
+carbon dioxide transport	7251
+carbohydrate transmembrane transport	7252
+peptidoglycan transport	7253
+ATP-independent chaperone mediated protein folding	7254
+response to temperature stimulus	7255
+response to blue light	7256
+regulation of fatty acid metabolic process	7257
+glycerol catabolic process	7258
+geranyl diphosphate biosynthetic process	7259
+protein insertion into membrane from inner side	7260
+non-recombinational repair	7261
+arginine catabolic process	7262
+leucine biosynthetic process	7263
+DNA replication, removal of RNA primer	7264
+cell wall modification	7265
+tRNA wobble guanine modification	7266
+glucan catabolic process	7267
+formation of translation preinitiation complex	7268
+DNA dealkylation involved in DNA repair	7269
+ncRNA processing	7270
+serine transport	7271
+positive regulation of gene expression	7272
+ferric-enterobactin transport	7273
+regulation of heme biosynthetic process	7274
+protein adenylylation	7275
+regulation of carbohydrate utilization	7276
+response to alkyl hydroperoxide	7277
+choline transport	7278
+sulfur incorporation into metallo-sulfur cluster	7279
+negative regulation of cell division	7280
+pre-replicative complex assembly involved in nuclear cell cycle DNA replication	7281
+aminophosphonate metabolic process	7282
+homoserine biosynthetic process	7283
+positive regulation of hydrolase activity	7284
+guanine import across plasma membrane	7285
+enterobacterial common antigen biosynthetic process	7286
+6-sulfoquinovose(1-) catabolic process	7287
+protein carbamoylation	7288
+response to gamma radiation	7289
+mRNA processing	7290
+D-alanine catabolic process	7291
+D-allose catabolic process	7292
+macromolecule deacylation	7293
+negative regulation of DNA-templated transcription, termination	7294
+L-serine catabolic process	7295
+aldonate transmembrane transport	7296
+ornithine catabolic process	7297
+cell wall assembly	7298
+negative regulation of DNA replication	7299
+short-chain fatty acid transport	7300
+protein transport by the Tat complex	7301
+regulation of isomerase activity	7302
+Gram-negative-bacterium-type cell outer membrane assembly	7303
+response to hydrogen peroxide	7304
+cadaverine transport	7305
+cellular protein modification process	7306
+glycolytic process	7307
+RNA biosynthetic process	7308
+pyruvate metabolic process	7309
+antibiotic catabolic process	7310
+peptidyl-lysine hydroxylation involved in bacterial-type EF-P lysine modification	7311
+response to peptide	7312
+tRNA wobble cytosine modification	7313
+detoxification of nitrogen compound	7314
+oligopeptide transmembrane transport	7315
+hyperosmotic response	7316
+glutamine catabolic process	7317
+base-excision repair	7318
+L-idonate transmembrane transport	7319
+regulation of DNA recombination	7320
+sodium ion import across plasma membrane	7321
+L-methionine salvage from S-adenosylmethionine	7322
+cyanate catabolic process	7323
+thiamine salvage	7324
+fatty acid beta-oxidation using acyl-CoA dehydrogenase	7325
+leucine transport	7326
+cobalamin biosynthetic process	7327
+protein catabolic process	7328
+ferric iron transport	7329
+zinc ion transport	7330
+cellular potassium ion homeostasis	7331
+potassium ion transport	7332
+fructose import	7333
+biosynthetic process	7334
+self proteolysis	7335
+response to nutrient	7336
+cellular response to unfolded protein	7337
+S-adenosylmethionine cycle	7338
+valyl-tRNA aminoacylation	7339
+spermidine biosynthetic process	7340
+asparagine biosynthetic process	7341
+S-methylmethionine metabolic process	7342
+urea cycle	7343
+pyrimidine deoxyribonucleotide salvage	7344
+lipoate biosynthetic process	7345
+negative regulation of translational frameshifting	7346
+signal transduction by protein phosphorylation	7347
+ethanolamine catabolic process	7348
+detection of virus	7349
+mRNA pseudouridine synthesis	7350
+uracil transmembrane transport	7351
+cytolysis in other organism	7352
+DNA duplex unwinding	7353
+cellular response to anoxia	7354
+cofactor biosynthetic process	7355
+ncRNA catabolic process	7356
+response to salt stress	7357
+cytoplasmic translational termination	7358
+regulation of DNA-templated transcription, initiation	7359
+phenylpropanoid catabolic process	7360
+rhamnose transmembrane transport	7361
+glycine transport	7362
+SOS response	7363
+glycerophospholipid metabolic process	7364
+glycerol-3-phosphate metabolic process	7365
+DNA replication termination	7366
+amino acid salvage	7367
+CDP-diacylglycerol catabolic process	7368
+lipid A biosynthetic process	7369
+protein refolding	7370
+toxin transport	7371
+protein-chromophore linkage	7372
+threonine catabolic process	7373
+S-adenosylmethionine biosynthetic process	7374
+quinolinate catabolic process	7375
+cellular response to bacteriocin	7376
+ion transmembrane transport	7377
+cellular aromatic compound metabolic process	7378
+positive regulation of bacterial-type flagellum assembly	7379
+response to nitrosative stress	7380
+cellular oligosaccharide catabolic process	7381
+hypoxanthine oxidation	7382
+nucleotide-excision repair, DNA incision	7383
+protein homotetramerization	7384
+intracellular pH reduction	7385
+protoporphyrinogen IX metabolic process	7386
+positive regulation of DNA binding transcription factor activity	7387
+inorganic anion transport	7388
+plasmid partitioning	7389
+chaperone-mediated protein complex assembly	7390
+detoxification of zinc ion	7391
+dUMP biosynthetic process	7392
+glucose transmembrane transport	7393
+DNA metabolic process	7394
+regulation of tryptophan metabolic process	7395
+dTDP biosynthetic process	7396
+hypoxanthine metabolic process	7397
+protein biotinylation	7398
+L-arginine import across plasma membrane	7399
+peptidyl-serine phosphopantetheinylation	7400
+L-cystine transport	7401
+methylglyoxal catabolic process to D-lactate via S-lactoyl-glutathione	7402
+virion assembly	7403
+fatty acid catabolic process	7404
+UDP-N-acetylglucosamine metabolic process	7405
+carbohydrate utilization	7406
+cellular copper ion homeostasis	7407
+negative regulation of gene expression	7408
+base-excision repair, DNA ligation	7409
+cellular response to nutrient levels	7410
+maltose catabolic process	7411
+rRNA methylation	7412
+protein autoprocessing	7413
+UTP catabolic process	7414
+guanine metabolic process	7415
+melibiose transport	7416
+nucleotide catabolic process	7417
+translational initiation	7418
+branched-chain amino acid metabolic process	7419
+positive regulation of proteolysis	7420
+gamma-aminobutyric acid catabolic process	7421
+cellular response to heat	7422
+pyrimidine deoxyribonucleoside salvage	7423
+unsaturated fatty acid biosynthetic process	7424
+negative regulation of DNA-dependent DNA replication initiation	7425
+ferrous iron transport	7426
+nucleic acid phosphodiester bond hydrolysis	7427
+response to potassium ion	7428
+xylulose catabolic process	7429
+cellular response to starvation	7430
+transcription, DNA-templated	7431
+isoprenoid biosynthetic process	7432
+tRNA 3'-end processing	7433
+dGTP catabolic process	7434
+protein-heme linkage	7435
+regulation of DNA-templated transcription, termination	7436
+glycosyl compound metabolic process	7437
+beta-alanine transport	7438
+acetate transmembrane transport	7439
+C-terminal protein amino acid modification	7440
+positive regulation of cellular carbohydrate metabolic process	7441
+tRNA 4-thiouridine biosynthesis	7442
+succinyl-CoA metabolic process	7443
+glucose catabolic process	7444
+protein polymerization	7445
+protein lipoylation	7446
+ubiquinone biosynthetic process via 3,4-dihydroxy-5-polyprenylbenzoate	7447
+thymidine metabolic process	7448
+cellulose biosynthetic process	7449
+cytochrome c-heme linkage	7450
+response to L-cysteine	7451
+pyrimidine nucleobase biosynthetic process	7452
+negative regulation of translational initiation	7453
+arsenate ion transmembrane transport	7454
+inosine biosynthetic process	7455
+pyrimidine nucleotide metabolic process	7456
+cysteine export across plasma membrane	7457
+asparagine catabolic process	7458
+N-terminal peptidyl-alanine acetylation	7459
+protein initiator methionine removal	7460
+positive regulation of single-species biofilm formation	7461
+hexuronide transport	7462
+positive regulation of glycogen catabolic process	7463
+deoxyguanosine catabolic process	7464
+pyridoxine biosynthetic process	7465
+regulation of mRNA stability	7466
+sulfate assimilation	7467
+regulation of phosphatase activity	7468
+cellular modified amino acid catabolic process	7469
+cysteine biosynthetic process from serine	7470
+spermidine transmembrane transport	7471
+deoxyinosine catabolic process	7472
+D-ribose catabolic process	7473
+bacterial-type DNA replication initiation	7474
+histidyl-tRNA aminoacylation	7475
+carbohydrate derivative transport	7476
+C-5 methylation of cytosine	7477
+N-acetylglucosamine catabolic process	7478
+response to pH	7479
+purine nucleoside transmembrane transport	7480
+succinate transmembrane transport	7481
+multi-organism process	7482
+protein localization	7483
+tetrahydrobiopterin biosynthetic process	7484
+regulation of nucleic acid-templated transcription	7485
+response to organic cyclic compound	7486
+postreplication repair	7487
+response to alkane	7488
+valine biosynthetic process	7489
+cytosine metabolic process	7490
+regulation of beta-glucan biosynthetic process	7491
+nitric oxide catabolic process	7492
+glycerol transport	7493
+tRNA metabolic process	7494
+response to drug	7495
+sulfur compound transport	7496
+regulation of transposon integration	7497
+DNA recombination	7498
+chromosome organization	7499
+peptidyl-tyrosine phosphorylation	7500
+anaerobic amino acid catabolic process	7501
+programmed cell death	7502
+chromosome condensation	7503
+peptidoglycan metabolic process	7504
+response to manganese ion	7505
+L-histidine import across plasma membrane	7506
+bacteriocin transport	7507
+D-methionine transport	7508
+cellular response to sulfur starvation	7509
+positive regulation of single-species biofilm formation on inanimate substrate	7510
+thiamine transmembrane transport	7511
+mycolate cell wall layer assembly	7512
+alanine biosynthetic process	7513
+cellular response to UV	7514
+response to nitric oxide	7515
+amino acid activation for nonribosomal peptide biosynthetic process	7516
+oligosaccharide metabolic process	7517
+response to heat	7518
+phenylalanyl-tRNA aminoacylation	7519
+maintenance of unfolded protein	7520
+protein processing	7521
+sorbitol catabolic process	7522
+ornithine transport	7523
+translational elongation	7524
+L-arabinose catabolic process	7525
+tryptophanyl-tRNA aminoacylation	7526
+3-(3-hydroxy)phenylpropionate catabolic process	7527
+primary metabolic process	7528
+aromatic amino acid family biosynthetic process	7529
+L-methionine salvage from methylthioadenosine	7530
+argininosuccinate metabolic process	7531
+cellular response to osmotic stress	7532
+positive regulation of ion transmembrane transporter activity	7533
+hypoxanthine salvage	7534
+cellular response to nickel ion	7535
+posttranscriptional regulation of gene expression	7536
+aerobic electron transport chain	7537
+NADP biosynthetic process	7538
+calcium ion transmembrane transport	7539
+phosphorylation	7540
+nitrite transport	7541
+trehalose transport	7542
+glucose import across plasma membrane	7543
+removal of superoxide radicals	7544
+putrescine transport	7545
+protein deubiquitination	7546
+rRNA 3'-end processing	7547
+L-arabinose transmembrane transport	7548
+cellobiose catabolic process	7549
+cellular response to iron ion starvation	7550
+respiratory electron transport chain	7551
+'de novo' cotranslational protein folding	7552
+uracil transport	7553
+fatty acid beta-oxidation	7554
+protein quality control for misfolded or incompletely synthesized proteins	7555
+thiamine diphosphate biosynthetic process	7556
+chromosome separation	7557
+lipid biosynthetic process	7558
+peptidyl-serine phosphorylation	7559
+single-species biofilm formation	7560
+obsolete intermembrane transport	7561
+glycine betaine transport	7562
+arginine deiminase pathway	7563
+cyclic-nucleotide-mediated signaling	7564
+negative regulation of cellular component movement	7565
+protein secretion	7566
+D-serine metabolic process	7567
+short-chain fatty acid metabolic process	7568
+RNA folding	7569
+thiamine metabolic process	7570
+protein targeting	7571
+hypoxanthine transport	7572
+chaperone cofactor-dependent protein refolding	7573
+cellular response to organic substance	7574
+ribonucleoside catabolic process	7575
+copper ion homeostasis	7576
+negative regulation of bacterial-type flagellum-dependent cell motility	7577
+DNA biosynthetic process	7578
+ribosome biogenesis	7579
+cellular response to lead ion	7580
+bacteriocin immunity	7581
+ferredoxin metabolic process	7582
+oligopeptide transport	7583
+L-alanine oxidation to pyruvate via D-alanine	7584
+thiosulfate transport	7585
+translation	7586
+response to hydrostatic pressure	7587
+bacterial-type flagellum-dependent swarming motility	7588
+RNA secondary structure unwinding	7589
+tRNA pseudouridine synthesis	7590
+regulation of cytoplasmic translation in response to stress	7591
+glycolipid transport	7592
+co-translational protein modification	7593
+sulfur amino acid transport	7594
+cell-cell signaling involved in quorum sensing	7595
+cytokinetic process	7596
+tRNA processing	7597
+uracil catabolic process	7598
+L-fucose catabolic process	7599
+ATP synthesis coupled proton transport	7600
+cellular stress response to acidic pH	7601
+electron transport chain	7602
+isoleucine transmembrane transport	7603
+plasmid recombination	7604
+arabinose catabolic process	7605
+pilus assembly	7606
+fructoselysine catabolic process	7607
+response to radiation	7608
+thymine metabolic process	7609
+nickel cation transmembrane transport	7610
+response to metal ion	7611
+maintenance of CRISPR repeat elements	7612
+cellular response to misfolded protein	7613
+ATP generation from ADP	7614
+charged-tRNA amino acid modification	7615
+organic acid metabolic process	7616
+selenium compound metabolic process	7617
+organic phosphonate metabolic process	7618
+D-alanine transport	7619
+alkanesulfonate catabolic process	7620
+galactitol transport	7621
+wobble position cytosine ribose methylation	7622
+peptide catabolic process	7623
+negative regulation of transcription regulatory region DNA binding	7624
+ribosome assembly	7625
+drug transmembrane transport	7626
+3-phenylpropionate catabolic process	7627
+negative regulation of cytoplasmic translation	7628
+protein flavinylation	7629
+diacetylchitobiose metabolic process	7630
+intracellular protein transport	7631
+glycine catabolic process	7632
+regulation of endoribonuclease activity	7633
+nucleobase-containing small molecule interconversion	7634
+cellular response to copper ion	7635
+dUDP biosynthetic process	7636
+farnesyl diphosphate biosynthetic process	7637
+galactose catabolic process	7638
+D-ribose metabolic process	7639
+rRNA pseudouridine synthesis	7640
+negative regulation of endopeptidase activity	7641
+response to X-ray	7642
+negative regulation of cyclase activity	7643
+fructose transmembrane transport	7644
+C4-dicarboxylate transport	7645
+positive regulation of cell division	7646
+mannose catabolic process	7647
+RNA destabilization	7648
+vitamin B6 biosynthetic process	7649
+protein hexamerization	7650
+cytosine catabolic process	7651
+viral latency	7652
+peptidyl-S-carbamoyl-L-cysteine dehydration	7653
+UDP-4-deoxy-4-formamido-beta-L-arabinopyranose biosynthetic process	7654
+peptidyl-methionine modification	7655
+cellular response to nitrate	7656
+regulation of RNA metabolic process	7657
+propionate metabolic process, methylcitrate cycle	7658
+tRNA N1-guanine methylation	7659
+peptidyl-lysine desuccinylation	7660
+mannitol transport	7661
+deoxyribonucleoside monophosphate biosynthetic process	7662
+negative regulation of protein binding	7663
+dephosphorylation	7664
+alanyl-tRNA aminoacylation	7665
+response to ionizing radiation	7666
+fumarate metabolic process	7667
+toxin catabolic process	7668
+leucyl-tRNA aminoacylation	7669
+response to superoxide	7670
+asparagine catabolic process via L-aspartate	7671
+phospholipid dephosphorylation	7672
+lipopolysaccharide core region biosynthetic process	7673
+biological adhesion	7674
+negative regulation of chromosome organization	7675
+negative regulation of DNA-dependent DNA replication	7676
+benzoate transport	7677
+arabinose transmembrane transport	7678
+cell wall macromolecule catabolic process	7679
+IMP metabolic process	7680
+porphyrin-containing compound biosynthetic process	7681
+ferrous iron transmembrane transport	7682
+glucuronoside catabolic process	7683
+aerobic respiration	7684
+purine nucleotide salvage	7685
+salicylic acid biosynthetic process	7686
+CTP biosynthetic process	7687
+protoporphyrinogen IX biosynthetic process from glutamate	7688
+bacterial cellulose biosynthetic process	7689
+cyclic threonylcarbamoyladenosine biosynthetic process	7690
+nucleotide phosphorylation	7691
+mannitol catabolic process	7692
+negative regulation of single-species biofilm formation	7693
+nickel cation transport	7694
+manganese ion transmembrane transport	7695
+ATP hydrolysis coupled ion transmembrane transport	7696
+peptidyl-pyrromethane cofactor linkage	7697
+carnitine transmembrane transport	7698
+hypoxanthine biosynthetic process	7699
+cellular response to antibiotic	7700
+carnitine metabolic process	7701
+fluoride transmembrane transport	7702
+pyridoxal metabolic process	7703
+negative regulation of DNA topoisomerase (ATP-hydrolyzing) activity	7704
+pyridoxal phosphate biosynthetic process	7705
+oxidative demethylation	7706
+maintenance of translational fidelity	7707
+chaperone-mediated protein folding	7708
+Mo(VI)-molybdopterin cytosine dinucleotide biosynthetic process	7709
+cellular water homeostasis	7710
+magnesium ion transport	7711
+response to cation stress	7712
+tRNA aminoacylation	7713
+toxin biosynthetic process	7714
+tRNA 3'-trailer cleavage, endonucleolytic	7715
+selenocysteinyl-tRNA(Sec) biosynthetic process	7716
+cellular catabolic process	7717
+mRNA catabolic process	7718
+establishment of integrated proviral latency	7719
+L-alpha-amino acid transmembrane transport	7720
+lipid translocation	7721
+N-acetylneuraminate catabolic process	7722
+regulation of single-species biofilm formation	7723
+cellular response to pH	7724
+selenocysteine metabolic process	7725
+bacterial-type flagellum organization	7726
+tyrosine transport	7727
+D-glucarate catabolic process	7728
+lactose transport	7729
+tRNA wobble base modification	7730
+anaerobic glycerol catabolic process	7731
+drug export	7732
+UDP-N-acetylglucosamine biosynthetic process	7733
+pilus organization	7734
+anion transport	7735
+replication fork processing	7736
+enzyme-directed rRNA pseudouridine synthesis	7737
+sodium ion transmembrane transport	7738
+6-sulfoquinovose(1-) catabolic process to glycerone phosphate and 3-sulfolactaldehyde	7739
+proteasomal protein catabolic process	7740
+response to arsenic-containing substance	7741
+regulation of translational fidelity	7742
+cation transmembrane transport	7743
+trehalose biosynthetic process	7744
+asparaginyl-tRNA aminoacylation	7745
+cellular response to cadmium ion	7746
+nucleobase transport	7747
+folic acid-containing compound metabolic process	7748
+plasma membrane ATP synthesis coupled proton transport	7749
+nitrogen compound metabolic process	7750
+rRNA catabolic process	7751
+ion transport	7752
+mannose transmembrane transport	7753
+protein insertion into membrane	7754
+purine ribonucleotide interconversion	7755
+dTMP biosynthetic process	7756
+coenzyme biosynthetic process	7757
+xanthosine catabolic process	7758
+regulation of cell division	7759
+cellular response to magnesium ion	7760
+pentose-phosphate shunt	7761
+iron assimilation by chelation and transport	7762
+cellular response to hydrogen peroxide	7763
+carboxylic acid transport	7764
+thiamine transport	7765
+tyrosine biosynthetic process from chorismate via 4-hydroxyphenylpyruvate	7766
+p-aminobenzoyl-glutamate transport	7767
+ketogluconate catabolic process	7768
+galacturonate catabolic process	7769
+GDP-mannose biosynthetic process	7770
+cell adhesion involved in biofilm formation	7771
+TTP catabolic process	7772
+negative regulation of catalytic activity	7773
+carboxylic acid metabolic process	7774
+enzyme-directed rRNA 2'-O-methylation	7775
+tyrosyl-tRNA aminoacylation	7776
+purine nucleotide interconversion	7777
+polyamine transmembrane transport	7778
+tRNA wobble position uridine thiolation	7779
+protein autophosphorylation	7780
+acetyl-CoA biosynthetic process from acetate	7781
+methylation	7782
+stress response to copper ion	7783
+branched-chain amino acid biosynthetic process	7784
+nucleoside transport	7785
+cadmium ion transport	7786
+viral release from host cell	7787
+leucine import across plasma membrane	7788
+dicarboxylic acid transport	7789
+glycogen biosynthetic process	7790
+xanthine transport	7791
+negative regulation of proteolysis	7792
+polysaccharide transport	7793
+L-aspartate transmembrane transport	7794
+iron ion transport	7795
+peptidoglycan biosynthetic process	7796
+cytosolic valyl-tRNA aminoacylation	7797
+pentose-phosphate shunt, non-oxidative branch	7798
+L-lyxose metabolic process	7799
+ionotropic glutamate receptor signaling pathway	7800
+methionine transport	7801
+phosphatidylcholine metabolic process	7802
+taurine transport	7803
+post-translational protein acetylation	7804
+'de novo' GDP-L-fucose biosynthetic process	7805
+methionine biosynthetic process	7806
+dihydrofolate metabolic process	7807
+water transport	7808
+(R)-carnitine transmembrane transport	7809
+keto-3-deoxy-D-manno-octulosonic acid biosynthetic process	7810
+transcription-coupled nucleotide-excision repair, DNA damage recognition	7811
+L-threonine catabolic process to propionate	7812
+peptidyl-serine autophosphorylation	7813
+metal ion transport	7814
+fatty acid biosynthetic process	7815
+tetrahydrofolate interconversion	7816
+cellular response to silver ion	7817
+multi-organism cellular process	7818
+siderophore transport	7819
+malate transmembrane transport	7820
+DNA replication	7821
+cysteine transmembrane transport	7822
+propanediol metabolic process	7823
+septin ring assembly	7824
+ATP hydrolysis coupled anion transmembrane transport	7825
+carbohydrate metabolic process	7826
+negative regulation of translational elongation	7827
+cellular sodium ion homeostasis	7828
+ATP synthesis coupled electron transport	7829
+histidine transport	7830
+polysaccharide metabolic process	7831
+10-formyltetrahydrofolate biosynthetic process	7832
+regulation of translational elongation	7833
+sorbitol transport	7834
+protein secretion by the type II secretion system	7835
+'de novo' AMP biosynthetic process	7836
+tRNA wobble uridine modification	7837
+glycolipid translocation	7838
+regulation of carbohydrate catabolic process	7839
+lipopolysaccharide transport	7840
+tRNA wobble base lysidine biosynthesis	7841
+3',5'-cyclic diguanylic acid metabolic process	7842
+biotin biosynthetic process	7843
+negative regulation of protein polymerization	7844
+intracellular membrane-bounded organelle	7845
+glycerol-3-phosphate dehydrogenase complex	7846
+NarGHI complex	7847
+sulfurtransferase complex	7848
+outer membrane	7849
+DNA topoisomerase complex (ATP-hydrolyzing)	7850
+bacterial-type flagellum	7851
+cytoplasmic replisome	7852
+carbamoyl-phosphate synthase complex	7853
+ferredoxin hydrogenase complex	7854
+DNA helicase complex	7855
+ATP-binding cassette (ABC) transporter complex	7856
+glycine cleavage complex	7857
+DNA polymerase V complex	7858
+cell division site	7859
+cytochrome o ubiquinol oxidase complex	7860
+chloroplast	7861
+nucleus	7862
+cytosolic large ribosomal subunit	7863
+outer membrane-bounded periplasmic space	7864
+DNA polymerase III, clamp loader chi/psi subcomplex	7865
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase complex	7866
+intrinsic component of membrane	7867
+dimethyl sulfoxide reductase complex	7868
+GroEL-GroES complex	7869
+anthranilate synthase complex	7870
+alkyl hydroperoxide reductase complex	7871
+DNA replication termination region	7872
+plasma membrane fumarate reductase complex	7873
+cytoplasm	7874
+ribosomal subunit	7875
+anchored component of external side of plasma membrane	7876
+intrinsic component of the cytoplasmic side of the plasma membrane	7877
+membrane	7878
+anchored component of plasma membrane	7879
+peptidoglycan-based cell wall	7880
+plasma membrane succinate dehydrogenase complex	7881
+extrinsic component of plasma membrane	7882
+NADH dehydrogenase complex	7883
+extracellular space	7884
+6-phosphofructokinase complex	7885
+nucleoid	7886
+[Ni-Fe] hydrogenase complex	7887
+pore complex	7888
+proton-transporting ATP synthase complex, coupling factor F(o)	7889
+Holliday junction resolvase complex	7890
+type II protein secretion system complex	7891
+ribosome	7892
+intrinsic component of plasma membrane	7893
+ethanolamine ammonia-lyase complex	7894
+formate dehydrogenase complex	7895
+condensin complex	7896
+cytoplasmic nucleosome	7897
+intrinsic component of periplasmic side of plasma membrane	7898
+intrinsic component of periplasmic side of cell outer membrane	7899
+enterobactin synthetase complex	7900
+extrinsic component of cytoplasmic side of plasma membrane	7901
+cysteine synthase complex	7902
+protein-DNA complex	7903
+beta-galactosidase complex	7904
+imidazoleglycerol-phosphate synthase complex	7905
+Bam protein complex	7906
+periplasmic side of cell outer membrane	7907
+mismatch repair complex	7908
+TAM protein secretion complex	7909
+tRNA methyltransferase complex	7910
+external side of cell outer membrane	7911
+small ribosomal subunit	7912
+oxidoreductase complex	7913
+cell envelope	7914
+intrinsic component of cell outer membrane	7915
+nitrite reductase complex [NAD(P)H]	7916
+anchored component of periplasmic side of cell outer membrane	7917
+cell	7918
+sulfite reductase complex (NADPH)	7919
+extracellular region	7920
+bacterial-type flagellum filament cap	7921
+oxoglutarate dehydrogenase complex	7922
+cytoplasmic side of plasma membrane	7923
+pilus	7924
+phosphopyruvate hydratase complex	7925
+integral component of membrane	7926
+large ribosomal subunit	7927
+polyphosphate kinase complex	7928
+DNA polymerase III, clamp loader complex	7929
+integral component of cell outer membrane	7930
+efflux pump complex	7931
+intracellular	7932
+DNA replication factor C complex	7933
+acetate CoA-transferase complex	7934
+integral component of external side of plasma membrane	7935
+provirus	7936
+cytoskeleton	7937
+organelle inner membrane	7938
+single-stranded DNA-dependent ATP-dependent DNA helicase complex	7939
+Gram-negative-bacterium-type cell wall	7940
+pre-primosome complex	7941
+3-isopropylmalate dehydratase complex	7942
+extrinsic component of periplasmic side of plasma membrane	7943
+ribonuclease H2 complex	7944
+bacterial-type flagellum hook	7945
+TAT protein transport complex	7946
+phenylalanine-tRNA ligase complex	7947
+RNA polymerase complex	7948
+cell septum	7949
+plasma membrane respiratory chain complex I	7950
+succinate-CoA ligase complex (ADP-forming)	7951
+cell envelope Sec protein transport complex	7952
+exodeoxyribonuclease V complex	7953
+anchored component of membrane	7954
+cell wall	7955
+plasma membrane	7956
+cell outer membrane	7957
+bacterial-type flagellum basal body	7958
+plasma membrane protein complex	7959
+cytochrome complex	7960
+cytosol	7961
+cytosolic small ribosomal subunit	7962
+mitochondrial matrix	7963
+polyhedral organelle	7964
+cell surface	7965
+membrane protein complex	7966
+EKC/KEOPS complex	7967
+ribonucleoside-diphosphate reductase complex	7968
+HU-DNA complex	7969
+anchored component of cell outer membrane	7970
+pyruvate dehydrogenase complex	7971
+DNA polymerase III, core complex	7972
+mitochondrion	7973
+bacterial nucleoid	7974
+DNA polymerase III complex	7975
+replisome	7976
+Holliday junction helicase complex	7977
+phosphoenolpyruvate-dependent sugar phosphotransferase complex	7978
+chromosome	7979
+iron-sulfur cluster transfer complex	7980
+excinuclease repair complex	7981
+respiratory chain complex I	7982
+cell pole	7983
+maltose transport complex	7984
+integral component of plasma membrane	7985
+anaerobic ribonucleoside-triphosphate reductase complex	7986
+SeqA-DNA complex	7987
+ethanolamine degradation polyhedral organelle	7988
+mitochondrial large ribosomal subunit	7989
+acetolactate synthase complex	7990
+nitrate reductase complex	7991
+extrinsic component of membrane	7992
+periplasmic space	7993
+proton-transporting ATP synthase complex, catalytic core F(1)	7994
+ATP-binding cassette (ABC) transporter complex, substrate-binding subunit-containing	7995
+signal recognition particle	7996

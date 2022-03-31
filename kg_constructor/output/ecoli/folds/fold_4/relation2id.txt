@@ -1,0 +1,13 @@
+12
+confers resistance to antibiotic	0
+confers no resistance to antibiotic	1
+upregulated by antibiotic	2
+not upregulated by antibiotic	3
+represses	4
+no represses	5
+activates	6
+no activates	7
+has	8
+is involved in	9
+is part of	10
+targeted by	11
