@@ -102,31 +102,38 @@ class Experiment:
 
     def evaluate(self, model, data, mode):
         print(f'Mode: {mode}')
-        test_data_idxs = np.array(self.get_data_idxs(data))
-        e1_idx = torch.tensor(test_data_idxs[:, 0])
-        r_idx = torch.tensor(test_data_idxs[:, 1])
-        e2_idx = torch.tensor(test_data_idxs[:, 2])
-
-        if self.cuda:
-            e1_idx = e1_idx.cuda()
-            r_idx = r_idx.cuda()
-            e2_idx = e2_idx.cuda()
-
-        try:
-            y_pred = model.forward(e1_idx, r_idx)
-        except RuntimeError as err:
-            print(f'Runtime error: {err}')
-
-            assert e1_idx.size()[0] == r_idx.size()[0]
-            y_pred = []
-            size = e1_idx.size()[0]
-            for i in tqdm(range(size)):
-                y_pred.append(model.forward(e1_idx[[i]], r_idx[[i]]))
-            y_pred = torch.cat(y_pred)
+        test_data_idxs_all = np.array(self.get_data_idxs(data))
 
         score = []
-        for idx, x in enumerate(test_data_idxs[:, 2]):
-            score.append(y_pred[idx, x].item())
+        for idx in range(0, test_data_idxs_all.shape[0], 10000):
+            if idx + 10000 > test_data_idxs_all.shape[0]:
+                test_data_idxs = test_data_idxs_all[idx:, ]
+            else:
+                test_data_idxs = test_data_idxs_all[idx:idx+10000,]
+        
+            e1_idx = torch.tensor(test_data_idxs[:, 0])
+            r_idx = torch.tensor(test_data_idxs[:, 1])
+            e2_idx = torch.tensor(test_data_idxs[:, 2])
+
+            if self.cuda:
+                e1_idx = e1_idx.cuda()
+                r_idx = r_idx.cuda()
+                e2_idx = e2_idx.cuda()
+
+            try:
+                y_pred = model.forward(e1_idx, r_idx)
+            except RuntimeError as err:
+                print(f'Runtime error: {err}')
+
+                assert e1_idx.size()[0] == r_idx.size()[0]
+                y_pred = []
+                size = e1_idx.size()[0]
+                for i in tqdm(range(size)):
+                    y_pred.append(model.forward(e1_idx[[i]], r_idx[[i]]))
+                y_pred = torch.cat(y_pred)
+
+            for idx, x in enumerate(test_data_idxs[:, 2]):
+                score.append(y_pred[idx, x].item())
 
         if mode == 'final':
             return score
@@ -137,6 +144,8 @@ class Experiment:
 
         f1 = f1_score(labels, predictions)
         accuracy = accuracy_score(labels, predictions)
+        print(type(labels))
+        print(type(predictions))
         tn, fp, fn, tp = confusion_matrix(labels, predictions).ravel()
         precision = precision_score(labels, predictions)
         recall = recall_score(labels, predictions)
